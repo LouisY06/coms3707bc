@@ -1,0 +1,8 @@
+openai>=1.0
+torch
+transformers
+scikit-learn
+numpy
+tqdm
+datasets
+scipy
