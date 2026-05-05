@@ -1,5 +1,5 @@
 """
-Generate CoT responses for AQuA-RAT, SVAMP, and StrategyQA using OpenAI models.
+Generate CoT responses for AQuA-RAT, SVAMP, and StrategyQA using API models.
 Samples n responses per question at temperature=0.8, and also a greedy (t=0) baseline.
 """
 
@@ -10,7 +10,17 @@ import argparse
 from tqdm import tqdm
 from openai import OpenAI
 
-client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+try:
+    from dotenv import load_dotenv
+except ImportError:
+    load_dotenv = None
+
+if load_dotenv is not None:
+    load_dotenv()
+
+OPENAI_MODELS = ["gpt-3.5-turbo", "gpt-4o-mini"]
+ANTHROPIC_MODELS = ["claude-haiku-4-5-20251001", "claude-haiku-4-5"]
+SUPPORTED_MODELS = OPENAI_MODELS + ANTHROPIC_MODELS
 
 # ── Few-shot CoT prompts (Wei et al. 2023 / Wang et al. 2023) ──────────────
 
@@ -186,33 +196,102 @@ def extract_answer(response_text, dataset_name):
 
 # ── Generation ──────────────────────────────────────────────────────────────
 
-def generate_responses(model_name, prompt_with_question, n, temperature, top_p):
+def get_provider(model_name):
+    """Return the API provider for a supported model name."""
+    if model_name in OPENAI_MODELS or model_name.startswith("gpt-"):
+        return "openai"
+    if model_name in ANTHROPIC_MODELS or model_name.startswith("claude-"):
+        return "anthropic"
+    raise ValueError(f"Unsupported model: {model_name}")
+
+
+def get_openai_client(openai_client=None):
+    """Build an OpenAI client only when it is actually needed."""
+    if openai_client is not None:
+        return openai_client
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if not api_key:
+        raise RuntimeError("OPENAI_API_KEY is required for OpenAI models")
+    return OpenAI(api_key=api_key)
+
+
+def get_anthropic_client(anthropic_client=None):
+    """Build an Anthropic client only when it is actually needed."""
+    if anthropic_client is not None:
+        return anthropic_client
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        raise RuntimeError("ANTHROPIC_API_KEY is required for Anthropic models")
+    try:
+        import anthropic
+    except ImportError as exc:
+        raise RuntimeError("Install the anthropic package to use Claude models") from exc
+    return anthropic.Anthropic(api_key=api_key)
+
+
+def extract_anthropic_text(message):
+    """Flatten Anthropic message content blocks into plain text."""
+    parts = []
+    for block in message.content:
+        if isinstance(block, dict):
+            text = block.get("text")
+        else:
+            text = getattr(block, "text", None)
+        if text:
+            parts.append(text)
+    return "".join(parts)
+
+
+def generate_responses(model_name, prompt_with_question, n, temperature, top_p,
+                       openai_client=None, anthropic_client=None):
     """Generate n CoT responses from a given model."""
+    provider = get_provider(model_name)
     responses = []
     for _ in range(n):
-        completion = client.chat.completions.create(
-            model=model_name,
-            messages=[
-                {"role": "user", "content": prompt_with_question}
-            ],
-            temperature=temperature,
-            top_p=top_p,
-            max_tokens=512,
-        )
-        responses.append(completion.choices[0].message.content)
+        if provider == "openai":
+            client = get_openai_client(openai_client)
+            completion = client.chat.completions.create(
+                model=model_name,
+                messages=[
+                    {"role": "user", "content": prompt_with_question}
+                ],
+                temperature=temperature,
+                top_p=top_p,
+                max_tokens=512,
+            )
+            responses.append(completion.choices[0].message.content)
+        else:
+            client = get_anthropic_client(anthropic_client)
+            message = client.messages.create(
+                model=model_name,
+                messages=[
+                    {"role": "user", "content": prompt_with_question}
+                ],
+                temperature=temperature,
+                top_p=top_p,
+                max_tokens=512,
+            )
+            responses.append(extract_anthropic_text(message))
     return responses
 
 
 def run_generation(model_name, dataset_name, n=10, temperature=0.8, top_p=1.0,
-                   output_dir="outputs", data_dir="data"):
+                   output_dir="outputs", data_dir="data", limit=None):
     """Run full generation for one model × one dataset."""
     dataset = DATASET_LOADERS[dataset_name](data_dir)
+    if limit is not None:
+        dataset = dataset[:limit]
     prompt = PROMPTS[dataset_name]
 
     os.makedirs(output_dir, exist_ok=True)
-    output_path = os.path.join(
-        output_dir, f"{dataset_name}_{model_name.replace('/', '-')}_n{n}_t{temperature}.json"
-    )
+    if limit is not None:
+        output_path = os.path.join(
+            output_dir, f"{dataset_name}_{model_name.replace('/', '-')}_n{n}_t{temperature}_limit{limit}.json"
+        )
+    else:
+        output_path = os.path.join(
+            output_dir, f"{dataset_name}_{model_name.replace('/', '-')}_n{n}_t{temperature}.json"
+        )
 
     # Resume support: load existing results if any
     existing_results = []
@@ -254,19 +333,19 @@ def run_generation(model_name, dataset_name, n=10, temperature=0.8, top_p=1.0,
     return output_path
 
 
-def run_greedy(model_name, dataset_name, output_dir="outputs", data_dir="data"):
+def run_greedy(model_name, dataset_name, output_dir="outputs", data_dir="data", limit=None):
     """Run greedy decoding baseline (n=1, t=0)."""
     return run_generation(
         model_name, dataset_name, n=1, temperature=0.0, top_p=1.0,
-        output_dir=output_dir, data_dir=data_dir
+        output_dir=output_dir, data_dir=data_dir, limit=limit
     )
 
 # ── CLI ─────────────────────────────────────────────────────────────────────
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Generate CoT responses for semantic self-consistency")
-    parser.add_argument("--model", default="gpt-4o-mini", choices=["gpt-3.5-turbo", "gpt-4o-mini"],
-                        help="OpenAI model to use")
+    parser.add_argument("--model", default="gpt-4o-mini", choices=SUPPORTED_MODELS,
+                        help="API model to use")
     parser.add_argument("--dataset", default="aqua", choices=["aqua", "svamp", "strategyqa", "all"],
                         help="Dataset to evaluate on")
     parser.add_argument("--n", default=10, type=int, help="Number of sampled responses per question")
@@ -275,6 +354,7 @@ def parse_args():
     parser.add_argument("--greedy", action="store_true", help="Also run greedy baseline (t=0, n=1)")
     parser.add_argument("--output_dir", default="outputs")
     parser.add_argument("--data_dir", default="data")
+    parser.add_argument("--limit", type=int, default=None, help="Limit number of examples per dataset")
     return parser.parse_args()
 
 
@@ -290,12 +370,12 @@ def main():
 
         run_generation(
             args.model, ds, n=args.n, temperature=args.temperature,
-            top_p=args.top_p, output_dir=args.output_dir, data_dir=args.data_dir
+            top_p=args.top_p, output_dir=args.output_dir, data_dir=args.data_dir, limit=args.limit
         )
 
         if args.greedy:
             print(f"\nRunning greedy baseline for {ds}...")
-            run_greedy(args.model, ds, output_dir=args.output_dir, data_dir=args.data_dir)
+            run_greedy(args.model, ds, output_dir=args.output_dir, data_dir=args.data_dir, limit=args.limit)
 
 
 if __name__ == "__main__":

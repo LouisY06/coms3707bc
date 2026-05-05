@@ -9,12 +9,9 @@ import os
 import json
 import argparse
 
-from generate import run_generation, run_greedy
-from centroid_proximity_weighting import evaluate as cpw_evaluate
-from semantic_consensus_weighting import evaluate as scw_evaluate
-from outlier_detection_gridsearch import run_gridsearch
+from generate import run_generation, run_greedy, SUPPORTED_MODELS
 
-MODELS = ["gpt-3.5-turbo", "gpt-4o-mini"]
+MODELS = ["gpt-4o-mini", "gpt-3.5-turbo", "claude-haiku-4-5-20251001"]
 DATASETS = ["aqua", "svamp", "strategyqa"]
 
 EMBEDDER_MAP = {
@@ -29,7 +26,7 @@ def parse_args():
     parser.add_argument("--step", default="all",
                         choices=["generate", "evaluate", "all"],
                         help="Which step to run (generate, evaluate, or all)")
-    parser.add_argument("--models", nargs="+", default=MODELS, choices=MODELS)
+    parser.add_argument("--models", nargs="+", default=MODELS, choices=SUPPORTED_MODELS)
     parser.add_argument("--datasets", nargs="+", default=DATASETS, choices=DATASETS)
     parser.add_argument("--n", default=10, type=int)
     parser.add_argument("--output_dir", default="outputs")
@@ -37,14 +34,19 @@ def parse_args():
     parser.add_argument("--results_dir", default="results")
     parser.add_argument("--skip_outlier_gridsearch", action="store_true",
                         help="Skip the slow outlier detection grid search")
+    parser.add_argument("--limit", type=int, default=None, help="Limit number of examples per dataset")
     return parser.parse_args()
 
 
-def get_output_path(output_dir, dataset, model, n=10, t=0.8):
+def get_output_path(output_dir, dataset, model, n=10, t=0.8, limit=None):
+    if limit is not None:
+        return os.path.join(output_dir, f"{dataset}_{model.replace('/', '-')}_n{n}_t{t}_limit{limit}.json")
     return os.path.join(output_dir, f"{dataset}_{model.replace('/', '-')}_n{n}_t{t}.json")
 
 
-def get_greedy_path(output_dir, dataset, model):
+def get_greedy_path(output_dir, dataset, model, limit=None):
+    if limit is not None:
+        return os.path.join(output_dir, f"{dataset}_{model.replace('/', '-')}_n1_t0.0_limit{limit}.json")
     return os.path.join(output_dir, f"{dataset}_{model.replace('/', '-')}_n1_t0.0.json")
 
 
@@ -69,14 +71,19 @@ def run_step_generate(args):
             print(f"GENERATING: {model} / {dataset} / n={args.n} / t=0.8")
             print(f"{'='*60}")
             run_generation(model, dataset, n=args.n, temperature=0.8,
-                           output_dir=args.output_dir, data_dir=args.data_dir)
+                           output_dir=args.output_dir, data_dir=args.data_dir, limit=args.limit)
 
             print(f"\nGREEDY BASELINE: {model} / {dataset}")
-            run_greedy(model, dataset, output_dir=args.output_dir, data_dir=args.data_dir)
+            run_greedy(model, dataset, output_dir=args.output_dir, data_dir=args.data_dir, limit=args.limit)
 
 
 def run_step_evaluate(args):
     """Step 2: Evaluate all methods."""
+    from centroid_proximity_weighting import evaluate as cpw_evaluate
+    from semantic_consensus_weighting import evaluate as scw_evaluate
+    if not args.skip_outlier_gridsearch:
+        from outlier_detection_gridsearch import run_gridsearch
+
     os.makedirs(args.results_dir, exist_ok=True)
     all_results = {}
 
@@ -87,8 +94,8 @@ def run_step_evaluate(args):
             print(f"EVALUATING: {key}")
             print(f"{'='*60}")
 
-            sc_path = get_output_path(args.output_dir, dataset, model, args.n)
-            greedy_path = get_greedy_path(args.output_dir, dataset, model)
+            sc_path = get_output_path(args.output_dir, dataset, model, args.n, limit=args.limit)
+            greedy_path = get_greedy_path(args.output_dir, dataset, model, limit=args.limit)
             embedder = EMBEDDER_MAP[dataset]
 
             if not os.path.exists(sc_path):
