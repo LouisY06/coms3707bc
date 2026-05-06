@@ -1,0 +1,252 @@
+[
+  {
+    "question": "A car is being driven, in a straight line and at a uniform speed, towards the base of a vertical tower. The top of the tower is observed from the car and, in the process, it takes 10 minutes for the angle of elevation to change from 45\u00b0 to 60\u00b0. After how much more time will this car reach the base of the tower? Answer Choices: A)5(\u221a3 + 1) B)6(\u221a3 + \u221a2) C)7(\u221a3 \u2013 1) D)8(\u221a3 \u2013 2) E)None of these",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "To solve this problem, we can use trigonometry. Let's denote the height of the tower as \\( h \\) and the distance from the car to the base of the tower at the initial angle of elevation (45\u00b0) as \\( d_1 \\). \n\n1. **At 45\u00b0:**\n   \\[\n   \\tan(45\u00b0) = \\frac{h}{d_1} \\implies h = d_1\n   \\]\n\n2. **At 60\u00b0:**\n   \\[\n   \\tan(60\u00b0) = \\frac{h}{d_2} \\implies h = d_2 \\sqrt{3}\n   \\]\n\n3. **Setting the two equations for height equal:**\n   \\[\n   d_1 = d_2 \\sqrt{3}\n   \\]\n\n4. **Let \\( d_2 \\) be the distance from the car to the base of the tower when the angle is 60\u00b0. The distance traveled by the car in 10 minutes at a uniform speed is \\( d_1 - d_2 \\).**\n\n5. **The car travels from \\( d_1 \\) to \\( d_2 \\) in 10 minutes:**\n   \\[\n   d_1 - d_2 = d_1 - \\frac{h}{\\sqrt{3}} = d_1 - \\frac{d_1}{3} = \\frac{2d_1}{3}\n   \\]\n\n6. **The speed of the car can be expressed as:**\n   \\[\n   \\text{Speed} = \\frac{d_1 - d_2}{10 \\text{ minutes}} = \\frac{2d_1/3}{10} = \\frac{2d_1}{30} = \\frac{d_1}{15}\n   \\]\n\n7. **Now, we need to find the time taken to cover the remaining distance \\( d_2 \\) to the base of the tower:**\n   \\[\n   \\text{Time} = \\frac{d_2}{\\text{Speed}} = \\frac{d_2}{d_1/15} = \\frac{15d_2}{d_1}\n   \\]\n\n8. **Substituting \\( d_2 = \\frac{d_1}{\\sqrt{3}} \\):**\n   \\[\n   \\text{Time} = \\frac{15 \\cdot \\frac",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "The original price of an item is discounted 22%. A customer buys the item at this discounted price using a $20-off coupon. There is no tax on the item, and this was the only item the customer bought. If the customer paid $1.90 more than half the original price of the item, what was the original price of the item? Answer Choices: A)$61 B)$65 C)$67.40 D)$70 E)$78.20",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "Let the original price of the item be \\( x \\).\n\nThe item is discounted by 22%, so the discounted price is:\n\\[\nx - 0.22x = 0.78x\n\\]\n\nThe customer uses a $20-off coupon, so the final price paid by the customer is:\n\\[\n0.78x - 20\n\\]\n\nAccording to the problem, the customer paid $1.90 more than half the original price of the item. Half the original price is:\n\\[\n\\frac{x}{2}\n\\]\nThus, we can set up the equation:\n\\[\n0.78x - 20 = \\frac{x}{2} + 1.90\n\\]\n\nNow, let's solve for \\( x \\). First, we can eliminate the fraction by multiplying the entire equation by 2:\n\\[\n2(0.78x - 20) = x + 3.80\n\\]\nThis simplifies to:\n\\[\n1.56x - 40 = x + 3.80\n\\]\n\nNext, we can isolate \\( x \\) by moving \\( x \\) to the left side and the constant to the right side:\n\\[\n1.56x - x = 3.80 + 40\n\\]\n\\[\n0.56x = 43.80\n\\]\n\nNow, divide both sides by 0.56 to find \\( x \\):\n\\[\nx = \\frac{43.80}{0.56} \\approx 78.125\n\\]\n\nRounding to two decimal places, we find:\n\\[\nx \\approx 78.20\n\\]\n\nThus, the original price of the item is:\n\\[\n\\boxed{78.20}\n\\] \n\nThe answer is (E) $78.20.",
+        "parsed_answer": "E"
+      }
+    ]
+  },
+  {
+    "question": "Find out which of the following values is the multiple of X, if it is divisible by 9 and 12? Answer Choices: A)36 B)15 C)17 D)5 E)7",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "To find a value that is a multiple of \\( X \\) and is divisible by both 9 and 12, we first need to determine the least common multiple (LCM) of 9 and 12.\n\nThe prime factorization of the numbers is:\n- \\( 9 = 3^2 \\)\n- \\( 12 = 2^2 \\times 3^1 \\)\n\nTo find the LCM, we take the highest power of each prime:\n- For \\( 2 \\), the highest power is \\( 2^2 \\).\n- For \\( 3 \\), the highest power is \\( 3^2 \\).\n\nThus, the LCM of 9 and 12 is:\n\\[\nLCM = 2^2 \\times 3^2 = 4 \\times 9 = 36\n\\]\n\nNow, we check the answer choices to see which one is a multiple of 36:\n- A) 36 (is a multiple of 36)\n- B) 15 (not a multiple of 36)\n- C) 17 (not a multiple of 36)\n- D) 5 (not a multiple of 36)\n- E) 7 (not a multiple of 36)\n\nThe only value that is a multiple of 36 is:\n**A) 36**.",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? Answer Choices: A)0.22 B)0.26 C)0.37 D)0.46 E)0.63",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "To find the greatest value for the probability that neither Stock A nor Stock B will increase in value, we first need to determine the probabilities that each stock will not increase.\n\n1. The probability that Stock A does not increase is:\n   \\[\n   P(A') = 1 - P(A) = 1 - 0.56 = 0.44\n   \\]\n\n2. The probability that Stock B does not increase is:\n   \\[\n   P(B') = 1 - P(B) = 1 - 0.74 = 0.26\n   \\]\n\nTo find the probability that neither Stock A nor Stock B increases, we can use the formula for the probability of the intersection of two independent events:\n\\[\nP(A' \\cap B') = P(A') \\times P(B')\n\\]\n\nAssuming independence, we calculate:\n\\[\nP(A' \\cap B') = 0.44 \\times 0.26 = 0.1144\n\\]\n\nHowever, we are looking for the greatest value for the probability that neither event occurs. The maximum probability occurs when the events are perfectly negatively correlated, which is not typically the case. \n\nTo find the maximum probability that neither stock increases, we can use the formula:\n\\[\nP(A' \\cap B') = 1 - P(A \\cup B)\n\\]\nwhere \\(P(A \\cup B) = P(A) + P(B) - P(A \\cap B)\\). \n\nThe maximum value of \\(P(A \\cap B)\\) occurs when both events are perfectly correlated, which is not realistic in this context. Therefore, we can consider the maximum probability of neither stock increasing as:\n\\[\nP(A' \\cap B') = P(A') + P(B') - P(A' \\cap B')\n\\]\n\nHowever, since we are looking for the greatest value of the probability that neither stock increases, we can simply take the minimum of the probabilities of the stocks not increasing:\n\\[\nP(A' \\cap B') \\leq \\min(P(A'), P(B')) = \\min(0.44, 0.26) = 0.26\n\\]\n\nThus, the greatest value for the probability that neither of these two events will occur is:\n\\[\n\\text{Answer: } (B) 0.26\n\\]",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "A trader sold an article at a profit of 20% for Rs.360. What is the cost price of the article? Answer Choices: A)270 B)300 C)280 D)320 E)315",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "To find the cost price (CP) of the article, we can use the formula for profit:\n\nProfit = Selling Price (SP) - Cost Price (CP)\n\nGiven that the selling price (SP) is Rs. 360 and the profit is 20%, we can express the profit in terms of the cost price:\n\nProfit = 20% of CP = 0.20 * CP\n\nNow, we can set up the equation:\n\nSP = CP + Profit\n360 = CP + 0.20 * CP\n360 = CP (1 + 0.20)\n360 = CP * 1.20\n\nNow, we can solve for CP:\n\nCP = 360 / 1.20\nCP = 300\n\nSo, the cost price of the article is Rs. 300. The answer is (B) 300.",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? Answer Choices: A)40 B)200 C)380 D)400 E)3200",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let's denote the total number of marbles in the bag as \\( Q \\). Initially, all marbles are white, and 20 marbles are pulled out and painted black. After this, there are \\( Q - 20 \\) white marbles and 20 black marbles in the bag.\n\nWhen another 20 marbles are pulled out, 1 of them is black. This means that the proportion of black marbles in the second sample (1 out of 20) should represent the proportion of black marbles in the entire bag.\n\nThe proportion of black marbles in the bag is given by:\n\n\\[\n\\frac{20}{Q}\n\\]\n\nThe proportion of black marbles in the second sample is:\n\n\\[\n\\frac{1}{20}\n\\]\n\nSetting these two proportions equal gives us:\n\n\\[\n\\frac{20}{Q} = \\frac{1}{20}\n\\]\n\nCross-multiplying yields:\n\n\\[\n20 \\times 20 = 1 \\times Q\n\\]\n\n\\[\n400 = Q\n\\]\n\nThus, the total number of marbles in the bag currently holds is \\( Q = 400 \\).\n\nThe answer is (D) 400.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct? Answer Choices: A)74453 B)64543 C)74325 D)65000 E)97656",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "To find the total number of distinct bike numbers that can be formed using 2 letters followed by 2 numbers, we need to consider the following:\n\n1. **Choosing the Letters**: \n   - There are 26 letters in the English alphabet.\n   - We need to choose 2 distinct letters. The number of ways to choose 2 distinct letters from 26 is given by the combination formula \\( C(n, k) = \\frac{n!}{k!(n-k)!} \\).\n   - The number of ways to arrange 2 letters is \\( 26 \\times 25 \\) (since the first letter can be any of the 26, and the second letter can be any of the remaining 25).\n\n2. **Choosing the Numbers**:\n   - There are 10 digits (0-9).\n   - We need to choose 2 digits. The number of ways to choose 2 digits (with repetition allowed) is \\( 10 \\times 10 \\) (since each digit can be any of the 10).\n\nNow, we can calculate the total number of distinct bike numbers:\n\n- Total ways to choose and arrange the letters: \\( 26 \\times 25 \\)\n- Total ways to choose the numbers: \\( 10 \\times 10 \\)\n\nThus, the total number of distinct bike numbers is:\n\n\\[\n(26 \\times 25) \\times (10 \\times 10) = 650 \\times 100 = 65000\n\\]\n\nSo, the answer is (D) 65000.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A train running at a speed of 100 miles/hour, takes 10 hours to reach its destination. After covering quarter of the distance, it starts raining and the train has to be slowed to speed of 75 miles/hour. What is the total journey duration? Answer Choices: A)10 B)11.5 C)12.5 D)13.5 E)15",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "To solve this problem, we first need to determine the total distance the train travels and then calculate the time taken for each segment of the journey.\n\n1. **Calculate the total distance:**\n   The train runs at a speed of 100 miles/hour for 10 hours, so the total distance (D) is:\n   \\[\n   D = \\text{speed} \\times \\text{time} = 100 \\text{ miles/hour} \\times 10 \\text{ hours} = 1000 \\text{ miles}\n   \\]\n\n2. **Calculate the distance covered before it starts raining:**\n   The train covers a quarter of the distance before it starts raining:\n   \\[\n   \\text{Distance before rain} = \\frac{1}{4} \\times 1000 \\text{ miles} = 250 \\text{ miles}\n   \\]\n\n3. **Calculate the remaining distance after it starts raining:**\n   The remaining distance after covering the first quarter is:\n   \\[\n   \\text{Remaining distance} = 1000 \\text{ miles} - 250 \\text{ miles} = 750 \\text{ miles}\n   \\]\n\n4. **Calculate the time taken for the first quarter of the journey:**\n   The time taken to cover the first 250 miles at 100 miles/hour is:\n   \\[\n   \\text{Time for first quarter} = \\frac{250 \\text{ miles}}{100 \\text{ miles/hour}} = 2.5 \\text{ hours}\n   \\]\n\n5. **Calculate the time taken for the remaining distance:**\n   The train slows down to 75 miles/hour for the remaining 750 miles. The time taken for this segment is:\n   \\[\n   \\text{Time for remaining distance} = \\frac{750 \\text{ miles}}{75 \\text{ miles/hour}} = 10 \\text{ hours}\n   \\]\n\n6. **Calculate the total journey duration:**\n   The total journey duration is the sum of the time taken for both segments:\n   \\[\n   \\text{Total time} = \\text{Time for first quarter} + \\text{Time for remaining distance} = 2.5 \\text{ hours} + 10 \\text{ hours} = 12.5 \\text{ hours}\n   \\]\n\nTherefore, the total journey duration is **12.5 hours**. The answer is (C) 12.5.",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "Of the 200 students in a school, at least 45% attended the prom night and at least 35% took part in the debating session. What is the maximum number of students who could have neither attended the prom night nor the debating session? Answer Choices: A)27 B)81 C)90 D)99 E)110",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "To find the maximum number of students who could have neither attended the prom night nor the debating session, we can use the principle of inclusion-exclusion.\n\n1. **Calculate the number of students who attended the prom night:**\n   - At least 45% of 200 students attended the prom night.\n   - Number of students = 0.45 * 200 = 90 students.\n\n2. **Calculate the number of students who took part in the debating session:**\n   - At least 35% of 200 students took part in the debating session.\n   - Number of students = 0.35 * 200 = 70 students.\n\n3. **Calculate the total number of students who attended either the prom night or the debating session:**\n   - Let \\( A \\) be the set of students who attended the prom night, and \\( B \\) be the set of students who took part in the debating session.\n   - The minimum number of students in either set is \\( |A| + |B| = 90 + 70 = 160 \\).\n\n4. **Calculate the maximum number of students who could have attended both events:**\n   - The maximum overlap (students who attended both) can be calculated as follows:\n   - Since there are 200 students total, the maximum number of students who could have attended both events is \\( |A| + |B| - 200 \\).\n   - Maximum overlap = \\( 90 + 70 - 200 = -40 \\) (which means there is no overlap).\n\n5. **Calculate the maximum number of students who could have neither attended the prom night nor the debating session:**\n   - The number of students who attended at least one of the events is 160.\n   - Therefore, the number of students who attended neither event = Total students - Students who attended at least one event = \\( 200 - 160 = 40 \\).\n\nThus, the maximum number of students who could have neither attended the prom night nor the debating session is 40.\n\nHowever, since the answer choices do not include 40, we need to check the calculations again. \n\nTo maximize the number of students who did not attend either event, we can minimize the overlap. If we assume that the maximum number of students attended both events, we can find the maximum number of students who did not attend either event.\n\n1. **Calculate the minimum number of students who attended at least one event:**\n   - If 90 attended the prom and 70 attended the",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000? Answer Choices: A)15 B)24 C)25 D)40 E)52",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "To find out how many sales the salesperson needs to make to reach a salary of at least $1000, we first calculate the commission earned from each sale.\n\nThe commission on each sale of $250 is:\n\\[ \n\\text{Commission} = 10\\% \\times 250 = 0.10 \\times 250 = 25 \n\\]\n\nLet \\( x \\) be the number of sales. The total commission earned from \\( x \\) sales is:\n\\[ \n\\text{Total Commission} = 25x \n\\]\n\nWe want this total commission to be at least $1000:\n\\[ \n25x \\geq 1000 \n\\]\n\nNow, we solve for \\( x \\):\n\\[ \nx \\geq \\frac{1000}{25} \n\\]\n\\[ \nx \\geq 40 \n\\]\n\nThus, the salesperson must make at least 40 sales. \n\nThe answer is (D) 40.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. What is the minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 ? Answer Choices: A)226 B)230 C)240 D)260 E)280",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "To find the minimum selling price per component that will guarantee a yearly profit of at least $626,400, we can follow these steps:\n\n1. **Calculate the total production cost for the year:**\n   - The company produces 420 units per month.\n   - The production cost per component is $110.\n   - The total production for the year is \\( 420 \\text{ units/month} \\times 12 \\text{ months} = 5040 \\text{ units} \\).\n   - The total production cost for the year is \\( 5040 \\text{ units} \\times 110 \\text{ dollars/unit} = 554,400 \\text{ dollars} \\).\n\n2. **Determine the total revenue needed to achieve the desired profit:**\n   - The desired profit is $626,400.\n   - Therefore, the total revenue needed is:\n     \\[\n     \\text{Total Revenue} = \\text{Total Production Cost} + \\text{Desired Profit} = 554,400 + 626,400 = 1,180,800 \\text{ dollars}.\n     \\]\n\n3. **Calculate the minimum selling price per component:**\n   - The total number of components sold in a year is 5040.\n   - The minimum selling price per component is:\n     \\[\n     \\text{Minimum Selling Price} = \\frac{\\text{Total Revenue}}{\\text{Total Units Sold}} = \\frac{1,180,800}{5040} \\approx 234.13.\n     \\]\n\nSince we need to choose the minimum selling price that guarantees the profit, we round up to the nearest whole number, which is $235. However, since this value is not in the answer choices, we need to select the next higher option.\n\nThe answer choices are:\nA) 226 \nB) 230 \nC) 240 \nD) 260 \nE) 280\n\nThe minimum selling price that guarantees the profit is $240, which is the closest option above $235.\n\nThus, the answer is **(C) 240**.",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day? Answer Choices: A)4,000 B)4,200 C)4,500 D)4,800 E)5,000",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the total number of staplers produced that day be \\( x \\).\n\n1. **Calculate the number of defective staplers:**\n   - 10% of \\( x \\) are defective, so the number of defective staplers is \\( 0.1x \\).\n   - Therefore, the number of non-defective staplers is \\( x - 0.1x = 0.9x \\).\n\n2. **Calculate the number of non-defective staplers that were rejected:**\n   - 2% of the non-defective staplers were rejected by mistake. The number of rejected non-defective staplers is \\( 0.02 \\times 0.9x = 0.018x \\).\n\n3. **Set up the equation based on the information given:**\n   - We know that 72 non-defective staplers were rejected, so we can set up the equation:\n   \\[\n   0.018x = 72\n   \\]\n\n4. **Solve for \\( x \\):**\n   \\[\n   x = \\frac{72}{0.018} = 4000\n   \\]\n\nThus, the total number of staplers produced that day is \\( 4000 \\).\n\nThe answer is (A) 4,000.",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Machine A puts out a yo-yo every 6 minutes. Machine B puts out a yo-yo every 9 minutes. After how many minutes will they have produced 10 yo-yos? Answer Choices: A)24 minutes B)32 minutes C)36 minutes D)64 minutes E)72 minutes",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "To find out how many minutes it will take for both machines to produce a total of 10 yo-yos, we first need to determine the rate at which each machine produces yo-yos.\n\n- Machine A produces 1 yo-yo every 6 minutes, so in \\( t \\) minutes, it produces \\( \\frac{t}{6} \\) yo-yos.\n- Machine B produces 1 yo-yo every 9 minutes, so in \\( t \\) minutes, it produces \\( \\frac{t}{9} \\) yo-yos.\n\nWe want the total number of yo-yos produced by both machines to equal 10:\n\n\\[\n\\frac{t}{6} + \\frac{t}{9} = 10\n\\]\n\nTo solve this equation, we first find a common denominator for the fractions, which is 18:\n\n\\[\n\\frac{3t}{18} + \\frac{2t}{18} = 10\n\\]\n\nCombining the fractions gives:\n\n\\[\n\\frac{5t}{18} = 10\n\\]\n\nNow, we can solve for \\( t \\):\n\n\\[\n5t = 180 \\quad \\text{(multiplying both sides by 18)}\n\\]\n\\[\nt = 36 \\quad \\text{(dividing both sides by 5)}\n\\]\n\nThus, it will take 36 minutes for both machines to produce a total of 10 yo-yos. \n\nThe answer is (C) 36 minutes.",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "Add: +45 and -30 Answer Choices: A)-30 B)+30 C)0 D)15 E)-15",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "To add +45 and -30, you simply perform the operation:\n\n+45 + (-30) = 45 - 30 = 15.\n\nThe answer is (D) 15.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "In how many ways can the letters of the word \"PROBLEC\" be rearranged to make 7 letter words such that none of the letters repeat? Answer Choices: A)2! B)3! C)7! D)8! E)9!",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The word \"PROBLEC\" consists of 7 distinct letters. To find the number of ways to rearrange these letters, we can use the factorial of the number of letters. \n\nThe number of ways to rearrange 7 distinct letters is given by \\(7!\\) (7 factorial), which is calculated as:\n\n\\[ \n7! = 7 \\times 6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1 = 5040 \n\\]\n\nThus, the answer is (C) \\(7!\\).",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "Let A and B be independent events with P (A) = 0.2 and P(B) = 0.8. Find P(A/B)? Answer Choices: A)0.2 B)0.4 C)0.6 D)1.2 E)1.5",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Since A and B are independent events, the probability of A given B, denoted as P(A|B), is simply equal to P(A). Therefore, P(A|B) = P(A) = 0.2. The answer is (A) 0.2.",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Consider there is an staircase elevator and you are coming down. If you walk 20 steps and stop, then you reach bottom in 10 minutes. If you walk 10 steps and stop, you reach to the ground in 20 minutes. What is the speed of the elevator? Answer Choices: A)1 step/minute B)2 step/minute C)3 step/minute D)4 step/minute E)None of the above",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let's denote the speed of the elevator as \\( e \\) steps per minute and the total number of steps in the staircase as \\( N \\).\n\n1. When you walk 20 steps and stop, you take 10 minutes to reach the bottom. During this time, the elevator also moves down. The total distance covered is the number of steps you walked plus the distance the elevator moved:\n   \\[\n   N - 20 = 10e \\quad \\text{(1)}\n   \\]\n\n2. When you walk 10 steps and stop, you take 20 minutes to reach the bottom. Again, the total distance covered is:\n   \\[\n   N - 10 = 20e \\quad \\text{(2)}\n   \\]\n\nNow we have two equations:\n1. \\( N - 20 = 10e \\)\n2. \\( N - 10 = 20e \\)\n\nWe can solve these equations simultaneously. From equation (1), we can express \\( N \\):\n\\[\nN = 10e + 20 \\quad \\text{(3)}\n\\]\n\nSubstituting equation (3) into equation (2):\n\\[\n(10e + 20) - 10 = 20e\n\\]\n\\[\n10e + 10 = 20e\n\\]\n\\[\n10 = 20e - 10e\n\\]\n\\[\n10 = 10e\n\\]\n\\[\ne = 1 \\text{ step/minute}\n\\]\n\nThus, the speed of the elevator is \\( 1 \\) step/minute. \n\nThe answer is (A) 1 step/minute.",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Last year, a Home Appliance Store sold an average(arithmetic mean) of 42 microwave ovens per month. In the first 10 months of this year,the store has sold an average(arithmetic mean) of only 20 microwave ovens per month. What was the average number of microwave ovens sold per month during the entire 22 months period ? Answer Choices: A)21 B)30 C)31 D)32 E)None of the above",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "To find the average number of microwave ovens sold per month during the entire 22 months period, we first need to calculate the total number of microwave ovens sold in both periods.\n\n1. **Last Year (12 months)**:\n   - Average sold per month = 42\n   - Total sold = 42 * 12 = 504\n\n2. **This Year (First 10 months)**:\n   - Average sold per month = 20\n   - Total sold = 20 * 10 = 200\n\n3. **Total for 22 months**:\n   - Total sold = 504 (last year) + 200 (this year) = 704\n\n4. **Average for 22 months**:\n   - Average = Total sold / Total months = 704 / 22 = 32\n\nThus, the average number of microwave ovens sold per month during the entire 22 months period is 32.\n\nThe answer is (D) 32.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers? Answer Choices: A)(zy \u2013 2x)/z B)(zy \u2013 2)/z C)(zx \u2013 y)/(z \u2013 2) D)(zy \u2013 2x)/(z -2) E)(zy \u2013 x)/(z + 2)",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "To find the average score for the class excluding the highest and lowest scorers, we can start by using the definitions of averages.\n\n1. The average of the highest score (H) and the lowest score (L) is given as \\( x \\):\n   \\[\n   x = \\frac{H + L}{2} \\implies H + L = 2x\n   \\]\n\n2. The average score for the entire class is \\( y \\) and there are \\( z \\) students:\n   \\[\n   y = \\frac{S}{z} \\implies S = yz\n   \\]\n   where \\( S \\) is the total score of all students.\n\n3. To find the total score excluding the highest and lowest scores, we subtract \\( H \\) and \\( L \\) from \\( S \\):\n   \\[\n   S - H - L = yz - (H + L) = yz - 2x\n   \\]\n\n4. The number of students excluding the highest and lowest scorers is \\( z - 2 \\).\n\n5. Therefore, the average score for the class excluding the highest and lowest scorers is:\n   \\[\n   \\text{Average} = \\frac{S - H - L}{z - 2} = \\frac{yz - 2x}{z - 2}\n   \\]\n\nThus, the answer is:\n**(D) \\((zy - 2x)/(z - 2)\\)**.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "[5 + ? \u00d7 19 - 15 - 7]/[13 \u00d7 13 - 156] = 6 Answer Choices: A)4 B)4.5 C)5 D)5.5 E)6.5",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "To solve the equation \\([5 + ? \\times 19 - 15 - 7]/[13 \\times 13 - 156] = 6\\), we first simplify the denominator.\n\nCalculating the denominator:\n\\[\n13 \\times 13 = 169\n\\]\n\\[\n169 - 156 = 13\n\\]\n\nNow, we can rewrite the equation:\n\\[\n\\frac{5 + ? \\times 19 - 15 - 7}{13} = 6\n\\]\n\nNext, we multiply both sides by 13:\n\\[\n5 + ? \\times 19 - 15 - 7 = 78\n\\]\n\nNow, simplify the left side:\n\\[\n5 - 15 - 7 = -17\n\\]\nSo we have:\n\\[\n-17 + ? \\times 19 = 78\n\\]\n\nAdding 17 to both sides:\n\\[\n? \\times 19 = 95\n\\]\n\nNow, divide both sides by 19:\n\\[\n? = \\frac{95}{19} = 5\n\\]\n\nThus, the value of \\( ? \\) is 5. The answer is (C) 5.",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "A grocer makes a 25% profit on the selling price for each bag of flour it sells. If he sells each bag for $100 and makes $3,000 in profit, how many bags did he sell? Answer Choices: A)12 B)16 C)24 D)30 E)40",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "To find out how many bags of flour the grocer sold, we first need to determine the profit made on each bag.\n\nGiven that the grocer makes a 25% profit on the selling price, we can calculate the profit per bag as follows:\n\nProfit per bag = Selling price \u00d7 Profit percentage\nProfit per bag = $100 \u00d7 25% = $100 \u00d7 0.25 = $25\n\nNow, we know that the total profit made is $3,000. To find the number of bags sold, we can use the formula:\n\nTotal profit = Profit per bag \u00d7 Number of bags sold\n\nLet \\( x \\) be the number of bags sold. Then we have:\n\n$3,000 = $25 \u00d7 \\( x \\)\n\nNow, we can solve for \\( x \\):\n\n\\( x = \\frac{3000}{25} = 120 \\)\n\nSo, the grocer sold 120 bags of flour. However, this answer does not match any of the provided answer choices. Let's double-check the calculations:\n\n1. Profit per bag = $100 \u00d7 0.25 = $25\n2. Total profit = $3,000\n3. Number of bags sold = \\( \\frac{3000}{25} = 120 \\)\n\nIt appears that the calculations are correct, but the answer choices provided do not include 120. Please verify the problem statement or the answer choices.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Alex and Jacob works at a toy shop that make toys. Alex takes 7 hours to make a toy, and Jacob takes 9 hours to make a toy. During a month, both of them makes 35 toys in total. If both of them have worked for almost similar number of hours how many toys have been prepared by Jacob? Answer Choices: A)15 B)16 C)17 D)18 E)19",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the number of toys made by Alex be \\( x \\) and the number of toys made by Jacob be \\( y \\). We know that:\n\n1. \\( x + y = 35 \\) (total toys made)\n2. Alex takes 7 hours to make a toy, so the total time Alex spends is \\( 7x \\) hours.\n3. Jacob takes 9 hours to make a toy, so the total time Jacob spends is \\( 9y \\) hours.\n\nSince they worked for almost the same number of hours, we can set up the equation:\n\n\\[\n7x \\approx 9y\n\\]\n\nFrom the first equation, we can express \\( y \\) in terms of \\( x \\):\n\n\\[\ny = 35 - x\n\\]\n\nSubstituting this into the second equation gives:\n\n\\[\n7x \\approx 9(35 - x)\n\\]\n\nExpanding this:\n\n\\[\n7x \\approx 315 - 9x\n\\]\n\nCombining like terms:\n\n\\[\n7x + 9x \\approx 315\n\\]\n\\[\n16x \\approx 315\n\\]\n\\[\nx \\approx \\frac{315}{16} \\approx 19.6875\n\\]\n\nSince \\( x \\) must be a whole number, we can check the closest integers. If \\( x = 19 \\):\n\n\\[\ny = 35 - 19 = 16\n\\]\n\nIf \\( x = 20 \\):\n\n\\[\ny = 35 - 20 = 15\n\\]\n\nNow we check the time spent:\n\n- For \\( x = 19 \\): \n  - Time by Alex = \\( 7 \\times 19 = 133 \\) hours\n  - Time by Jacob = \\( 9 \\times 16 = 144 \\) hours\n\n- For \\( x = 20 \\):\n  - Time by Alex = \\( 7 \\times 20 = 140 \\) hours\n  - Time by Jacob = \\( 9 \\times 15 = 135 \\) hours\n\nBoth scenarios show that they worked for almost the same number of hours. \n\nThus, the number of toys prepared by Jacob is \\( \\boxed{16} \\).",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "John likes to have lightly flavored tea every evening. In a 50% strong milk tea, he replaces 15% of it with milk twice. Then, he replaces 10 percent of the resultant solution with more milk.\nWhat is the final concentration of tea John drinks? Answer Choices: A)15.38% B)42% C)39.86% D)22.35% E)32.51%",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "To solve the problem, we need to calculate the concentration of tea after each step of replacement with milk.\n\n1. **Initial Concentration**: The initial concentration of the tea is 50%.\n\n2. **First Replacement**: John replaces 15% of the 50% tea with milk.\n   - Amount of tea replaced: 15% of 50% = 0.15 * 50% = 7.5% tea.\n   - Remaining tea after the first replacement: 50% - 7.5% = 42.5% tea.\n   - Total volume after adding milk: 42.5% tea + 7.5% milk = 50% solution.\n\n3. **Second Replacement**: He again replaces 15% of the 50% solution with milk.\n   - Amount of tea replaced: 15% of 50% = 0.15 * 50% = 7.5% tea.\n   - Remaining tea after the second replacement: 50% - 7.5% = 42.5% tea.\n   - Total volume after adding milk: 42.5% tea + 7.5% milk = 50% solution.\n\n4. **Final Replacement**: John replaces 10% of the resultant solution with more milk.\n   - Amount of solution replaced: 10% of 50% = 0.10 * 50% = 5% solution.\n   - This 5% solution contains 10% of the tea concentration from the previous step.\n   - Amount of tea in the 5% solution: 10% of 42.5% = 0.10 * 42.5% = 4.25% tea.\n   - Remaining tea after the final replacement: 42.5% - 4.25% = 38.25% tea.\n   - Total volume after adding milk: 38.25% tea + 5% milk = 43.25% solution.\n\nNow, we need to find the final concentration of tea in the solution. \n\nThe final concentration of tea is:\n\\[\n\\text{Final Concentration} = \\frac{\\text{Amount of Tea}}{\\text{Total Volume}} = \\frac{38.25}{50} \\times 100 = 76.5\\%\n\\]\n\nHowever, this seems incorrect based on the answer choices provided. Let's re-evaluate the final concentration after the last replacement.\n\nAfter replacing ",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "In a class 1/16 of the students study math, 1/10 of the students study bio, 1/8 of the students study english. The total number of students is a 4 digit number. Find the diffrence between maximum number of students and minimum number of students. Answer Choices: A)8880 B)8870 C)8890 D)7890 E)6780",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the total number of students be \\( N \\). According to the problem:\n\n- The number of students studying math is \\( \\frac{N}{16} \\).\n- The number of students studying biology is \\( \\frac{N}{10} \\).\n- The number of students studying English is \\( \\frac{N}{8} \\).\n\nTo find a common denominator for the fractions, we can use the least common multiple (LCM) of 16, 10, and 8. The LCM of these numbers is 80.\n\nNow, we can express \\( N \\) in terms of multiples of 80:\n\n- For math: \\( \\frac{N}{16} = \\frac{N \\cdot 5}{80} \\)\n- For biology: \\( \\frac{N}{10} = \\frac{N \\cdot 8}{80} \\)\n- For English: \\( \\frac{N}{8} = \\frac{N \\cdot 10}{80} \\)\n\nThus, we can express the total number of students as:\n\n\\[\n\\frac{N}{16} + \\frac{N}{10} + \\frac{N}{8} = \\frac{5N}{80} + \\frac{8N}{80} + \\frac{10N}{80} = \\frac{(5 + 8 + 10)N}{80} = \\frac{23N}{80}\n\\]\n\nSince \\( N \\) must be a four-digit number, we can set up the following inequalities:\n\n\\[\n1000 \\leq N < 10000\n\\]\n\nTo find the minimum and maximum values of \\( N \\) that satisfy the conditions, we can express \\( N \\) in terms of multiples of 80:\n\nLet \\( N = 80k \\) for some integer \\( k \\). Then:\n\n\\[\n1000 \\leq 80k < 10000\n\\]\n\nDividing the entire inequality by 80 gives:\n\n\\[\n12.5 \\leq k < 125\n\\]\n\nSince \\( k \\) must be an integer, the smallest integer \\( k \\) is 13 and the largest integer \\( k \\) is 124.\n\nNow we can find the corresponding values of \\( N \\):\n\n- Minimum \\( N = 80 \\times 13 = 1040 \\)\n- Maximum \\( N = 80 \\times 124 = 9920 \\)\n\nFinally, we find the difference",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "On a normal day Bill usually averages about 15 mph when riding his bicycle. On a windy day, his speed is reduced by 4 mph. How far can Bill travel on a windy day in 21 minutes? Round to the nearest hundredth. Answer Choices: A)2 miles B)2.25 miles C)3.25 miles D)3.85 miles E)2.85 miles",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "On a windy day, Bill's speed is reduced to 15 mph - 4 mph = 11 mph. \n\nTo find out how far he can travel in 21 minutes, we first convert 21 minutes to hours:\n\n21 minutes = 21/60 hours = 0.35 hours.\n\nNow, we can calculate the distance using the formula:\n\nDistance = Speed \u00d7 Time\n\nDistance = 11 mph \u00d7 0.35 hours = 3.85 miles.\n\nSo, the answer is (D) 3.85 miles.",
+        "parsed_answer": "D"
+      }
+    ]
+  }
+]

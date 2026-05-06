@@ -10,8 +10,9 @@ import json
 import argparse
 
 from generate import run_generation, run_greedy, SUPPORTED_MODELS
+from evaluation_utils import answers_match
 
-MODELS = ["gpt-4o-mini", "gpt-3.5-turbo", "claude-haiku-4-5-20251001"]
+MODELS = ["gpt-4o-mini", "gpt-3.5-turbo", "claude-haiku-4-5-20251001", "gemini-2.0-flash"]
 DATASETS = ["aqua", "svamp", "strategyqa"]
 
 EMBEDDER_MAP = {
@@ -50,15 +51,14 @@ def get_greedy_path(output_dir, dataset, model, limit=None):
     return os.path.join(output_dir, f"{dataset}_{model.replace('/', '-')}_n1_t0.0.json")
 
 
-def greedy_accuracy(json_path):
+def greedy_accuracy(json_path, dataset_name):
     """Compute accuracy for greedy decoding (single response)."""
     with open(json_path, "r") as f:
         data = json.load(f)
     correct = 0
     for item in data:
-        true_answer = str(item["true_answer"]).strip().lower()
         parsed = item["responses"][0].get("parsed_answer")
-        if parsed is not None and str(parsed).strip().lower() == true_answer:
+        if answers_match(parsed, item["true_answer"], dataset_name):
             correct += 1
     return correct / len(data) * 100
 
@@ -106,7 +106,7 @@ def run_step_evaluate(args):
 
             # Greedy baseline
             if os.path.exists(greedy_path):
-                result["greedy"] = greedy_accuracy(greedy_path)
+                result["greedy"] = greedy_accuracy(greedy_path, dataset)
                 print(f"  Greedy: {result['greedy']:.2f}%")
 
             # CPW

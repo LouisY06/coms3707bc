@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Yes, more people today are likely related to Genghis Khan than to Julius Caesar. Genghis Khan had many descendants due to his extensive conquests and the large number of children he fathered. Genetic studies suggest that a significant percentage of men in regions of Asia can trace their lineage back to him. In contrast, Julius Caesar had fewer direct descendants, and his lineage did not spread as widely. Therefore, the answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Could the members of The Police perform lawful arrests?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The members of The Police, as a musical band, do not have the authority to perform lawful arrests. Lawful arrests are typically carried out by law enforcement officers who have the legal authority to do so. Therefore, the answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a Monoamine Oxidase candy bar cheer up a depressed friend?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Monoamine oxidase (MAO) is an enzyme that breaks down neurotransmitters in the brain, and while certain foods can influence mood, a candy bar specifically labeled as \"Monoamine Oxidase\" does not exist. However, chocolate, which is often associated with mood improvement, could potentially cheer up a friend. The effectiveness would depend on the individual's preferences and the context. Therefore, the answer is not definitively yes or no, but leaning towards yes if we consider chocolate as a mood booster.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a dog respond to bell before Grey seal?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A dog can be trained to respond to a bell, often as part of a conditioning process. Grey seals, on the other hand, do not have the same training or conditioning capabilities as dogs. Therefore, a dog would likely respond to a bell before a Grey seal would. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is a pound sterling valuable?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Yes, a pound sterling is considered a valuable currency. It is the official currency of the United Kingdom and is widely used in international trade and finance.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is shrimp scampi definitely free of plastic?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Shrimp scampi is a dish made primarily from shrimp, garlic, butter, and pasta. However, shrimp can be affected by environmental pollution, including microplastics in the ocean. While it is possible for shrimp to contain trace amounts of plastic due to contamination, it is not guaranteed that every serving of shrimp scampi is free of plastic. Therefore, the answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Do the anchors on Rede Globo speak Chinese?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Rede Globo is a Brazilian television network, and its anchors primarily speak Portuguese. While some individuals may know Chinese, it is not common for Rede Globo anchors to speak Chinese as part of their regular broadcasts. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The production budget for the 2017 film \"Wonder Woman\" was approximately $149 million, and it grossed over $821 million worldwide at the box office. A Boeing 737 typically costs between $90 million and $120 million, depending on the model and configuration. Since the box office receipts for \"Wonder Woman\" significantly exceed the cost of a Boeing 737, the answer is yes, the cost could be covered by the film's box office receipts.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Can you buy Casio products at Petco?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Petco is a retail store that specializes in pet supplies and products. Casio, on the other hand, is a brand known for electronics, including watches and calculators. Therefore, you cannot buy Casio products at Petco. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Did the Space Race use relay batons?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Space Race was a competition between the United States and the Soviet Union to achieve significant milestones in space exploration, and it did not involve relay batons as used in track and field events. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Are Christmas trees dissimilar to deciduous trees?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Christmas trees are typically coniferous trees, such as fir, spruce, or pine, while deciduous trees lose their leaves in the fall and are generally broadleaf trees. Therefore, they have different characteristics and growth patterns. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Does Biochemistry study gluons?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Biochemistry primarily focuses on the chemical processes and substances that occur within living organisms, including the study of biomolecules like proteins, nucleic acids, lipids, and carbohydrates. Gluons, on the other hand, are elementary particles in the field of particle physics that mediate the strong force between quarks. They are not a focus of biochemistry. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Did land owners elect their rulers in the Kingdom of Hungary?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Yes, in the Kingdom of Hungary, landowners had significant political power and were involved in the election of rulers, particularly during the medieval period. The nobility played a crucial role in governance, including the election of the king. Therefore, the answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would Nancy Pelosi publicly denounce abortion?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Nancy Pelosi has been a long-time advocate for reproductive rights and has publicly supported the right to choose. Therefore, it is unlikely that she would publicly denounce abortion. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does Dragon Ball shows and movies fall short of Friday 13th number of projects?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The \"Friday the 13th\" franchise includes 12 films, a television series, and various other media, totaling over 20 projects. The \"Dragon Ball\" franchise, including \"Dragon Ball,\" \"Dragon Ball Z,\" \"Dragon Ball Super,\" and various movies and spin-offs, has produced more than 20 animated series and films. Thus, the number of \"Dragon Ball\" projects exceeds that of \"Friday the 13th.\" The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a student of the class of 2017 have amnesia about 9/11?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A student of the class of 2017 would have been born around 1999 or 2000. The events of 9/11 occurred in 2001, when they were very young. It is likely that they would not have a clear memory of the event itself, but they may have learned about it in school or through media. Therefore, while they may not have personal memories of 9/11, they would likely have some awareness of it. The answer is yes, they could have amnesia about the event in terms of personal memory.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a psychic who admits to hot reading be trustworthy?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A psychic who admits to hot reading is essentially acknowledging that they use information obtained from observing or researching individuals to provide readings. This practice can undermine the trustworthiness of their claims, as it suggests they may not be genuinely intuitive or psychic. Therefore, many people might find such a psychic less trustworthy. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is average number of peas in a pod enough commas for a billion?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The average number of peas in a pod is typically around 5 to 10. A billion is represented by the number 1,000,000,000, which has 9 commas. Therefore, the average number of peas in a pod is not enough to equal the number of commas in a billion. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does actress Leila George lack the height to be a model?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Leila George is approximately 5 feet 10 inches tall, which is generally considered a suitable height for modeling, especially in high fashion and runway work. Therefore, it would not be accurate to say she lacks the height to be a model. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is Dustin Hoffman one of the B'nei Yisrael?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Dustin Hoffman is not known to be one of the B'nei Yisrael, which refers to the Children of Israel or the Jewish people. While Hoffman is of Jewish descent, the term specifically refers to the collective group of Jewish people. Therefore, the answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "If you were on a diet, would you have to skip lunch at McDonald's?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "It depends on the specific diet you are following and the choices you make at McDonald's. Many diets allow for flexibility and moderation, so you might not have to skip lunch entirely. Instead, you could choose healthier options or smaller portions. The answer is not definitively yes or no; it varies based on individual dietary goals.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could the Powerpuff Girls hypothetically attend the Camden Military Academy?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Powerpuff Girls are fictional characters created for a cartoon, and Camden Military Academy is a real institution. While the Powerpuff Girls could not physically attend the academy, hypothetically, if we consider their character traits and abilities, they could be portrayed as attending. However, since they are not real, the answer is more nuanced. If we strictly consider the question of attendance in a literal sense, the answer would be no. But if we consider it hypothetically in a fictional context, the answer could be yes. \n\nFor a straightforward answer: Yes, hypothetically.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would an uninsured person be more likely than an insured person to decline a CT scan?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "An uninsured person may be more likely to decline a CT scan due to concerns about the cost of the procedure, while an insured person might be more willing to proceed with the scan since their insurance would cover some or all of the expenses. Therefore, the answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Was the Donatello crucifix identified in 2020 life size?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Donatello crucifix identified in 2020 was indeed confirmed to be life-size. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is Disneyland Paris the largest Disney resort?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "No, Disneyland Paris is not the largest Disney resort. Walt Disney World in Florida is the largest Disney resort.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could someone with fine motor control issues benefit from an altered keyboard layout?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Yes, someone with fine motor control issues could benefit from an altered keyboard layout. An alternative layout can be designed to reduce the distance between frequently used keys or to accommodate specific needs, making typing easier and more efficient for individuals with such challenges. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would Adam Sandler get a reference to Cole Spouse and a scuba man doll?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The reference to \"Cole Spouse\" seems to be a play on words or a pun, possibly referring to \"Cole Sprouse,\" an actor known for his roles in various television shows. As for the \"scuba man doll,\" it could refer to a toy or character that Adam Sandler might find humorous or relevant in a comedic context. Given Adam Sandler's style of humor, it's plausible that he could incorporate such references into his work. Therefore, the answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is there a warthog on Broadway?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "There is no warthog on Broadway in the literal sense. However, if you are referring to a character or representation of a warthog in a Broadway show, that would depend on the specific productions being staged. Generally, the answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does Disney have an ice princess?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Yes, Disney has ice princesses, most notably Elsa from the movie \"Frozen.\" The character is often referred to as the Ice Queen or Ice Princess. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a geographer use biochemistry in their work?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Geographers typically focus on the study of the Earth's landscapes, environments, and the relationships between people and their environments. While biochemistry is primarily concerned with the chemical processes within and related to living organisms, it can be relevant in certain fields of geography, such as environmental geography, biogeography, or health geography, where understanding biological processes may be important. However, it is not a primary tool for most geographers. Therefore, the answer is no, a geographer would not typically use biochemistry in their work.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could George Washington's own speeches have been recorded live to a compact disc?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "No, compact discs were invented in the late 20th century, long after George Washington's time. Therefore, his speeches could not have been recorded live to a compact disc. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would food made with black salt smell of sulfur?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Yes, food made with black salt, particularly kala namak, has a distinct sulfurous smell due to its high content of sodium sulfate and other minerals. Thus, the answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a broadcast from Spirit make the news in 2020?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The Spirit rover, which was part of NASA's Mars Exploration Rover mission, ceased communication in 2010. Therefore, any broadcast from Spirit in 2020 would not be possible, as the rover was no longer operational. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could Robert Wadlow hypothetically see Frankenstein's monster's bald spot from above?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Robert Wadlow was the tallest recorded human, standing at 8 feet 11 inches. Frankenstein's monster, as depicted in various adaptations, is typically portrayed as being around 8 feet tall. If Wadlow were positioned above the monster, he would likely have a vantage point that could allow him to see the monster's bald spot, assuming it was visible from that angle. Thus, the answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is the tibia necessary to win the Stanley Cup?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The tibia is a bone in the leg, and while it is important for mobility and physical activity, it is not specifically necessary to win the Stanley Cup. Players can compete and win without any specific bone being a requirement. Thus, the answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would an ethics professor teach a class on Cezanne?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "An ethics professor typically focuses on moral philosophy and ethical theories rather than art history. While it's possible for an ethics professor to incorporate discussions of ethics in art or the ethical implications of an artist's work, it is unlikely that they would teach a class specifically on Cezanne. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "If you add water to rice pudding is it horchata?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Horchata is a traditional beverage made from rice, milk, vanilla, and cinnamon, among other ingredients, and is typically not just rice pudding with added water. While both rice pudding and horchata contain rice, they are distinct dishes with different preparations and flavors. Therefore, adding water to rice pudding does not make it horchata. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "If your skin was turning the color of a zombie, could it be because of nickel?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Nickel exposure can cause allergic reactions in some individuals, leading to skin irritation or discoloration. However, the term \"turning the color of a zombie\" is not a standard medical description and typically refers to a pale or grayish appearance associated with certain health conditions. While nickel could potentially cause skin issues, it is unlikely to cause a dramatic change in skin color resembling that of a zombie. Therefore, the answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a Dolce & Gabbana suit wearer be shunned by their Amish cousins?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The Amish community typically adheres to a simple lifestyle and avoids modern fashion trends, including designer clothing like a Dolce & Gabbana suit. Therefore, a wearer of such a suit would likely be viewed as not conforming to Amish values and could be shunned by their Amish cousins. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is the Illuminati card game still popular?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Illuminati card game, created by Steve Jackson Games, has a niche following and is considered a cult classic among certain groups. While it may not be mainstream popular, it still has a dedicated fan base and is occasionally referenced in popular culture. Therefore, the answer is somewhat subjective, but generally, it is not widely popular today. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Can a strawberry get worms similar to dogs?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Strawberries can be affected by pests, but they do not get worms in the same way that dogs can get worms. Instead, strawberries may have issues with insects like larvae or other pests, but these are not the same as the parasitic worms found in dogs. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is Menthol associated with Thanksgiving?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Menthol is not traditionally associated with Thanksgiving. Thanksgiving is typically linked to foods like turkey, stuffing, and pumpkin pie, rather than menthol, which is more commonly found in products like cough drops and certain types of candies. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would someone in Mumbai refer to Solanum melongena as an eggplant?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "In Mumbai, Solanum melongena is commonly referred to as \"brinjal\" rather than \"eggplant.\" While \"eggplant\" is understood, especially in English-speaking contexts, the local term is more widely used. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is it okay to lie after taking an oath in a court of law?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "No, it is not okay to lie after taking an oath in a court of law. Doing so is considered perjury, which is a serious offense. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is art prioritized in the US education system?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Art education is often not prioritized as highly as subjects like math, science, and reading in the US education system. While some schools do offer robust art programs, many face budget cuts that affect arts education. Thus, the answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "While on a liquid diet, are there some types of soup you cannot eat?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Yes, while on a liquid diet, there are some types of soup you cannot eat. For example, soups that contain solid chunks of meat, vegetables, or grains would not be suitable for a strict liquid diet. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would it be impossible to use an Iwato scale for a twelve-tone technique composition?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "An Iwato scale is a specific type of scale used in music, particularly in Japanese traditional music. The twelve-tone technique, developed by Arnold Schoenberg, involves using all twelve notes of the chromatic scale in a specific order without repeating any until all have been used. While the Iwato scale is not a twelve-tone scale, it is not impossible to incorporate it into a twelve-tone composition. A composer could potentially use the Iwato scale as part of a twelve-tone row or in conjunction with twelve-tone techniques. Therefore, the answer is no, it would not be impossible to use an Iwato scale for a twelve-tone technique composition.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would the Titanic be well preserved at the bottom of the Gulf of Finland?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The Titanic sank in the North Atlantic Ocean, and its wreck is located at a depth of about 12,500 feet. The conditions at the bottom of the ocean, including temperature, pressure, and the presence of bacteria that consume iron, have contributed to its deterioration over time. The Gulf of Finland has different environmental conditions compared to the North Atlantic, but generally, shipwrecks can be affected by similar factors such as water temperature and marine life. However, if the Titanic were to be at the bottom of the Gulf of Finland, it would likely experience different preservation conditions than it does in the North Atlantic. \n\nOverall, the answer is no; the Titanic would not be well preserved at the bottom of the Gulf of Finland, as it is already deteriorating significantly in its current location.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could a dandelion suffer from hepatitis?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Dandelions are plants and do not have a liver or immune system, which are necessary for the disease hepatitis to affect an organism. Hepatitis specifically refers to inflammation of the liver, typically in animals, including humans. Therefore, a dandelion could not suffer from hepatitis. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a week be enough time to watch every episode of Ugly Betty?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "\"Ugly Betty\" has a total of 85 episodes across 4 seasons. If we assume each episode is approximately 22 minutes long, that totals about 1,870 minutes, or roughly 31.2 hours. A week has 168 hours, so yes, a week would be more than enough time to watch every episode of \"Ugly Betty.\" The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  }
+]

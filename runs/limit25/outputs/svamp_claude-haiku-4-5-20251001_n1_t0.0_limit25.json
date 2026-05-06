@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each pack How much do you have to pay to buy each pack?",
+    "true_answer": "51.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Each pack of DVDs costs 76 dollars. There is a discount of 25 dollars on each pack. So the price after discount is 76 - 25 = 51 dollars. The answer is 51.",
+        "parsed_answer": "51"
+      }
+    ]
+  },
+  {
+    "question": "Dan had $ 3 left with him after he bought a candy bar. If he had $ 4 at the start How much did the candy bar cost?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Dan started with $4. After buying a candy bar, he had $3 left. So the candy bar cost $4 - $3 = $1. The answer is 1.",
+        "parsed_answer": "1"
+      }
+    ]
+  },
+  {
+    "question": "Paco had 26 salty cookies and 17 sweet cookies. He ate 14 sweet cookies and 9 salty cookies. How many salty cookies did Paco have left?",
+    "true_answer": "17.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Paco started with 26 salty cookies. He ate 9 salty cookies. So he has 26 - 9 = 17 salty cookies left. The answer is 17.",
+        "parsed_answer": "17"
+      }
+    ]
+  },
+  {
+    "question": "43 children were riding on the bus. At the bus stop some children got off the bus. Then there were 21 children left on the bus. How many children got off the bus at the bus stop?",
+    "true_answer": "22.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. There were originally 43 children on the bus. After some got off, there were 21 children left. So the number of children who got off is 43 - 21 = 22. The answer is 22.",
+        "parsed_answer": "22"
+      }
+    ]
+  },
+  {
+    "question": "28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus. How many more children got on the bus than those that got off?",
+    "true_answer": "2.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. \n\nInitially, there were 28 children on the bus.\n\nAt the bus stop, 82 children got on the bus and some got off. After this, there were 30 children on the bus.\n\nLet's say x children got off the bus.\n\nSo: 28 + 82 - x = 30\n\n110 - x = 30\n\nx = 80\n\nSo 80 children got off the bus.\n\nThe difference between those who got on and those who got off is: 82 - 80 = 2.\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      }
+    ]
+  },
+  {
+    "question": "There were 3 dollars in Olivia's wallet. She collected 49 more dollars from an atm. After she visited a supermarket there were 49 dollars left. How much more money did she collect at the atm than she spent at the supermarket?",
+    "true_answer": "46.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Olivia started with 3 dollars. She collected 49 dollars from an ATM, so she had 3 + 49 = 52 dollars. After visiting the supermarket, she had 49 dollars left. So she spent 52 - 49 = 3 dollars at the supermarket. She collected 49 dollars at the ATM and spent 3 dollars at the supermarket. So she collected 49 - 3 = 46 more dollars at the ATM than she spent at the supermarket. The answer is 46.",
+        "parsed_answer": "46"
+      }
+    ]
+  },
+  {
+    "question": "Jerry had some action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If there are a total of 10 action figures on his shelf now How many action figures did he have initially on the shelf?",
+    "true_answer": "3.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Jerry added 7 action figures to the shelf. After adding them, there are 10 action figures total on the shelf. So initially he had 10 - 7 = 3 action figures. The answer is 3.",
+        "parsed_answer": "3"
+      }
+    ]
+  },
+  {
+    "question": "Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies. How many more cookies did he eat than those he gave to his friend?",
+    "true_answer": "9.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Paco gave 9 cookies to his friend and ate 18 cookies. To find how many more cookies he ate than those he gave to his friend, I need to subtract: 18 - 9 = 9. The answer is 9.",
+        "parsed_answer": "9"
+      }
+    ]
+  },
+  {
+    "question": "Mary is baking a cake. The recipe calls for 3 cups of sugar 10 cups of flour and 15 cups of salt. She already put in 6 cups of flour. How many more cups of flour does she need to add?",
+    "true_answer": "4.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. The recipe calls for 10 cups of flour. Mary already put in 6 cups of flour. So she needs 10 - 6 = 4 more cups of flour. The answer is 4.",
+        "parsed_answer": "4"
+      }
+    ]
+  },
+  {
+    "question": "A waiter had some customers. After 9 customers left he still had 12 customers. How many customers did he have at the start?",
+    "true_answer": "21.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. The waiter had some customers at the start. After 9 customers left, he had 12 customers remaining. So at the start, he must have had 12 + 9 = 21 customers. The answer is 21.",
+        "parsed_answer": "21"
+      }
+    ]
+  },
+  {
+    "question": "3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them. How many more storks than birds are sitting on the fence?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Originally there were 3 birds on the fence. Then 6 more storks and 2 more birds came to join them. So now there are 3 + 2 = 5 birds total. And there are 6 storks. The difference is 6 - 5 = 1. There is 1 more stork than birds sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      }
+    ]
+  },
+  {
+    "question": "They decided to hold the party in their backyard. If they have 11 sets of tables and each set has 13 chairs How many chairs do they have in the backyard?",
+    "true_answer": "143.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. They have 11 sets of tables. Each set has 13 chairs. So the total number of chairs is 11 \u00d7 13 = 143. The answer is 143.",
+        "parsed_answer": "143"
+      }
+    ]
+  },
+  {
+    "question": "In a school there are 458 more girls than boys. If there are 692 girls How many pupils are there in that school?",
+    "true_answer": "926.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. There are 692 girls in the school. There are 458 more girls than boys, which means the number of boys is 458 less than the number of girls. So the number of boys is 692 - 458 = 234. The total number of pupils is 692 + 234 = 926. The answer is 926.",
+        "parsed_answer": "926"
+      }
+    ]
+  },
+  {
+    "question": "After resting they decided to go for a swim. The depth of the water is 15 times Dean's height. Dean is 4 feet taller than Ron. If Ron stands at 13 feet How deep was the water?",
+    "true_answer": "255.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Ron stands at 13 feet. Dean is 4 feet taller than Ron, so Dean is 13 + 4 = 17 feet tall. The depth of the water is 15 times Dean's height, so the depth is 15 \u00d7 17 = 255 feet. The answer is 255.",
+        "parsed_answer": "255"
+      }
+    ]
+  },
+  {
+    "question": "6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many birds are sitting on the fence?",
+    "true_answer": "10.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. There were originally 6 birds on the fence. Then 4 more birds came to join them. So now there are 6 + 4 = 10 birds. The 8 storks also came, but the question asks specifically how many birds are sitting on the fence. Storks are not birds in this context, so we don't count them. The answer is 10.",
+        "parsed_answer": "10"
+      }
+    ]
+  },
+  {
+    "question": "Marco and his dad went strawberry picking. Together they collected strawberries that weighed 36 pounds. On the way back Marco ' dad lost 8 pounds of strawberries. Marco's strawberries now weighed 12 pounds. How much did his dad's strawberries weigh now?",
+    "true_answer": "16.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Together they collected 36 pounds of strawberries. Marco's dad lost 8 pounds, so the total they have now is 36 - 8 = 28 pounds. Marco's strawberries weigh 12 pounds. So his dad's strawberries weigh 28 - 12 = 16 pounds. The answer is 16.",
+        "parsed_answer": "16"
+      }
+    ]
+  },
+  {
+    "question": "In a school there are 697 girls and the rest are boys. If there are 228 more girls than boys How many boys are there in that school?",
+    "true_answer": "469.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. There are 697 girls in the school. There are 228 more girls than boys. So if we call the number of boys B, then 697 = B + 228. Solving for B: B = 697 - 228 = 469. The answer is 469.",
+        "parsed_answer": "469"
+      }
+    ]
+  },
+  {
+    "question": "In a school there are 732 girls and 761 boys. 682 more girls and 8 more boys joined the school. How many girls are there in the school now?",
+    "true_answer": "1414.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Originally, there were 732 girls in the school. Then 682 more girls joined. So the total number of girls is 732 + 682 = 1414. The answer is 1414.",
+        "parsed_answer": "1414"
+      }
+    ]
+  },
+  {
+    "question": "Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many wrappers did danny have at first?",
+    "true_answer": "27.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Danny now has 57 wrappers in his collection. He found 30 wrappers at the park. So before finding those 30 wrappers, he had 57 - 30 = 27 wrappers. The answer is 27.",
+        "parsed_answer": "27"
+      }
+    ]
+  },
+  {
+    "question": "Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser. How many more crayons than erasers did he have left?",
+    "true_answer": "66.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Paul got 457 erasers and 617 crayons. He didn't lose any erasers, so he still has 457 erasers. At the end of the school year, he had 523 crayons left. To find how many more crayons than erasers he has, we calculate 523 - 457 = 66. The answer is 66.",
+        "parsed_answer": "66"
+      }
+    ]
+  },
+  {
+    "question": "Baker made 121 cakes. He sold 105 of them and bought 170 new cakes. How many cakes does baker still have?",
+    "true_answer": "186.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Baker started with 121 cakes. He sold 105 of them, so he had 121 - 105 = 16 cakes left. Then he bought 170 new cakes, so he had 16 + 170 = 186 cakes. The answer is 186.",
+        "parsed_answer": "186"
+      }
+    ]
+  },
+  {
+    "question": "An industrial machine worked for 5 minutes. It can make 4 shirts a minute. How many shirts did machine make?",
+    "true_answer": "20.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. The machine worked for 5 minutes. It can make 4 shirts a minute. So in 5 minutes, it made 5 \u00d7 4 = 20 shirts. The answer is 20.",
+        "parsed_answer": "20"
+      }
+    ]
+  },
+  {
+    "question": "The bananas in Philip's collection are organized into groups of size 18. If there are a total of 180 bananas in Philip's banana collection How many groups are there?",
+    "true_answer": "10.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Philip has 180 bananas total. They are organized into groups of size 18. To find the number of groups, we divide the total by the group size: 180 \u00f7 18 = 10. The answer is 10.",
+        "parsed_answer": "10"
+      }
+    ]
+  },
+  {
+    "question": "There were some birds sitting on the fence. 4 more birds came to join them. If there are a total of 5 birds on the fence now How many birds had been sitting on the fence at the start?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. There are now 5 birds total on the fence. 4 more birds came to join them. So originally there were 5 - 4 = 1 bird sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      }
+    ]
+  },
+  {
+    "question": "Jerry had 3 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed some of the old ones. If there are 6 action figures on his shelf now How many action figures did he remove from the shelf?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Jerry started with 3 action figures. He added 4 more, so he had 3 + 4 = 7 action figures. Then he removed some, and now he has 6 action figures. So he removed 7 - 6 = 1 action figure. The answer is 1.",
+        "parsed_answer": "1"
+      }
+    ]
+  }
+]

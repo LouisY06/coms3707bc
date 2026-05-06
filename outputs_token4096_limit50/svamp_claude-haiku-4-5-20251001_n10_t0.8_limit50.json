@@ -1,0 +1,2302 @@
+[
+  {
+    "question": "Each pack of dvds costs 76 dollars. If there is a discount of 25 dollars on each pack How much do you have to pay to buy each pack?",
+    "true_answer": "51.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Each pack of DVDs costs 76 dollars. There is a discount of 25 dollars on each pack. So the price after discount is 76 - 25 = 51 dollars. The answer is 51.",
+        "parsed_answer": "51"
+      },
+      {
+        "response": "Let's think step by step. Each pack of DVDs costs 76 dollars. There is a discount of 25 dollars on each pack. So the price after discount is 76 - 25 = 51 dollars. The answer is 51.",
+        "parsed_answer": "51"
+      },
+      {
+        "response": "Let's think step by step. Each pack of DVDs costs 76 dollars. There is a discount of 25 dollars on each pack. So the price after discount is 76 - 25 = 51 dollars. The answer is 51.",
+        "parsed_answer": "51"
+      },
+      {
+        "response": "Let's think step by step. Each pack of DVDs costs 76 dollars. There is a discount of 25 dollars on each pack. So the price after discount is 76 - 25 = 51 dollars. The answer is 51.",
+        "parsed_answer": "51"
+      },
+      {
+        "response": "Let's think step by step. Each pack of DVDs costs 76 dollars. There is a discount of 25 dollars on each pack. So the price after discount is 76 - 25 = 51 dollars. The answer is 51.",
+        "parsed_answer": "51"
+      },
+      {
+        "response": "Let's think step by step. Each pack of DVDs costs 76 dollars. There is a discount of 25 dollars on each pack. So the price after discount is 76 - 25 = 51 dollars. The answer is 51.",
+        "parsed_answer": "51"
+      },
+      {
+        "response": "Let's think step by step. Each pack of DVDs costs 76 dollars. There is a discount of 25 dollars on each pack. So the price after discount is 76 - 25 = 51 dollars. The answer is 51.",
+        "parsed_answer": "51"
+      },
+      {
+        "response": "Let's think step by step. Each pack of DVDs costs 76 dollars. There is a discount of 25 dollars on each pack. So the price after discount is 76 - 25 = 51 dollars. The answer is 51.",
+        "parsed_answer": "51"
+      },
+      {
+        "response": "Let's think step by step. Each pack of DVDs costs 76 dollars. There is a discount of 25 dollars on each pack. So the price after discount is 76 - 25 = 51 dollars. The answer is 51.",
+        "parsed_answer": "51"
+      },
+      {
+        "response": "Let's think step by step. Each pack of DVDs costs 76 dollars. There is a discount of 25 dollars on each pack. So the price after discount is 76 - 25 = 51 dollars. The answer is 51.",
+        "parsed_answer": "51"
+      }
+    ]
+  },
+  {
+    "question": "Dan had $ 3 left with him after he bought a candy bar. If he had $ 4 at the start How much did the candy bar cost?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Dan started with $4. After buying a candy bar, he had $3 left. So the candy bar cost $4 - $3 = $1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. After buying a candy bar, he had $3 left. So the candy bar cost $4 - $3 = $1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. After buying a candy bar, he had $3 left. So the candy bar cost $4 - $3 = $1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. After buying a candy bar, he had $3 left. So the candy bar cost $4 - $3 = $1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. After buying a candy bar, he had $3 left. So the candy bar cost $4 - $3 = $1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. After buying a candy bar, he had $3 left. So the candy bar cost 4 - 3 = $1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. After buying a candy bar, he had $3 left. So the candy bar cost $4 - $3 = $1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. After buying a candy bar, he had $3 left. So the candy bar cost 4 - 3 = $1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. After buying a candy bar, he had $3 left. So the candy bar cost $4 - $3 = $1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. After buying a candy bar, he had $3 left. So the candy bar cost $4 - $3 = $1. The answer is 1.",
+        "parsed_answer": "1"
+      }
+    ]
+  },
+  {
+    "question": "Paco had 26 salty cookies and 17 sweet cookies. He ate 14 sweet cookies and 9 salty cookies. How many salty cookies did Paco have left?",
+    "true_answer": "17.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Paco started with 26 salty cookies. He ate 9 salty cookies. So he has 26 - 9 = 17 salty cookies left. The answer is 17.",
+        "parsed_answer": "17"
+      },
+      {
+        "response": "Let's think step by step. Paco started with 26 salty cookies. He ate 9 salty cookies. So he has 26 - 9 = 17 salty cookies left. The answer is 17.",
+        "parsed_answer": "17"
+      },
+      {
+        "response": "Let's think step by step. Paco started with 26 salty cookies. He ate 9 salty cookies. So he has 26 - 9 = 17 salty cookies left. The answer is 17.",
+        "parsed_answer": "17"
+      },
+      {
+        "response": "Let's think step by step. Paco started with 26 salty cookies. He ate 9 salty cookies. So he has 26 - 9 = 17 salty cookies left. The answer is 17.",
+        "parsed_answer": "17"
+      },
+      {
+        "response": "Let's think step by step. Paco started with 26 salty cookies. He ate 9 salty cookies. So he has 26 - 9 = 17 salty cookies left. The answer is 17.",
+        "parsed_answer": "17"
+      },
+      {
+        "response": "Let's think step by step. Paco started with 26 salty cookies. He ate 9 salty cookies. So he has 26 - 9 = 17 salty cookies left. The answer is 17.",
+        "parsed_answer": "17"
+      },
+      {
+        "response": "Let's think step by step. Paco started with 26 salty cookies. He ate 9 salty cookies. So he has 26 - 9 = 17 salty cookies left. The answer is 17.",
+        "parsed_answer": "17"
+      },
+      {
+        "response": "Let's think step by step. Paco started with 26 salty cookies. He ate 9 salty cookies. So he has 26 - 9 = 17 salty cookies left. The answer is 17.",
+        "parsed_answer": "17"
+      },
+      {
+        "response": "Let's think step by step. Paco started with 26 salty cookies. He ate 9 salty cookies. So he has 26 - 9 = 17 salty cookies left. The answer is 17.",
+        "parsed_answer": "17"
+      },
+      {
+        "response": "Let's think step by step. Paco started with 26 salty cookies. He ate 9 salty cookies. So he has 26 - 9 = 17 salty cookies left. The answer is 17.",
+        "parsed_answer": "17"
+      }
+    ]
+  },
+  {
+    "question": "43 children were riding on the bus. At the bus stop some children got off the bus. Then there were 21 children left on the bus. How many children got off the bus at the bus stop?",
+    "true_answer": "22.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. There were originally 43 children on the bus. After some got off, there were 21 children left. So the number of children who got off is 43 - 21 = 22. The answer is 22.",
+        "parsed_answer": "22"
+      },
+      {
+        "response": "Let's think step by step. There were originally 43 children on the bus. After some got off, there were 21 children left. So the number of children who got off is 43 - 21 = 22. The answer is 22.",
+        "parsed_answer": "22"
+      },
+      {
+        "response": "Let's think step by step. There were originally 43 children on the bus. After some got off, there were 21 children left. So the number of children who got off is 43 - 21 = 22. The answer is 22.",
+        "parsed_answer": "22"
+      },
+      {
+        "response": "Let's think step by step. There were originally 43 children on the bus. After some got off, there were 21 children left. So the number of children who got off is 43 - 21 = 22. The answer is 22.",
+        "parsed_answer": "22"
+      },
+      {
+        "response": "Let's think step by step. There were originally 43 children on the bus. After some got off, there were 21 children left. So the number of children who got off is 43 - 21 = 22. The answer is 22.",
+        "parsed_answer": "22"
+      },
+      {
+        "response": "Let's think step by step. There were originally 43 children on the bus. After some got off, there were 21 children left. So the number of children who got off is 43 - 21 = 22. The answer is 22.",
+        "parsed_answer": "22"
+      },
+      {
+        "response": "Let's think step by step. There were originally 43 children on the bus. After some got off, there were 21 children left. So the number of children who got off is 43 - 21 = 22. The answer is 22.",
+        "parsed_answer": "22"
+      },
+      {
+        "response": "Let's think step by step. There were originally 43 children on the bus. After some got off, there were 21 children left. So the number of children who got off is 43 - 21 = 22. The answer is 22.",
+        "parsed_answer": "22"
+      },
+      {
+        "response": "Let's think step by step. There were originally 43 children on the bus. After some got off, there were 21 children left. So the number of children who got off is 43 - 21 = 22. The answer is 22.",
+        "parsed_answer": "22"
+      },
+      {
+        "response": "Let's think step by step. There were originally 43 children on the bus. After some got off, there were 21 children left. So the number of children who got off is 43 - 21 = 22. The answer is 22.",
+        "parsed_answer": "22"
+      }
+    ]
+  },
+  {
+    "question": "28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus. How many more children got on the bus than those that got off?",
+    "true_answer": "2.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. \n\nOriginally there were 28 children on the bus.\n82 children got on the bus.\nSome children got off the bus (unknown number).\nAfter this, there were 30 children on the bus.\n\nSo: 28 + 82 - (number who got off) = 30\n110 - (number who got off) = 30\nNumber who got off = 110 - 30 = 80\n\nSo 82 children got on and 80 children got off.\nThe difference is 82 - 80 = 2.\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. \n\nThere were originally 28 children on the bus.\n\n82 children got on the bus.\n\nSome children got off the bus (let's call this number x).\n\nAfter all this, there were 30 children on the bus.\n\nSo: 28 + 82 - x = 30\n\n110 - x = 30\n\nx = 110 - 30 = 80\n\nSo 80 children got off the bus.\n\nThe difference between those who got on and those who got off is: 82 - 80 = 2.\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. \n\nThere were originally 28 children on the bus.\n82 children got on the bus.\nSome children got off the bus (let's call this number x).\nAfter this, there were 30 children on the bus.\n\nSo: 28 + 82 - x = 30\n110 - x = 30\nx = 80\n\nSo 80 children got off the bus.\n\nThe question asks how many more children got on than got off.\n82 got on, 80 got off.\n82 - 80 = 2\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. \n\nInitially there were 28 children on the bus.\nAt the bus stop, 82 children got on and some got off.\nAfter this, there were 30 children on the bus.\n\nLet's call the number of children who got off as x.\n\nSo: 28 + 82 - x = 30\n\n110 - x = 30\n\nx = 80\n\nSo 80 children got off the bus.\n\nThe question asks how many more children got on than got off.\n82 got on, 80 got off.\n82 - 80 = 2\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. \n\nInitially, there were 28 children on the bus.\n82 children got on the bus.\nSome children got off the bus (let's call this number x).\nAfter all this, there were 30 children on the bus.\n\nSo we can write: 28 + 82 - x = 30\n\nSolving for x:\n110 - x = 30\nx = 80\n\nSo 80 children got off the bus.\n\nThe question asks how many more children got on than got off.\n82 got on, 80 got off.\n82 - 80 = 2\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. There were originally 28 children on the bus. Then 82 children got on and some got off. After this, there were 30 children on the bus.\n\nLet's say x children got off the bus.\n\nSo: 28 + 82 - x = 30\n\n110 - x = 30\n\nx = 80\n\nSo 80 children got off the bus.\n\nThe difference between those who got on and those who got off is: 82 - 80 = 2.\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. \n\nInitially there were 28 children on the bus.\nThen 82 children got on the bus.\nSome children got off the bus (let's call this number x).\nAfter all this, there were 30 children on the bus.\n\nSo we can write: 28 + 82 - x = 30\n\nSolving for x:\n110 - x = 30\nx = 110 - 30\nx = 80\n\nSo 80 children got off the bus.\n\nThe question asks how many more children got on than got off:\n82 - 80 = 2\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. \n\nInitially, there were 28 children on the bus.\nThen 82 children got on the bus and some got off.\nAfter this, there were 30 children on the bus.\n\nLet's say x children got off the bus.\n\nSo: 28 + 82 - x = 30\n110 - x = 30\nx = 80\n\nSo 80 children got off the bus.\n\nThe question asks how many more children got on than got off.\nChildren who got on: 82\nChildren who got off: 80\nDifference: 82 - 80 = 2\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. There were originally 28 children on the bus. Then 82 children got on and some got off. After this, there were 30 children total.\n\nLet's say x children got off the bus.\n\nSo: 28 + 82 - x = 30\n\n110 - x = 30\n\nx = 80\n\nSo 80 children got off the bus.\n\nThe difference between those who got on and those who got off is: 82 - 80 = 2.\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. There were originally 28 children on the bus. Then 82 children got on and some got off. After this, there were 30 children total.\n\nLet me call the number of children who got off as x.\n\nSo: 28 + 82 - x = 30\n\n110 - x = 30\n\nx = 80\n\nSo 80 children got off the bus.\n\nThe question asks how many more children got on than got off.\nChildren who got on: 82\nChildren who got off: 80\nDifference: 82 - 80 = 2\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      }
+    ]
+  },
+  {
+    "question": "There were 3 dollars in Olivia's wallet. She collected 49 more dollars from an atm. After she visited a supermarket there were 49 dollars left. How much more money did she collect at the atm than she spent at the supermarket?",
+    "true_answer": "46.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Olivia started with 3 dollars in her wallet. She collected 49 dollars from an atm, so she had 3 + 49 = 52 dollars. After visiting the supermarket, she had 49 dollars left. So she spent 52 - 49 = 3 dollars at the supermarket. She collected 49 dollars from the atm and spent 3 dollars at the supermarket. So she collected 49 - 3 = 46 more dollars at the atm than she spent at the supermarket. The answer is 46.",
+        "parsed_answer": "46"
+      },
+      {
+        "response": "Let's think step by step. Olivia started with 3 dollars. She collected 49 dollars from an atm, so she had 3 + 49 = 52 dollars. After visiting the supermarket, she had 49 dollars left. So she spent 52 - 49 = 3 dollars at the supermarket. She collected 49 dollars at the atm and spent 3 dollars at the supermarket. So she collected 49 - 3 = 46 more dollars at the atm than she spent at the supermarket. The answer is 46.",
+        "parsed_answer": "46"
+      },
+      {
+        "response": "Let's think step by step. Olivia started with 3 dollars. She collected 49 dollars from an ATM, so she had 3 + 49 = 52 dollars. After visiting the supermarket, she had 49 dollars left. So she spent 52 - 49 = 3 dollars at the supermarket. She collected 49 dollars at the ATM and spent 3 dollars at the supermarket. So she collected 49 - 3 = 46 more dollars at the ATM than she spent at the supermarket. The answer is 46.",
+        "parsed_answer": "46"
+      },
+      {
+        "response": "Let's think step by step. Olivia started with 3 dollars. She collected 49 dollars from an atm, so she had 3 + 49 = 52 dollars. After visiting the supermarket, she had 49 dollars left. So she spent 52 - 49 = 3 dollars at the supermarket. She collected 49 dollars at the atm and spent 3 dollars at the supermarket. So she collected 49 - 3 = 46 more dollars at the atm than she spent at the supermarket. The answer is 46.",
+        "parsed_answer": "46"
+      },
+      {
+        "response": "Let's think step by step. Olivia started with 3 dollars. She collected 49 dollars from an atm, so she had 3 + 49 = 52 dollars. After visiting the supermarket, she had 49 dollars left. So she spent 52 - 49 = 3 dollars at the supermarket. She collected 49 dollars at the atm and spent 3 dollars at the supermarket. So she collected 49 - 3 = 46 more dollars at the atm than she spent at the supermarket. The answer is 46.",
+        "parsed_answer": "46"
+      },
+      {
+        "response": "Let's think step by step. Olivia started with 3 dollars. She collected 49 dollars from an ATM, so she had 3 + 49 = 52 dollars. After visiting the supermarket, she had 49 dollars left. So she spent 52 - 49 = 3 dollars at the supermarket. She collected 49 dollars at the ATM and spent 3 dollars at the supermarket. So she collected 49 - 3 = 46 more dollars at the ATM than she spent at the supermarket. The answer is 46.",
+        "parsed_answer": "46"
+      },
+      {
+        "response": "Let's think step by step. Olivia started with 3 dollars. She collected 49 more dollars from an ATM, so she had 3 + 49 = 52 dollars. After visiting the supermarket, she had 49 dollars left. So she spent 52 - 49 = 3 dollars at the supermarket. She collected 49 dollars at the ATM and spent 3 dollars at the supermarket. So she collected 49 - 3 = 46 more dollars at the ATM than she spent at the supermarket. The answer is 46.",
+        "parsed_answer": "46"
+      },
+      {
+        "response": "Let's think step by step. Olivia started with 3 dollars. She collected 49 dollars from an atm, so she had 3 + 49 = 52 dollars. After visiting the supermarket, she had 49 dollars left. So she spent 52 - 49 = 3 dollars at the supermarket. She collected 49 dollars at the atm and spent 3 dollars at the supermarket. So she collected 49 - 3 = 46 more dollars at the atm than she spent at the supermarket. The answer is 46.",
+        "parsed_answer": "46"
+      },
+      {
+        "response": "Let's think step by step. Olivia started with 3 dollars. She collected 49 dollars from an atm, so she had 3 + 49 = 52 dollars. After visiting the supermarket, she had 49 dollars left. So she spent 52 - 49 = 3 dollars at the supermarket. She collected 49 dollars from the atm and spent 3 dollars at the supermarket. So she collected 49 - 3 = 46 more dollars at the atm than she spent at the supermarket. The answer is 46.",
+        "parsed_answer": "46"
+      },
+      {
+        "response": "Let's think step by step. Olivia started with 3 dollars. She collected 49 more dollars from an atm, so she had 3 + 49 = 52 dollars. After visiting the supermarket, she had 49 dollars left. So she spent 52 - 49 = 3 dollars at the supermarket. She collected 49 dollars at the atm and spent 3 dollars at the supermarket. So she collected 49 - 3 = 46 more dollars at the atm than she spent at the supermarket. The answer is 46.",
+        "parsed_answer": "46"
+      }
+    ]
+  },
+  {
+    "question": "Jerry had some action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If there are a total of 10 action figures on his shelf now How many action figures did he have initially on the shelf?",
+    "true_answer": "3.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Jerry added 7 more action figures to the shelf. Now there are 10 action figures total on the shelf. So he must have had 10 - 7 = 3 action figures initially. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jerry added 7 action figures to the shelf. After adding them, there are 10 action figures total on the shelf. So initially, he must have had 10 - 7 = 3 action figures. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jerry added 7 action figures to the shelf. Now there are 10 action figures total on the shelf. So initially he must have had 10 - 7 = 3 action figures. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jerry added 7 action figures to the shelf. After adding them, there are 10 action figures total on the shelf. So initially he had 10 - 7 = 3 action figures. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jerry added 7 action figures to the shelf. After adding them, he has a total of 10 action figures. So initially he must have had 10 - 7 = 3 action figures. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jerry added 7 action figures to the shelf. After adding them, there are 10 action figures total on the shelf. So initially he must have had 10 - 7 = 3 action figures. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jerry added 7 more action figures to the shelf. After adding them, there are 10 action figures total. So initially he had 10 - 7 = 3 action figures. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jerry added 7 action figures to the shelf. After adding them, he has 10 action figures total. So initially he must have had 10 - 7 = 3 action figures. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jerry added 7 action figures to the shelf. After adding them, there are 10 action figures total. So initially he had 10 - 7 = 3 action figures. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jerry added 7 action figures to the shelf. After adding them, there are 10 action figures total on the shelf. So initially he must have had 10 - 7 = 3 action figures. The answer is 3.",
+        "parsed_answer": "3"
+      }
+    ]
+  },
+  {
+    "question": "Paco had 41 cookies. He gave 9 cookies to his friend and ate 18 cookies. How many more cookies did he eat than those he gave to his friend?",
+    "true_answer": "9.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Paco gave 9 cookies to his friend and ate 18 cookies. We need to find how many more cookies he ate than those he gave. 18 - 9 = 9. The answer is 9.",
+        "parsed_answer": "9"
+      },
+      {
+        "response": "Let's think step by step. Paco gave 9 cookies to his friend and ate 18 cookies. To find how many more cookies he ate than those he gave, I need to subtract: 18 - 9 = 9. The answer is 9.",
+        "parsed_answer": "9"
+      },
+      {
+        "response": "Let's think step by step. Paco gave 9 cookies to his friend and ate 18 cookies. The question asks how many more cookies he ate than those he gave to his friend. So we need to calculate 18 - 9 = 9. The answer is 9.",
+        "parsed_answer": "9"
+      },
+      {
+        "response": "Let's think step by step. Paco gave 9 cookies to his friend and ate 18 cookies. We need to find how many more cookies he ate than those he gave to his friend. 18 - 9 = 9. The answer is 9.",
+        "parsed_answer": "9"
+      },
+      {
+        "response": "Let's think step by step. Paco gave 9 cookies to his friend and ate 18 cookies. To find how many more cookies he ate than those he gave, we need to subtract: 18 - 9 = 9. The answer is 9.",
+        "parsed_answer": "9"
+      },
+      {
+        "response": "Let's think step by step. Paco gave 9 cookies to his friend and ate 18 cookies. To find how many more cookies he ate than those he gave to his friend, we need to subtract: 18 - 9 = 9. The answer is 9.",
+        "parsed_answer": "9"
+      },
+      {
+        "response": "Let's think step by step. Paco gave 9 cookies to his friend and ate 18 cookies. To find how many more cookies he ate than those he gave, I need to subtract: 18 - 9 = 9. The answer is 9.",
+        "parsed_answer": "9"
+      },
+      {
+        "response": "Let's think step by step. Paco gave 9 cookies to his friend and ate 18 cookies. To find how many more cookies he ate than those he gave to his friend, I need to calculate 18 - 9 = 9. The answer is 9.",
+        "parsed_answer": "9"
+      },
+      {
+        "response": "Let's think step by step. Paco gave 9 cookies to his friend and ate 18 cookies. The question asks how many more cookies he ate than those he gave to his friend. So we need to find 18 - 9 = 9. The answer is 9.",
+        "parsed_answer": "9"
+      },
+      {
+        "response": "Let's think step by step. Paco gave 9 cookies to his friend and ate 18 cookies. The question asks how many more cookies he ate than those he gave to his friend. So we need to find 18 - 9 = 9. The answer is 9.",
+        "parsed_answer": "9"
+      }
+    ]
+  },
+  {
+    "question": "Mary is baking a cake. The recipe calls for 3 cups of sugar 10 cups of flour and 15 cups of salt. She already put in 6 cups of flour. How many more cups of flour does she need to add?",
+    "true_answer": "4.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. The recipe calls for 10 cups of flour. She already put in 6 cups of flour. So she needs 10 - 6 = 4 more cups of flour. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 10 cups of flour. Mary already put in 6 cups of flour. So she needs 10 - 6 = 4 more cups of flour. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 10 cups of flour. Mary already put in 6 cups of flour. So she needs to add 10 - 6 = 4 more cups of flour. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 10 cups of flour. She already put in 6 cups of flour. So she needs 10 - 6 = 4 more cups of flour. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 10 cups of flour. Mary has already put in 6 cups of flour. So she needs 10 - 6 = 4 more cups of flour. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 10 cups of flour. Mary already put in 6 cups of flour. So she needs 10 - 6 = 4 more cups of flour. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 10 cups of flour. Mary already put in 6 cups of flour. So she needs 10 - 6 = 4 more cups of flour. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 10 cups of flour. Mary already put in 6 cups of flour. So she needs 10 - 6 = 4 more cups of flour. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 10 cups of flour. Mary already put in 6 cups of flour. So she needs 10 - 6 = 4 more cups of flour. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 10 cups of flour. Mary has already put in 6 cups of flour. So she needs 10 - 6 = 4 more cups of flour. The answer is 4.",
+        "parsed_answer": "4"
+      }
+    ]
+  },
+  {
+    "question": "A waiter had some customers. After 9 customers left he still had 12 customers. How many customers did he have at the start?",
+    "true_answer": "21.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. The waiter had some customers at the start. After 9 customers left, he had 12 customers remaining. So at the start he must have had 12 + 9 = 21 customers. The answer is 21.",
+        "parsed_answer": "21"
+      },
+      {
+        "response": "Let's think step by step. The waiter had some number of customers at the start. After 9 customers left, he had 12 customers remaining. So at the start he must have had 12 + 9 = 21 customers. The answer is 21.",
+        "parsed_answer": "21"
+      },
+      {
+        "response": "Let's think step by step. The waiter had some customers at the start. After 9 customers left, he had 12 customers remaining. So at the start, he must have had 12 + 9 = 21 customers. The answer is 21.",
+        "parsed_answer": "21"
+      },
+      {
+        "response": "Let's think step by step. The waiter had some customers at the start. After 9 customers left, he had 12 customers remaining. So at the start, he must have had 12 + 9 = 21 customers. The answer is 21.",
+        "parsed_answer": "21"
+      },
+      {
+        "response": "Let's think step by step. The waiter had some customers initially. After 9 customers left, he had 12 customers remaining. So if we add back the 9 customers who left to the 12 remaining, we get the original number: 12 + 9 = 21. The answer is 21.",
+        "parsed_answer": "21"
+      },
+      {
+        "response": "Let's think step by step. The waiter had some unknown number of customers at the start. After 9 customers left, he had 12 customers remaining. So at the start he must have had 12 + 9 = 21 customers. The answer is 21.",
+        "parsed_answer": "21"
+      },
+      {
+        "response": "Let's think step by step. The waiter ended up with 12 customers after 9 customers left. So at the start, he must have had 12 + 9 = 21 customers. The answer is 21.",
+        "parsed_answer": "21"
+      },
+      {
+        "response": "Let's think step by step. The waiter had some customers initially. After 9 customers left, he had 12 customers remaining. So initially he must have had 12 + 9 = 21 customers. The answer is 21.",
+        "parsed_answer": "21"
+      },
+      {
+        "response": "Let's think step by step. The waiter had some customers at the start. After 9 customers left, he had 12 customers remaining. So at the start he must have had 12 + 9 = 21 customers. The answer is 21.",
+        "parsed_answer": "21"
+      },
+      {
+        "response": "Let's think step by step. The waiter had some customers at the start. After 9 customers left, he had 12 customers remaining. So at the start, he must have had 12 + 9 = 21 customers. The answer is 21.",
+        "parsed_answer": "21"
+      }
+    ]
+  },
+  {
+    "question": "3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them. How many more storks than birds are sitting on the fence?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. \n\nOriginally there were 3 birds on the fence.\nThen 6 more storks came to join them.\nThen 2 more birds came to join them.\n\nSo the total number of birds is 3 + 2 = 5 birds.\nThe total number of storks is 6 storks.\n\nThe difference is 6 - 5 = 1.\n\nThere is 1 more stork than birds sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. \n\nInitially, there were 3 birds on the fence.\n\nThen 6 more storks came and 2 more birds came.\n\nSo the total number of birds is: 3 + 2 = 5 birds\nThe total number of storks is: 6 storks\n\nThe difference is: 6 - 5 = 1\n\nThere is 1 more stork than birds sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Initially there were 3 birds on the fence. Then 6 more storks and 2 more birds came to join them. So now there are 3 + 2 = 5 birds total. And there are 6 storks. The difference is 6 - 5 = 1. There is 1 more stork than birds sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. \n\nOriginally there were 3 birds on the fence.\nThen 6 more storks came to join them.\nThen 2 more birds came to join them.\n\nSo the total number of birds is 3 + 2 = 5 birds.\nThe total number of storks is 6 storks.\n\nThe difference is 6 - 5 = 1.\n\nThere is 1 more stork than birds sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Initially there were 3 birds on the fence. Then 6 more storks and 2 more birds came to join them. So now there are 3 + 2 = 5 birds total. And there are 6 storks. The difference is 6 - 5 = 1. There is 1 more stork than birds sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. \n\nInitially, there were 3 birds on the fence.\n\nThen 6 more storks and 2 more birds came to join them.\n\nSo now there are:\n- Birds: 3 + 2 = 5 birds\n- Storks: 6 storks\n\nThe question asks how many more storks than birds are sitting on the fence.\n\n6 - 5 = 1\n\nThe answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 3 birds on the fence. Then 6 more storks and 2 more birds came to join them. So now there are 3 + 2 = 5 birds total. And there are 6 storks. The difference is 6 - 5 = 1. There is 1 more stork than birds on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 3 birds on the fence. Then 6 more storks and 2 more birds came to join them. So now there are 3 + 2 = 5 birds total. And there are 6 storks. The difference is 6 - 5 = 1. There is 1 more stork than birds sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 3 birds on the fence. Then 6 more storks and 2 more birds came to join them. So now there are 3 + 2 = 5 birds total. And there are 6 storks. The difference is 6 - 5 = 1. There is 1 more stork than birds sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Initially there were 3 birds on the fence. Then 6 more storks and 2 more birds came to join them. So now there are 3 + 2 = 5 birds total. And there are 6 storks. The difference is 6 - 5 = 1. There is 1 more stork than birds sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      }
+    ]
+  },
+  {
+    "question": "They decided to hold the party in their backyard. If they have 11 sets of tables and each set has 13 chairs How many chairs do they have in the backyard?",
+    "true_answer": "143.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. They have 11 sets of tables. Each set has 13 chairs. So the total number of chairs is 11 \u00d7 13 = 143. The answer is 143.",
+        "parsed_answer": "143"
+      },
+      {
+        "response": "Let's think step by step. They have 11 sets of tables. Each set has 13 chairs. So the total number of chairs is 11 \u00d7 13 = 143. The answer is 143.",
+        "parsed_answer": "143"
+      },
+      {
+        "response": "Let's think step by step. They have 11 sets of tables. Each set has 13 chairs. So the total number of chairs is 11 \u00d7 13 = 143. The answer is 143.",
+        "parsed_answer": "143"
+      },
+      {
+        "response": "Let's think step by step. They have 11 sets of tables. Each set has 13 chairs. So the total number of chairs is 11 \u00d7 13 = 143. The answer is 143.",
+        "parsed_answer": "143"
+      },
+      {
+        "response": "Let's think step by step. They have 11 sets of tables. Each set has 13 chairs. So the total number of chairs is 11 \u00d7 13 = 143. The answer is 143.",
+        "parsed_answer": "143"
+      },
+      {
+        "response": "Let's think step by step. They have 11 sets of tables. Each set has 13 chairs. So the total number of chairs is 11 \u00d7 13 = 143. The answer is 143.",
+        "parsed_answer": "143"
+      },
+      {
+        "response": "Let's think step by step. They have 11 sets of tables. Each set has 13 chairs. So the total number of chairs is 11 \u00d7 13 = 143. The answer is 143.",
+        "parsed_answer": "143"
+      },
+      {
+        "response": "Let's think step by step. They have 11 sets of tables. Each set has 13 chairs. So the total number of chairs is 11 \u00d7 13 = 143. The answer is 143.",
+        "parsed_answer": "143"
+      },
+      {
+        "response": "Let's think step by step. They have 11 sets of tables. Each set has 13 chairs. So the total number of chairs is 11 \u00d7 13 = 143. The answer is 143.",
+        "parsed_answer": "143"
+      },
+      {
+        "response": "Let's think step by step. They have 11 sets of tables. Each set has 13 chairs. So the total number of chairs is 11 \u00d7 13 = 143. The answer is 143.",
+        "parsed_answer": "143"
+      }
+    ]
+  },
+  {
+    "question": "In a school there are 458 more girls than boys. If there are 692 girls How many pupils are there in that school?",
+    "true_answer": "926.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. There are 692 girls in the school. There are 458 more girls than boys, which means the number of boys is 458 less than the number of girls. So the number of boys is 692 - 458 = 234. The total number of pupils is 692 + 234 = 926. The answer is 926.",
+        "parsed_answer": "926"
+      },
+      {
+        "response": "Let's think step by step. There are 692 girls in the school. There are 458 more girls than boys, which means the number of boys is 692 - 458 = 234. The total number of pupils is 692 + 234 = 926. The answer is 926.",
+        "parsed_answer": "926"
+      },
+      {
+        "response": "Let's think step by step. There are 692 girls in the school. There are 458 more girls than boys, which means the number of boys is 458 less than the number of girls. So the number of boys is 692 - 458 = 234. The total number of pupils is 692 + 234 = 926. The answer is 926.",
+        "parsed_answer": "926"
+      },
+      {
+        "response": "Let's think step by step. There are 692 girls in the school. There are 458 more girls than boys, which means there are 458 fewer boys than girls. So the number of boys is 692 - 458 = 234. The total number of pupils is 692 + 234 = 926. The answer is 926.",
+        "parsed_answer": "926"
+      },
+      {
+        "response": "Let's think step by step. There are 692 girls in the school. There are 458 more girls than boys, which means there are 458 fewer boys than girls. So the number of boys is 692 - 458 = 234. The total number of pupils is 692 + 234 = 926. The answer is 926.",
+        "parsed_answer": "926"
+      },
+      {
+        "response": "Let's think step by step. There are 692 girls in the school. There are 458 more girls than boys, which means there are 458 fewer boys than girls. So the number of boys is 692 - 458 = 234. The total number of pupils is the number of girls plus the number of boys: 692 + 234 = 926. The answer is 926.",
+        "parsed_answer": "926"
+      },
+      {
+        "response": "Let's think step by step. There are 692 girls in the school. There are 458 more girls than boys, which means there are 458 fewer boys than girls. So the number of boys is 692 - 458 = 234. The total number of pupils is girls + boys = 692 + 234 = 926. The answer is 926.",
+        "parsed_answer": "926"
+      },
+      {
+        "response": "Let's think step by step. There are 692 girls in the school. There are 458 more girls than boys, which means the number of boys is 458 less than the number of girls. So the number of boys is 692 - 458 = 234. The total number of pupils is 692 + 234 = 926. The answer is 926.",
+        "parsed_answer": "926"
+      },
+      {
+        "response": "Let's think step by step. There are 692 girls in the school. There are 458 more girls than boys, which means the number of boys is 458 less than the number of girls. So the number of boys is 692 - 458 = 234. The total number of pupils is 692 + 234 = 926. The answer is 926.",
+        "parsed_answer": "926"
+      },
+      {
+        "response": "Let's think step by step. There are 692 girls in the school. There are 458 more girls than boys, which means there are 458 fewer boys than girls. So the number of boys is 692 - 458 = 234. The total number of pupils is the number of girls plus the number of boys: 692 + 234 = 926. The answer is 926.",
+        "parsed_answer": "926"
+      }
+    ]
+  },
+  {
+    "question": "After resting they decided to go for a swim. The depth of the water is 15 times Dean's height. Dean is 4 feet taller than Ron. If Ron stands at 13 feet How deep was the water?",
+    "true_answer": "255.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Ron stands at 13 feet. Dean is 4 feet taller than Ron, so Dean is 13 + 4 = 17 feet tall. The depth of the water is 15 times Dean's height, so the depth is 15 \u00d7 17 = 255 feet. The answer is 255.",
+        "parsed_answer": "255"
+      },
+      {
+        "response": "Let's think step by step. Ron stands at 13 feet. Dean is 4 feet taller than Ron, so Dean is 13 + 4 = 17 feet tall. The depth of the water is 15 times Dean's height, so the depth is 15 \u00d7 17 = 255 feet. The answer is 255.",
+        "parsed_answer": "255"
+      },
+      {
+        "response": "Let's think step by step. Ron stands at 13 feet. Dean is 4 feet taller than Ron, so Dean is 13 + 4 = 17 feet tall. The depth of the water is 15 times Dean's height, so the depth is 15 \u00d7 17 = 255 feet. The answer is 255.",
+        "parsed_answer": "255"
+      },
+      {
+        "response": "Let's think step by step. Ron stands at 13 feet. Dean is 4 feet taller than Ron, so Dean is 13 + 4 = 17 feet tall. The depth of the water is 15 times Dean's height, so the depth is 15 \u00d7 17 = 255 feet. The answer is 255.",
+        "parsed_answer": "255"
+      },
+      {
+        "response": "Let's think step by step. Ron stands at 13 feet. Dean is 4 feet taller than Ron, so Dean is 13 + 4 = 17 feet tall. The depth of the water is 15 times Dean's height, so the depth is 15 \u00d7 17 = 255 feet. The answer is 255.",
+        "parsed_answer": "255"
+      },
+      {
+        "response": "Let's think step by step. Ron stands at 13 feet. Dean is 4 feet taller than Ron, so Dean is 13 + 4 = 17 feet tall. The depth of the water is 15 times Dean's height, so the depth is 15 \u00d7 17 = 255 feet. The answer is 255.",
+        "parsed_answer": "255"
+      },
+      {
+        "response": "Let's think step by step. Ron stands at 13 feet. Dean is 4 feet taller than Ron, so Dean is 13 + 4 = 17 feet tall. The depth of the water is 15 times Dean's height, so the depth is 15 \u00d7 17 = 255 feet. The answer is 255.",
+        "parsed_answer": "255"
+      },
+      {
+        "response": "Let's think step by step. Ron is 13 feet tall. Dean is 4 feet taller than Ron, so Dean is 13 + 4 = 17 feet tall. The depth of the water is 15 times Dean's height, so the depth is 15 \u00d7 17 = 255 feet. The answer is 255.",
+        "parsed_answer": "255"
+      },
+      {
+        "response": "Let's think step by step. Ron stands at 13 feet. Dean is 4 feet taller than Ron, so Dean is 13 + 4 = 17 feet tall. The depth of the water is 15 times Dean's height, so the depth is 15 \u00d7 17 = 255 feet. The answer is 255.",
+        "parsed_answer": "255"
+      },
+      {
+        "response": "Let's think step by step. Ron stands at 13 feet. Dean is 4 feet taller than Ron, so Dean is 13 + 4 = 17 feet tall. The depth of the water is 15 times Dean's height, so the depth is 15 \u00d7 17 = 255 feet. The answer is 255.",
+        "parsed_answer": "255"
+      }
+    ]
+  },
+  {
+    "question": "6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many birds are sitting on the fence?",
+    "true_answer": "10.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. There were originally 6 birds on the fence. Then 4 more birds came to join them. So now there are 6 + 4 = 10 birds. The 8 storks also came, but the question asks specifically how many birds are sitting on the fence. Storks are not birds (or if we consider them birds, we still need to count them). If storks count as birds, then 10 + 8 = 18 birds total. However, the most straightforward interpretation is that only the birds are being counted: 6 + 4 = 10 birds.\n\nThe answer is 10 birds (if storks are counted separately) or 18 birds (if storks are counted as birds).\n\nThe most likely intended answer is 10 birds.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. There were originally 6 birds on the fence. Then 4 more birds came to join them. So now there are 6 + 4 = 10 birds. The 8 storks that came are not birds, so we don't count them. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. There were originally 6 birds on the fence. Then 4 more birds came to join them. So now there are 6 + 4 = 10 birds. The 8 storks also came, but storks are not birds, so we don't count them. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. There were originally 6 birds on the fence. Then 4 more birds came to join them. So now there are 6 + 4 = 10 birds. The 8 storks that came are not birds, so we don't count them. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. There were originally 6 birds on the fence. Then 4 more birds came to join them. So now there are 6 + 4 = 10 birds. The 8 storks also came, but the question asks specifically how many birds are sitting on the fence, not storks. So the answer is 10 birds.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. There were originally 6 birds on the fence. Then 4 more birds came to join them. So now there are 6 + 4 = 10 birds. The 8 storks also came, but storks are not birds, so they don't count toward the number of birds on the fence. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. There were originally 6 birds on the fence. Then 4 more birds came to join them. So now there are 6 + 4 = 10 birds. The 8 storks also came, but the question asks specifically how many birds are sitting on the fence. Storks are not birds in this context, so we only count the birds. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. There were originally 6 birds on the fence. Then 4 more birds came to join them. So now there are 6 + 4 = 10 birds. The 8 storks also came, but they are storks, not birds, so they don't count toward the number of birds. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. There were originally 6 birds on the fence. Then 4 more birds came to join them. So now there are 6 + 4 = 10 birds. The 8 storks also came, but they are storks, not birds. So the total number of birds sitting on the fence is 10. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. There were originally 6 birds on the fence. Then 4 more birds came to join them. So now there are 6 + 4 = 10 birds. The 8 storks also came, but the question asks specifically how many birds are sitting on the fence. Storks are not birds in this context, so we don't count them. The answer is 10.",
+        "parsed_answer": "10"
+      }
+    ]
+  },
+  {
+    "question": "Marco and his dad went strawberry picking. Together they collected strawberries that weighed 36 pounds. On the way back Marco ' dad lost 8 pounds of strawberries. Marco's strawberries now weighed 12 pounds. How much did his dad's strawberries weigh now?",
+    "true_answer": "16.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Together they collected 36 pounds of strawberries. Marco's dad lost 8 pounds, so the total they have now is 36 - 8 = 28 pounds. Marco's strawberries weigh 12 pounds. So his dad's strawberries weigh 28 - 12 = 16 pounds. The answer is 16.",
+        "parsed_answer": "16"
+      },
+      {
+        "response": "Let's think step by step. Together they collected 36 pounds of strawberries. Marco's dad lost 8 pounds on the way back. So the total weight is now 36 - 8 = 28 pounds. Marco's strawberries weighed 12 pounds. So his dad's strawberries now weigh 28 - 12 = 16 pounds. The answer is 16.",
+        "parsed_answer": "16"
+      },
+      {
+        "response": "Let's think step by step. Together they collected 36 pounds of strawberries. Marco's dad lost 8 pounds, so the total they have now is 36 - 8 = 28 pounds. Marco's strawberries weigh 12 pounds. So his dad's strawberries weigh 28 - 12 = 16 pounds. The answer is 16.",
+        "parsed_answer": "16"
+      },
+      {
+        "response": "Let's think step by step. Together they collected 36 pounds of strawberries. Marco's dad lost 8 pounds, so the total weight is now 36 - 8 = 28 pounds. Marco's strawberries weighed 12 pounds. So his dad's strawberries weighed 28 - 12 = 16 pounds. The answer is 16.",
+        "parsed_answer": "16"
+      },
+      {
+        "response": "Let's think step by step. Together they collected strawberries that weighed 36 pounds. Marco's dad lost 8 pounds of strawberries. So the total weight is now 36 - 8 = 28 pounds. Marco's strawberries weighed 12 pounds. So his dad's strawberries weighed 28 - 12 = 16 pounds. The answer is 16.",
+        "parsed_answer": "16"
+      },
+      {
+        "response": "Let's think step by step. Together they collected 36 pounds of strawberries. Marco's dad lost 8 pounds, so the total they have now is 36 - 8 = 28 pounds. Marco's strawberries weigh 12 pounds. So his dad's strawberries now weigh 28 - 12 = 16 pounds. The answer is 16.",
+        "parsed_answer": "16"
+      },
+      {
+        "response": "Let's think step by step. Together they collected 36 pounds of strawberries. Marco's dad lost 8 pounds, so the total they have now is 36 - 8 = 28 pounds. Marco's strawberries weigh 12 pounds. So his dad's strawberries weigh 28 - 12 = 16 pounds. The answer is 16.",
+        "parsed_answer": "16"
+      },
+      {
+        "response": "Let's think step by step. Together they collected 36 pounds of strawberries. Marco's dad lost 8 pounds, so the total they have now is 36 - 8 = 28 pounds. Marco's strawberries weighed 12 pounds. So his dad's strawberries now weigh 28 - 12 = 16 pounds. The answer is 16.",
+        "parsed_answer": "16"
+      },
+      {
+        "response": "Let's think step by step. Together they collected 36 pounds of strawberries. Marco's dad lost 8 pounds, so the total they have now is 36 - 8 = 28 pounds. Marco's strawberries weighed 12 pounds. So his dad's strawberries now weigh 28 - 12 = 16 pounds. The answer is 16.",
+        "parsed_answer": "16"
+      },
+      {
+        "response": "Let's think step by step. Together they collected 36 pounds of strawberries. Marco's dad lost 8 pounds, so the total they have now is 36 - 8 = 28 pounds. Marco's strawberries weighed 12 pounds. So his dad's strawberries now weigh 28 - 12 = 16 pounds. The answer is 16.",
+        "parsed_answer": "16"
+      }
+    ]
+  },
+  {
+    "question": "In a school there are 697 girls and the rest are boys. If there are 228 more girls than boys How many boys are there in that school?",
+    "true_answer": "469.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. There are 697 girls in the school. There are 228 more girls than boys. So if we call the number of boys B, then 697 = B + 228. Solving for B: B = 697 - 228 = 469. The answer is 469.",
+        "parsed_answer": "469"
+      },
+      {
+        "response": "Let's think step by step. There are 697 girls in the school. There are 228 more girls than boys. So if we call the number of boys B, then:\n\n697 = B + 228\n\nSolving for B:\nB = 697 - 228 = 469\n\nThe answer is 469.",
+        "parsed_answer": "469"
+      },
+      {
+        "response": "Let's think step by step. There are 697 girls in the school. There are 228 more girls than boys. So if we call the number of boys B, then:\n\n697 = B + 228\n\nSolving for B:\nB = 697 - 228 = 469\n\nThe answer is 469.",
+        "parsed_answer": "469"
+      },
+      {
+        "response": "Let's think step by step. There are 697 girls in the school. There are 228 more girls than boys. So if we call the number of boys B, then:\n\n697 = B + 228\n\nSolving for B:\nB = 697 - 228 = 469\n\nThe answer is 469.",
+        "parsed_answer": "469"
+      },
+      {
+        "response": "Let's think step by step. There are 697 girls in the school. There are 228 more girls than boys. So if we let the number of boys be B, then 697 = B + 228. Solving for B: B = 697 - 228 = 469. The answer is 469.",
+        "parsed_answer": "469"
+      },
+      {
+        "response": "Let's think step by step. There are 697 girls in the school. There are 228 more girls than boys. So if we call the number of boys B, then:\n\n697 = B + 228\n\nSolving for B:\nB = 697 - 228 = 469\n\nThe answer is 469.",
+        "parsed_answer": "469"
+      },
+      {
+        "response": "Let's think step by step. There are 697 girls in the school. There are 228 more girls than boys. So if we call the number of boys B, then 697 = B + 228. Solving for B: B = 697 - 228 = 469. The answer is 469.",
+        "parsed_answer": "469"
+      },
+      {
+        "response": "Let's think step by step. There are 697 girls in the school. There are 228 more girls than boys. So if we call the number of boys B, then 697 = B + 228. Solving for B: B = 697 - 228 = 469. The answer is 469.",
+        "parsed_answer": "469"
+      },
+      {
+        "response": "Let's think step by step. There are 697 girls in the school. We're told there are 228 more girls than boys. So if we call the number of boys B, then:\n\n697 = B + 228\n\nSolving for B:\nB = 697 - 228 = 469\n\nThe answer is 469.",
+        "parsed_answer": "469"
+      },
+      {
+        "response": "Let's think step by step. There are 697 girls in the school. There are 228 more girls than boys. So if we call the number of boys B, then:\n\n697 = B + 228\n\nSolving for B:\nB = 697 - 228 = 469\n\nThe answer is 469.",
+        "parsed_answer": "469"
+      }
+    ]
+  },
+  {
+    "question": "In a school there are 732 girls and 761 boys. 682 more girls and 8 more boys joined the school. How many girls are there in the school now?",
+    "true_answer": "1414.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Originally, there were 732 girls in the school. Then 682 more girls joined. So now there are 732 + 682 = 1414 girls. The answer is 1414.",
+        "parsed_answer": "1414"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 732 girls in the school. Then 682 more girls joined. So now there are 732 + 682 = 1414 girls. The answer is 1414.",
+        "parsed_answer": "1414"
+      },
+      {
+        "response": "Let's think step by step. Originally, there were 732 girls in the school. Then 682 more girls joined. So now there are 732 + 682 = 1414 girls. The answer is 1414.",
+        "parsed_answer": "1414"
+      },
+      {
+        "response": "Let's think step by step. Originally, there were 732 girls in the school. Then 682 more girls joined. So the total number of girls is 732 + 682 = 1414. The answer is 1414.",
+        "parsed_answer": "1414"
+      },
+      {
+        "response": "Let's think step by step. Originally, there were 732 girls in the school. Then 682 more girls joined. So the total number of girls is 732 + 682 = 1414. The answer is 1414.",
+        "parsed_answer": "1414"
+      },
+      {
+        "response": "Let's think step by step. There were originally 732 girls in the school. Then 682 more girls joined. So now there are 732 + 682 = 1414 girls in the school. The answer is 1414.",
+        "parsed_answer": "1414"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 732 girls in the school. Then 682 more girls joined. So now there are 732 + 682 = 1414 girls. The answer is 1414.",
+        "parsed_answer": "1414"
+      },
+      {
+        "response": "Let's think step by step. Originally, there were 732 girls in the school. Then 682 more girls joined. So the total number of girls is 732 + 682 = 1414. The answer is 1414.",
+        "parsed_answer": "1414"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 732 girls in the school. Then 682 more girls joined. So the total number of girls is 732 + 682 = 1414. The answer is 1414.",
+        "parsed_answer": "1414"
+      },
+      {
+        "response": "Let's think step by step. Originally, there were 732 girls in the school. Then 682 more girls joined. So the total number of girls is 732 + 682 = 1414. The answer is 1414.",
+        "parsed_answer": "1414"
+      }
+    ]
+  },
+  {
+    "question": "Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many wrappers did danny have at first?",
+    "true_answer": "27.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Danny now has 57 wrappers in his collection. He found 30 wrappers at the park. So before finding those 30 wrappers, he had 57 - 30 = 27 wrappers. The answer is 27.",
+        "parsed_answer": "27"
+      },
+      {
+        "response": "Let's think step by step. Danny now has 57 wrappers in his collection. He found 30 wrappers at the park. So before finding those 30 wrappers, he had 57 - 30 = 27 wrappers. The answer is 27.",
+        "parsed_answer": "27"
+      },
+      {
+        "response": "Let's think step by step. Danny found 22 bottle caps and 30 wrappers at the park. After finding these, he now has 17 bottle caps and 57 wrappers in his collection.\n\nFor wrappers: He now has 57 wrappers total. He found 30 wrappers at the park. So he must have had 57 - 30 = 27 wrappers at first.\n\nThe answer is 27.",
+        "parsed_answer": "27"
+      },
+      {
+        "response": "Let's think step by step. Danny now has 57 wrappers in his collection. He found 30 wrappers at the park. So before finding those 30 wrappers, he had 57 - 30 = 27 wrappers. The answer is 27.",
+        "parsed_answer": "27"
+      },
+      {
+        "response": "Let's think step by step. Danny found 30 wrappers at the park. After finding them, he now has 57 wrappers in his collection. So before finding the wrappers at the park, he had 57 - 30 = 27 wrappers. The answer is 27.",
+        "parsed_answer": "27"
+      },
+      {
+        "response": "Let's think step by step. Danny found 22 bottle caps and 30 wrappers at the park. After finding these, he now has 17 bottle caps and 57 wrappers in his collection.\n\nFor wrappers: He now has 57 wrappers total. He found 30 wrappers at the park. So before finding them, he had 57 - 30 = 27 wrappers. The answer is 27.",
+        "parsed_answer": "27"
+      },
+      {
+        "response": "Let's think step by step. Danny now has 57 wrappers in his collection. He found 30 wrappers at the park. So before finding those 30 wrappers, he had 57 - 30 = 27 wrappers. The answer is 27.",
+        "parsed_answer": "27"
+      },
+      {
+        "response": "Let's think step by step. Danny found 30 wrappers at the park. After finding them, he has 57 wrappers total in his collection. So before finding the 30 wrappers, he must have had 57 - 30 = 27 wrappers. The answer is 27.",
+        "parsed_answer": "27"
+      },
+      {
+        "response": "Let's think step by step. Danny now has 57 wrappers in his collection. He found 30 wrappers at the park. So before finding those 30 wrappers, he had 57 - 30 = 27 wrappers. The answer is 27.",
+        "parsed_answer": "27"
+      },
+      {
+        "response": "Let's think step by step. Danny now has 57 wrappers in his collection. He found 30 wrappers at the park. So before finding those wrappers, he had 57 - 30 = 27 wrappers. The answer is 27.",
+        "parsed_answer": "27"
+      }
+    ]
+  },
+  {
+    "question": "Paul got a box of 457 erasers and 617 crayons for his birthday. At the end of the school year he only had 523 crayons left while not having lost a single eraser. How many more crayons than erasers did he have left?",
+    "true_answer": "66.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Paul got 457 erasers and 617 crayons. He didn't lose any erasers, so he still has 457 erasers. At the end of the school year, he had 523 crayons left. To find how many more crayons than erasers he had, I need to calculate 523 - 457 = 66. The answer is 66.",
+        "parsed_answer": "66"
+      },
+      {
+        "response": "Let's think step by step. Paul got 457 erasers and 617 crayons. He didn't lose any erasers, so he still has 457 erasers. At the end of the school year, he had 523 crayons left. So the difference is 523 - 457 = 66. He had 66 more crayons than erasers. The answer is 66.",
+        "parsed_answer": "66"
+      },
+      {
+        "response": "Let's think step by step. Paul got 457 erasers and 617 crayons. At the end of the school year, he had 457 erasers left (since he didn't lose any) and 523 crayons left. To find how many more crayons than erasers he had left, we calculate 523 - 457 = 66. The answer is 66.",
+        "parsed_answer": "66"
+      },
+      {
+        "response": "Let's think step by step. Paul got 457 erasers and 617 crayons for his birthday. He didn't lose any erasers, so he still has 457 erasers. At the end of the school year, he had 523 crayons left. So the difference is 523 - 457 = 66. He had 66 more crayons than erasers. The answer is 66.",
+        "parsed_answer": "66"
+      },
+      {
+        "response": "Let's think step by step. Paul got 457 erasers and 617 crayons. He didn't lose any erasers, so he still has 457 erasers. At the end of the school year, he had 523 crayons left. To find how many more crayons than erasers he has, I need to calculate 523 - 457 = 66. The answer is 66.",
+        "parsed_answer": "66"
+      },
+      {
+        "response": "Let's think step by step. Paul got 457 erasers and 617 crayons. He didn't lose any erasers, so he still has 457 erasers. At the end of the school year, he had 523 crayons left. To find how many more crayons than erasers he has, I need to calculate 523 - 457 = 66. The answer is 66.",
+        "parsed_answer": "66"
+      },
+      {
+        "response": "Let's think step by step. Paul got 457 erasers and 617 crayons. He didn't lose any erasers, so he still has 457 erasers. At the end of the school year, he had 523 crayons left. To find how many more crayons than erasers he has, we calculate 523 - 457 = 66. The answer is 66.",
+        "parsed_answer": "66"
+      },
+      {
+        "response": "Let's think step by step. Paul got 457 erasers and 617 crayons for his birthday. At the end of the school year, he had 457 erasers left (since he didn't lose any) and 523 crayons left. To find how many more crayons than erasers he had left, we calculate 523 - 457 = 66. The answer is 66.",
+        "parsed_answer": "66"
+      },
+      {
+        "response": "Let's think step by step. Paul got 457 erasers and 617 crayons. He didn't lose any erasers, so he still has 457 erasers. At the end of the school year, he had 523 crayons left. To find how many more crayons than erasers he has, we calculate 523 - 457 = 66. The answer is 66.",
+        "parsed_answer": "66"
+      },
+      {
+        "response": "Let's think step by step. Paul started with 457 erasers and 617 crayons. At the end of the school year, he had 457 erasers (since he lost none) and 523 crayons left. To find how many more crayons than erasers he had left, I need to calculate 523 - 457 = 66. The answer is 66.",
+        "parsed_answer": "66"
+      }
+    ]
+  },
+  {
+    "question": "Baker made 121 cakes. He sold 105 of them and bought 170 new cakes. How many cakes does baker still have?",
+    "true_answer": "186.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Baker started with 121 cakes. He sold 105 of them, so he had 121 - 105 = 16 cakes left. Then he bought 170 new cakes, so he had 16 + 170 = 186 cakes. The answer is 186.",
+        "parsed_answer": "186"
+      },
+      {
+        "response": "Let's think step by step. Baker started with 121 cakes. He sold 105 of them, so he had 121 - 105 = 16 cakes left. Then he bought 170 new cakes, so he had 16 + 170 = 186 cakes. The answer is 186.",
+        "parsed_answer": "186"
+      },
+      {
+        "response": "Let's think step by step. Baker started with 121 cakes. He sold 105 of them, so he had 121 - 105 = 16 cakes left. Then he bought 170 new cakes, so he had 16 + 170 = 186 cakes. The answer is 186.",
+        "parsed_answer": "186"
+      },
+      {
+        "response": "Let's think step by step. Baker started with 121 cakes. He sold 105 of them, so he had 121 - 105 = 16 cakes left. Then he bought 170 new cakes, so he had 16 + 170 = 186 cakes. The answer is 186.",
+        "parsed_answer": "186"
+      },
+      {
+        "response": "Let's think step by step. Baker started with 121 cakes. He sold 105 of them, so he had 121 - 105 = 16 cakes left. Then he bought 170 new cakes, so he had 16 + 170 = 186 cakes. The answer is 186.",
+        "parsed_answer": "186"
+      },
+      {
+        "response": "Let's think step by step. Baker started with 121 cakes. He sold 105 of them, so he had 121 - 105 = 16 cakes left. Then he bought 170 new cakes, so he had 16 + 170 = 186 cakes. The answer is 186.",
+        "parsed_answer": "186"
+      },
+      {
+        "response": "Let's think step by step. Baker started with 121 cakes. He sold 105 of them, so he had 121 - 105 = 16 cakes left. Then he bought 170 new cakes, so he had 16 + 170 = 186 cakes. The answer is 186.",
+        "parsed_answer": "186"
+      },
+      {
+        "response": "Let's think step by step. Baker started with 121 cakes. He sold 105 of them, so he had 121 - 105 = 16 cakes. Then he bought 170 new cakes, so he had 16 + 170 = 186 cakes. The answer is 186.",
+        "parsed_answer": "186"
+      },
+      {
+        "response": "Let's think step by step. Baker started with 121 cakes. He sold 105 of them, so he had 121 - 105 = 16 cakes left. Then he bought 170 new cakes, so he had 16 + 170 = 186 cakes. The answer is 186.",
+        "parsed_answer": "186"
+      },
+      {
+        "response": "Let's think step by step. Baker started with 121 cakes. He sold 105 of them, so he had 121 - 105 = 16 cakes left. Then he bought 170 new cakes, so he had 16 + 170 = 186 cakes. The answer is 186.",
+        "parsed_answer": "186"
+      }
+    ]
+  },
+  {
+    "question": "An industrial machine worked for 5 minutes. It can make 4 shirts a minute. How many shirts did machine make?",
+    "true_answer": "20.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. The machine worked for 5 minutes. It can make 4 shirts a minute. So the total number of shirts made is 5 \u00d7 4 = 20. The answer is 20.",
+        "parsed_answer": "20"
+      },
+      {
+        "response": "Let's think step by step. The machine worked for 5 minutes. It can make 4 shirts a minute. So in 5 minutes, it made 5 \u00d7 4 = 20 shirts. The answer is 20.",
+        "parsed_answer": "20"
+      },
+      {
+        "response": "Let's think step by step. The machine worked for 5 minutes. It can make 4 shirts a minute. So the total number of shirts made is 5 \u00d7 4 = 20. The answer is 20.",
+        "parsed_answer": "20"
+      },
+      {
+        "response": "Let's think step by step. The machine worked for 5 minutes. It can make 4 shirts a minute. So the total number of shirts made is 5 \u00d7 4 = 20. The answer is 20.",
+        "parsed_answer": "20"
+      },
+      {
+        "response": "Let's think step by step. The machine worked for 5 minutes. It can make 4 shirts a minute. So the total number of shirts made is 5 \u00d7 4 = 20. The answer is 20.",
+        "parsed_answer": "20"
+      },
+      {
+        "response": "Let's think step by step. The machine worked for 5 minutes. It can make 4 shirts a minute. So the total number of shirts made is 5 \u00d7 4 = 20. The answer is 20.",
+        "parsed_answer": "20"
+      },
+      {
+        "response": "Let's think step by step. The machine worked for 5 minutes. It can make 4 shirts a minute. So the total number of shirts made is 5 \u00d7 4 = 20. The answer is 20.",
+        "parsed_answer": "20"
+      },
+      {
+        "response": "Let's think step by step. The machine worked for 5 minutes. It makes 4 shirts a minute. So the total number of shirts made is 5 \u00d7 4 = 20. The answer is 20.",
+        "parsed_answer": "20"
+      },
+      {
+        "response": "Let's think step by step. The machine worked for 5 minutes. It can make 4 shirts a minute. So the total number of shirts made is 5 \u00d7 4 = 20. The answer is 20.",
+        "parsed_answer": "20"
+      },
+      {
+        "response": "Let's think step by step. The machine worked for 5 minutes. It can make 4 shirts a minute. So in 5 minutes, it makes 5 \u00d7 4 = 20 shirts. The answer is 20.",
+        "parsed_answer": "20"
+      }
+    ]
+  },
+  {
+    "question": "The bananas in Philip's collection are organized into groups of size 18. If there are a total of 180 bananas in Philip's banana collection How many groups are there?",
+    "true_answer": "10.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Philip has 180 bananas total. They are organized into groups of size 18. To find the number of groups, we divide the total by the group size: 180 \u00f7 18 = 10. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. Philip has 180 bananas total. They are organized into groups of size 18. To find the number of groups, we divide the total by the group size: 180 \u00f7 18 = 10. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. Philip has 180 bananas in total. They are organized into groups of size 18. To find the number of groups, we divide the total by the group size: 180 \u00f7 18 = 10. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. Philip has 180 bananas in total. They are organized into groups of size 18. To find the number of groups, we divide the total by the group size: 180 \u00f7 18 = 10. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. Philip has 180 bananas in total. They are organized into groups of size 18. To find the number of groups, we divide the total number of bananas by the size of each group. 180 \u00f7 18 = 10. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. Philip has 180 bananas total. They are organized into groups of size 18. To find the number of groups, we divide the total by the group size: 180 \u00f7 18 = 10. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. Philip has 180 bananas total. They are organized into groups of size 18. To find the number of groups, we divide the total by the group size: 180 \u00f7 18 = 10. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. Philip has 180 bananas in total. They are organized into groups of size 18. To find the number of groups, we divide the total number of bananas by the size of each group. 180 \u00f7 18 = 10. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. Philip has a total of 180 bananas. They are organized into groups of size 18. To find the number of groups, we divide the total by the group size: 180 \u00f7 18 = 10. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. Philip has 180 bananas in total. They are organized into groups of size 18. To find the number of groups, we divide the total number of bananas by the size of each group. 180 \u00f7 18 = 10. The answer is 10.",
+        "parsed_answer": "10"
+      }
+    ]
+  },
+  {
+    "question": "There were some birds sitting on the fence. 4 more birds came to join them. If there are a total of 5 birds on the fence now How many birds had been sitting on the fence at the start?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. There are now 5 birds total on the fence. 4 more birds came to join them. So originally there were 5 - 4 = 1 bird sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. There are now 5 birds total on the fence. 4 more birds came to join them. So originally there were 5 - 4 = 1 bird sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. There are now 5 birds total on the fence. 4 more birds came to join them. So originally there were 5 - 4 = 1 bird on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. There are now 5 birds total on the fence. 4 more birds came to join them. So originally there were 5 - 4 = 1 bird sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. There are now 5 birds total on the fence. 4 more birds came to join them. So originally there were 5 - 4 = 1 bird on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. There are now 5 birds total on the fence. 4 more birds came to join them. So originally there were 5 - 4 = 1 bird sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. There are now 5 birds total on the fence. 4 more birds came to join them. So originally there were 5 - 4 = 1 bird sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. There are now 5 birds total on the fence. 4 more birds came to join them. So originally there were 5 - 4 = 1 bird sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. There are now 5 birds total on the fence. 4 more birds came to join them. So originally there were 5 - 4 = 1 bird sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. There are now 5 birds total on the fence. 4 more birds came to join them. So originally there were 5 - 4 = 1 bird sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      }
+    ]
+  },
+  {
+    "question": "Jerry had 3 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed some of the old ones. If there are 6 action figures on his shelf now How many action figures did he remove from the shelf?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Jerry started with 3 action figures. He added 4 more, so he had 3 + 4 = 7 action figures. Then he removed some, and now he has 6 action figures. So he removed 7 - 6 = 1 action figure. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 3 action figures. He added 4 more, so he had 3 + 4 = 7 action figures. Then he removed some, and now he has 6 action figures. So he removed 7 - 6 = 1 action figure. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 3 action figures. He added 4 more, so he had 3 + 4 = 7 action figures. Now there are 6 action figures on the shelf. So he must have removed 7 - 6 = 1 action figure. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 3 action figures. He added 4 more, so he had 3 + 4 = 7 action figures. Now there are 6 action figures on the shelf. So he must have removed 7 - 6 = 1 action figure. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 3 action figures. He added 4 more, so he had 3 + 4 = 7 action figures. After removing some, he had 6 action figures. So he removed 7 - 6 = 1 action figure. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 3 action figures. He added 4 more, so he had 3 + 4 = 7 action figures. Now there are 6 action figures on the shelf. So he must have removed 7 - 6 = 1 action figure. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 3 action figures. He added 4 more action figures, so he had 3 + 4 = 7 action figures. Now there are 6 action figures on the shelf. So he must have removed 7 - 6 = 1 action figure. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 3 action figures. He added 4 more, so he had 3 + 4 = 7 action figures. After removing some, he had 6 action figures left. So he removed 7 - 6 = 1 action figure from the shelf. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 3 action figures. He added 4 more, so he had 3 + 4 = 7 action figures. Now he has 6 action figures on the shelf. So he must have removed 7 - 6 = 1 action figure. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 3 action figures. He added 4 more, so he had 3 + 4 = 7 action figures. Then he removed some, and ended up with 6 action figures. So he removed 7 - 6 = 1 action figure. The answer is 1.",
+        "parsed_answer": "1"
+      }
+    ]
+  },
+  {
+    "question": "Danny collects bottle caps and wrappers. He found 65 wrappers and 5 bottle caps at the park. Now he has 31 bottle caps and 9 wrappers in his collection. How many more wrappers than bottle caps did danny find at the park?",
+    "true_answer": "60.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Danny found 65 wrappers and 5 bottle caps at the park. The question asks how many more wrappers than bottle caps he found at the park. So we need to compare what he found: 65 wrappers - 5 bottle caps = 60. The answer is 60.",
+        "parsed_answer": "60"
+      },
+      {
+        "response": "Let's think step by step. Danny found 65 wrappers and 5 bottle caps at the park. The question asks how many more wrappers than bottle caps did he find at the park. So we need to compare what he found: 65 wrappers - 5 bottle caps = 60. The answer is 60.",
+        "parsed_answer": "60"
+      },
+      {
+        "response": "Let's think step by step. Danny found 65 wrappers and 5 bottle caps at the park. The question asks how many more wrappers than bottle caps he found at the park. So we need to find the difference: 65 - 5 = 60. The answer is 60.",
+        "parsed_answer": "60"
+      },
+      {
+        "response": "Let's think step by step. Danny found 65 wrappers and 5 bottle caps at the park. The question asks how many more wrappers than bottle caps he found at the park. So we need to compare what he found: 65 wrappers - 5 bottle caps = 60. The answer is 60.",
+        "parsed_answer": "60"
+      },
+      {
+        "response": "Let's think step by step. Danny found 65 wrappers and 5 bottle caps at the park. The question asks how many more wrappers than bottle caps he found at the park. So we need to compare what he found: 65 wrappers - 5 bottle caps = 60. The answer is 60.",
+        "parsed_answer": "60"
+      },
+      {
+        "response": "Let's think step by step. Danny found 65 wrappers and 5 bottle caps at the park. The question asks how many more wrappers than bottle caps he found at the park. So we need to compare what he found: 65 wrappers - 5 bottle caps = 60. The answer is 60.",
+        "parsed_answer": "60"
+      },
+      {
+        "response": "Let's think step by step. Danny found 65 wrappers and 5 bottle caps at the park. The question asks how many more wrappers than bottle caps he found at the park. So we need to compare what he found: 65 wrappers - 5 bottle caps = 60. The answer is 60.",
+        "parsed_answer": "60"
+      },
+      {
+        "response": "Let's think step by step. Danny found 65 wrappers and 5 bottle caps at the park. The question asks how many more wrappers than bottle caps he found at the park. So we need to compare what he found: 65 wrappers - 5 bottle caps = 60. The answer is 60.",
+        "parsed_answer": "60"
+      },
+      {
+        "response": "Let's think step by step. Danny found 65 wrappers and 5 bottle caps at the park. The question asks how many more wrappers than bottle caps he found at the park. So we need to compare what he found: 65 wrappers - 5 bottle caps = 60. The answer is 60.",
+        "parsed_answer": "60"
+      },
+      {
+        "response": "Let's think step by step. Danny found 65 wrappers and 5 bottle caps at the park. The question asks how many more wrappers than bottle caps he found at the park. So we need to compare what he found: 65 wrappers - 5 bottle caps = 60. The answer is 60.",
+        "parsed_answer": "60"
+      }
+    ]
+  },
+  {
+    "question": "Because of the decision Sofia asked the students to suggest specific types of food from a total of 66 choices. If 450 students suggested adding mashed potatoes 38 suggested adding bacon to the menu and the rest did not participate How many students participated in the suggestion of new food items?",
+    "true_answer": "488.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. \n\nThere were 450 students who suggested mashed potatoes and 38 students who suggested bacon.\n\nTo find the total number of students who participated, we add these two groups together: 450 + 38 = 488.\n\nThe answer is 488.",
+        "parsed_answer": "488"
+      },
+      {
+        "response": "Let's think step by step. We need to find how many students participated in suggesting new food items.\n\nWe're told:\n- There were 450 students who suggested mashed potatoes\n- 38 students suggested adding bacon\n- The rest did not participate\n\nThe total number of students who participated = those who suggested mashed potatoes + those who suggested bacon\n\n450 + 38 = 488\n\nThe answer is 488.",
+        "parsed_answer": "488"
+      },
+      {
+        "response": "Let's think step by step. We need to find how many students participated in suggesting new food items.\n\nWe know:\n- Total choices available: 66\n- Students who suggested mashed potatoes: 450\n- Students who suggested bacon: 38\n- The rest did not participate\n\nThe students who participated are those who suggested mashed potatoes plus those who suggested bacon.\n\n450 + 38 = 488\n\nThe answer is 488.",
+        "parsed_answer": "488"
+      },
+      {
+        "response": "Let's think step by step. \n\nWe need to find how many students participated in suggesting new food items.\n\nWe're told:\n- 450 students suggested adding mashed potatoes\n- 38 students suggested adding bacon\n- The rest did not participate\n\nTo find the total number of students who participated, we add those who suggested mashed potatoes and those who suggested bacon:\n\n450 + 38 = 488\n\nThe answer is 488.",
+        "parsed_answer": "488"
+      },
+      {
+        "response": "Let's think step by step. There were 66 total choices of food. 450 students suggested mashed potatoes and 38 suggested bacon. The question asks how many students participated in suggesting new food items.\n\nThe students who participated are those who suggested mashed potatoes plus those who suggested bacon: 450 + 38 = 488.\n\nThe answer is 488.",
+        "parsed_answer": "488"
+      },
+      {
+        "response": "Let's think step by step. \n\nWe're told that there were 450 students who suggested adding mashed potatoes and 38 students who suggested adding bacon to the menu.\n\nThe question asks how many students participated in the suggestion of new food items.\n\nThe students who participated are those who suggested mashed potatoes plus those who suggested bacon: 450 + 38 = 488.\n\nThe answer is 488.",
+        "parsed_answer": "488"
+      },
+      {
+        "response": "Let's think step by step. There were a total of 66 choices for food suggestions. 450 students suggested adding mashed potatoes. 38 students suggested adding bacon to the menu. The rest did not participate.\n\nTo find how many students participated in the suggestion of new food items, I need to add up all the students who made suggestions:\n450 + 38 = 488\n\nThe answer is 488.",
+        "parsed_answer": "488"
+      },
+      {
+        "response": "Let's think step by step. There were 66 total choices of food. 450 students suggested mashed potatoes and 38 students suggested bacon. The question asks how many students participated in suggesting new food items.\n\nThe students who participated are those who suggested mashed potatoes plus those who suggested bacon: 450 + 38 = 488.\n\nThe answer is 488.",
+        "parsed_answer": "488"
+      },
+      {
+        "response": "Let's think step by step. There were a total of 66 choices for food suggestions. 450 students suggested adding mashed potatoes. 38 students suggested adding bacon to the menu. The rest did not participate.\n\nTo find how many students participated, I need to add the students who suggested each item: 450 + 38 = 488 students participated in suggesting new food items.\n\nThe answer is 488.",
+        "parsed_answer": "488"
+      },
+      {
+        "response": "Let's think step by step. There were 66 total choices for food suggestions. 450 students suggested mashed potatoes and 38 students suggested bacon. The question asks how many students participated in suggesting new food items.\n\nThe students who participated are those who suggested mashed potatoes plus those who suggested bacon: 450 + 38 = 488.\n\nThe answer is 488.",
+        "parsed_answer": "488"
+      }
+    ]
+  },
+  {
+    "question": "Matthew gave equal numbers of crackers and cakes to his 28 friends. If he had 13 crackers and 15 cakes initially How many crackers and cakes did each person eat?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Matthew had 13 crackers and 15 cakes initially. In total, he had 13 + 15 = 28 items. He distributed these equally among 28 friends. So each friend got 28 \u00f7 28 = 1 item. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Matthew had 13 crackers and 15 cakes initially, for a total of 13 + 15 = 28 items. He gave equal numbers of crackers and cakes to his 28 friends. So each friend received 28 \u00f7 28 = 1 item total. Since he gave equal numbers of crackers and cakes, each friend received 0.5 crackers and 0.5 cakes.\n\nHowever, this doesn't result in whole numbers. Let me reconsider: if each friend gets an equal number of crackers AND an equal number of cakes, then each friend gets 13 \u00f7 28 crackers and 15 \u00f7 28 cakes, which are not whole numbers either.\n\nThe most reasonable interpretation is that each friend received 1 cracker and 1 cake... but he only has 13 crackers and 15 cakes for 28 friends, so this isn't possible.\n\nGiven the problem as stated, if we assume each friend gets an equal share of the total: each friend gets 28 \u00f7 28 = 1 item. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Matthew had 13 crackers and 15 cakes initially. In total, he had 13 + 15 = 28 items. He gave equal numbers of crackers and cakes to his 28 friends. So each friend received 28 \u00f7 28 = 1 item total. Since he gave equal numbers of crackers and cakes, each friend received 0.5 crackers and 0.5 cakes.\n\nHowever, this doesn't make practical sense. Let me reconsider: if each friend got an equal number of crackers AND an equal number of cakes, then each friend got (13 \u00f7 28) crackers and (15 \u00f7 28) cakes, which are not whole numbers.\n\nThe most reasonable interpretation is that each friend received 1 cracker and 1 cake (but he doesn't have enough - he only has 13 crackers for 28 friends). \n\nAlternatively, if the question means he distributed all items equally: 28 total items \u00f7 28 friends = 1 item per person. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Matthew had 13 crackers and 15 cakes initially. In total, he had 13 + 15 = 28 items. He gave equal numbers of crackers and cakes to his 28 friends. So each friend received 28 \u00f7 28 = 1 item in total. However, the question asks how many crackers and cakes each person ate, which would require knowing how many of each type each person got. Since he distributed 28 total items equally among 28 friends, each friend got 1 item. The answer is 1 item per person (though we cannot determine the exact split between crackers and cakes without more information).",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Matthew had 13 crackers and 15 cakes initially. In total, he had 13 + 15 = 28 items. He gave equal numbers of crackers and cakes to his 28 friends. So each friend received 28 / 28 = 1 item total. Since he gave equal numbers of crackers and cakes, each friend received 0.5 crackers and 0.5 cakes. The answer is 0.5 crackers and 0.5 cakes each.",
+        "parsed_answer": "0"
+      },
+      {
+        "response": "Let's think step by step. Matthew had 13 crackers and 15 cakes initially, for a total of 13 + 15 = 28 items. He gave equal numbers of crackers and cakes to his 28 friends. So each friend received 28 \u00f7 28 = 1 item total. Since he gave equal numbers of crackers and cakes, each friend received 0.5 crackers and 0.5 cakes.\n\nHowever, let me reconsider this problem. If he's distributing equal numbers of crackers and cakes to each person, and he has 13 crackers and 15 cakes, this doesn't divide evenly. \n\nThe most reasonable interpretation is: each friend gets the same amount of crackers as cakes. With 13 crackers and 15 cakes split among 28 friends equally, each friend would get 13/28 crackers and 15/28 cakes.\n\nBut if we're looking for whole numbers, the limiting factor is the crackers (13). So each of the 28 friends could get at most 0 whole crackers and cakes each, with some left over.\n\nThe answer is approximately 0.46 crackers and 0.54 cakes per person (or 13/28 crackers and 15/28 cakes per person).",
+        "parsed_answer": "28"
+      },
+      {
+        "response": "Let's think step by step. Matthew had 13 crackers and 15 cakes initially, for a total of 13 + 15 = 28 items. He gave equal numbers of crackers and cakes to his 28 friends. So each friend received 28 \u00f7 28 = 1 item total. Since he gave equal numbers of crackers and cakes to each friend, each friend received 0.5 crackers and 0.5 cakes.\n\nHowever, if the question is asking how many crackers and cakes each person received in total: each person received 1 item.\n\nThe answer is 1 item per person (or 0.5 crackers and 0.5 cakes per person if split equally).",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Matthew had 13 crackers and 15 cakes initially. In total, he had 13 + 15 = 28 items. He gave equal numbers of crackers and cakes to his 28 friends. So each friend got 28 \u00f7 28 = 1 item in total. Since he gave equal numbers of crackers and cakes, each person got 0.5 crackers and 0.5 cakes.\n\nHowever, let me reconsider this. If he's giving equal numbers of crackers AND cakes (meaning the same amount of each type), then:\n- Total crackers and cakes: 13 + 15 = 28 items\n- Number of friends: 28\n- Items per friend: 28 \u00f7 28 = 1 item per friend\n\nBut this doesn't work evenly if each person needs equal crackers AND equal cakes. Given the constraint that there are exactly 28 items for 28 friends, each friend would receive 1 item total. The answer is 1 (item per person), though this cannot be split equally between crackers and cakes for each individual.\n\nThe answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Matthew had 13 crackers and 15 cakes initially, for a total of 13 + 15 = 28 items. He gave equal numbers of crackers and cakes to his 28 friends. So each friend got 28 \u00f7 28 = 1 item total. Since he gave equal numbers of crackers and cakes, each friend got 0.5 crackers and 0.5 cakes.\n\nHowever, this seems unusual since you can't split crackers and cakes evenly. Let me reconsider: if Matthew distributed all items equally among 28 friends, each friend would get 1 item (either a cracker or a cake). But the problem states equal numbers of each were given.\n\nActually, with 13 crackers and 15 cakes (28 total items) for 28 friends with equal distribution of each type, this isn't possible to do evenly. But if we interpret it as each friend receiving an equal share of the total: 28 items \u00f7 28 friends = 1 item per friend.\n\nThe answer is 1 (or approximately 0.5 crackers and 0.5 cakes per person if split equally by type).",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Matthew had 13 crackers and 15 cakes initially. In total, he had 13 + 15 = 28 items. He gave equal numbers of crackers and cakes to his 28 friends. So each friend received 28 \u00f7 28 = 1 item in total. However, the question asks how many crackers and cakes each person ate, which suggests they each got some of both types.\n\nSince he had 13 crackers and 15 cakes to distribute equally among 28 friends:\n- Each friend gets 13 \u00f7 28 crackers (which is 13/28 of a cracker)\n- Each friend gets 15 \u00f7 28 cakes (which is 15/28 of a cake)\n\nIn total, each person received (13 + 15) \u00f7 28 = 28 \u00f7 28 = 1 item.\n\nThe answer is 1 item per person (or 13/28 crackers and 15/28 cakes per person if we're being precise about the distribution).",
+        "parsed_answer": "1"
+      }
+    ]
+  },
+  {
+    "question": "A grocery store had 49 bottles of regular soda, 40 bottles of diet soda and 6 bottles of lite soda. How many bottles of regular soda and diet soda did they have altogether?",
+    "true_answer": "89.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. The grocery store had 49 bottles of regular soda and 40 bottles of diet soda. We need to find how many bottles of regular soda and diet soda they had altogether. 49 + 40 = 89. The answer is 89.",
+        "parsed_answer": "89"
+      },
+      {
+        "response": "Let's think step by step. The grocery store had 49 bottles of regular soda and 40 bottles of diet soda. To find how many bottles of regular soda and diet soda they had altogether, I need to add these two amounts: 49 + 40 = 89. The answer is 89.",
+        "parsed_answer": "89"
+      },
+      {
+        "response": "Let's think step by step. The grocery store had 49 bottles of regular soda and 40 bottles of diet soda. We need to find how many bottles of regular soda and diet soda they have altogether. 49 + 40 = 89. The answer is 89.",
+        "parsed_answer": "89"
+      },
+      {
+        "response": "Let's think step by step. The grocery store had 49 bottles of regular soda and 40 bottles of diet soda. To find how many bottles of regular soda and diet soda they had altogether, we add: 49 + 40 = 89. The answer is 89.",
+        "parsed_answer": "89"
+      },
+      {
+        "response": "Let's think step by step. The grocery store had 49 bottles of regular soda and 40 bottles of diet soda. We need to find how many bottles of regular soda and diet soda they had altogether. 49 + 40 = 89. The answer is 89.",
+        "parsed_answer": "89"
+      },
+      {
+        "response": "Let's think step by step. The grocery store had 49 bottles of regular soda and 40 bottles of diet soda. To find how many bottles of regular soda and diet soda they had altogether, I need to add these two amounts: 49 + 40 = 89. The answer is 89.",
+        "parsed_answer": "89"
+      },
+      {
+        "response": "Let's think step by step. The grocery store had 49 bottles of regular soda and 40 bottles of diet soda. To find how many bottles of regular soda and diet soda they had altogether, we add: 49 + 40 = 89. The answer is 89.",
+        "parsed_answer": "89"
+      },
+      {
+        "response": "Let's think step by step. The grocery store had 49 bottles of regular soda and 40 bottles of diet soda. To find how many bottles of regular soda and diet soda they have altogether, I need to add these two amounts: 49 + 40 = 89. The answer is 89.",
+        "parsed_answer": "89"
+      },
+      {
+        "response": "Let's think step by step. The grocery store had 49 bottles of regular soda and 40 bottles of diet soda. To find how many bottles of regular soda and diet soda they had altogether, I need to add these two amounts: 49 + 40 = 89. The answer is 89.",
+        "parsed_answer": "89"
+      },
+      {
+        "response": "Let's think step by step. The grocery store had 49 bottles of regular soda and 40 bottles of diet soda. To find how many bottles of regular soda and diet soda they had altogether, I need to add these two amounts: 49 + 40 = 89. The answer is 89.",
+        "parsed_answer": "89"
+      }
+    ]
+  },
+  {
+    "question": "Dan has $ 3. He bought 2 candy bar for $ 4, each one costing the same amount of money. How much did each candy bar cost?",
+    "true_answer": "2.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Dan bought 2 candy bars for a total of $4. To find the cost of each candy bar, we divide the total cost by the number of candy bars. 4 \u00f7 2 = 2. Each candy bar costs $2. The answer is $2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Dan bought 2 candy bars for a total of $4. To find the cost of each candy bar, we need to divide the total cost by the number of candy bars. 4 \u00f7 2 = 2. Each candy bar cost $2.\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Dan bought 2 candy bars for a total of $4. To find the cost of each candy bar, we divide the total cost by the number of candy bars: $4 \u00f7 2 = $2. The answer is $2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Dan has $3. He bought 2 candy bars for a total of $4. To find the cost of each candy bar, we divide the total cost by the number of candy bars: $4 \u00f7 2 = $2. The answer is $2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Dan bought 2 candy bars for a total of $4. To find the cost of each candy bar, we divide the total cost by the number of candy bars. 4 \u00f7 2 = 2. Each candy bar cost $2.\n\nThe answer is $2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Dan bought 2 candy bars for a total of $4. To find the cost of each candy bar, we divide the total cost by the number of candy bars. 4 \u00f7 2 = 2. Each candy bar cost $2.\n\nThe answer is $2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Dan bought 2 candy bars for a total of $4. To find the cost of each candy bar, we divide the total cost by the number of candy bars. 4 \u00f7 2 = 2. Each candy bar cost $2. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Dan bought 2 candy bars for a total of $4. To find the cost of each candy bar, we divide the total cost by the number of candy bars: $4 \u00f7 2 = $2. The answer is $2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Dan bought 2 candy bars for a total of $4. To find the cost of each candy bar, we divide the total cost by the number of candy bars. 4 \u00f7 2 = 2. Each candy bar cost $2.\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Dan bought 2 candy bars for a total of $4. To find the cost of each candy bar, we divide the total cost by the number of candy bars: $4 \u00f7 2 = $2. The answer is $2.",
+        "parsed_answer": "2"
+      }
+    ]
+  },
+  {
+    "question": "Tiffany was collecting cans for recycling. On monday she had 7 bags of cans. The next day she found 12 more bags worth of cans. How many more bags did she find on the next day than she had on monday?",
+    "true_answer": "5.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. On monday, Tiffany had 7 bags of cans. On the next day, she found 12 more bags. The question asks how many more bags she found on the next day than she had on monday. So we need to compare: she found 12 bags on the next day, and she had 7 bags on monday. 12 - 7 = 5. The answer is 5.",
+        "parsed_answer": "5"
+      },
+      {
+        "response": "Let's think step by step. On Monday, Tiffany had 7 bags of cans. The next day she found 12 more bags. The question asks how many more bags she found on the next day than she had on Monday. So we need to compare: she found 12 bags on the next day, and she had 7 bags on Monday. 12 - 7 = 5. The answer is 5.",
+        "parsed_answer": "5"
+      },
+      {
+        "response": "Let's think step by step. On monday, Tiffany had 7 bags of cans. The next day she found 12 more bags. The question asks how many more bags she found on the next day than she had on monday. So we need to compare: she found 12 bags on the next day, and she had 7 bags on monday. 12 - 7 = 5. The answer is 5.",
+        "parsed_answer": "5"
+      },
+      {
+        "response": "Let's think step by step. On monday, Tiffany had 7 bags of cans. On the next day, she found 12 more bags. The question asks how many more bags she found on the next day than she had on monday. So we need to compare: she found 12 bags on the next day, and she had 7 bags on monday. 12 - 7 = 5. The answer is 5.",
+        "parsed_answer": "5"
+      },
+      {
+        "response": "Let's think step by step. On monday, Tiffany had 7 bags of cans. The next day she found 12 more bags. The question asks how many more bags she found on the next day than she had on monday. She found 12 bags on the next day, and she had 7 bags on monday. So 12 - 7 = 5. The answer is 5.",
+        "parsed_answer": "5"
+      },
+      {
+        "response": "Let's think step by step. On monday, Tiffany had 7 bags of cans. On the next day (tuesday), she found 12 more bags. The question asks how many more bags she found on tuesday than she had on monday. So we need to compare: she found 12 bags on tuesday, and she had 7 bags on monday. 12 - 7 = 5. The answer is 5.",
+        "parsed_answer": "5"
+      },
+      {
+        "response": "Let's think step by step. On monday, Tiffany had 7 bags of cans. On the next day, she found 12 more bags. The question asks how many more bags she found on the next day than she had on monday. So we need to compare: she found 12 bags on the next day, and she had 7 bags on monday. 12 - 7 = 5. The answer is 5.",
+        "parsed_answer": "5"
+      },
+      {
+        "response": "Let's think step by step. On monday, Tiffany had 7 bags of cans. On the next day, she found 12 more bags. The question asks how many more bags she found on the next day than she had on monday. So we need to compare: she found 12 bags on the next day, and she had 7 bags on monday. 12 - 7 = 5. The answer is 5.",
+        "parsed_answer": "5"
+      },
+      {
+        "response": "Let's think step by step. On Monday, Tiffany had 7 bags of cans. On the next day, she found 12 more bags. The question asks how many more bags she found on the next day than she had on Monday. So we need to compare: she found 12 bags on the next day, and she had 7 bags on Monday. 12 - 7 = 5. The answer is 5.",
+        "parsed_answer": "5"
+      },
+      {
+        "response": "Let's think step by step. On monday, Tiffany had 7 bags of cans. On the next day, she found 12 more bags. The question asks how many more bags she found on the next day than she had on monday. So we need to compare: she found 12 bags on the next day, and she had 7 bags on monday. 12 - 7 = 5. The answer is 5.",
+        "parsed_answer": "5"
+      }
+    ]
+  },
+  {
+    "question": "There were 15 roses and 62 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 17 roses and 96 orchids in the vase. How many roses did she cut?",
+    "true_answer": "2.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Originally there were 15 roses in the vase. Now there are 17 roses in the vase. So Jessica cut 17 - 15 = 2 roses. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 15 roses in the vase. Now there are 17 roses. So Jessica cut 17 - 15 = 2 roses. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Originally, there were 15 roses in the vase. After Jessica cut some roses from her garden, there are now 17 roses. So she cut 17 - 15 = 2 roses. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 15 roses in the vase. After Jessica cut some roses, there are now 17 roses. So she cut 17 - 15 = 2 roses. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Originally, there were 15 roses in the vase. After Jessica cut some roses, there are now 17 roses. So she cut 17 - 15 = 2 roses. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 15 roses. Now there are 17 roses. So Jessica cut 17 - 15 = 2 roses. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. There were originally 15 roses in the vase. Now there are 17 roses. So Jessica cut 17 - 15 = 2 roses. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Originally, there were 15 roses in the vase. Now there are 17 roses. So Jessica cut 17 - 15 = 2 roses. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Originally, there were 15 roses in the vase. After Jessica cut some roses from her garden, there are now 17 roses. So she cut 17 - 15 = 2 roses. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Originally, there were 15 roses in the vase. Now there are 17 roses in the vase. So Jessica must have cut 17 - 15 = 2 roses. The answer is 2.",
+        "parsed_answer": "2"
+      }
+    ]
+  },
+  {
+    "question": "There are some baskets of peaches. Each basket has 4 red peaches and 3 green peaches. If there are a total of 7 peaches in all baskets How many baskets of peaches are there?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Each basket has 4 red peaches and 3 green peaches. So each basket has 4 + 3 = 7 peaches total. If there are 7 peaches in all baskets combined, then there must be 7 \u00f7 7 = 1 basket. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Each basket has 4 red peaches and 3 green peaches. So each basket has 4 + 3 = 7 peaches total. If there are 7 peaches in all baskets combined, then there must be 7 \u00f7 7 = 1 basket. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Each basket has 4 red peaches and 3 green peaches. So each basket has 4 + 3 = 7 peaches total. If there are 7 peaches in all baskets combined, then there must be 7 \u00f7 7 = 1 basket. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Each basket has 4 red peaches and 3 green peaches, so each basket has 4 + 3 = 7 peaches total. There are 7 peaches in all baskets combined. So the number of baskets is 7 \u00f7 7 = 1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Each basket has 4 red peaches and 3 green peaches. So each basket has 4 + 3 = 7 peaches total. If there are 7 peaches in all baskets combined, then there must be 7 \u00f7 7 = 1 basket. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Each basket has 4 red peaches and 3 green peaches, so each basket has 4 + 3 = 7 peaches total. If there are 7 peaches in all baskets combined, then there must be 7 \u00f7 7 = 1 basket. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Each basket has 4 red peaches and 3 green peaches. So each basket has 4 + 3 = 7 peaches total. If there are 7 peaches in all baskets combined, then there must be 7 \u00f7 7 = 1 basket. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Each basket has 4 red peaches and 3 green peaches, so each basket has 4 + 3 = 7 peaches total. If there are 7 peaches in all baskets combined, then there must be 7 \u00f7 7 = 1 basket. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Each basket has 4 red peaches and 3 green peaches. So each basket has 4 + 3 = 7 peaches total. If there are 7 peaches in all baskets combined, then there must be 7 \u00f7 7 = 1 basket. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Each basket has 4 red peaches and 3 green peaches. So each basket has 4 + 3 = 7 peaches total. If there are 7 peaches in all baskets combined, then there must be 7 \u00f7 7 = 1 basket. The answer is 1.",
+        "parsed_answer": "1"
+      }
+    ]
+  },
+  {
+    "question": "There were 78 dollars in Olivia's wallet. She spent 15 dollars at a supermarket. How much money does she have left?",
+    "true_answer": "63.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Olivia had 78 dollars in her wallet. She spent 15 dollars at a supermarket. So she has 78 - 15 = 63 dollars left. The answer is 63.",
+        "parsed_answer": "63"
+      },
+      {
+        "response": "Let's think step by step. Olivia started with 78 dollars in her wallet. She spent 15 dollars at a supermarket. So she has 78 - 15 = 63 dollars left. The answer is 63.",
+        "parsed_answer": "63"
+      },
+      {
+        "response": "Let's think step by step. Olivia had 78 dollars in her wallet. She spent 15 dollars at a supermarket. So she has 78 - 15 = 63 dollars left. The answer is 63.",
+        "parsed_answer": "63"
+      },
+      {
+        "response": "Let's think step by step. Olivia had 78 dollars in her wallet. She spent 15 dollars at a supermarket. So she has 78 - 15 = 63 dollars left. The answer is 63.",
+        "parsed_answer": "63"
+      },
+      {
+        "response": "Let's think step by step. Olivia had 78 dollars in her wallet. She spent 15 dollars at a supermarket. So she has 78 - 15 = 63 dollars left. The answer is 63.",
+        "parsed_answer": "63"
+      },
+      {
+        "response": "Let's think step by step. Olivia had 78 dollars in her wallet. She spent 15 dollars at a supermarket. So she has 78 - 15 = 63 dollars left. The answer is 63.",
+        "parsed_answer": "63"
+      },
+      {
+        "response": "Let's think step by step. Olivia started with 78 dollars in her wallet. She spent 15 dollars at a supermarket. So she has 78 - 15 = 63 dollars left. The answer is 63.",
+        "parsed_answer": "63"
+      },
+      {
+        "response": "Let's think step by step. Olivia had 78 dollars in her wallet. She spent 15 dollars at a supermarket. So she has 78 - 15 = 63 dollars left. The answer is 63.",
+        "parsed_answer": "63"
+      },
+      {
+        "response": "Let's think step by step. Olivia had 78 dollars in her wallet. She spent 15 dollars at a supermarket. So she has 78 - 15 = 63 dollars left. The answer is 63.",
+        "parsed_answer": "63"
+      },
+      {
+        "response": "Let's think step by step. Olivia started with 78 dollars in her wallet. She spent 15 dollars at a supermarket. So she has 78 - 15 = 63 dollars left. The answer is 63.",
+        "parsed_answer": "63"
+      }
+    ]
+  },
+  {
+    "question": "Jack received 6 emails in the morning, 3 emails in the afternoon and some more in the evening. If he received a total of 10 emails in the day How many emails did Jack receive in the afternoon?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Jack received 6 emails in the morning and 3 emails in the afternoon. The question asks how many emails he received in the afternoon, which was already stated as 3 emails.\n\nHowever, let me verify this makes sense with the total. He received 6 in the morning + 3 in the afternoon + some in the evening = 10 total. So in the evening he received 10 - 6 - 3 = 1 email.\n\nThe answer is 3 (Jack received 3 emails in the afternoon).",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jack received 6 emails in the morning and 3 emails in the afternoon. The question asks how many emails he received in the afternoon. We already know this from the problem statement: he received 3 emails in the afternoon. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jack received 6 emails in the morning. He received 3 emails in the afternoon. He received some more in the evening. The total for the day was 10 emails.\n\nSo: 6 + 3 + (emails in evening) = 10\n9 + (emails in evening) = 10\nEmails in evening = 1\n\nWait, let me re-read the question. It asks \"How many emails did Jack receive in the afternoon?\"\n\nWe're already told he received 3 emails in the afternoon. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jack received 6 emails in the morning and 3 emails in the afternoon. The question asks how many emails he received in the afternoon. We already know this from the problem statement: he received 3 emails in the afternoon. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jack received 6 emails in the morning and 3 emails in the afternoon. The question asks how many emails he received in the afternoon, which is already stated as 3. The answer is 3.\n\n(Note: The question seems to have a logical inconsistency - it states he received 3 emails in the afternoon, then asks how many he received in the afternoon. The answer is simply 3, as given in the problem statement.)",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jack received 6 emails in the morning and 3 emails in the afternoon. The question asks how many emails he received in the afternoon. We already know this from the problem statement - he received 3 emails in the afternoon. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jack received 6 emails in the morning and 3 emails in the afternoon. The question asks how many emails he received in the afternoon, which is already stated as 3 emails.\n\nWait, let me re-read this. The question seems oddly phrased since it tells us he received 3 in the afternoon and then asks how many he received in the afternoon.\n\nHowever, if this is asking how many emails he received in the evening: Jack received a total of 10 emails. In the morning he got 6, in the afternoon he got 3. So in the evening he got 10 - 6 - 3 = 1 email.\n\nBut as written, the answer to \"How many emails did Jack receive in the afternoon?\" is 3, since that information was already given in the problem.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jack received 6 emails in the morning, 3 emails in the afternoon, and some more in the evening. The total for the day was 10 emails.\n\nWait, I need to reread this question. It asks \"How many emails did Jack receive in the afternoon?\" but we're already told he received 3 emails in the afternoon.\n\nHowever, I think there may be a typo in the question. Let me solve for how many emails he received in the evening instead:\n\n6 (morning) + 3 (afternoon) + evening emails = 10 total\n9 + evening emails = 10\nevening emails = 10 - 9 = 1\n\nIf the question is asking about the afternoon as stated, the answer is 3. But if it's asking about the evening, the answer is 1.\n\nGiven the context of the other problems, I believe the question meant to ask: \"How many emails did Jack receive in the evening?\"\n\nThe answer is 1.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jack received 6 emails in the morning and 3 emails in the afternoon. The question asks how many emails he received in the afternoon, which was already stated as 3 emails. The answer is 3.\n\n(Note: The problem statement seems to have an inconsistency - it says he received 3 emails in the afternoon, then asks how many he received in the afternoon. If the question intended to ask how many emails he received in the evening, the answer would be: 6 + 3 + evening emails = 10, so evening emails = 10 - 9 = 1.)",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. Jack received 6 emails in the morning and 3 emails in the afternoon. The question asks how many emails he received in the afternoon, which is already given as 3. The answer is 3.\n\n(Note: The problem statement seems to have a logical issue - it tells us he received 3 emails in the afternoon, then asks how many he received in the afternoon. If instead the question intended to ask how many emails he received in the evening, that would be: 6 + 3 + evening emails = 10, so evening emails = 10 - 6 - 3 = 1.)",
+        "parsed_answer": "3"
+      }
+    ]
+  },
+  {
+    "question": "Dan has $ 4. He bought a candy bar for $ 8. Then his friend have him $ 5 How much money is left?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Dan started with $4. He bought a candy bar for $8, which means he spent $8. So he had 4 - 8 = -4 dollars (he went into debt by $4). Then his friend gave him $5. So he had -4 + 5 = 1 dollar left. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. He bought a candy bar for $8, which means he spent $8. So he would have 4 - 8 = -4 dollars (he's $4 in debt). Then his friend gave him $5. So he has -4 + 5 = 1 dollar left. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. He bought a candy bar for $8. So he spent $8, which means he had 4 - 8 = -4 dollars (he went into debt). Then his friend gave him $5. So he had -4 + 5 = 1 dollar left. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. He bought a candy bar for $8, so he would have 4 - 8 = -4 dollars (he went into debt). Then his friend gave him $5, so he has -4 + 5 = 1 dollar left. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. He bought a candy bar for $8, so he would have 4 - 8 = -4 dollars (he's $4 short). Then his friend gave him $5, so he has -4 + 5 = 1 dollar left. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. He bought a candy bar for $8, which means he spent $8. So he had 4 - 8 = -4 dollars (he went into debt). Then his friend gave him $5. So he had -4 + 5 = 1 dollar left. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. He bought a candy bar for $8, but he only had $4, so he would need to borrow $4 to afford it. After the purchase, he would have $4 - $8 = -$4 (or $4 in debt). Then his friend gave him $5. So he has -$4 + $5 = $1. The answer is $1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. He bought a candy bar for $8, but he only had $4, so he would need to borrow $4 to make this purchase. After buying the candy bar, he would have $4 - $8 = -$4 (he's $4 in debt). Then his friend gave him $5. So he has -$4 + $5 = $1 left. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. He bought a candy bar for $8, so he would have 4 - 8 = -4 dollars (he's $4 in debt). Then his friend gave him $5, so he has -4 + 5 = 1 dollar left. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Dan started with $4. He bought a candy bar for $8, which means he spent $8. So he would have 4 - 8 = -4 dollars (he's $4 in debt). Then his friend gave him $5. So he has -4 + 5 = 1 dollar left. The answer is 1.",
+        "parsed_answer": "1"
+      }
+    ]
+  },
+  {
+    "question": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 703 visitors came to the Buckingham palace on the previous day. If there were 246 visitors on that day How many visited the Buckingham palace within 25 days?",
+    "true_answer": "949.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. \n\nWe're told that 703 visitors came to the Buckingham palace on the previous day, and 246 visitors came on \"that day\" (the current day).\n\nHowever, the question asks \"How many visited the Buckingham palace within 25 days?\" but we're only given information about 2 specific days. \n\nThe problem seems to be missing information needed to calculate visitors over 25 days. We would need to know:\n- The average daily visitors, or\n- The visitor count for each of the 25 days, or\n- Some other pattern or rate of visitors\n\nBased on the information given, we can only calculate:\n- Previous day: 703 visitors\n- Current day: 246 visitors\n- These 2 days total: 703 + 246 = 949 visitors\n\nBut without additional information about the other 23 days, we cannot determine the total for 25 days. \n\n**The answer cannot be determined from the given information.**",
+        "parsed_answer": "25"
+      },
+      {
+        "response": "Let's think step by step. We need to find how many visitors came to Buckingham Palace within 25 days.\n\nWe're told:\n- 703 visitors came on the previous day\n- 246 visitors came on that day (the current day)\n\nHowever, this problem is asking about visitors \"within 25 days\" but only gives us information about 2 specific days. The problem doesn't provide enough information to determine the total number of visitors over a 25-day period.\n\nIf we assume the question is asking about just these two days mentioned: 703 + 246 = 949 visitors.\n\nBut if the question intends for us to calculate visitors over 25 days, we would need additional information such as an average daily visitor count or a pattern of visits.\n\n**Based on the information given, the answer is 949 visitors** (for the two days mentioned: 703 + 246 = 949).\n\nHowever, I should note that this problem seems to be missing information or clarity about what the 25-day period refers to.",
+        "parsed_answer": "949"
+      },
+      {
+        "response": "Let's think step by step. \n\nWe need to find how many visitors came to Buckingham palace within 25 days.\n\nWe're told that:\n- 703 visitors came on the previous day\n- 246 visitors came on that day (the current day)\n\nHowever, this problem is asking about visitors \"within 25 days\" but we only have information about 2 specific days. We don't have enough information to determine the total number of visitors over a 25-day period.\n\nIf we assume the question is asking about just these two days mentioned:\n703 + 246 = 949 visitors.\n\nBut if the question truly means to find visitors over 25 days, we would need additional information about the daily visitor rate or total for all 25 days. \n\nBased on the information given, the most reasonable answer is: **949 visitors** (from the two days mentioned: 703 + 246 = 949).\n\nHowever, I should note that this problem is ambiguous and may be missing information needed to properly answer the \"within 25 days\" part of the question.",
+        "parsed_answer": "25"
+      },
+      {
+        "response": "Let's think step by step. \n\nWe need to find how many visitors came to Buckingham Palace within 25 days.\n\nWe're told:\n- 703 visitors came on the previous day\n- 246 visitors came on that day (the current day)\n\nHowever, this problem is asking about visitors \"within 25 days\" but only gives us information about 2 specific days. The problem doesn't provide enough information about the visitor count for the other days.\n\nIf we assume the question is asking about just these two days mentioned:\n703 + 246 = 949 visitors\n\nBut if the problem intends for us to calculate based on 25 days of data, we would need information about the daily visitor count for all 25 days, which is not provided.\n\nBased on the information given, the most reasonable interpretation is: 703 + 246 = 949. The answer is 949.\n\n(Note: This problem seems to have incomplete or unclear information compared to the previous well-defined problems.)",
+        "parsed_answer": "949"
+      },
+      {
+        "response": "Let's think step by step. \n\nWe need to find how many visitors came to Buckingham palace within 25 days.\n\nWe're told:\n- 703 visitors came on the previous day\n- 246 visitors came on that day (the current day)\n\nHowever, the question asks about visitors \"within 25 days\" but we only have information about 2 specific days. \n\nThe most reasonable interpretation is that we're looking at these two days as examples, and we need to find the total for 25 days. But we don't have enough information to determine the average or pattern.\n\nIf we assume the question means: on the previous day there were 703 visitors, and on the current day there were 246 visitors, and we want the total for just these 2 days:\n703 + 246 = 949 visitors.\n\nHowever, if the question intends for us to use one of these numbers as a daily average over 25 days, we would need clarification. \n\n**The answer is 949** (assuming we're adding the 703 visitors from the previous day and 246 visitors from that day).\n\nNote: This problem is ambiguous. Could you clarify what \"within 25 days\" means in this context?",
+        "parsed_answer": "949"
+      },
+      {
+        "response": "Let's think step by step. \n\nFrom the problem, we know:\n- 703 visitors came on the previous day\n- 246 visitors came on that day (the current day)\n\nHowever, the question asks \"How many visited the Buckingham palace within 25 days?\" but we only have information about 2 days of visitor counts. \n\nThe problem doesn't provide enough information to calculate the total visitors over 25 days. We would need either:\n- The daily visitor count for all 25 days, or\n- An average daily visitor count, or\n- Some other pattern\n\nBased on the information given, I can only tell you that on these two specific days mentioned, there were 703 + 246 = 949 visitors total.\n\nIf the question intended to ask about just these two days, the answer would be 949. However, without more information about the other 23 days, we cannot determine the total for 25 days.",
+        "parsed_answer": "25"
+      },
+      {
+        "response": "Let's think step by step. \n\nWe're told that 703 visitors came to the Buckingham palace on the previous day, and 246 visitors came on that day (the current day).\n\nHowever, the question asks \"how many visited the Buckingham palace within 25 days?\" but we're only given information about 2 specific days. We don't have enough information to determine the total visitors over 25 days.\n\nIf we assume the question is asking about just these two days mentioned:\n703 + 246 = 949 visitors over these two days.\n\nBut if the question intends for us to extrapolate or if there's missing information about the pattern of visitors, we cannot solve this accurately with the given data.\n\n**The answer is 949** (if counting just the two days mentioned: previous day + current day).\n\nHowever, I should note that this problem seems incomplete or unclear compared to the other problems, as we don't have enough information about all 25 days to give a complete answer.",
+        "parsed_answer": "949"
+      },
+      {
+        "response": "Let's think step by step. \n\nThe problem states that 703 visitors came on the previous day and 246 visitors came on that day. However, the question asks how many visited within 25 days, but we only have information about 2 specific days.\n\nLooking at this more carefully, I think there may be some ambiguity in the problem statement. If we interpret it as:\n- Previous day: 703 visitors\n- That day (current day): 246 visitors\n- Question: visitors in 25 days total\n\nWe don't have enough information to determine the total for 25 days, as we only know about 2 days.\n\nHowever, if the question is asking about just these two days mentioned: 703 + 246 = 949 visitors.\n\nBut if we're meant to extrapolate and assume the average of these two days applies to 25 days: (703 + 246) / 2 = 474.5 per day, then 474.5 \u00d7 25 = 11,862.5 \u2248 11,863 visitors.\n\n**Without clearer problem wording, the most straightforward interpretation is: 703 + 246 = 949. The answer is 949.**\n\n(Note: This problem statement is somewhat unclear compared to the previous examples, so clarification would help provide a more definitive answer.)",
+        "parsed_answer": "949"
+      },
+      {
+        "response": "Let's think step by step. \n\nWe need to find how many visitors came to Buckingham Palace within 25 days.\n\nWe're told:\n- 703 visitors came on the previous day\n- 246 visitors came on that day (the current day)\n\nHowever, the question asks about visitors \"within 25 days,\" but we only have information about 2 specific days. \n\nThe most reasonable interpretation is that we have data for 2 days and need to find the total for those 2 days:\n703 + 246 = 949 visitors over those 2 days.\n\nHowever, if the question intends for us to extrapolate or if there's missing information about the daily average over 25 days, we cannot solve it with the given information.\n\nBased on what we can calculate from the given data: The answer is 949 visitors (for the two days mentioned).",
+        "parsed_answer": "949"
+      },
+      {
+        "response": "Let's think step by step. \n\nWait, I need to read this carefully. The problem states:\n- 703 visitors came on the previous day\n- 246 visitors came on that day (the current day)\n\nHowever, the question asks \"How many visited the Buckingham palace within 25 days?\" but we're only given information about 2 days.\n\nThis problem is unclear because we don't have information about the other 23 days. We can only calculate the total for the two days we know about:\n\n703 + 246 = 949 visitors over those 2 days.\n\nBut without information about the remaining 23 days, we cannot determine how many visited within 25 days total.\n\n**Note:** This problem appears to be missing information needed to solve it completely. If the question intended to ask only about these two specific days, the answer would be 949. However, if there's additional context or data about the other days, that would be needed to answer the full question.",
+        "parsed_answer": "949"
+      }
+    ]
+  },
+  {
+    "question": "For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 7 more dollars. If she spent 4 dollars. How much more money did she receive from her mom than she did from her dad?",
+    "true_answer": "2.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Gwen received 5 dollars from her dad. Her mom gave her 7 more dollars. The question asks how much more money she received from her mom than from her dad. That is 7 - 5 = 2. The answer is 2.\n\n(Note: The information about her spending 4 dollars is not needed to answer this question.)",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Gwen received 5 dollars from her dad. Her mom gave her 7 more dollars. The question asks how much more money she received from her mom than from her dad. That is 7 - 5 = 2 dollars. Note that the fact that she spent 4 dollars is not relevant to answering this question. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Gwen received 5 dollars from her dad. Her mom gave her 7 dollars. The question asks how much more money she received from her mom than from her dad. That is 7 - 5 = 2 dollars. Note that the amount she spent (4 dollars) doesn't affect this comparison. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Gwen received 5 dollars from her dad. Her mom gave her 7 more dollars. The question asks how much more money she received from her mom than from her dad. That is 7 - 5 = 2 dollars more from her mom. (Note: The information about her spending 4 dollars is not relevant to this question.) The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Gwen received 5 dollars from her dad and 7 dollars from her mom. The question asks how much more money she received from her mom than from her dad. That is 7 - 5 = 2. Note that the 4 dollars she spent is not relevant to this question. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Gwen received 5 dollars from her dad and 7 dollars from her mom. The question asks how much more money she received from her mom than from her dad. That is 7 - 5 = 2 dollars. Note that the fact that she spent 4 dollars is not relevant to this question. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Gwen received 5 dollars from her dad and 7 dollars from her mom. The question asks how much more money she received from her mom than from her dad. That is 7 - 5 = 2 dollars. Note that the amount she spent (4 dollars) is not relevant to answering this question. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Gwen received 5 dollars from her dad. Her mom gave her 7 more dollars. The question asks how much more money she received from her mom than from her dad. That is 7 - 5 = 2. The answer is 2.\n\n(Note: The information about her spending 4 dollars is not relevant to answering this question.)",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Gwen received 5 dollars from her dad. Her mom gave her 7 more dollars. The question asks how much more money she received from her mom than from her dad. That is 7 - 5 = 2 dollars. (Note: The fact that she spent 4 dollars is not relevant to this question.) The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. Gwen received 5 dollars from her dad. Her mom gave her 7 more dollars. The question asks how much more money she received from her mom than from her dad. That is 7 - 5 = 2 dollars. Note that the fact that she spent 4 dollars is not relevant to answering this question. The answer is 2.",
+        "parsed_answer": "2"
+      }
+    ]
+  },
+  {
+    "question": "There are 142 bananas and 356 oranges in Philip's collection. If the bananas are organized into 47 groups and oranges are organized into 178 groups How big is each group of oranges?",
+    "true_answer": "2.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. There are 356 oranges organized into 178 groups. To find how big each group of oranges is, we need to divide the total number of oranges by the number of groups. 356 \u00f7 178 = 2. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. We need to find how big each group of oranges is.\n\nThere are 356 oranges total, and they are organized into 178 groups.\n\nTo find the size of each group, we divide the total number of oranges by the number of groups:\n356 \u00f7 178 = 2\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. There are 356 oranges organized into 178 groups. To find the size of each group of oranges, we need to divide the total number of oranges by the number of groups. 356 \u00f7 178 = 2. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. There are 356 oranges that are organized into 178 groups. To find how big each group of oranges is, I need to divide the total number of oranges by the number of groups. 356 \u00f7 178 = 2. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. There are 356 oranges organized into 178 groups. To find how big each group of oranges is, I need to divide the total number of oranges by the number of groups. 356 \u00f7 178 = 2. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. We need to find how big each group of oranges is.\n\nThere are 356 oranges total, and they are organized into 178 groups.\n\nTo find the size of each group, we divide the total number of oranges by the number of groups:\n356 \u00f7 178 = 2\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. We need to find how big each group of oranges is.\n\nThere are 356 oranges and they are organized into 178 groups.\n\nTo find the size of each group, we divide: 356 \u00f7 178 = 2.\n\nThe answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. There are 356 oranges organized into 178 groups. To find the size of each group of oranges, I need to divide the total number of oranges by the number of groups. 356 \u00f7 178 = 2. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. There are 356 oranges organized into 178 groups. To find how big each group of oranges is, I need to divide the total number of oranges by the number of groups. 356 \u00f7 178 = 2. The answer is 2.",
+        "parsed_answer": "2"
+      },
+      {
+        "response": "Let's think step by step. There are 356 oranges organized into 178 groups. To find the size of each group of oranges, we divide the total number of oranges by the number of groups. 356 \u00f7 178 = 2. The answer is 2.",
+        "parsed_answer": "2"
+      }
+    ]
+  },
+  {
+    "question": "There are 8 different books and 5 different movies in the ' crazy silly school ' series. If you read 19 of the movies and watched 16 of the books How many more movies than books have you read?",
+    "true_answer": "3.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. \n\nFirst, I need to identify what was actually read and watched:\n- Movies read: 19\n- Books watched: 16\n\nWait, this seems backwards from the question setup. Let me re-read carefully.\n\nThe question asks \"how many more movies than books have you read?\" This is asking about what was *read*, not watched.\n\nFrom the problem:\n- You read 19 of the movies\n- You watched 16 of the books\n\nSo the movies you read = 19\nThe books you read = not stated directly\n\nActually, looking at this again, the problem statement seems to have mixed up the activities. It says \"you read 19 of the movies and watched 16 of the books\" - but typically you watch movies and read books, not the other way around.\n\nTaking the problem as stated: You read 19 movies and watched 16 books.\n\nIf the question is asking \"how many more movies than books have you read?\" and you only read movies (19) and didn't read any books (you watched them instead), then you read 19 - 0 = 19 more movies than books.\n\nThe answer is 19.",
+        "parsed_answer": "19"
+      },
+      {
+        "response": "Let's think step by step. \n\nWait, I need to be careful here. The question seems to have some confusion in the wording. Let me parse what's being asked:\n\n- There are 8 different books in the series\n- There are 5 different movies in the series\n- I read 19 of the movies\n- I watched 16 of the books\n\nThis doesn't make logical sense because:\n- You can't read 19 movies when there are only 5 movies\n- You can't watch 16 books when there are only 8 books\n\nI think there may be a mistake in the problem statement. However, if I interpret it as asking \"how many more movies than books have you consumed/engaged with,\" I would calculate:\n\nMovies engaged with: 19\nBooks engaged with: 16\nDifference: 19 - 16 = 3\n\nThe answer is 3.\n\n(Note: This problem appears to have inconsistent numbers that don't match the stated quantities of books and movies available.)",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. \n\nWait, I need to carefully read this question. It says \"If you read 19 of the movies and watched 16 of the books\" - but this seems backwards from what makes sense (you watch movies and read books).\n\nLet me interpret this as stated: You read 19 movies and watched 16 books.\n\nThe question asks \"How many more movies than books have you read?\"\n\nYou read 19 movies and read 16 books (interpreting \"watched 16 of the books\" as reading them).\n\nSo the difference is 19 - 16 = 3.\n\nThe answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. \n\nWait, I need to read this carefully. The question asks \"how many more movies than books have you read?\"\n\nBut there's something odd here: it says \"you read 19 of the movies and watched 16 of the books\" - this seems backwards (you typically watch movies and read books).\n\nLet me interpret what was likely meant: You watched 19 movies and read 16 books.\n\nTo find how many more movies than books: 19 - 16 = 3.\n\nThe answer is 3.\n\n(Note: If we take the question literally as written, it asks about movies read and books watched, which doesn't make logical sense. But the intent appears to be asking for the difference between the number of movies watched (19) and books read (16).)",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. \n\nWait, I need to carefully read this question. It says \"If you read 19 of the movies and watched 16 of the books\" - but this seems backwards. You read books and watch movies, not the other way around.\n\nI think there's an error in the problem statement. Let me interpret it as: \"If you watched 19 of the movies and read 16 of the books, how many more movies than books have you consumed?\"\n\nIn that case: 19 movies watched minus 16 books read = 19 - 16 = 3. The answer is 3.\n\nHowever, if the question is asking literally as stated (read 19 movies, watched 16 books), it doesn't make logical sense, but mathematically: 19 - 16 = 3. The answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. \n\nWait, I need to carefully read this question. It says:\n- There are 8 different books and 5 different movies in the series\n- I read 19 of the movies and watched 16 of the books\n\nThis seems problematic because:\n- There are only 5 movies total, but the question says I read 19 movies (impossible)\n- There are only 8 books total, but the question says I watched 16 books (impossible)\n\nThe numbers don't make logical sense. However, if I interpret the question as asking \"how many more movies than books\" based on the numbers given (19 and 16), then:\n\n19 - 16 = 3\n\nBut I should note that the premise of the question contains inconsistencies with the stated totals available. The answer based on the arithmetic given would be 3, but the scenario itself is logically impossible.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. \n\nFirst, I need to identify what was actually read and watched:\n- Movies read: 19\n- Books watched: 16\n\nThe question asks \"how many more movies than books have you read?\"\n\nThis is asking me to compare movies read to books read. However, the problem states:\n- 19 movies were read\n- 16 books were watched\n\nBut the question specifically asks about what was \"read\" - so I should compare:\n- Movies read: 19\n- Books read: We're not told how many books were read, only that 16 books were watched.\n\nActually, looking at this more carefully, the question seems to have mixed up the numbers. It says \"you read 19 of the movies and watched 16 of the books\" - but you read movies and watched books, not the other way around typically.\n\nInterpreting the question as asking for the difference between the numbers given (19 and 16):\n19 - 16 = 3\n\nThe answer is 3.",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. \n\nFirst, I need to identify what was actually read and watched:\n- Movies read: 19\n- Books watched: 16\n\nWait, let me reconsider. The question asks \"how many more movies than books have you read?\" This is asking about what was *read*.\n\nLooking at the question again: \"If you read 19 of the movies and watched 16 of the books\"\n\nThis seems unusual (reading movies and watching books), but taking it literally as stated:\n- You read 19 movies\n- You watched 16 books\n\nThe question asks how many more movies than books have you *read*. So:\n- Movies read: 19\n- Books read: 0 (since you watched books, not read them)\n\n19 - 0 = 19. The answer is 19.\n\nAlternatively, if the question meant to ask \"how many more movies than books have you consumed/gone through\" regardless of reading vs watching, then: 19 - 16 = 3. The answer would be 3.\n\nGiven the wording asks specifically about what was \"read,\" the most literal answer is 19.",
+        "parsed_answer": "19"
+      },
+      {
+        "response": "Let's think step by step. \n\nWait, I need to carefully read this problem. It says:\n- There are 8 different books and 5 different movies in the series\n- \"If you read 19 of the movies and watched 16 of the books\"\n\nThis problem has an issue: you can't read 19 movies when there are only 5 movies in the series, and you can't watch 16 books when there are only 8 books in the series.\n\nHowever, if I interpret this literally as stated:\n- You read 19 movies\n- You watched 16 books\n- The question asks how many more movies than books have you read\n\nThis would be 19 - 16 = 3.\n\nThe answer is 3.\n\n(Note: This problem contains logically inconsistent information, as the numbers exceed what's available in the series.)",
+        "parsed_answer": "3"
+      },
+      {
+        "response": "Let's think step by step. \n\nWait, I need to read this carefully. The question says \"If you read 19 of the movies and watched 16 of the books\" - but there are only 5 movies total and 8 books total. These numbers don't make sense.\n\nHowever, let me interpret this as written: You read 19 movies and watched 16 books.\n\nThe question asks \"how many more movies than books have you read?\"\n\nSo that would be: 19 - 16 = 3.\n\nThe answer is 3.\n\n(Note: The problem statement seems to have contradictory information since you can't read 19 movies when there are only 5 movies in the series, and you can't watch 16 books when there are only 8 books in the series. But following the numbers given in the question itself, the answer is 3.)",
+        "parsed_answer": "3"
+      }
+    ]
+  },
+  {
+    "question": "Mary is baking a cake. The recipe calls for 12 cups of flour and 5 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flour How many cups of flour did she put in?",
+    "true_answer": "10.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. The recipe calls for 12 cups of flour in total. She still needs 2 more cups of flour. So she must have already put in 12 - 2 = 10 cups of flour. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 12 cups of flour in total. Mary still needs 2 more cups of flour. So she must have already put in 12 - 2 = 10 cups of flour. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 12 cups of flour. She still needs 2 more cups of flour. So she must have already put in 12 - 2 = 10 cups of flour. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 12 cups of flour. She still needs 2 more cups of flour. This means she has already put in 12 - 2 = 10 cups of flour. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 12 cups of flour in total. She still needs 2 more cups of flour. So she must have already put in 12 - 2 = 10 cups of flour. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 12 cups of flour in total. She still needs 2 more cups of flour. So she must have already put in 12 - 2 = 10 cups of flour. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 12 cups of flour in total. She still needs 2 more cups of flour. So she must have already put in 12 - 2 = 10 cups of flour. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 12 cups of flour total. She still needs 2 more cups of flour. So she must have already put in 12 - 2 = 10 cups of flour. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 12 cups of flour in total. She still needs 2 more cups of flour. So she must have already put in 12 - 2 = 10 cups of flour. The answer is 10.",
+        "parsed_answer": "10"
+      },
+      {
+        "response": "Let's think step by step. The recipe calls for 12 cups of flour. She still needs 2 more cups of flour. So she must have already put in 12 - 2 = 10 cups of flour. The answer is 10.",
+        "parsed_answer": "10"
+      }
+    ]
+  },
+  {
+    "question": "Danny collects bottle caps and wrappers. He found 46 wrappers and 50 bottle caps at the park. Now he has 21 bottle caps and 52 wrappers in his collection. How many more bottle caps than wrappers did danny find at the park?",
+    "true_answer": "4.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Danny found 46 wrappers and 50 bottle caps at the park. To find how many more bottle caps than wrappers he found, I need to subtract: 50 - 46 = 4. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. Danny found 46 wrappers and 50 bottle caps at the park. To find how many more bottle caps than wrappers he found, I need to subtract: 50 - 46 = 4. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. Danny found 46 wrappers and 50 bottle caps at the park. The question asks how many more bottle caps than wrappers he found at the park. So we need to compare what he found: 50 bottle caps - 46 wrappers = 4. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. Danny found 46 wrappers and 50 bottle caps at the park. To find how many more bottle caps than wrappers he found, I need to subtract: 50 - 46 = 4. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. Danny found 46 wrappers and 50 bottle caps at the park. To find how many more bottle caps than wrappers he found, I need to subtract: 50 - 46 = 4. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. Danny found 46 wrappers and 50 bottle caps at the park. To find how many more bottle caps than wrappers he found, I need to subtract: 50 - 46 = 4. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. Danny found 46 wrappers and 50 bottle caps at the park. To find how many more bottle caps than wrappers he found, I need to subtract: 50 - 46 = 4. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. Danny found 46 wrappers and 50 bottle caps at the park. The question asks how many more bottle caps than wrappers he found at the park. So we need to compare what he found: 50 bottle caps - 46 wrappers = 4. The answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. Danny found 46 wrappers and 50 bottle caps at the park. The question asks how many more bottle caps than wrappers he found at the park.\n\nSo we need to compare what he found: 50 bottle caps and 46 wrappers.\n\n50 - 46 = 4.\n\nThe answer is 4.",
+        "parsed_answer": "4"
+      },
+      {
+        "response": "Let's think step by step. Danny found 46 wrappers and 50 bottle caps at the park. To find how many more bottle caps than wrappers he found, I need to subtract: 50 - 46 = 4. The answer is 4.",
+        "parsed_answer": "4"
+      }
+    ]
+  },
+  {
+    "question": "Luke played 177 rounds of a trivia game. If he gained 46 points in each round How many points did he score in the game?",
+    "true_answer": "8142.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Luke played 177 rounds of a trivia game. He gained 46 points in each round. So the total points he scored is 177 \u00d7 46 = 8,142. The answer is 8,142.",
+        "parsed_answer": "8"
+      },
+      {
+        "response": "Let's think step by step. Luke played 177 rounds of a trivia game. He gained 46 points in each round. So the total points he scored is 177 \u00d7 46 = 8,142. The answer is 8,142.",
+        "parsed_answer": "8"
+      },
+      {
+        "response": "Let's think step by step. Luke played 177 rounds of a trivia game. He gained 46 points in each round. So the total points he scored is 177 \u00d7 46 = 8,142. The answer is 8,142.",
+        "parsed_answer": "8"
+      },
+      {
+        "response": "Let's think step by step. Luke played 177 rounds of a trivia game. He gained 46 points in each round. So the total points he scored is 177 \u00d7 46 = 8,142. The answer is 8,142.",
+        "parsed_answer": "8"
+      },
+      {
+        "response": "Let's think step by step. Luke played 177 rounds of a trivia game. He gained 46 points in each round. So the total points he scored is 177 \u00d7 46 = 8,142. The answer is 8,142.",
+        "parsed_answer": "8"
+      },
+      {
+        "response": "Let's think step by step. Luke played 177 rounds of a trivia game. He gained 46 points in each round. So the total points he scored is 177 \u00d7 46 = 8,142. The answer is 8,142.",
+        "parsed_answer": "8"
+      },
+      {
+        "response": "Let's think step by step. Luke played 177 rounds of a trivia game. He gained 46 points in each round. So the total points he scored is 177 \u00d7 46 = 8,142. The answer is 8,142.",
+        "parsed_answer": "8"
+      },
+      {
+        "response": "Let's think step by step. Luke played 177 rounds of a trivia game. He gained 46 points in each round. So the total points he scored is 177 \u00d7 46 = 8,142. The answer is 8,142.",
+        "parsed_answer": "8"
+      },
+      {
+        "response": "Let's think step by step. Luke played 177 rounds of a trivia game. He gained 46 points in each round. So the total points he scored is 177 \u00d7 46 = 8,142. The answer is 8,142.",
+        "parsed_answer": "8"
+      },
+      {
+        "response": "Let's think step by step. Luke played 177 rounds of a trivia game. He gained 46 points in each round. So the total points is 177 \u00d7 46 = 8,142. The answer is 8,142.",
+        "parsed_answer": "8"
+      }
+    ]
+  },
+  {
+    "question": "3 birds and 4 storks were sitting on the fence. 2 more birds came to join them. How many more birds than storks are sitting on the fence?",
+    "true_answer": "1.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Initially, there were 3 birds and 4 storks on the fence. Then 2 more birds came to join them. So now there are 3 + 2 = 5 birds. There are still 4 storks. The difference is 5 - 4 = 1. There is 1 more bird than storks on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Initially there were 3 birds and 4 storks on the fence. Then 2 more birds came to join them. So now there are 3 + 2 = 5 birds. There are still 4 storks. The difference is 5 - 4 = 1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Initially there were 3 birds and 4 storks on the fence. Then 2 more birds came to join them. So now there are 3 + 2 = 5 birds. There are still 4 storks. The difference is 5 - 4 = 1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Initially there were 3 birds and 4 storks on the fence. Then 2 more birds came to join them. So now there are 3 + 2 = 5 birds. There are still 4 storks. The difference is 5 - 4 = 1. So there is 1 more bird than storks sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 3 birds and 4 storks on the fence. Then 2 more birds came to join them. So now there are 3 + 2 = 5 birds. There are still 4 storks. The difference is 5 - 4 = 1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 3 birds and 4 storks on the fence. Then 2 more birds came, so now there are 3 + 2 = 5 birds. There are still 4 storks. So there are 5 - 4 = 1 more bird than storks. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 3 birds and 4 storks on the fence. Then 2 more birds came to join them. So now there are 3 + 2 = 5 birds. There are still 4 storks. The difference is 5 - 4 = 1. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Originally there were 3 birds and 4 storks on the fence. Then 2 more birds came, so now there are 3 + 2 = 5 birds. There are still 4 storks. So there are 5 - 4 = 1 more bird than storks on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Initially, there were 3 birds and 4 storks. Then 2 more birds came to join them. So now there are 3 + 2 = 5 birds. There are still 4 storks. The difference is 5 - 4 = 1. There is 1 more bird than storks on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      },
+      {
+        "response": "Let's think step by step. Initially there were 3 birds and 4 storks on the fence. Then 2 more birds came to join them. So now there are 3 + 2 = 5 birds. There are still 4 storks. The difference is 5 - 4 = 1. There is 1 more bird than storks sitting on the fence. The answer is 1.",
+        "parsed_answer": "1"
+      }
+    ]
+  },
+  {
+    "question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 9 inches. The mouse jumped 3 inches lesser than the frog who jumped 33 inches farther than the grasshopper. How far did the mouse jump?",
+    "true_answer": "39.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. The grasshopper jumped 9 inches. The frog jumped 33 inches farther than the grasshopper, so the frog jumped 9 + 33 = 42 inches. The mouse jumped 3 inches lesser than the frog, so the mouse jumped 42 - 3 = 39 inches. The answer is 39.",
+        "parsed_answer": "39"
+      },
+      {
+        "response": "Let's think step by step. The grasshopper jumped 9 inches. The frog jumped 33 inches farther than the grasshopper, so the frog jumped 9 + 33 = 42 inches. The mouse jumped 3 inches lesser than the frog, so the mouse jumped 42 - 3 = 39 inches. The answer is 39.",
+        "parsed_answer": "39"
+      },
+      {
+        "response": "Let's think step by step. The grasshopper jumped 9 inches. The frog jumped 33 inches farther than the grasshopper, so the frog jumped 9 + 33 = 42 inches. The mouse jumped 3 inches lesser than the frog, so the mouse jumped 42 - 3 = 39 inches. The answer is 39.",
+        "parsed_answer": "39"
+      },
+      {
+        "response": "Let's think step by step. The grasshopper jumped 9 inches. The frog jumped 33 inches farther than the grasshopper, so the frog jumped 9 + 33 = 42 inches. The mouse jumped 3 inches lesser than the frog, so the mouse jumped 42 - 3 = 39 inches. The answer is 39.",
+        "parsed_answer": "39"
+      },
+      {
+        "response": "Let's think step by step.\n\nThe grasshopper jumped 9 inches.\n\nThe frog jumped 33 inches farther than the grasshopper. So the frog jumped 9 + 33 = 42 inches.\n\nThe mouse jumped 3 inches lesser than the frog. So the mouse jumped 42 - 3 = 39 inches.\n\nThe answer is 39.",
+        "parsed_answer": "39"
+      },
+      {
+        "response": "Let's think step by step. \n\nThe grasshopper jumped 9 inches.\n\nThe frog jumped 33 inches farther than the grasshopper. So the frog jumped 9 + 33 = 42 inches.\n\nThe mouse jumped 3 inches lesser than the frog. So the mouse jumped 42 - 3 = 39 inches.\n\nThe answer is 39.",
+        "parsed_answer": "39"
+      },
+      {
+        "response": "Let's think step by step. The grasshopper jumped 9 inches. The frog jumped 33 inches farther than the grasshopper, so the frog jumped 9 + 33 = 42 inches. The mouse jumped 3 inches lesser than the frog, so the mouse jumped 42 - 3 = 39 inches. The answer is 39.",
+        "parsed_answer": "39"
+      },
+      {
+        "response": "Let's think step by step. The grasshopper jumped 9 inches. The frog jumped 33 inches farther than the grasshopper, so the frog jumped 9 + 33 = 42 inches. The mouse jumped 3 inches lesser than the frog, so the mouse jumped 42 - 3 = 39 inches. The answer is 39.",
+        "parsed_answer": "39"
+      },
+      {
+        "response": "Let's think step by step. The grasshopper jumped 9 inches. The frog jumped 33 inches farther than the grasshopper, so the frog jumped 9 + 33 = 42 inches. The mouse jumped 3 inches lesser than the frog, so the mouse jumped 42 - 3 = 39 inches. The answer is 39.",
+        "parsed_answer": "39"
+      },
+      {
+        "response": "Let's think step by step. The grasshopper jumped 9 inches. The frog jumped 33 inches farther than the grasshopper, so the frog jumped 9 + 33 = 42 inches. The mouse jumped 3 inches lesser than the frog, so the mouse jumped 42 - 3 = 39 inches. The answer is 39.",
+        "parsed_answer": "39"
+      }
+    ]
+  },
+  {
+    "question": "Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary. How many more push-ups than crunches did Zachary do?",
+    "true_answer": "32.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Zachary did 35 push-ups and 3 crunches. The question asks how many more push-ups than crunches Zachary did. So we need to find 35 - 3 = 32. The answer is 32.",
+        "parsed_answer": "32"
+      },
+      {
+        "response": "Let's think step by step. Zachary did 35 push-ups and 3 crunches. We need to find how many more push-ups than crunches Zachary did. 35 - 3 = 32. The answer is 32.",
+        "parsed_answer": "32"
+      },
+      {
+        "response": "Let's think step by step. Zachary did 35 push-ups and 3 crunches. The question asks how many more push-ups than crunches Zachary did. So we need to find 35 - 3 = 32. The answer is 32.",
+        "parsed_answer": "32"
+      },
+      {
+        "response": "Let's think step by step. Zachary did 35 push-ups and 3 crunches. The question asks how many more push-ups than crunches Zachary did. So we need to find 35 - 3 = 32. The answer is 32.",
+        "parsed_answer": "32"
+      },
+      {
+        "response": "Let's think step by step. Zachary did 35 push-ups and 3 crunches. The question asks how many more push-ups than crunches Zachary did. So we need to find 35 - 3 = 32. The answer is 32.",
+        "parsed_answer": "32"
+      },
+      {
+        "response": "Let's think step by step. Zachary did 35 push-ups and 3 crunches. The question asks how many more push-ups than crunches Zachary did. So we need to find 35 - 3 = 32. The answer is 32.",
+        "parsed_answer": "32"
+      },
+      {
+        "response": "Let's think step by step. Zachary did 35 push-ups and 3 crunches. The question asks how many more push-ups than crunches Zachary did. So we need to find 35 - 3 = 32. The answer is 32.",
+        "parsed_answer": "32"
+      },
+      {
+        "response": "Let's think step by step. Zachary did 35 push-ups and 3 crunches. The question asks how many more push-ups than crunches did Zachary do. So we need to find 35 - 3 = 32. The answer is 32.",
+        "parsed_answer": "32"
+      },
+      {
+        "response": "Let's think step by step. Zachary did 35 push-ups and 3 crunches. The question asks how many more push-ups than crunches Zachary did. So we need to find 35 - 3 = 32. The answer is 32.",
+        "parsed_answer": "32"
+      },
+      {
+        "response": "Let's think step by step. Zachary did 35 push-ups and 3 crunches. The question asks how many more push-ups than crunches Zachary did. So we need to find 35 - 3 = 32. The answer is 32.",
+        "parsed_answer": "32"
+      }
+    ]
+  },
+  {
+    "question": "Jack received 4 emails in the morning, 5 emails in the afternoon and 8 emails in the evening. How many emails did Jack receive in the afternoon and evening?",
+    "true_answer": "13.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Jack received 5 emails in the afternoon and 8 emails in the evening. So in the afternoon and evening combined, he received 5 + 8 = 13 emails. The answer is 13.",
+        "parsed_answer": "13"
+      },
+      {
+        "response": "Let's think step by step. Jack received 5 emails in the afternoon and 8 emails in the evening. So in total he received 5 + 8 = 13 emails in the afternoon and evening. The answer is 13.",
+        "parsed_answer": "13"
+      },
+      {
+        "response": "Let's think step by step. Jack received 5 emails in the afternoon and 8 emails in the evening. So in total for the afternoon and evening, he received 5 + 8 = 13 emails. The answer is 13.",
+        "parsed_answer": "13"
+      },
+      {
+        "response": "Let's think step by step. Jack received 5 emails in the afternoon and 8 emails in the evening. So in total he received 5 + 8 = 13 emails in the afternoon and evening. The answer is 13.",
+        "parsed_answer": "13"
+      },
+      {
+        "response": "Let's think step by step. Jack received 5 emails in the afternoon and 8 emails in the evening. So in the afternoon and evening combined, he received 5 + 8 = 13 emails. The answer is 13.",
+        "parsed_answer": "13"
+      },
+      {
+        "response": "Let's think step by step. Jack received 5 emails in the afternoon and 8 emails in the evening. So in total he received 5 + 8 = 13 emails in the afternoon and evening. The answer is 13.",
+        "parsed_answer": "13"
+      },
+      {
+        "response": "Let's think step by step. Jack received 5 emails in the afternoon and 8 emails in the evening. So in total for the afternoon and evening, he received 5 + 8 = 13 emails. The answer is 13.",
+        "parsed_answer": "13"
+      },
+      {
+        "response": "Let's think step by step. Jack received 5 emails in the afternoon and 8 emails in the evening. So in total for the afternoon and evening, he received 5 + 8 = 13 emails. The answer is 13.",
+        "parsed_answer": "13"
+      },
+      {
+        "response": "Let's think step by step. Jack received 5 emails in the afternoon and 8 emails in the evening. So in total, he received 5 + 8 = 13 emails in the afternoon and evening. The answer is 13.",
+        "parsed_answer": "13"
+      },
+      {
+        "response": "Let's think step by step. Jack received 5 emails in the afternoon and 8 emails in the evening. So in total he received 5 + 8 = 13 emails in the afternoon and evening. The answer is 13.",
+        "parsed_answer": "13"
+      }
+    ]
+  },
+  {
+    "question": "Jerry had 7 action figures on a shelf in his room. Later he added some more action figures to the shelf and removed 10 of the old ones. If there are 8 action figures on his shelf now How many action figures did he add to the shelf?",
+    "true_answer": "11.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Jerry started with 7 action figures. He added some more (let's call this x), then removed 10. He ended up with 8 action figures.\n\nSo: 7 + x - 10 = 8\n\nSimplifying: x - 3 = 8\n\nTherefore: x = 11\n\nJerry added 11 action figures to the shelf.",
+        "parsed_answer": "11"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 7 action figures. He removed 10 of them, so he had 7 - 10 = -3. Then he added some action figures, and ended up with 8. So he must have added 8 - (-3) = 8 + 3 = 11 action figures. The answer is 11.",
+        "parsed_answer": "11"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 7 action figures. He removed 10 of the old ones, so he had 7 - 10 = -3. Then he added some more action figures and ended up with 8. So he must have added 8 - (-3) = 8 + 3 = 11 action figures. The answer is 11.",
+        "parsed_answer": "11"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 7 action figures. He added some more (let's call this x), then removed 10. He ended up with 8 action figures.\n\nSo: 7 + x - 10 = 8\n\nSimplifying: x - 3 = 8\n\nTherefore: x = 11\n\nJerry added 11 action figures to the shelf.",
+        "parsed_answer": "11"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 7 action figures. He added some more (let's call this x), then removed 10. After all this, he had 8 action figures.\n\nSo: 7 + x - 10 = 8\n\nSimplifying: x - 3 = 8\n\nTherefore: x = 11\n\nJerry added 11 action figures to the shelf.",
+        "parsed_answer": "11"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 7 action figures. He added some more (let's call this unknown amount X), then removed 10. After all this, he has 8 action figures.\n\nSo: 7 + X - 10 = 8\n\nSimplifying: X - 3 = 8\n\nTherefore: X = 11\n\nJerry added 11 action figures to the shelf.\n\nThe answer is 11.",
+        "parsed_answer": "11"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 7 action figures. He added some more (let's call this unknown amount X). He then removed 10 of the old ones. After all this, he has 8 action figures.\n\nSo: 7 + X - 10 = 8\n\nSimplifying: X - 3 = 8\n\nTherefore: X = 11\n\nJerry added 11 action figures to the shelf. The answer is 11.",
+        "parsed_answer": "11"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 7 action figures. He removed 10 of the old ones, so he had 7 - 10 = -3. Then he added some more action figures and ended up with 8. So he must have added 8 - (-3) = 8 + 3 = 11 action figures. The answer is 11.",
+        "parsed_answer": "11"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 7 action figures. He added some more (let's call this unknown number x), then removed 10. He ended up with 8 action figures.\n\nSo: 7 + x - 10 = 8\n\nSimplifying: x - 3 = 8\n\nTherefore: x = 11\n\nJerry added 11 action figures to the shelf.",
+        "parsed_answer": "11"
+      },
+      {
+        "response": "Let's think step by step. Jerry started with 7 action figures. He removed 10 of them, so he had 7 - 10 = -3. Then he added some action figures, and ended up with 8. So he added 8 - (-3) = 8 + 3 = 11. The answer is 11.",
+        "parsed_answer": "11"
+      }
+    ]
+  },
+  {
+    "question": "Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. She spent a total of 34 hours to play tag on both days. How many kids did she play with altogether?",
+    "true_answer": "26.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. So in total she played with 12 + 14 = 26 kids. The answer is 26.",
+        "parsed_answer": "26"
+      },
+      {
+        "response": "Let's think step by step. Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. So in total she played with 12 + 14 = 26 kids. The answer is 26.",
+        "parsed_answer": "26"
+      },
+      {
+        "response": "Let's think step by step. Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. So in total she played with 12 + 14 = 26 kids. The answer is 26.",
+        "parsed_answer": "26"
+      },
+      {
+        "response": "Let's think step by step. Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. So in total she played with 12 + 14 = 26 kids. The information about 34 hours is extra information that doesn't affect the answer. The answer is 26.",
+        "parsed_answer": "26"
+      },
+      {
+        "response": "Let's think step by step. Julia played tag with 12 kids on Monday. She played tag with 14 kids on Tuesday. To find the total number of kids she played with altogether, we add 12 + 14 = 26. The answer is 26.\n\n(Note: The information about 34 hours is not needed to answer this question.)",
+        "parsed_answer": "26"
+      },
+      {
+        "response": "Let's think step by step. Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. So in total she played with 12 + 14 = 26 kids. The answer is 26.",
+        "parsed_answer": "26"
+      },
+      {
+        "response": "Let's think step by step. Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. So in total she played with 12 + 14 = 26 kids. The answer is 26.",
+        "parsed_answer": "26"
+      },
+      {
+        "response": "Let's think step by step. Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. So in total she played with 12 + 14 = 26 kids. The information about 34 hours is not needed to answer the question. The answer is 26.",
+        "parsed_answer": "26"
+      },
+      {
+        "response": "Let's think step by step. Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. So in total she played with 12 + 14 = 26 kids. The information about 34 hours is not needed to answer the question. The answer is 26.",
+        "parsed_answer": "26"
+      },
+      {
+        "response": "Let's think step by step. Julia played tag with 12 kids on monday. She played tag with 14 kids on tuesday. So in total she played with 12 + 14 = 26 kids. The answer is 26.",
+        "parsed_answer": "26"
+      }
+    ]
+  },
+  {
+    "question": "Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left. How many more baseball cards than Ace cards does Nell have?",
+    "true_answer": "266.0",
+    "responses": [
+      {
+        "response": "Let's think step by step. Nell originally had 309 baseball cards and 356 Ace cards, for a total of 309 + 356 = 665 cards. After giving some to Jeff, she has 415 cards left. So she gave away 665 - 415 = 250 cards.\n\nHowever, the question asks how many more baseball cards than Ace cards does Nell have now. We know she has 415 total cards left, but we don't know how many of each type she has left since we only know how many she gave away total, not how many of each type she gave away.\n\nWait, let me reconsider. The problem states she now has \"415 baseball cards and Ace cards left\" - this means 415 total cards remaining. But we need to find how many of each type.\n\nActually, looking at this problem again, we don't have enough information to determine the split between baseball cards and Ace cards in the remaining 415 cards. The problem would need to specify either:\n- How many of each type she gave to Jeff, or\n- How many of each type she has left\n\nSince this information isn't provided, this problem appears to be missing information needed to answer the question.\n\nHowever, if I'm meant to assume the ratio stayed the same, I could calculate: She had 309 baseball cards out of 665 total, which is 309/665 \u2248 46.5%. So roughly 193 baseball cards and 222 Ace cards would remain. The difference would be about 222 - 193 = 29.\n\nBut without clearer problem specification, I cannot definitively answer this question. The answer is: **The problem lacks sufficient information to determine how many more baseball cards than Ace cards Nell has.**",
+        "parsed_answer": "29"
+      },
+      {
+        "response": "Let's think step by step. Nell originally had 309 baseball cards and 356 Ace cards, for a total of 309 + 356 = 665 cards. After giving some to Jeff, she has 415 cards left. So she gave away 665 - 415 = 250 cards.\n\nHowever, the question asks how many more baseball cards than Ace cards does Nell have now. We know she has 415 total cards remaining, but we don't know how many of each type she has left.\n\nWait, let me reconsider. The problem states she \"gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left.\" This seems to indicate the total is 415, but we need to find the breakdown.\n\nActually, looking at this more carefully, the problem doesn't give us enough information to determine how many of each type she has left - we only know the total is 415. Without knowing how the cards were distributed when she gave them away, we cannot determine the difference between baseball cards and Ace cards.\n\nHowever, if the problem intends for us to assume she lost the same proportion of each type, or if there's additional information I'm missing, we would need that clarification. \n\nThe answer is: We cannot determine how many more baseball cards than Ace cards Nell has with the information provided, as we only know the total remaining (415) but not the breakdown between the two types.",
+        "parsed_answer": "415"
+      },
+      {
+        "response": "Let's think step by step. Nell originally had 309 baseball cards and 356 Ace cards, for a total of 309 + 356 = 665 cards. After giving some to Jeff, she has 415 cards left. So she gave away 665 - 415 = 250 cards.\n\nHowever, the question asks how many more baseball cards than Ace cards does Nell have now. We know the total is 415, but we don't know how many of each type she has left after giving cards to Jeff.\n\nWait, let me reconsider. The problem doesn't tell us specifically how the cards were distributed when she gave them to Jeff. Without that information, we cannot determine exactly how many baseball cards versus Ace cards she has left.\n\nActually, looking at this more carefully - the problem may be unsolvable as stated because we're not told which types of cards were given away. However, if we assume she still has 309 baseball cards and 356 Ace cards is incorrect since the total is now 415...\n\nLet me reconsider the problem: She had 309 + 356 = 665 total. She now has 415 total. The question asks \"how many more baseball cards than Ace cards does Nell have?\" - but without knowing the breakdown of the 415 between the two types, we cannot answer this.\n\nUnless the intended interpretation is that the numbers given (309 and 356) represent her current amounts? Then: 309 - 356 = -47, meaning she has 47 fewer baseball cards than Ace cards (or 47 more Ace cards than baseball cards).\n\nThe answer is: 309 - 356 = -47, or she has 47 more Ace cards than baseball cards.",
+        "parsed_answer": "47"
+      },
+      {
+        "response": "Let's think step by step. Nell originally had 309 baseball cards and 356 Ace cards, for a total of 309 + 356 = 665 cards. After giving some to Jeff, she has 415 cards left. So she gave away 665 - 415 = 250 cards.\n\nHowever, the question asks how many more baseball cards than Ace cards does Nell have now. We know she has 415 cards total now, but we don't know how many of those are baseball cards versus Ace cards, since we don't know which types she gave to Jeff.\n\nWait, let me reconsider. The problem states she now has \"415 baseball cards and Ace cards left\" - this means 415 total cards remaining. But we need additional information about the distribution to answer how many more baseball cards than Ace cards she has.\n\nActually, looking at this more carefully: the problem doesn't give us enough information to determine the split between baseball and Ace cards in what remains. We would need to know either how many of each type she gave away, or how many of each type she has left.\n\nThe answer is: We cannot determine this from the given information. We know she has 415 cards total remaining, but we don't know how many are baseball cards versus Ace cards.",
+        "parsed_answer": "415"
+      },
+      {
+        "response": "Let's think step by step. \n\nFirst, I need to find how many baseball cards and Ace cards Nell has now in total: 415 cards.\n\nOriginally, Nell had 309 baseball cards and 356 Ace cards, for a total of 309 + 356 = 665 cards.\n\nShe gave away 665 - 415 = 250 cards to Jeff.\n\nHowever, the question asks how many more baseball cards than Ace cards does Nell have now. But the problem doesn't tell us how many of each type she gave away, so we cannot determine the current split between baseball cards and Ace cards.\n\nWait, let me reconsider. Looking at the problem again, it says \"now has 415 baseball cards and Ace cards left\" - this appears to be the total. Without additional information about how the 250 cards given away were distributed between the two types, we cannot determine how many of each type she currently has.\n\nHowever, if the problem intends for us to assume she still has the same ratio, or if there's missing information in how the problem is stated, we would need clarification.\n\nGiven the pattern of these problems, I believe there may be missing information in this problem statement as written. Could you verify the complete problem?",
+        "parsed_answer": "250"
+      },
+      {
+        "response": "Let's think step by step. \n\nFirst, I need to find how many baseball cards and Ace cards Nell has now in total: 415 cards.\n\nOriginally, Nell had 309 baseball cards and 356 Ace cards, for a total of 309 + 356 = 665 cards.\n\nShe gave away 665 - 415 = 250 cards to Jeff.\n\nHowever, the question asks how many more baseball cards than Ace cards does Nell have now. But the problem doesn't specify how many of each type she has left - only that she has 415 total cards remaining.\n\nWait, let me reconsider. The problem states she \"now has 415 baseball cards and Ace cards left\" - this means 415 total. But we need to know the breakdown between baseball and Ace cards to answer the question.\n\nLooking at this again, I think there may be missing information in the problem. However, if we assume the ratio of cards she gave away was proportional to what she had, or if we're meant to infer something else, we cannot determine the exact split.\n\nBut if the question is asking us to work with what we can determine: we know she has 415 cards total now, but without knowing how many of each type remain, we cannot calculate how many more baseball cards than Ace cards she has.\n\nThe answer is: This problem cannot be solved with the information given, as we don't know how many of the remaining 415 cards are baseball cards versus Ace cards.",
+        "parsed_answer": "415"
+      },
+      {
+        "response": "Let's think step by step. \n\nFirst, I need to find how many baseball cards and Ace cards Nell has now in total: 415 cards.\n\nOriginally, Nell had 309 baseball cards + 356 Ace cards = 665 cards total.\n\nShe gave away 665 - 415 = 250 cards to Jeff.\n\nHowever, the question asks how many more baseball cards than Ace cards does Nell have now. But we don't know how the 250 cards she gave away were split between baseball cards and Ace cards, so we can't determine the individual counts.\n\nWait, let me reconsider. Looking at the problem again, it seems the question might be asking about her original collection. If so:\n\nNell originally had 309 baseball cards and 356 Ace cards.\n309 - 356 = -47, which means she has 47 fewer baseball cards than Ace cards (or 47 more Ace cards than baseball cards).\n\nBut if the question is asking about her current collection after giving some away, we don't have enough information to determine this.\n\nHowever, if I assume the question is asking about her original cards: She had 309 baseball cards and 356 Ace cards. So she has 356 - 309 = 47 more Ace cards than baseball cards. Or we could say she has 309 - 356 = -47 more baseball cards than Ace cards.\n\nThe answer is: Nell has 47 fewer baseball cards than Ace cards (or -47 more baseball cards than Ace cards).",
+        "parsed_answer": "-47"
+      },
+      {
+        "response": "Let's think step by step. \n\nFirst, I need to find how many baseball cards and Ace cards Nell has now in total: 415 cards.\n\nOriginally, Nell had 309 baseball cards + 356 Ace cards = 665 cards total.\n\nShe gave away 665 - 415 = 250 cards to Jeff.\n\nHowever, the question asks how many more baseball cards than Ace cards does Nell have now. But we don't know how many of each type she has left - we only know the total is 415.\n\nLooking at the problem again, I think there may be missing information about how the cards were distributed after giving some to Jeff. Without knowing how many baseball cards and how many Ace cards she currently has, I cannot determine the difference.\n\nHowever, if the question is asking about her original collection: she had 309 baseball cards and 356 Ace cards, so she had 356 - 309 = 47 more Ace cards than baseball cards originally (or 47 fewer baseball cards than Ace cards).\n\nCould you clarify if there's additional information about how many of each type she has now, or if the question is about her original collection?",
+        "parsed_answer": "47"
+      },
+      {
+        "response": "Let's think step by step. Nell originally had 309 baseball cards and 356 Ace cards, for a total of 309 + 356 = 665 cards. After giving some to Jeff, she has 415 cards left. So she gave away 665 - 415 = 250 cards.\n\nHowever, the question asks how many more baseball cards than Ace cards does Nell have now. We know she has 415 cards total now, but we don't know how many of those are baseball cards versus Ace cards, since the problem doesn't specify which types she gave to Jeff.\n\nWait, let me reconsider. The problem states she \"gave some of her cards to Jeff\" but doesn't specify which types. Without knowing the breakdown of what she gave away, I cannot determine the exact split between baseball cards and Ace cards in her remaining 415 cards.\n\nHowever, if the problem intends for us to assume she kept the same ratio, or if there's additional information I'm missing, that would help. But based on the information given, this problem cannot be solved as stated.\n\nIf I must provide an answer based on a reasonable interpretation: The answer cannot be determined from the given information.",
+        "parsed_answer": "415"
+      },
+      {
+        "response": "Let's think step by step. Nell originally had 309 baseball cards and 356 Ace cards, for a total of 309 + 356 = 665 cards. After giving some to Jeff, she has 415 cards left. So she gave away 665 - 415 = 250 cards.\n\nHowever, the question asks how many more baseball cards than Ace cards does Nell have now. We know she has 415 cards total now, but we don't know how many of those are baseball cards versus Ace cards, since the problem doesn't specify which types she gave to Jeff.\n\nWait, let me reconsider. The problem states she \"now has 415 baseball cards and Ace cards left\" - this means 415 total cards remaining. But we need to find the split between baseball and Ace cards.\n\nActually, looking at this more carefully, the problem doesn't give us enough information to determine exactly how many baseball cards versus Ace cards she has left. We would need to know either:\n- How many of each type she gave away, or\n- How many of each type she has now\n\nWithout additional information, we cannot determine how many more baseball cards than Ace cards she has. The answer cannot be determined from the given information.\n\nHowever, if the problem intends that she gave away cards proportionally or equally from both types, or if there's a standard assumption, that would need to be clarified.",
+        "parsed_answer": "415"
+      }
+    ]
+  }
+]

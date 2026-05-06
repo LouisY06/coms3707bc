@@ -1,0 +1,26 @@
+{
+  "gemini-2.5-flash/aqua": {
+    "model": "gemini-2.5-flash",
+    "dataset": "aqua",
+    "greedy": 94.0,
+    "majority_vote": 94.0,
+    "cpw": 94.0,
+    "scw": 94.0
+  },
+  "gemini-2.5-flash/svamp": {
+    "model": "gemini-2.5-flash",
+    "dataset": "svamp",
+    "greedy": 96.0,
+    "majority_vote": 94.0,
+    "cpw": 94.0,
+    "scw": 94.0
+  },
+  "gemini-2.5-flash/strategyqa": {
+    "model": "gemini-2.5-flash",
+    "dataset": "strategyqa",
+    "greedy": 80.0,
+    "majority_vote": 86.0,
+    "cpw": 88.0,
+    "scw": 88.0
+  }
+}

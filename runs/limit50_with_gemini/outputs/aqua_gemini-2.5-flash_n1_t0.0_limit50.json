@@ -1,0 +1,502 @@
+[
+  {
+    "question": "A car is being driven, in a straight line and at a uniform speed, towards the base of a vertical tower. The top of the tower is observed from the car and, in the process, it takes 10 minutes for the angle of elevation to change from 45\u00b0 to 60\u00b0. After how much more time will this car reach the base of the tower? Answer Choices: A)5(\u221a3 + 1) B)6(\u221a3 + \u221a2) C)7(\u221a3 \u2013 1) D)8(\u221a3 \u2013 2) E)None of these",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let 'h' be the height of the tower.\nLet 'v' be the uniform speed of",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "The original price of an item is discounted 22%. A customer buys the item at this discounted price using a $20-off coupon. There is no tax on the item, and this was the only item the customer bought. If the customer paid $1.90 more than half the original price of the item, what was the original price of the item? Answer Choices: A)$61 B)$65 C)$67.40 D)$70 E)$78.20",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "Let P be the original price of the item.\n\n1.  **Discounted price",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Find out which of the following values is the multiple of X, if it is divisible by 9 and 12? Answer Choices: A)36 B)15 C)17 D)5 E)7",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "To find the value that is a multiple of X, where X is divisible by 9",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? Answer Choices: A)0.22 B)0.26 C)0.37 D)0.46 E)0.63",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let A be the event that Stock A will increase in value.\nP(A) =",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "A trader sold an article at a profit of 20% for Rs.360. What is the cost price of the article? Answer Choices: A)270 B)300 C)280 D)320 E)315",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let CP be the cost price of the article.\nThe selling price (SP) is Rs. 360.\nThe profit percentage is 20%.\n\nThe formula for selling price when there is a profit is:\nSP = CP + (Profit % of CP)\nSP = CP * (1 + Profit %)\n\nSubstitute the given values:\n360 = CP * (1 + 20/100)\n360 = CP * (1 + 0.20)\n360 = CP * (1.20)\n\nTo find the cost price (CP), divide the selling price by 1.20:\nCP = 360 / 1.20\nCP = 360 / (12/10)\nCP = 360 * (10/12)\nCP = (360 / 12) * 10\nCP = 30 * 10",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? Answer Choices: A)40 B)200 C)380 D)400 E)3200",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let N be the total number of marbles in the bag.\n\n1.  Initially, the bag contains",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct? Answer Choices: A)74453 B)64543 C)74325 D)65000 E)97656",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "To find the total number of distinct bike numbers, we need to determine the number of choices for each",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A train running at a speed of 100 miles/hour, takes 10 hours to reach its destination. After covering quarter of the distance, it starts raining and the train has to be slowed to speed of 75 miles/hour. What is the total journey duration? Answer Choices: A)10 B)11.5 C)12.5 D)13.5 E)15",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Here's how to solve the problem:\n\n1.  **Calculate the total distance of the journey:**\n    The train travels at 100 miles",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Of the 200 students in a school, at least 45% attended the prom night and at least 35% took part in the debating session. What is the maximum number of students who could have neither attended the prom night nor the debating session? Answer Choices: A)27 B)81 C)90 D)99 E)110",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "Let N be the total number of students, N = 200.\nLet",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000? Answer Choices: A)15 B)24 C)25 D)40 E)52",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Here's how to solve the problem:\n\n1.  **Calculate the commission per sale:**\n    The sales person gets a 10% commission on each sale of $250.\n    Commission per sale = 10% of $250 = 0.10 * $250 = $25.\n\n2.  **Determine the number of sales needed to reach $1000:**\n    To find out how many sales are needed to earn $1000, divide the target salary by the commission per sale.\n    Number of sales = Target salary / Commission per sale\n    Number of sales = $1000 / $25 = 40.\n\nTherefore, the sales person must make 40 sales to reach a salary of at least $1000.\n\nThe answer is (D).",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. What is the minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 ? Answer Choices: A)226 B)230 C)240 D)260 E)280",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Here's how to solve the problem:\n\n1.  **Calculate total units produced",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day? Answer Choices: A)4,000 B)4,200 C)4,500 D)4,800 E)5,000",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let S be the total number of staplers produced that day.\n\n1.  **Defective staplers:** 10% of the staplers were defective.\n    Number of defective staplers = 0.10 * S\n\n2.  **Non-defective staplers:** The remaining staplers are non-defective.\n    Number of non-defective staplers = S - 0.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Machine A puts out a yo-yo every 6 minutes. Machine B puts out a yo-yo every 9 minutes. After how many minutes will they have produced 10 yo-yos? Answer Choices: A)24 minutes B)32 minutes C)36 minutes D)64 minutes E)72 minutes",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Let T be the time in minutes.\nMachine A produces 1 yo-yo every ",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Add: +45 and -30 Answer Choices: A)-30 B)+30 C)0 D)15 E)-15",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Add: +45 and -30\nThis is equivalent to 45 - 30.\n45 - 30 = 15.\n\nThe answer is (D).",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "In how many ways can the letters of the word \"PROBLEC\" be rearranged to make 7 letter words such that none of the letters repeat? Answer Choices: A)2! B)3! C)7! D)8! E)9!",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The word is \"PROBLEC\".\n1.  Count the number of letters in the word: There are 7 letters (P, R, O, B, L, E, C).\n2.  Check if any letters are repeated: All 7 letters are distinct.\n3.  The problem asks for the number of ways to rearrange these 7 distinct letters to make 7-letter words. This is a permutation problem where we are arranging 'n' distinct items.\n4.  The number of ways to arrange 'n' distinct items is given by n!.\n\nIn this case, n = 7.\nSo, the number of ways is 7!.\n\n7!",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "Let A and B be independent events with P (A) = 0.2 and P(B) = 0.8. Find P(A/B)? Answer Choices: A)0.2 B)0.4 C)0.6 D)1.2 E)1.5",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Given that A and B are independent events, we know that the occurrence of event B does not affect the probability of event A occurring.\n\nThe formula for conditional probability P(A/B) is:\nP(A/B) = P(A and B) / P(B)\n\nSince A and B are independent events, the probability of both A and B occurring (P(A and B)) is the product of their individual probabilities:\nP(A and B) = P(A) * P(B)\n\nSubstitute this into the conditional probability formula:\nP(A/B) = (P(A) * P(B)) / P(B)\n\nAssuming P(B) is not zero (which it isn't, as P(B) = 0.8), we can cancel P(B) from the numerator and denominator:\nP(A/B) = P(A)\n\nWe are given P(A) = 0.2.\nTherefore, P(A/B) = 0.2.\n\nThe final answer is $\\boxed{\\text{0.2}}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Consider there is an staircase elevator and you are coming down. If you walk 20 steps and stop, then you reach bottom in 10 minutes. If you walk 10 steps and stop, you reach to the ground in 20 minutes. What is the speed of the elevator? Answer Choices: A)1 step/minute B)2 step/minute C)3 step/minute D)4 step/minute E)None of the above",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let `S` be the total number of steps in the staircase.\nLet `E`",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Last year, a Home Appliance Store sold an average(arithmetic mean) of 42 microwave ovens per month. In the first 10 months of this year,the store has sold an average(arithmetic mean) of only 20 microwave ovens per month. What was the average number of microwave ovens sold per month during the entire 22 months period ? Answer Choices: A)21 B)30 C)31 D)32 E)None of the above",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Here's how to solve the problem:\n\n1.  **Calculate total ovens sold last year:**\n    *   Last year had 12 months.\n    *   Average sales per month = 42 ovens.\n    *   Total ovens sold last year = 12 months * 42 ovens/month = 504 ovens.\n\n2.  **Calculate total ovens sold in the first 10 months of this year:**\n    *   Number of months = 10 months.\n",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers? Answer Choices: A)(zy \u2013 2x)/z B)(zy \u2013 2)/z C)(zx \u2013 y)/(z \u2013 2) D)(zy \u2013 2x)/(z -2) E)(zy \u2013 x)/(z + 2)",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let H be the highest score and L be the lowest score.\nThe average of the highest and lowest score is x:\n(H + L) / 2 = x\nSo, H + L = 2x\n\nLet S_total be the sum of all scores in the class.\nThe average score for the entire class is y, and there are z students:\nS_",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "[5 + ? \u00d7 19 - 15 - 7]/[13 \u00d7 13 - 156] = 6 Answer Choices: A)4 B)4.5 C)5 D)5.5 E)6.5",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Let the unknown value be `x`.\nThe given equation is:\n`[5 + x \u00d7 19 - 15 - 7] / [13 \u00d7 13 - 156] = 6`\n\nFirst, simplify the denominator:\n`13 \u00d7 13 = 169`\n`169 - 156 = 13`\n\nNow, substitute the simplified denominator back into the equation:\n`[5 + 19x - 15 - ",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A grocer makes a 25% profit on the selling price for each bag of flour it sells. If he sells each bag for $100 and makes $3,000 in profit, how many bags did he sell? Answer Choices: A)12 B)16 C)24 D)30 E)40",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The grocer makes a 25% profit on the selling price for each bag of flour.\n",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Alex and Jacob works at a toy shop that make toys. Alex takes 7 hours to make a toy, and Jacob takes 9 hours to make a toy. During a month, both of them makes 35 toys in total. If both of them have worked for almost similar number of hours how many toys have been prepared by Jacob? Answer Choices: A)15 B)16 C)17 D)18 E)19",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let `A` be the number of toys Alex made and `J` be the number",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "John likes to have lightly flavored tea every evening. In a 50% strong milk tea, he replaces 15% of it with milk twice. Then, he replaces 10 percent of the resultant solution with more milk.\nWhat is the final concentration of tea John drinks? Answer Choices: A)15.38% B)42% C)39.86% D)22.35% E)32.51%",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "Let's break down the problem step-by-step to find the final concentration of",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "In a class 1/16 of the students study math, 1/10 of the students study bio, 1/8 of the students study english. The total number of students is a 4 digit number. Find the diffrence between maximum number of students and minimum number of students. Answer Choices: A)8880 B)8870 C)8890 D)7890 E)6780",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let N be the total number of students in the class.\nFrom the problem statement,",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "On a normal day Bill usually averages about 15 mph when riding his bicycle. On a windy day, his speed is reduced by 4 mph. How far can Bill travel on a windy day in 21 minutes? Round to the nearest hundredth. Answer Choices: A)2 miles B)2.25 miles C)3.25 miles D)3.85 miles E)2.85 miles",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "On a normal day, Bill's speed is 15 mph.\nOn a windy day, his speed is reduced by 4 mph.\nSo, Bill's speed on a windy day = 15 mph - 4 mph = 11 mph.\n\nThe time he travels is 21 minutes. To use this with speed in mph, we need to convert minutes to hours:\nTime = 21 minutes / 60 minutes/hour = 0.35 hours.\n\nNow, we can calculate the distance using the formula: Distance = Speed \u00d7 Time.\nDistance = 11 mph \u00d7 0.35 hours = 3.85 miles.\n\nThe answer rounded to the nearest hundredth is 3.85 miles.\n\nThe final answer is $\\boxed{\\text{3.85 miles}}$",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A retailer sold an appliance for 40 percent above cost, which represented a gross profit of $20.00. For what price did the retailer sell the appliance? Answer Choices: A)$27.30 B)$51.00 C)$63.00 D)$70.00 E)$91.00",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let C be the cost price of the appliance and S be the selling price.\nThe problem states that the retailer sold the appliance for",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "At 6% per annum simple interest, Rahul borrowed Rs. 500. What amount will he pay to clear the debt after 4 years Answer Choices: A)750 B)700 C)620 D)600 E)None of these",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The principal amount (P) is Rs. 500.\nThe rate of interest (R) is 6% per annum.\nThe time period (T) is 4 years.\n\nThe formula for simple interest (SI) is:\nSI = (P * R * T) / 100\n\nSubstitute the given values into the formula:\nSI = (500 * 6 * 4) / 100\nSI = (500 * 24) / 100\nSI = 5 * 24\nSI = 120\n\nThe total amount Rahul will pay to clear the debt is the principal amount plus the simple interest:\nAmount = Principal + Simple Interest\nAmount = 500 + 120\nAmount = 620\n\nTherefore, Rahul will pay Rs. 620 to clear the debt after 4 years.\n\nThe final answer is $\\boxed{\\text{620}}$",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A computer routine was developed to generate two numbers (x,y) the first being a random number between 0 and 100 inclusive, and the second being less than or equal to the square root of the first. Each of the following pair satisfies the routine except Answer Choices: A)(99,10) B)(85,9) C)(50,7) D)(1,1) E)(1,0)",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "The routine generates two numbers (x, y) with the following conditions:\n1.  ",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A jeep travels a certain distance taking 6 hours in the forward journey. During the return journey, it increased its speed by 12km/hr and took 4 hours. What is the distance travelled by the jeep? Answer Choices: A)126km B)144km C)127km D)228km E)128km",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let the speed of the jeep in the forward journey be 's' km/hr.\nThe time taken for the forward journey is 6 hours.\nThe distance traveled (D) = Speed \u00d7 Time = s \u00d7 6 = 6s km",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "When I was 2 years old, my brother was half my age. Now I am 60 years old, how old is my brother? Answer Choices: A)A)59 B)B)69 C)C)79 D)D)89 E)E)99",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "When you were 2 years old, your brother was half your age, which means he was 1 year old. The age difference between you and your brother is 2 - 1 = 1 year. This age difference remains constant. So, if you are now 60 years old, your brother is still 1 year younger than you. Therefore, your brother is 60 - 1 = 59 years old. The answer is (A).",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "The original retail price of an appliance was 60 percent more than its wholesale cost. If the appliance was actually sold for 20 percent less than the original retail price, then it was sold for what percent more than its wholesale cost? Answer Choices: A)20% B)28% C)36% D)40% E)42%",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let W be the wholesale cost.\nLet R be the original retail price.\nLet S be the actual selling price.\n\n1.  **Original retail price in terms of wholesale cost:**\n    The original retail price was 60 percent more than its wholesale cost.\n    R = W + 0.60W\n    R = 1.60W\n\n2.  **Actual selling price in terms of original retail price:**\n    The appliance was actually sold for 20 percent less than the original retail price.\n    S = R - 0.20R\n    S = 0.80R\n\n3.  **Actual selling price in terms of wholesale cost:**\n    Substitute the expression for R from step 1 into the equation from step 2:\n    S",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "On a map, the length of the road from Town F to Town G is measured to be 20 inches. On this map, 1/4 inch represents an actual distance of 10 miles. What is the actual distance, in miles, from Town F to Town G along this road? Answer Choices: A)800 B)720 C)960 D)1140 E)1160",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "On a map, 1/4 inch represents an actual distance of 10 miles.\nWe need to find the actual distance for 20 inches on the map.\n\nFirst, let's find out how many miles 1 inch represents:\nIf 1/4 inch = 10 miles\nThen 1 inch = 10 miles * 4 = 40 miles\n\nNow, we can find the actual distance for 20 inches:\nActual distance = 20 inches * 40 miles/inch\nActual distance = 800 miles\n\nThe final answer is $\\boxed{\\text{800}}$",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "When folded into two equal halves a rectangular sheet had a perimeter of 48cm for each part folded along one set of sides and the same is 66cm when folded along the other set of sides. Find the area of the sheet. Answer Choices: A)1584 B)1120 C)792 D)1320 E)1200",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let the length of the rectangular sheet be `L` and the width be `W`.\nThe area",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Suppose you can travel from a place M to a place N by 3 buses, from place N to place O by 4 buses, from place O to place P by 1 buses and from place P to place Q by 3 buses. In how many ways can you travel from M to Q ? Answer Choices: A)24 B)36 C)72 D)84 E)None",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "To find the total number of ways to travel from M to Q, we multiply the number of ways for each segment of the journey:\n- From M to N: 3 ways\n- From N to O: 4 ways\n- From O to P: 1 way\n- From P to Q: 3 ways\n\nTotal ways = (Ways M to N) * (Ways N to O) * (Ways O to P) * (Ways P to Q)\nTotal ways = 3 * 4 * 1 * 3\nTotal ways = 12 * 3\nTotal ways = 36\n\nThe answer is (B).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "A rectangular solid, 3 x 4 x 15, is inscribed in a sphere, so that all eight of its vertices are on the sphere. What is the diameter of the sphere? Answer Choices: A) 13.3542 B) 15.8113 C) 18.3451 D) 19.5667 E) 20.8888",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "The diameter of the sphere is equal to the length of the main diagonal of the rectangular solid",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A starts travel towards south 3km, then travel 5 km towards east, and again travels 3 km to north, and finally travels 2km towards west. In the end how far from is A from home? Answer Choices: A)3km B)2km C)4km D)5km E)6km",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let's break down A's travel step by step:\n\n1.  **Starts at home:** Let's consider home as the origin (0, 0) on a coordinate plane.\n2.  **Travels south 3km:** This means the y-coordinate decreases by 3. New position: (0, -3).\n3.  **Travels 5 km towards east:** This means the x-coordinate increases by 5. New position: (5, -3).\n4.  **Travels 3 km to north:** This means the y-coordinate increases by 3. New position: (5, 0).\n5.  **Finally travels 2km towards west:** This means the x-coordinate decreases by 2. New position: (3, 0).\n\nThe final position of A is (3, 0).\nThe starting position (home) was (0, 0).\n\nTo find how far A is from home, we calculate the distance between (0, 0) and (3, 0).\nDistance = $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$\nDistance = $\\",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "While selling a watch, a shopkeeper gives a discount of 5%. If he gives a discount of 7%, he earns Rs. 15 less as profit. The marked price of the watch is: Answer Choices: A)Rs. 697.50 B)Rs. 712.50 C)Rs. 787.50 D)Rs. 750 E)Rs. 780",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let the marked price of the watch be MP.\n\n**Scenario 1: Shopkeeper",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A student instead of finding the value of 7/8 of a number, found the value of 7/18 of the number. If his answer differed from the actual one by 770, find the that number. Answer Choices: A)1584 B)2520 C)1728 D)1656 E)None",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the number be 'x'.\nThe actual value that should have been found is (",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "The monthly salary S of a shop assistant is the sum of a fixed salary of $500 plus 5% of all monthly sales. What should the monthly sales be so that her monthly salary reaches $1500? Answer Choices: A)$50000 B)$40000 C)$30000 D)$20000 E)None of these",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let S be the monthly salary, F be the fixed salary, and M be the monthly sales.\nThe formula for the monthly salary is given by:\nS = F + 0.05 * M\n\nWe are given:\nFixed salary (F) = $500\nTarget monthly salary (S) = $1500\nPercentage of sales = 5% = 0",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "An aeroplane flies along the four sides of a square at the speeds of 200, 400, 600 and 800km/hr. Find the average speed of the plane around the field? Answer Choices: A)384 B)562 C)458 D)156 E)452",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the side length of the square be 'd' km.\nThe aeroplane flies along",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Jack buys 18 sharpeners (white and brown) for rs. 100. If he pays 1 rupee more for each white than brown sharpeners. How many of white and how many brown sharpeners did he buy? Answer Choices: A)10,8 B)9,8 C)7,8 D)5,6 E)11,12",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let 'w' be the number of white sharpeners and 'b' be the number",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Hoses A and B spout water at different constant rates, and hose A can fill a certain pool in 8 hours. Hose A filled the pool alone for the first 2 hours and the two hoses, working together, then finished filling the pool in another 3 hours. How many hours would it have taken hose B, working alone, to fill the entire pool? Answer Choices: A)8 B)15 C)12 D)6 E)3",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let R_A be the rate at which hose A fills the pool, and R_B be the",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "If 120 is reduced to 96, what is the reduction percent? Answer Choices: A)30% B)40% C)20% D)10% E)5%",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The reduction amount is 120 - 96 = 24.\nTo find the reduction percent, we divide the reduction amount by the original value and multiply by 100.\nReduction percent = (24 / 120) * 100%\nReduction percent = (1/5) * 100%\nReduction percent = 20%\n\nThe answer is (C).",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "I know a 5 digit number having a property that with a 1 after it, it is three times as large as it would be with a 1 before it.\nWhat is that number? Answer Choices: A)42857 B)32456 C)76523 D)24567 E)43566",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the 5-digit number be `N`.\n\n1.  **\"with",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "At Daifu university, 24% of all students are members of both a chess club and a swim team. If 20% of members of the swim team are not members of the chess club, what percentage of all Daifu students are members of the swim team? Answer Choices: A)20% B)30% C)40% D)50% E)60%",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let N be the total number of students at Daifu university.\nLet S be the set",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "If the population of a city increases by 5 % annually, what will be the population of the city in 2 years time if its current population is 78000? Answer Choices: A)81900 B)85995 C)85800 D)90000 E)None of these",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "The current population of the city is 78000.\nThe population increases by 5% annually. We need to find the population after 2 years.\n\n**Year 1:**\nIncrease in population = 5% of 78000\nIncrease = 0.05 * 78000 = 3900\nPopulation after 1 year = Current population + Increase\nPopulation after 1 year = 7",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Two cars start at the same time from opposite ends of a highway that is 50 miles long. One car is riding at 12 mph and the second car is riding at 13 mph. How long after they begin will they meet? Answer Choices: A) 1 B) 1.25 C) 1.50 D) 1.75 E) 2",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "When two objects move towards each other from opposite ends, their relative speed is the sum of their individual speeds.\n\n1.  **Calculate the relative speed:**\n    Speed of Car 1 = 12 mph\n    Speed of Car 2 = 13 mph\n    Relative speed = 12 mph + 13 mph = 25 mph\n\n2.  **Use the formula Distance = Speed \u00d7 Time:**\n    The total distance they need to cover together to",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A shopkeeper employed a servant at a monthly salary of 1500. In addition to it, he agreed to pay him a commission of 15% on the monthly sale. How much sale in Rupees should the servant do if he wants his monthly income as 6000? Answer Choices: A)30000 B)415000 C)31500 D)50000 E)None of these",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let S be the monthly sale in Rupees.\n\nThe servant's total monthly income is calculated as:\nTotal Income = Fixed Salary + Commission on Sales\n\nGiven:\nFixed Salary = 1500 Rupees\nCommission Rate = 15% of monthly sale = 0.15 * S\nDesired Monthly Income = 6000 Rupees\n\nSet up the equation:\n6000 = 1500 +",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A man borrows Rs.360 If he pays it back in 12 monthly installments of Rs.31.50, what is his interest rate? Answer Choices: A)1.5% B)4.5% C)10% D)5% E)12%",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "*   **Principal amount borrowed (P):** Rs. 360\n*   **Number",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "The price of a product is reduced by 30% . By what percentage should it be increased to make it 100% Answer Choices: A)41.86% B)42.86% C)43.86% D)44.86% E)45.86%",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let the original price of the product be P.\nWhen the price is reduced by 30%, the new price becomes:\nNew Price = P - 0.30P = 0.70P\n\nNow, we need to find the percentage by which this new price (0.70P) should be increased to make it equal to the original price (P).\nLet the required percentage increase be x%.\nSo, 0.70P * (1 + x/100) = P\n\nDivide both sides by P:\n0.70 * (1 + x/100) = 1\n\nNow, solve for x:",
+        "parsed_answer": null
+      }
+    ]
+  }
+]

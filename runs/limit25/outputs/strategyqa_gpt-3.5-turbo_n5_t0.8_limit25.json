@@ -1,0 +1,652 @@
+[
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "It is estimated that around 16 million men in Central Asia carry a Y chromosome that is nearly identical to that of Genghis Khan, indicating possible descent from him. On the other hand, Julius Caesar lived much earlier and had fewer known descendants. Therefore, it is more likely that more people today are related to Genghis Khan than Julius Caesar. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "It is believed that a larger percentage of the global population is related to Genghis Khan due to the vast size of his empire and the number of offspring he is estimated to have had. Therefore, more people today are likely related to Genghis Khan than Julius Caesar. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "It is estimated that around 16 million people alive today are direct descendants of Genghis Khan, while it is believed that Julius Caesar has fewer living descendants. Thus, more people today are likely related to Genghis Khan than Julius Caesar. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Genghis Khan lived in the 12th and 13th centuries, while Julius Caesar lived in ancient Rome. Genghis Khan had many descendants due to his large empire and multiple wives, leading to the possibility that more people today are related to him than to Julius Caesar. The answer is likely yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Genghis Khan lived in the 12th and 13th centuries, while Julius Caesar lived in the 1st century BC. Genghis Khan is believed to have many descendants due to his large number of children, while Julius Caesar's bloodline is not as well-documented. Thus, it is more likely that more people today are related to Genghis Khan than Julius Caesar. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Could the members of The Police perform lawful arrests?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Police is a rock band, not actual law enforcement officers. Thus, the members of The Police cannot perform lawful arrests. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "The Police is a band, not a law enforcement agency. The members of The Police do not have the authority to perform lawful arrests. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "The members of The Police are musicians, not law enforcement officers. Thus, they do not have the authority to perform lawful arrests. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "The Police is a band, not a law enforcement agency. The members of The Police do not have the authority to perform lawful arrests. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "The members of The Police are musicians, not law enforcement officers. They do not have the authority to perform lawful arrests. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a Monoamine Oxidase candy bar cheer up a depressed friend?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Monoamine oxidase inhibitors (MAOIs) are a type of medication used to treat depression, so a candy bar containing MAOIs could potentially help cheer up a depressed friend. However, it is important to note that MAOIs can have serious side effects and should only be taken under the guidance of a healthcare professional. It is always best to consult a doctor before trying to self-medicate or give medication to someone else.",
+        "parsed_answer": null
+      },
+      {
+        "response": "Monoamine Oxidase inhibitors are a type of medication used to treat depression, so a Monoamine Oxidase candy bar would not cheer up a depressed friend. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Monoamine oxidase inhibitors (MAOIs) are a type of medication used to treat depression, but they are not typically administered in candy bar form. In fact, consuming MAOIs with certain foods or drinks can have dangerous interactions. It is always best to consult a healthcare professional for appropriate treatment options for depression. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Monoamine oxidase inhibitors (MAOIs) are a type of medication used to treat depression. They are not typically found in candy bars. However, if a depressed friend is prescribed MAOIs by a doctor, taking the medication as prescribed could potentially help improve their mood. The answer is maybe, depending on the specific situation.",
+        "parsed_answer": null
+      },
+      {
+        "response": "Monoamine Oxidase is an enzyme that breaks down neurotransmitters in the brain. A Monoamine Oxidase inhibitor is a type of antidepressant medication. A candy bar containing Monoamine Oxidase would not have any effect on a depressed friend, as it would not be a sufficient or appropriate treatment for depression. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a dog respond to bell before Grey seal?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Dogs are known to be responsive to auditory cues, while Grey seals may not have the same level of responsiveness to a bell. Therefore, it is likely that a dog would respond to a bell before a Grey seal. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Dogs are known to be highly trainable and responsive to conditioning, so a dog would likely respond to a bell before a Grey seal would. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Dogs are known to be able to be trained to respond to bells, while Grey seals do not typically have a conditioned response to bells. Therefore, a dog would likely respond to a bell before a Grey seal. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Dogs are known to be highly trainable and can be conditioned to respond to a bell through training. Grey seals, on the other hand, do not have the same level of cognitive abilities as dogs and are unlikely to respond to a bell in the same way. Therefore, a dog would likely respond to a bell before a Grey seal. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Dogs are known for their ability to be trained and respond to cues, including bells. Grey seals do not typically respond to bells in the same way dogs do. Therefore, it is likely that a dog would respond to a bell before a Grey seal. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is a pound sterling valuable?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Yes, a pound sterling is the official currency of the United Kingdom and is considered valuable as it is widely accepted for payments and exchanges.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Yes, a pound sterling is the currency used in the United Kingdom and is considered valuable in terms of purchasing power and exchange rates.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Yes, a pound sterling is the currency of the United Kingdom and is considered valuable on the global market.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Yes, the pound sterling is the official currency of the United Kingdom and is considered valuable in monetary terms.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "The pound sterling is the official currency of the United Kingdom and is considered valuable in terms of being a stable and widely accepted currency in international trade and finance. So, yes, a pound sterling is valuable.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is shrimp scampi definitely free of plastic?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Shrimp scampi is a dish made with shrimp, garlic, butter, and other ingredients. These ingredients can come in packaging that may contain plastic. Therefore, shrimp scampi is not necessarily free of plastic. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Shrimp scampi is a dish made with shrimp, garlic, butter, and sometimes wine or lemon juice. It is possible for shrimp scampi to contain microplastics if the shrimp used in the dish have been contaminated with plastic particles from the environment. Therefore, shrimp scampi is not necessarily free of plastic. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Shrimp scampi is a dish made with shrimp, garlic, butter, and lemon. It is possible for plastic contamination to occur in seafood due to pollution in the oceans. Therefore, shrimp scampi may not be completely free of plastic. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Shrimp scampi is a dish made with shrimp, garlic, butter, and wine, among other ingredients. While these ingredients are typically not made with plastic, it is always possible for contamination or trace amounts of plastic to be present in food. So, shrimp scampi is not definitely free of plastic. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Shrimp scampi typically consists of shrimp, butter, garlic, lemon juice, and parsley. While these ingredients are not typically made with plastic, there is always a possibility of contamination during the preparation or packaging process. So, it is not guaranteed that shrimp scampi is completely free of plastic.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Do the anchors on Rede Globo speak Chinese?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Rede Globo is a Brazilian television network, and Chinese is not a commonly spoken language in Brazil. Therefore, it is unlikely that the anchors on Rede Globo speak Chinese. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Rede Globo is a Brazilian television network, and the anchors on Rede Globo primarily speak Portuguese. It is unlikely that they speak Chinese. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Rede Globo is a Brazilian television network, and their anchors typically speak Portuguese. It is unlikely that they would speak Chinese as it is not a common language in Brazil. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Rede Globo is a Brazilian television network, and their anchors primarily speak Portuguese. It is unlikely that they speak Chinese. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Rede Globo is a Brazilian television network, and their anchors usually speak Portuguese. It is unlikely that the anchors on Rede Globo speak Chinese. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The cost of a Boeing 737 is in the range of hundreds of millions of dollars, while the box office receipts for a single movie, even a successful one like Wonder Woman, would not come close to covering that cost. Thus, the answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "The cost of a Boeing 737 is millions of dollars, while the box office receipts of a movie like Wonder Woman (2017) would be in the hundreds of millions. Thus, the box office receipts of the movie would not be enough to cover the cost of a Boeing 737. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "The cost of a Boeing 737 is typically in the range of $51 million to $124 million. The box office receipts for Wonder Woman (2017 film) were around $821 million. Thus, the box office receipts could cover the cost of a Boeing 737. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "The cost of a Boeing 737 is in the millions of dollars, while the box office receipts of a single film, even a successful one like Wonder Woman (2017), would not come close to covering that cost. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "The cost of a Boeing 737 is estimated to be around $90 million. The box office receipts for Wonder Woman (2017 film) were over $821 million. Thus, the cost of a Boeing 737 could easily be covered by the box office receipts of the film. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Can you buy Casio products at Petco?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "No, Petco is a retail store that specializes in pet supplies, while Casio is a brand that primarily sells electronics such as calculators and watches. It is unlikely that you would find Casio products for sale at Petco.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Petco is a pet store that sells pet-related products. Casio is a brand that primarily sells electronics such as calculators and watches. It is unlikely that Petco would sell Casio products. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Petco is a pet store that sells pet supplies and accessories. Casio products are electronic products such as watches and calculators. It is unlikely that Petco would sell Casio products as they are not related to pet care. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Petco primarily sells pet products, so it is unlikely that you would find Casio products there. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Petco is a pet store, so they typically sell pet-related products. Casio products are electronic devices like calculators and watches, so it is unlikely that you would find them for sale at Petco. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Did the Space Race use relay batons?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "No, the Space Race was a competition between the United States and the Soviet Union to explore outer space. It did not involve relay batons.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "No, the Space Race was a competition between the United States and Soviet Union to explore outer space and land on the moon. It did not involve relay batons, which are typically used in track and field events.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "No, the Space Race was a competition between the United States and the Soviet Union to explore outer space and achieve milestones in space exploration. It did not involve the use of relay batons.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "No, the Space Race was a competition between the United States and the Soviet Union to explore outer space and achieve milestones such as landing on the moon. It did not involve the use of relay batons.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "No, the Space Race was a competition between the United States and Soviet Union to explore outer space and achieve milestones in space exploration. It did not involve the use of relay batons.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Are Christmas trees dissimilar to deciduous trees?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Christmas trees are typically evergreen trees, such as pine, spruce, or fir trees, which retain their needles year-round. Deciduous trees, on the other hand, shed their leaves annually. So, Christmas trees are indeed dissimilar to deciduous trees. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Christmas trees are typically evergreen trees, which retain their leaves (needles) year-round. Deciduous trees, on the other hand, shed their leaves seasonally. So, Christmas trees are indeed dissimilar to deciduous trees in terms of leaf retention. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Christmas trees are typically evergreen trees, meaning they keep their leaves (needles) all year round. Deciduous trees, on the other hand, lose their leaves seasonally. So, Christmas trees are indeed dissimilar to deciduous trees. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Christmas trees are typically evergreen trees, such as pine or fir trees, that are commonly used for decoration during the Christmas holiday season. Deciduous trees, on the other hand, are trees that shed their leaves annually. So, yes, Christmas trees are dissimilar to deciduous trees.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Christmas trees are typically evergreen trees, which means they have leaves or needles that remain green and on the tree all year round. Deciduous trees, on the other hand, shed their leaves in the fall. So in that sense, Christmas trees are dissimilar to deciduous trees. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Does Biochemistry study gluons?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Biochemistry does not study gluons. Gluons are particles that mediate the strong force in quantum chromodynamics, a branch of particle physics. Biochemistry is the study of the chemical processes and substances that occur within living organisms. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "No, Biochemistry is the study of chemical processes and substances in living organisms. Gluons are elementary particles that mediate the strong force in quantum chromodynamics. They are studied in particle physics, not biochemistry.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "No, biochemistry does not study gluons. Gluons are particles in particle physics, while biochemistry is the study of the chemical processes and substances that occur within living organisms.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Biochemistry is the study of the chemical processes and substances that occur within living organisms. Gluons are subatomic particles that mediate the strong force between quarks. Biochemistry does not typically involve the study of gluons. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Biochemistry does not study gluons. Gluons are elementary particles that mediate the strong force in quantum chromodynamics. Biochemistry is the study of the chemical processes and substances that occur within living organisms. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Did land owners elect their rulers in the Kingdom of Hungary?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "In the Kingdom of Hungary, rulers were generally elected by a small group of nobles known as the Diet, rather than by all landowners. So, the answer is no, landowners did not elect their rulers in the Kingdom of Hungary.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "In the Kingdom of Hungary, rulers were typically monarchs who inherited their position or were appointed by other monarchs. Landowners did not typically have a direct role in electing rulers in Hungary.",
+        "parsed_answer": null
+      },
+      {
+        "response": "In the Kingdom of Hungary, the rulers were typically monarchs or nobles from the ruling class, rather than being elected by landowners. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Yes, in the Kingdom of Hungary, landowners were part of the nobility and had a role in electing their rulers.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "In the Kingdom of Hungary, rulers were typically monarchs who inherited their position rather than being elected by landowners. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would Nancy Pelosi publicly denounce abortion?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Nancy Pelosi has been a long-time supporter of abortion rights and has not publicly denounced abortion. It is highly unlikely that she would do so. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Nancy Pelosi is a pro-choice politician who has consistently supported a woman's right to choose regarding abortion. It is unlikely that she would publicly denounce abortion. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Nancy Pelosi is a pro-choice advocate and has publicly supported abortion rights. It is unlikely that she would publicly denounce abortion. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Nancy Pelosi is a known supporter of abortion rights and has not publicly denounced abortion. It is unlikely that she would do so. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Nancy Pelosi is a known supporter of women's reproductive rights, including the right to access abortion. It is highly unlikely that she would publicly denounce abortion. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does Dragon Ball shows and movies fall short of Friday 13th number of projects?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "There are 12 Friday the 13th movies, while there are over 20 Dragon Ball movies and shows. Thus, Dragon Ball shows and movies exceed the number of projects related to Friday the 13th. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "There are 12 Friday the 13th movies, while Dragon Ball has multiple TV shows, movies, and spin-offs. It is likely that Dragon Ball has more projects than Friday the 13th. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "There are 12 Friday the 13th movies, while there are multiple Dragon Ball shows and movies. Thus, Dragon Ball shows and movies exceed the number of projects in the Friday the 13th series. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "There are over 30 Dragon Ball shows and movies, while there are 12 Friday the 13th movies. Thus, Dragon Ball shows and movies exceed the number of Friday the 13th projects. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "There are currently 12 Friday the 13th movies, while there are over 20 Dragon Ball shows and movies. Thus, Dragon Ball shows and movies do not fall short of the number of Friday the 13th projects. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a student of the class of 2017 have amnesia about 9/11?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The class of 2017 would have been born in the late 1990s, so they would not have personal memories of 9/11 as they would have been very young at the time. However, they would likely have learned about it in school and through media, so it is unlikely that they would have amnesia about 9/11. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "The class of 2017 would have been born in 1999 or 2000, depending on when their birthday falls. This means they would have been too young to remember or fully understand the events of 9/11 in 2001. So, it is possible that a student of the class of 2017 may have amnesia about 9/11.",
+        "parsed_answer": null
+      },
+      {
+        "response": "The Class of 2017 would have been born around 1999-2000, so they would likely not have clear memories of the events of 9/11 in 2001. However, they would have likely learned about it in school or through other means. So, it is possible that a student of the Class of 2017 may have some knowledge or understanding of 9/11, but they would not have personal memories of the event.",
+        "parsed_answer": null
+      },
+      {
+        "response": "A student of the class of 2017 would have been born in 1999 or 2000, making them too young to remember 9/11. Thus, it is possible for a student of the class of 2017 to have amnesia about 9/11. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "The class of 2017 would have been born around 1999, so they would not have personal memories of the events of 9/11 in 2001. However, they would have likely learned about it in school or from their families. So, it is possible that a student of the class of 2017 may have some knowledge or recollection of the events of 9/11. The answer is uncertain.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Would a psychic who admits to hot reading be trustworthy?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "No, a psychic who admits to using hot reading, a technique where they gather information about a person before a reading, would not be trustworthy as they are not truly using their psychic abilities to provide information.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "A hot reading is when a psychic has prior knowledge or information about a person before the reading takes place. If a psychic admits to hot reading, it would raise questions about their honesty and credibility. So, a psychic who admits to hot reading may not be considered trustworthy.",
+        "parsed_answer": null
+      },
+      {
+        "response": "A psychic who admits to hot reading, which involves using information gathered beforehand to make it seem like they have psychic abilities, would not be trustworthy. Admitting to this practice undermines the credibility of their abilities and raises questions about the authenticity of their readings. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "A psychic who admits to hot reading, which is a technique used to gather information about a person beforehand and then present it as if it was obtained through psychic abilities, would not be considered trustworthy. Admitting to using deceitful techniques undermines their credibility and trustworthiness as a psychic. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "A psychic who admits to hot reading, which is a technique used to gather information about a person before a reading, may not be considered trustworthy. Hot reading is often seen as deceptive and undermines the credibility of the psychic. Therefore, a psychic who admits to hot reading may not be seen as trustworthy.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Is average number of peas in a pod enough commas for a billion?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The average number of peas in a pod is around 6-9. A billion is 1,000,000,000. Thus, the average number of peas in a pod is not enough commas to represent a billion. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "The average number of peas in a pod is typically between 6-9. So, to reach a billion, you would need hundreds of millions of pea pods. This would require a very large number of commas. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "The average number of peas in a pod can vary, but let's assume it's around 6. A billion is 1,000,000,000. To represent a billion with commas, it would be written as 1,000,000,000. Since there are only 3 commas in this representation, it is not enough to represent the average number of peas in a billion pods. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "The average number of peas in a pod is typically around 7-9. A billion is 1,000,000,000. Thus, to write a billion with commas, it would be 1,000,000,000. This has nine commas. Therefore, the average number of peas in a pod is enough commas for a billion. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "The average number of peas in a pod is typically around 7-9. A billion is 1,000,000,000. Adding commas every three digits, the number would be written as 1,000,000,000. Thus, the average number of peas in a pod is not enough commas for a billion. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does actress Leila George lack the height to be a model?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Height is a common requirement for models, with many agencies looking for models who are at least 5'8\" or taller. Leila George's height is not publicly listed, but if she does not meet the typical height requirement for modeling, she may be considered too short by industry standards. The answer is potentially yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Height is an important factor for being a model, and Leila George is 5'7\" tall, which is shorter than the typical height requirement for high fashion modeling. However, there are alternative types of modeling where height requirements may not be as strict. So, it is possible for Leila George to pursue a modeling career despite her height. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Height requirements for models vary, but generally, models are taller than average. Leila George is 5'8\" which is considered tall for a woman, so she would meet the height requirements to be a model. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Height requirements for modeling can vary, but typically models are taller than average. Leila George is 5'3\", which is shorter than the average height for models. Therefore, it is possible that she may not meet the height requirements to be a model. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Height is a common requirement for models, but there are also petite and commercial models who do not necessarily have to be tall. Ultimately, it depends on the specific requirements of the modeling industry and the preferences of individual clients. So, Leila George may or may not lack the height to be a model. The answer is unclear.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Is Dustin Hoffman one of the B'nei Yisrael?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Dustin Hoffman was born to a Jewish family, so he is considered part of the B'nei Yisrael, the Jewish people. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Dustin Hoffman is not known to be Jewish, so he is not considered to be one of the B'nei Yisrael, which refers to the Jewish people. The answer is no.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "Dustin Hoffman is Jewish, but it is unclear if he is specifically one of the B'nei Yisrael, which refers to the descendants of the ancient Israelites. Without further information, it is difficult to say for certain.",
+        "parsed_answer": null
+      },
+      {
+        "response": "Dustin Hoffman is Jewish, but it is not known whether he is specifically part of the B'nei Yisrael, which refers to the Jewish people as a collective.",
+        "parsed_answer": null
+      },
+      {
+        "response": "Dustin Hoffman is Jewish, but it is not clear if he is specifically part of the B'nei Yisrael, which refers to the Jewish people as a whole. The answer is unclear.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "If you were on a diet, would you have to skip lunch at McDonald's?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "It depends on what you order at McDonald's. If you choose a healthier option like a salad or grilled chicken sandwich, you could still eat lunch at McDonald's while on a diet. If you typically choose menu items that are high in calories, fat, and sugar, then you may need to skip lunch at McDonald's or make healthier choices. Ultimately, it is possible to make choices that align with your diet goals while eating at McDonald's.",
+        "parsed_answer": null
+      },
+      {
+        "response": "It depends on what you choose to eat at McDonald's. There are healthier options available, such as salads or grilled chicken sandwiches, that could be part of a balanced diet. So, you may not necessarily have to skip lunch at McDonald's if you make healthier choices.",
+        "parsed_answer": null
+      },
+      {
+        "response": "It depends on what you choose to eat at McDonald's. There are healthier options available, such as salads or grilled chicken sandwiches, that could still fit into a diet plan. So, you may not necessarily have to skip lunch at McDonald's if you make a healthier choice.",
+        "parsed_answer": null
+      },
+      {
+        "response": "It depends on the specific diet you are following and the choices you make at McDonald's. McDonald's offers a variety of options that can fit into a healthy diet, such as salads, grilled chicken sandwiches, and fruit options. So, it is possible to eat a meal at McDonald's while still following a diet.",
+        "parsed_answer": null
+      },
+      {
+        "response": "It depends on what you order. McDonald's offers a variety of options, some of which are healthier than others. It is possible to make a healthier choice at McDonald's that fits within a diet plan. So, you may not necessarily have to skip lunch at McDonald's if you are on a diet.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Could the Powerpuff Girls hypothetically attend the Camden Military Academy?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Camden Military Academy is an all-boys military school in South Carolina. The Powerpuff Girls are fictional characters and not bound by real-world limitations, so hypothetically they could attend the Camden Military Academy if the creators of the show decided to write that storyline. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "The Powerpuff Girls are fictional characters with superpowers, so theoretically they could attend any school they wanted, including the Camden Military Academy. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "The Powerpuff Girls are fictional characters with superpowers and are not bound by real-world restrictions. Therefore, hypothetically, they could attend the Camden Military Academy if the creators of the show decided to incorporate that storyline. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "The Powerpuff Girls are fictional characters with superpowers, so they technically could attend any school they wanted to, including the Camden Military Academy. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "The Powerpuff Girls are fictional characters with superpowers, so hypothetically they could attend any school they wanted, including the Camden Military Academy. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would an uninsured person be more likely than an insured person to decline a CT scan?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "An uninsured person may be more likely to decline a CT scan due to the high cost associated with medical procedures when not covered by insurance. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "An uninsured person may be more likely to decline a CT scan due to the cost associated with the procedure. Without insurance coverage, the out-of-pocket cost for a CT scan can be significant, leading uninsured individuals to potentially decline the scan. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "Yes, an uninsured person would be more likely to decline a CT scan due to the high cost associated with medical procedures for those without insurance coverage.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "An uninsured person may be more likely to decline a CT scan due to the high cost associated with medical procedures. However, this decision would ultimately depend on the individual's personal circumstances and priorities. So, the answer is potentially yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "An uninsured person may be more likely to decline a CT scan due to the high cost associated with medical procedures. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Was the Donatello crucifix identified in 2020 life size?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The size of the Donatello crucifix identified in 2020 is not specified in the question. The answer is unclear.",
+        "parsed_answer": null
+      },
+      {
+        "response": "The Donatello crucifix was identified in 2020, and it is indeed life-size. The answer is yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "The Donatello crucifix is typically considered life-size, as it is meant to represent a human figure. If it was identified as life-size in 2020, it would not be considered a new discovery or revelation. The answer is likely yes.",
+        "parsed_answer": "yes"
+      },
+      {
+        "response": "The size of the Donatello crucifix identified in 2020 was not mentioned in the question. Without more information, it is not possible to determine if it was life size. The answer is unknown.",
+        "parsed_answer": null
+      },
+      {
+        "response": "The Donatello crucifix was identified in 2020 as being life-sized. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is Disneyland Paris the largest Disney resort?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "No, the largest Disney resort is Walt Disney World Resort in Orlando, Florida.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "No, Shanghai Disney Resort is the largest Disney resort in terms of land area.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "No, Shanghai Disney Resort is currently the largest Disney resort in the world in terms of land area.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "No, Disneyland Paris is not the largest Disney resort. The largest Disney resort is Walt Disney World Resort in Florida, USA.",
+        "parsed_answer": "no"
+      },
+      {
+        "response": "No, Disneyland Paris is not the largest Disney resort. The largest Disney resort is Walt Disney World Resort in Florida, USA.",
+        "parsed_answer": "no"
+      }
+    ]
+  }
+]

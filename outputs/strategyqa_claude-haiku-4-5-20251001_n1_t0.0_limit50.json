@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Genghis Khan lived from 1162-1227 and had many children and descendants across Asia. Julius Caesar lived from 100-44 BC and had fewer documented descendants. Additionally, Genghis Khan's descendants spread across a much larger geographic area over many generations, leading to exponentially more descendants over time. Thus, more people today are related to Genghis Khan than to Julius Caesar. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Could the members of The Police perform lawful arrests?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Police is a famous rock band consisting of Sting, Andy Summers, and Stewart Copeland. These are musicians, not law enforcement officers. Musicians do not have the legal authority to perform arrests. Thus, the members of The Police could not perform lawful arrests. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a Monoamine Oxidase candy bar cheer up a depressed friend?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A Monoamine Oxidase (MAO) is an enzyme, not a candy bar. There is no actual \"Monoamine Oxidase candy bar\" product. Thus, it cannot cheer up a depressed friend because it doesn't exist. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a dog respond to bell before Grey seal?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A dog would respond to a bell before a Grey seal.\n\nDogs have been domesticated for thousands of years and are trained to respond to various auditory cues, including bells. They have excellent hearing and are conditioned through training to associate sounds like bells with specific actions or rewards.\n\nGrey seals, while intelligent marine mammals, are not domesticated and would not have the same learned association with bells. They might react to the sound out of curiosity or startle, but they would not have a trained, purposeful response like a dog would.\n\nThus, a dog would respond to a bell before a Grey seal. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is a pound sterling valuable?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A pound sterling is the currency of the United Kingdom. Currencies have monetary value and can be exchanged for goods and services. Thus, a pound sterling is valuable. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is shrimp scampi definitely free of plastic?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Shrimp scampi is a dish made from shrimp and other ingredients like garlic, butter, and wine. The shrimp itself comes from the ocean, where there is plastic pollution. Shrimp can ingest microplastics from ocean water. Additionally, the dish may be prepared or served with plastic utensils or containers. Thus, shrimp scampi is not definitely free of plastic. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Do the anchors on Rede Globo speak Chinese?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Rede Globo is a major Brazilian television network. The primary language spoken in Brazil is Portuguese, not Chinese. Thus, the anchors on Rede Globo speak Portuguese, not Chinese. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A Boeing 737 costs approximately $100-150 million. Wonder Woman (2017) had a box office gross of approximately $822 million worldwide. Thus, the box office receipts from Wonder Woman (2017) would be more than enough to cover the cost of a Boeing 737. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Can you buy Casio products at Petco?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Petco is a pet supply store that sells products for pets like dogs, cats, birds, and small animals. Casio is an electronics company that makes watches, calculators, cameras, and other electronic devices. Petco does not typically carry electronics or Casio products - they focus exclusively on pet supplies. Thus, you cannot buy Casio products at Petco. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Did the Space Race use relay batons?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Space Race was a competition between the United States and Soviet Union to achieve space exploration milestones, such as launching satellites and sending humans to the moon. Relay batons are used in relay races, which are track and field events where runners pass a baton to each other. The Space Race did not involve relay races or the use of relay batons. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Are Christmas trees dissimilar to deciduous trees?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Christmas trees are typically evergreen trees, such as spruce, fir, or pine. Deciduous trees are trees that lose their leaves seasonally. Evergreen trees keep their needles or leaves year-round. Thus, Christmas trees and deciduous trees are dissimilar in this fundamental characteristic. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Does Biochemistry study gluons?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Gluons are subatomic particles studied in particle physics and quantum chromodynamics. Biochemistry is the study of chemical processes within living organisms, focusing on molecules like proteins, lipids, carbohydrates, and nucleic acids. Biochemistry does not typically study gluons, as gluons operate at the subatomic level far below the scale of biochemical processes. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Did land owners elect their rulers in the Kingdom of Hungary?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Land owners in the Kingdom of Hungary had significant political power, particularly the nobility. The Hungarian nobility did participate in electing their rulers, especially during certain periods of Hungarian history. For example, after the death of a king, the Diet (the assembly of nobles and landowners) would elect the next monarch. This was particularly true during the medieval and early modern periods. Thus, land owners did have a role in electing their rulers in the Kingdom of Hungary. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would Nancy Pelosi publicly denounce abortion?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Nancy Pelosi is a prominent Democratic politician who has consistently supported abortion rights throughout her political career. She has publicly stated her support for a woman's right to choose and has opposed restrictions on abortion. Thus, Nancy Pelosi would not publicly denounce abortion. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does Dragon Ball shows and movies fall short of Friday 13th number of projects?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Dragon Ball has numerous shows and movies. Let me count the major projects:\n\nDragon Ball shows: Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super (and various TV specials)\nDragon Ball movies: There are over 20 Dragon Ball movies across the franchise.\n\nIn total, Dragon Ball has roughly 4+ major shows and 20+ movies, giving approximately 24+ projects.\n\nFriday the 13th has:\n- 12 theatrical films in the main series\n- 1 film (Freddy vs. Jason crossover)\n- Various TV shows and remakes\n- In total, approximately 13-15 major projects\n\nDragon Ball has significantly more projects (24+) than Friday the 13th (13-15). Thus, Dragon Ball does not fall short of Friday the 13th's number of projects. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a student of the class of 2017 have amnesia about 9/11?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A student of the class of 2017 would have graduated high school in 2017. 9/11 occurred in 2001. This means the student would have been born around 1999, making them approximately 2 years old during 9/11. At that age, it is unlikely they would have formed clear memories of the event, as most people do not retain memories from such an early age. Thus, a student of the class of 2017 would likely have amnesia (lack of memory) about 9/11. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a psychic who admits to hot reading be trustworthy?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Hot reading is a deceptive technique where a psychic secretly obtains information about a person beforehand and then pretends to receive it through psychic powers. A psychic who admits to using hot reading is admitting to deliberate deception. People who deliberately deceive others cannot be considered trustworthy. Thus, a psychic who admits to hot reading would not be trustworthy. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is average number of peas in a pod enough commas for a billion?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A pea pod typically contains about 5-10 peas on average, let's say around 7 peas. A billion is 1,000,000,000, which requires 3 commas when written in standard form (1,000,000,000). Thus, the average number of peas in a pod (7) is not enough commas for a billion (3). The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does actress Leila George lack the height to be a model?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Leila George is an actress who is approximately 5'9\" (175 cm) tall. The minimum height for most modeling agencies is typically around 5'9\" to 5'10\" for female models. Since Leila George meets or is at the threshold of standard modeling height requirements, she does not lack the height to be a model. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is Dustin Hoffman one of the B'nei Yisrael?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Dustin Hoffman is an American actor of Jewish descent. B'nei Yisrael refers to the Jewish people or the children of Israel. Thus, Dustin Hoffman is one of the B'nei Yisrael. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "If you were on a diet, would you have to skip lunch at McDonald's?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "If you were on a diet, would you have to skip lunch at McDonald's?\n\nA: Being on a diet does not necessarily mean you must skip all meals at McDonald's. Many McDonald's menu items are relatively low in calories, such as salads, grilled chicken sandwiches, and apple slices. You could order these items and stay within your diet's calorie or nutritional goals. Thus, you would not necessarily have to skip lunch at McDonald's entirely. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could the Powerpuff Girls hypothetically attend the Camden Military Academy?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Powerpuff Girls are fictional cartoon characters created in the 1990s. Camden Military Academy is a real military school. Since the Powerpuff Girls are fictional characters, they could not actually attend any real school. However, the question asks \"hypothetically,\" which means we're considering a fictional scenario. In a hypothetical scenario where fictional characters could attend real schools, there would be nothing preventing the Powerpuff Girls from attending Camden Military Academy - they are intelligent and capable characters. Thus, hypothetically, the Powerpuff Girls could attend Camden Military Academy. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would an uninsured person be more likely than an insured person to decline a CT scan?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "An uninsured person would likely face significant out-of-pocket costs for a CT scan, whereas an insured person would have their costs covered or substantially reduced by insurance. Financial barriers make it more likely that an uninsured person would decline a CT scan due to cost concerns. Thus, an uninsured person would be more likely than an insured person to decline a CT scan. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Was the Donatello crucifix identified in 2020 life size?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Donatello crucifix identified in 2020 was the wooden crucifix discovered in a Florentine convent. This crucifix is life-size (approximately human-sized). Thus, the Donatello crucifix identified in 2020 was life-size. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is Disneyland Paris the largest Disney resort?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Disneyland Paris is one of the major Disney resorts, but it is not the largest. Walt Disney World in Florida is the largest Disney resort by area and number of parks. Thus, Disneyland Paris is not the largest Disney resort. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could someone with fine motor control issues benefit from an altered keyboard layout?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "An altered keyboard layout could potentially benefit someone with fine motor control issues. Here's why:\n\nPeople with fine motor control issues may have difficulty with precise finger movements and positioning. A standard QWERTY keyboard requires accurate finger placement and coordination. An altered keyboard layout could:\n\n1. Space keys further apart to reduce accidental key presses\n2. Enlarge keys to make them easier to hit\n3. Arrange frequently used keys in more accessible positions to minimize finger travel\n4. Use ergonomic designs that reduce strain and fatigue\n\nThese modifications could make typing easier and more accurate for someone with fine motor control challenges. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would Adam Sandler get a reference to Cole Spouse and a scuba man doll?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "I need to think through this question carefully.\n\nThe question asks if Adam Sandler would \"get a reference to Cole Sprouse and a scuba man doll.\"\n\nThis appears to be asking whether Adam Sandler would understand a reference combining Cole Sprouse (an actor) and a scuba man doll.\n\nCole Sprouse is known for acting in shows like \"The Suite Life of Zack & Cody\" and \"Riverdale.\" A \"scuba man doll\" could refer to various things, but without more context, this seems like it might be referencing a specific joke, meme, or cultural reference.\n\nHowever, the question is somewhat unclear and appears to be missing context about what specific reference is being made. Without knowing:\n- What the specific reference is\n- Why it would be associated with Adam Sandler specifically\n- What the \"scuba man doll\" refers to\n\nI cannot definitively answer whether Adam Sandler would \"get\" (understand) this reference.\n\nGiven the ambiguity and lack of clear logical connection presented, the most honest answer is:\n\n**The question is unclear and lacks sufficient context to answer definitively. Without knowing what specific reference is being made, I cannot determine whether Adam Sandler would understand it.**\n\nIf you could clarify what reference you're asking about, I'd be happy to provide a more complete answer.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Is there a warthog on Broadway?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A warthog on Broadway would refer to either a live animal or a theatrical production featuring a warthog character on Broadway in New York City.\n\nThere is no permanent warthog living on Broadway itself. However, \"The Lion King\" is a famous Broadway musical that features warthog characters, most notably Pumbaa. \"The Lion King\" has been running on Broadway since 1997 and is one of the most successful theatrical productions of all time.\n\nThus, there is a warthog character (Pumbaa) featured in a Broadway production. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Does Disney have an ice princess?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Disney has the character Elsa from \"Frozen,\" who is an ice queen (and princess). Elsa has ice powers and is a central character in the Disney film. Thus, Disney does have an ice princess. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a geographer use biochemistry in their work?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A geographer's primary focus is on studying Earth's physical features, human societies, and spatial relationships. While biochemistry is the study of chemical processes within living organisms, it is not a core tool used by most geographers in their typical work.\n\nHowever, some geographers who specialize in biogeography, environmental geography, or soil science might use some biochemical concepts to understand nutrient cycles, soil composition, or ecosystem processes. But this would be a secondary application rather than a primary tool.\n\nThus, while a geographer *might* occasionally encounter biochemistry in specialized subfields, it is not a common or central part of geographical work. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could George Washington's own speeches have been recorded live to a compact disc?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "George Washington lived from 1732-1799. Compact discs were invented in the 1980s. Thus, George Washington's speeches could not have been recorded live to a compact disc during his lifetime, as the technology did not exist. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would food made with black salt smell of sulfur?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Black salt (also called kala namak) contains hydrogen sulfide and other sulfur compounds. These compounds give black salt a distinctive sulfurous, egg-like smell. Thus, food made with black salt would smell of sulfur. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a broadcast from Spirit make the news in 2020?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Spirit is a Mars rover that landed in 2004. Spirit stopped communicating in 2010. In 2020, Spirit had been inactive for 10 years. A broadcast from an inactive rover that has been silent for a decade would be unexpected and significant. Thus, if Spirit somehow transmitted a signal in 2020, it would likely make the news. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Could Robert Wadlow hypothetically see Frankenstein's monster's bald spot from above?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Robert Wadlow was the tallest person ever recorded at 8 feet 11 inches tall. Frankenstein's monster is typically depicted as being around 8 feet tall in most portrayals. Given that Robert Wadlow was taller than Frankenstein's monster, he could potentially look down at the monster's head from above. Thus, Robert Wadlow could hypothetically see Frankenstein's monster's bald spot from above. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is the tibia necessary to win the Stanley Cup?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The tibia is a bone in the leg. The Stanley Cup is a hockey trophy awarded to the winning team. To win the Stanley Cup, a hockey player needs to be able to play hockey, which requires having functional legs. The tibia is a major bone in the leg that is necessary for walking and skating. Thus, the tibia would be necessary to win the Stanley Cup. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would an ethics professor teach a class on Cezanne?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "An ethics professor's primary expertise and teaching focus is in ethics and philosophy. Cezanne was a painter, and teaching about his work would typically fall under art history or art appreciation courses. While an ethics professor might occasionally discuss Cezanne in the context of aesthetics or philosophy of art, it would not be their typical or primary teaching responsibility. Thus, it would be unlikely for an ethics professor to teach a dedicated class on Cezanne. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "If you add water to rice pudding is it horchata?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Rice pudding and horchata are different beverages. Rice pudding is a creamy dessert made with rice, milk, sugar, and spices. Horchata is a sweet drink made from rice (or other grains/nuts), water, and sugar, with a thinner consistency than rice pudding. Simply adding water to rice pudding would dilute it, but it would not transform it into horchata, as horchata has a distinct preparation method and different ingredients/proportions. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "If your skin was turning the color of a zombie, could it be because of nickel?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Nickel can cause allergic contact dermatitis, which typically results in redness, itching, and inflammation of the skin. However, this does not turn skin the grayish-green color associated with zombies. Nickel exposure causes localized reactions at the contact site, not a widespread color change to gray or green. Thus, nickel exposure would not be a likely cause of skin turning zombie-colored. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a Dolce & Gabbana suit wearer be shunned by their Amish cousins?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A Dolce & Gabbana suit is a high-end designer fashion item. The Amish practice plain dress and avoid worldly materialism and ostentation. Wearing an expensive designer suit would be inconsistent with Amish values and dress codes. Thus, an Amish person would likely disapprove of such attire. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is the Illuminati card game still popular?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Illuminati card game was created in 1982 and had a dedicated following, particularly among tabletop game enthusiasts. However, it is not as widely played today as it was during its peak popularity in the 1980s and 1990s. Modern card games like Magic: The Gathering, Yu-Gi-Oh, and Pok\u00e9mon have become far more dominant in the collectible card game market. While the Illuminati game still has a niche community of fans who play it, it would not be considered \"popular\" in mainstream gaming culture today. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Can a strawberry get worms similar to dogs?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A: Dogs get worms (parasitic worms) that infect mammals. Strawberries are plants, not mammals. Parasitic worms that infect dogs are specific to mammalian hosts and cannot infect plants. Thus, a strawberry cannot get worms similar to dogs. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is Menthol associated with Thanksgiving?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Menthol is not typically associated with Thanksgiving. Menthol is a compound found in peppermint and spearmint plants, and is commonly used in candies, cough drops, and personal care products. Thanksgiving is associated with traditional foods like turkey, stuffing, cranberry sauce, and pumpkin pie. While peppermint candies or desserts might appear at some Thanksgiving celebrations, menthol itself is not a defining or characteristic element of the holiday. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would someone in Mumbai refer to Solanum melongena as an eggplant?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Solanum melongena is the scientific name for eggplant. However, in Mumbai (India), this vegetable is commonly called \"brinjal\" in local languages like Marathi and Hindi, rather than \"eggplant\" which is primarily English terminology. While someone in Mumbai who speaks English might use the term \"eggplant,\" it would not be their typical or preferred local reference. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is it okay to lie after taking an oath in a court of law?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Taking an oath in a court of law is a legal and moral commitment to tell the truth. Lying after taking such an oath constitutes perjury, which is a serious crime. Perjury can result in criminal penalties including fines and imprisonment. Thus, it is not okay to lie after taking an oath in a court of law. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is art prioritized in the US education system?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Art is often considered a secondary priority in the US education system compared to core subjects like math, science, and language arts. Many schools have reduced art programs due to budget constraints and emphasis on standardized testing in core subjects. However, art is still taught in many schools and some districts do prioritize it. Thus, art is not consistently prioritized across the US education system as a whole. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "While on a liquid diet, are there some types of soup you cannot eat?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A liquid diet typically allows clear liquids and broths. Soups with solid ingredients like chunks of vegetables, meat, or noodles would not be permitted on a strict liquid diet. Thus, there are some types of soup you cannot eat while on a liquid diet. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would it be impossible to use an Iwato scale for a twelve-tone technique composition?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "An Iwato scale is a pentatonic (5-note) scale used in Japanese music. A twelve-tone technique composition requires using all 12 chromatic pitches of the Western musical scale in a specific serial order. Since the Iwato scale only contains 5 notes, it would be impossible to use it to compose a proper twelve-tone technique piece, which by definition must incorporate all 12 chromatic pitches. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would the Titanic be well preserved at the bottom of the Gulf of Finland?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The Titanic sank in the North Atlantic Ocean at a depth of about 3,700 meters in cold, deep saltwater. The Gulf of Finland is a shallow body of water (average depth around 38 meters) with brackish water conditions.\n\nFor preservation, the key factors are:\n- Cold temperatures (both locations are cold, so similar)\n- Depth and pressure (the Gulf of Finland is much shallower)\n- Water chemistry (the Gulf of Finland has lower salinity and different microbial activity)\n\nThe Titanic is actually well-preserved in its current location partly due to the extreme depth, cold, and high salinity. The Gulf of Finland's shallow depth and brackish water would expose the wreck to more oxygen, wave action, and different bacterial decomposition rates, leading to faster deterioration.\n\nThus, the Titanic would NOT be as well preserved in the Gulf of Finland as it is in the North Atlantic. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could a dandelion suffer from hepatitis?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Hepatitis is a disease that affects the liver, which is an organ found in animals. Dandelions are plants and do not have livers or other animal organs. Thus, a dandelion could not suffer from hepatitis. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a week be enough time to watch every episode of Ugly Betty?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A week is 7 days, or 168 hours. Ugly Betty ran for 4 seasons with 85 total episodes. Each episode is approximately 42 minutes long. Thus, 85 episodes \u00d7 42 minutes = 3,570 minutes, or about 59.5 hours of content. Since 59.5 hours is less than 168 hours in a week, a person could watch every episode of Ugly Betty in a week. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  }
+]

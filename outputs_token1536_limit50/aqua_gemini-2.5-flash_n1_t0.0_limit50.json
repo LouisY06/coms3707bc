@@ -1,0 +1,502 @@
+[
+  {
+    "question": "A car is being driven, in a straight line and at a uniform speed, towards the base of a vertical tower. The top of the tower is observed from the car and, in the process, it takes 10 minutes for the angle of elevation to change from 45\u00b0 to 60\u00b0. After how much more time will this car reach the base of the tower? Answer Choices: A)5(\u221a3 + 1) B)6(\u221a3 + \u221a2) C)7(\u221a3 \u2013 1) D)8(\u221a3 \u2013 2) E)None of these",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let H be the height of the tower and S be the uniform speed of the car.\nLet D1 be the initial distance of the car from the base of the tower when the angle of elevation is 45\u00b0.\nLet D2 be the distance of the car from the base of the tower when the angle of elevation is 60\u00b0.\nLet t be the additional time (in minutes) it takes for the car to reach the base of the tower from the point where the angle of elevation is 60\u00b0.\n\nFrom the properties of right-angled triangles:\n1. When the angle of elevation is 45\u00b0:\n   tan(45\u00b0) = H / D1\n   1 = H / D1\n   So, D1 = H\n\n2. When the angle of elevation is 60\u00b0:\n   tan(60\u00b0) = H / D2\n   \u221a3 = H / D2\n   So, D2 = H / \u221a3\n\nThe car travels from the position where the angle is 45\u00b0 to the position where the angle is 60\u00b0 in 10 minutes.\nThe distance covered during this time is D1 - D2.\nUsing the formula Distance = Speed \u00d7 Time:\nD1 - D2 = S \u00d7 10\nSubstitute the expressions for D1 and D2:\nH - (H / \u221a3) = 10S\nH(1 - 1/\u221a3) = 10S\nH((\u221a3 - 1) / \u221a3) = 10S  (Equation 1)\n\nNow, we need to find the additional time (t) it takes for the car to reach the base of the tower from the point where the angle of elevation is 60\u00b0.\nThe distance to be covered is D2.\nD2 = S \u00d7 t\nSubstitute the expression for D2:\nH / \u221a3 = S \u00d7 t  (Equation 2)\n\nWe have two equations and we want to find t. We can eliminate H and S by dividing Equation 1 by Equation 2:\n[H((\u221a3 - 1) / \u221a3)] / [H / \u221a3] = [10S] / [St]\nThe H and \u221a3 terms cancel out on the left side, and S cancels out on the right side:\n\u221a3 - 1 = 10 / t\n\nNow, solve for t:\nt = 10 / (\u221a3 - 1)\n\nTo rationalize the denominator, multiply the numerator and denominator by the conjugate (\u221a3 + 1):\nt = [10 \u00d7 (\u221a3 + 1)] / [(\u221a3 - 1) \u00d7 (\u221a3 + 1)]\nt = [10(\u221a3 + 1)] / [(\u221a3)\u00b2 - 1\u00b2]\nt = [10(\u221a3 + 1)] / [3 - 1]\nt = [10(\u221a3 + 1)] / 2\nt = 5(\u221a3 + 1)\n\nThe additional time is 5(\u221a3 + 1) minutes.\n\nComparing this with the given answer choices:\nA) 5(\u221a3 + 1)\nB) 6(\u221a3 + \u221a2)\nC) 7(\u221a3 \u2013 1)\nD) 8(\u221a3 \u2013 2)\nE) None of these\n\nThe calculated time matches option (A).\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "The original price of an item is discounted 22%. A customer buys the item at this discounted price using a $20-off coupon. There is no tax on the item, and this was the only item the customer bought. If the customer paid $1.90 more than half the original price of the item, what was the original price of the item? Answer Choices: A)$61 B)$65 C)$67.40 D)$70 E)$78.20",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "Let O be the original price of the item.\n\n1.  **Calculate the price after the 22% discount:**\n    The item is discounted by 22%, so the customer pays 100% - 22% = 78% of the original price.\n    Discounted price = 0.78 * O\n\n2.  **Calculate the price after the $20-off coupon:**\n    The customer uses a $20-off coupon on the discounted price.\n    Price paid by customer = 0.78O - 20\n\n3.  **Express the price paid in another way:**\n    The customer paid $1.90 more than half the original price.\n    Price paid by customer = (",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Find out which of the following values is the multiple of X, if it is divisible by 9 and 12? Answer Choices: A)36 B)15 C)17 D)5 E)7",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "To find a value that is a multiple of X, where X is divisible by 9 and 12, we first need to find the least common multiple (LCM) of 9 and 12.\n\n1.  **Find the prime factorization of 9:**\n    9 = 3 * 3 = 3^2\n\n2.  **Find the prime factorization of 12:**\n    12 = 2 * 2 * 3 = 2^2 * 3\n\n3.  **Calculate the LCM of 9 and 12:**\n    The LCM is found by taking the highest power of all prime factors present in either number.\n    LCM(9, 12) = 2^2 * 3^2 = 4 * 9 = 36.\n\nSo, X must be a multiple of 36. We need to find which of the given answer choices is a multiple of 36.\n\n*   **A) 36:** 36 is a multiple of 36 (36 = 1 * 36).\n*   **B) 15:** 15 is not a multiple of 36.\n*   **C) 17:** 17 is not a multiple of 36.\n*   **D) 5:** 5 is not a multiple of 36.\n*   **E) 7:** 7 is not a multiple of 36.\n\nThe only option that is a multiple of 36 is 36 itself.\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? Answer Choices: A)0.22 B)0.26 C)0.37 D)0.46 E)0.63",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let A be the event that Stock A will increase in value.\nLet B be the event that Stock B will increase in value.\n\nWe are given the probabilities:\nP(A) = 0.56\nP(B) = 0.74\n\nWe want to find the greatest value for the probability that neither of these two events will occur. This can be written as P(A' \u2229 B'), where A' is the complement of A (Stock A does not increase) and B' is the complement of B (Stock B does not increase).\n\nUsing De Morgan's laws, we know that P(A' \u2229 B') = P((A \u222a B)').\nThe probability of the complement of an event is 1 minus the probability of the event:\nP((A \u222a B)') = 1 - P(A \u222a B).\n\nTo maximize P(A' \u2229 B'), we need to minimize P(A \u222a B).\nThe formula for the probability of the union of two events is:\nP(A \u222a B) = P(A) + P(B) - P(A \u2229 B).\n\nSubstituting the given probabilities:\nP(A \u222a B) = 0.56 + 0.74 - P(A \u2229 B)\nP(A \u222a B) = 1.30 - P(A \u2229 B).\n\nTo minimize P(A \u222a B), we need to maximize P(A \u2229 B).\nThe maximum possible value for P(A \u2229 B) is limited by the individual probabilities of A and B. The intersection cannot be greater than the probability of either event.\nSo, P(A \u2229 B)_max = min(P(A), P(B)).\nP(A \u2229 B)_max = min(0.56, 0.74) = 0.56.\nThis maximum overlap occurs when the event with the smaller probability (A) is entirely contained within the event with the larger probability (B). In this scenario, A is a subset of B.\n\nNow, substitute this maximum value of P(A \u2229 B) back into the formula for P(A \u222a B) to find its minimum value:\nP(A \u222a B)_min = 1.30 - P(A \u2229 B)_max\nP(A \u222a B)_min = 1.30 - 0.56\nP(A \u222a B)_min = 0.74.\nThis makes sense because if A is a subset of B, then A \u222a B = B, and P(A \u222a B) = P(B) = 0.74.\n\nFinally, we can find the greatest value for P(A' \u2229 B'):\nP(A' \u2229 B')_max = 1 - P(A \u222a B)_min\nP(A' \u2229 B')_max = 1 - 0.74\nP(A' \u2229 B')_max = 0.26.\n\nThe greatest value for the probability that neither of these two events will occur is 0.26.\n\nThe final answer is $\\boxed{\\text{B}}$.",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "A trader sold an article at a profit of 20% for Rs.360. What is the cost price of the article? Answer Choices: A)270 B)300 C)280 D)320 E)315",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let CP be the cost price of the article.\nThe selling price (SP) is Rs. 360.\nThe profit percentage is 20%.\n\nThe selling price can be calculated as:\nSP = CP + (Profit % of CP)\nSP = CP + (20/100) * CP\nSP = CP * (1 + 0.20)\nSP = CP * 1.20\n\nWe are given SP = 360, so:\n360 = CP * 1.20\n\nTo find CP, divide 360 by 1.20:\nCP = 360 / 1.20\nCP = 360 / (120/100)\nCP = 360 * (100/120)\nCP = 36000 / 120\nCP = 300\n\nSo, the cost price of the article is Rs. 300.\n\nThe final answer is $\\boxed{B}$",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? Answer Choices: A)40 B)200 C)380 D)400 E)3200",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let N be the total number of marbles in the bag.\n\n1.  Initially, the bag contains only white marbles.\n2.  20 marbles are pulled out, painted black, and put back in.\n    Now, there are 20 black marbles in the bag, and the total number of marbles is N.\n    The proportion of black marbles in the bag is 20/N.\n\n3.  Another 20 marbles are pulled out.\n    Out of these 20 marbles, 1 is black.\n    The proportion of black marbles in this sample is 1/20.\n\n4.  The problem states that \"the percentage of black marbles pulled out the second time represents their percentage in the bag\". This means the proportion of black marbles in the sample is equal to the proportion of black marbles in the entire bag.\n\n    So, we can set up the equation:\n    (Proportion of black marbles in sample) = (Proportion of black marbles in bag)\n    1/20 = 20/N\n\n5.  Now, solve for N:\n    N = 20 * 20\n    N = 400\n\nThe bag currently holds 400 marbles in total.\n\nComparing this with the given answer choices:\nA) 40\nB) 200\nC) 380\nD) 400\nE) 3200\n\nThe calculated value matches option (D).\n\nThe final answer is $\\boxed{D}$",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct? Answer Choices: A)74453 B)64543 C)74325 D)65000 E)97656",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "The problem asks to find the total number of distinct bike numbers that can be formed using 2 letters followed by 2 numbers. The phrasing \"How many letters need to be distinct?\" implies a condition for forming these numbers. If the letters need to be distinct, then the number of choices for the second letter will be one less than the first.\n\nLet's break down the formation of the bike number:\n1.  **First Letter:** There are 26 possible letters in the English alphabet (A-Z).\n2.  **Second Letter:** If the letters need to be distinct, then there are 25 remaining choices for the second letter (since it cannot be the same as the first letter).\n3.  **First Number:** There are 10 possible digits (0-9).\n4.  **Second Number:** There are 10 possible digits (0-9), as there is no restriction mentioned for the numbers to be distinct.\n\nSo, the total number of distinct bike numbers can be calculated as the product of the number of choices for each position:\n\nTotal distinct bike numbers = (Choices for 1st Letter) * (Choices for 2nd Letter) * (Choices for 1st Number) * (Choices for 2nd Number)\nTotal distinct bike numbers = 26 * 25 * 10 * 10\n\nLet's calculate the product:\n26 * 25 = 650\n10 * 10 = 100\n650 * 100 = 65000\n\nThis result matches option (D).\n\nIf we had assumed that the letters could be repeated (i.e., they don't need to be distinct), the calculation would be 26 * 26 * 10 * 10 = 67600, which is not among the options. Therefore, the interpretation that the two letters must be distinct is the correct one based on the provided answer choices.\n\nThe final answer is $\\boxed{\\text{D}}$.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A train running at a speed of 100 miles/hour, takes 10 hours to reach its destination. After covering quarter of the distance, it starts raining and the train has to be slowed to speed of 75 miles/hour. What is the total journey duration? Answer Choices: A)10 B)11.5 C)12.5 D)13.5 E)15",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The total distance of the journey is calculated by multiplying the initial speed by the initial time:\nTotal Distance = Speed \u00d7 Time = 100 miles/hour \u00d7 10 hours = 1000 miles.\n\nThe first quarter of the distance is:\nDistance for first quarter = 1000 miles / 4 = 250 miles.\n\nThe time taken to cover the first quarter of the distance at the original speed of 100 miles/hour is:\nTime for first quarter = Distance / Speed = 250 miles / 100 miles/hour = 2.5 hours.\n\nThe remaining distance is:\nRemaining Distance = Total Distance - Distance for first quarter = 1000 miles - 250 miles = 750 miles.\n\nFor the remaining distance, the train slows down to 75 miles/hour. The time taken to cover the remaining distance is:\nTime for remaining journey = Remaining Distance / New Speed = 750 miles / 75 miles/hour = 10 hours.\n\nThe total journey duration is the sum of the time taken for the first quarter and the time taken for the remaining journey:\nTotal Journey Duration = Time for first quarter + Time for remaining journey = 2.5 hours + 10 hours = 12.5 hours.\n\nComparing this with the given answer choices:\nA) 10\nB) 11.5\nC) 12.5\nD) 13.5\nE) 15\n\nThe calculated total journey duration is 12.5 hours, which corresponds to option (C).\n\nThe final answer is $\\boxed{C}$",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "Of the 200 students in a school, at least 45% attended the prom night and at least 35% took part in the debating session. What is the maximum number of students who could have neither attended the prom night nor the debating session? Answer Choices: A)27 B)81 C)90 D)99 E)110",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "Let N be the total number of students, N = 200.\nLet P be the set of students who attended the prom night.\nLet D be the set of students who took part in the debating session.\n\nWe are given:\n1. At least 45% of students attended the prom night.\n   So, the number of students who attended prom, |P|, is at least 0.45 * 200 = 90.\n   |P| >= 90.\n\n2. At least 35% of students took part in the debating session.\n   So, the number of students who took part in debating, |D|, is at least 0.35 * 200 = 70.\n   |D| >= 70.\n\nWe want to find the maximum number of students who could have neither attended the prom night nor the debating session. Let this be N_neither.\nN_neither = N - |P U D|, where |P U D| is the number of students who attended at least one of the events.\n\nTo maximize N_neither, we need to minimize |P U D|.\nThe formula for the union of two sets is: |P U D| = |P| + |D| - |P INTERSECTION D|.\n\nTo minimize |P U D|, we need to:\na) Choose the smallest possible values for |P| and |D|.\n   Based on the given conditions, the minimum values are |P| = 90 and |D| = 70.\nb) Maximize the number of students who attended both events, |P INTERSECTION D|.\n   The maximum possible value for |P INTERSECTION D| is limited by the smaller of the two sets, i.e., min(|P|, |D|).\n   So, max(|P INTERSECTION D|) = min(90, 70) = 70.\n\nNow, substitute these values into the union formula to find the minimum |P U D|:\nMinimum |P U D| = 90 + 70 - 70 = 90.\n\nThis scenario implies that all 70 students who took part in the debating session also attended the prom night. In this case, the set D is a subset of P, and |P U D| = |P| = 90.\n\nFinally, calculate the maximum number of students who did neither:\nN_neither = N - Minimum |P U D|\nN_neither = 200 - 90 = 110.\n\nThe final answer is $\\boxed{\\text{E}}$.",
+        "parsed_answer": "E"
+      }
+    ]
+  },
+  {
+    "question": "A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000? Answer Choices: A)15 B)24 C)25 D)40 E)52",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "A sales person gets a 10% commission on each sale.\nThe value of each sale is $250.\nThe commission per sale is 10% of $250 = 0.10 * $250 = $25.\n\nThe salesperson wants to reach a salary of at least $1000.\nLet 'x' be the number of sales.\nThe total commission earned will be $25 * x.\n\nWe need the total commission to be at least $1000:\n$25 * x >= $1000\n\nTo find the minimum number of sales, divide $1000 by $25:\nx >= $1000 / $25\nx >= 40\n\nSo, the salesperson must make at least 40 sales.\n\nThe final answer is $\\boxed{D}$",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. What is the minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 ? Answer Choices: A)226 B)230 C)240 D)260 E)280",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Here's how to solve the problem:\n\n1.  **Calculate the total number of components produced per year:**\n    The company produces 420 units per month.\n    Total units per year = 420 units/month * 12 months/year = 5040 units/year\n\n2.  **Calculate the total production cost per year:**\n    The production cost is $110 per component.\n    Total production cost = 5040 units * $110/unit = $554,400\n\n3.  **Determine the required total revenue for the desired profit:**\n    The desired yearly profit is at least $626,400.\n    Profit = Total Revenue - Total Production Cost\n    So, Total Revenue = Profit + Total Production Cost\n    Required Total Revenue = $626,400 + $554,400 = $1,180,800\n\n4.  **Calculate the minimum selling price per component:**\n    Let 'S' be the selling price per component.\n    Total Revenue = Total units per year * S\n    $1,180,800 = 5040 * S\n    S = $1,180,800 / 5040\n    S = $234.2857...\n\n5.  **Choose the correct answer from the options:**\n    The minimum selling price must be at least $234.2857... to guarantee the profit. Since the answer choices are whole numbers, we need to select the smallest option that is greater than or equal to this value.\n    (A) $226 (Too low)\n    (B) $230 (Too low)\n    (C) $240 (This is greater than $234.2857... and is the smallest option that satisfies the condition)\n    (D) $260 (Sufficient, but not the minimum among the choices)\n    (E) $280 (Sufficient, but not the minimum among the choices)\n\nTherefore, the minimum selling price per component that will guarantee the yearly profit will be at least $626,400 is $240.\n\nThe final answer is $\\boxed{C}$",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day? Answer Choices: A)4,000 B)4,200 C)4,500 D)4,800 E)5,000",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let T be the total number of staplers produced that day.\n\n1.  **Calculate the percentage of non-defective staplers:**\n    10% of the staplers were defective, so 100% - 10% = 90% of the staplers were non-defective.\n    Number of non-defective staplers = 0.90 * T\n\n2.  **Use the information about rejected non-defective staplers:**\n    2% of the non-defective staplers were rejected by mistake.\n    We are given that 72 non-defective staplers were rejected.\n    So, 2% of (Number of non-defective staplers) = 72\n    0.02 * (0.90 * T) = 72\n\n3.  **Solve for T:**\n    0.02 * 0.90 * T = 72\n    0.018 * T = 72\n    T = 72 / 0.018\n    T = 72 / (18/1000)\n    T = 72 * (1000/18)\n    T = (72/18) * 1000\n    T = 4 * 1000\n    T = 4000\n\nTherefore, the total number of staplers produced that day was 4,000.\n\nThe final answer is $\\boxed{\\text{A}}$.",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Machine A puts out a yo-yo every 6 minutes. Machine B puts out a yo-yo every 9 minutes. After how many minutes will they have produced 10 yo-yos? Answer Choices: A)24 minutes B)32 minutes C)36 minutes D)64 minutes E)72 minutes",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Machine A produces 1 yo-yo every 6 minutes. Its rate is 1/6 yo-yo per minute.\nMachine B produces 1 yo-yo every 9 minutes. Its rate is 1/9 yo-yo per minute.\n\nWhen both machines work together, their combined rate of production is the sum of their individual rates:\nCombined rate = Rate of A + Rate of B\nCombined rate = 1/6 + 1/9\n\nTo add these fractions, find a common denominator, which is 18.\n1/6 = 3/18\n1/9 = 2/18\n\nCombined rate = 3/18 + 2/18 = 5/18 yo-yos per minute.\n\nWe want to find the time (T) it takes to produce a total of 10 yo-yos.\nTotal yo-yos = Combined rate \u00d7 Time\n10 = (5/18) \u00d7 T\n\nTo solve for T, multiply both sides by 18/5:\nT = 10 \u00d7 (18/5)\nT = (10/5) \u00d7 18\nT = 2 \u00d7 18\nT = 36 minutes\n\nThus, it will take 36 minutes for both machines to produce 10 yo-yos.\n\nThe final answer is $\\boxed{\\text{C}}$.",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "Add: +45 and -30 Answer Choices: A)-30 B)+30 C)0 D)15 E)-15",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "To add +45 and -30, we perform the operation:\n45 + (-30) = 45 - 30 = 15\n\nComparing this result with the given answer choices:\nA) -30\nB) +30\nC) 0\nD) 15\nE) -15\n\nThe calculated sum is 15, which matches option (D).\n\nThe final answer is $\\boxed{D}$",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "In how many ways can the letters of the word \"PROBLEC\" be rearranged to make 7 letter words such that none of the letters repeat? Answer Choices: A)2! B)3! C)7! D)8! E)9!",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The word \"PROBLEC\" has 7 distinct letters: P, R, O, B, L, E, C.\nWe need to find the number of ways to rearrange these 7 letters to form 7-letter words, with no repetition of letters.\nThis is a permutation of 7 distinct items taken all at once, which is given by 7!.\n\nLet's calculate 7!:\n7! = 7 \u00d7 6 \u00d7 5 \u00d7 4 \u00d7 3 \u00d7 2 \u00d7 1\n7! = 42 \u00d7 5 \u00d7 4 \u00d7 3 \u00d7 2 \u00d7 1\n7! = 210 \u00d7 4 \u00d7 3 \u00d7 2 \u00d7 1\n7! = 840 \u00d7 3 \u00d7 2 \u00d7 1\n7! = 2520 \u00d7 2 \u00d7 1\n7! = 5040\n\nComparing this result with the given answer choices:\nA) 2! = 2\nB) 3! = 6\nC) 7! = 5040\nD) 8! = 40320\nE) 9! = 362880\n\nThe calculated number of ways is 5040, which corresponds to option (C).\n\nThe final answer is $\\boxed{C}$",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "Let A and B be independent events with P (A) = 0.2 and P(B) = 0.8. Find P(A/B)? Answer Choices: A)0.2 B)0.4 C)0.6 D)1.2 E)1.5",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Given that A and B are independent events.\nWe are given P(A) = 0.2 and P(B) = 0.8.\nWe need to find P(A/B), which is the conditional probability of A given B.\n\nThe formula for conditional probability is:\nP(A/B) = P(A and B) / P(B)\n\nSince A and B are independent events, the probability of both A and B occurring is the product of their individual probabilities:\nP(A and B) = P(A) * P(B)\n\nSubstitute this into the conditional probability formula:\nP(A/B) = (P(A) * P(B)) / P(B)\n\nSince P(B) is not zero (P(B) = 0.8), we can cancel P(B) from the numerator and the denominator:\nP(A/B) = P(A)\n\nGiven P(A) = 0.2.\nTherefore, P(A/B) = 0.2.\n\nComparing this with the given answer choices:\nA) 0.2\nB) 0.4\nC) 0.6\nD) 1.2\nE) 1.5\n\nThe calculated value matches option (A).\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Consider there is an staircase elevator and you are coming down. If you walk 20 steps and stop, then you reach bottom in 10 minutes. If you walk 10 steps and stop, you reach to the ground in 20 minutes. What is the speed of the elevator? Answer Choices: A)1 step/minute B)2 step/minute C)3 step/minute D)4 step/minute E)None of the above",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let S be the total number of steps on the staircase elevator.\nLet E be the speed of the elevator in steps per minute.\n\nIn the first scenario:\nThe person walks 20 steps.\nThe time taken to reach the bottom is 10 minutes.\nDuring these 10 minutes, the elevator also moves.\nThe total steps on the staircase (S) is the sum of the steps walked by the person and the steps moved by the elevator.\nSteps moved by elevator = E * 10 minutes = 10E steps.\nSo, S = 20 + 10E  (Equation 1)\n\nIn the second scenario:\nThe person walks 10 steps.\nThe time taken to reach the ground is 20 minutes.\nDuring these 20 minutes, the elevator moves.\nSteps moved by elevator = E * 20 minutes = 20E steps.\nSo, S = 10 + 20E  (Equation 2)\n\nNow we have a system of two linear equations with two variables (S and E):\n1) S = 20 + 10E\n2) S = 10 + 20E\n\nSince both equations are equal to S, we can set them equal to each other:\n20 + 10E = 10 + 20E\n\nNow, solve for E:\nSubtract 10E from both sides:\n20 = 10 + 10E\nSubtract 10 from both sides:\n10 = 10E\nDivide by 10:\nE = 1\n\nSo, the speed of the elevator is 1 step/minute.\n\nTo verify, we can find the total number of steps S using E = 1:\nFrom Equation 1: S = 20 + 10(1) = 20 + 10 = 30 steps.\nFrom Equation 2: S = 10 + 20(1) = 10 + 20 = 30 steps.\nBoth scenarios are consistent with a total of 30 steps and an elevator speed of 1 step/minute.\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Last year, a Home Appliance Store sold an average(arithmetic mean) of 42 microwave ovens per month. In the first 10 months of this year,the store has sold an average(arithmetic mean) of only 20 microwave ovens per month. What was the average number of microwave ovens sold per month during the entire 22 months period ? Answer Choices: A)21 B)30 C)31 D)32 E)None of the above",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Here's how to solve the problem:\n\n1.  **Calculate total sales for last year:**\n    *   Average sales per month last year = 42 microwave ovens.\n    *   Number of months last year = 12 months.\n    *   Total sales last year = 42 ovens/month * 12 months = 504 microwave ovens.\n\n2.  **Calculate total sales for the first 10 months of this year:**\n    *   Average sales per month for the first 10 months this year = 20 microwave ovens.\n    *   Number of months = 10 months.\n    *   Total sales for the first 10 months this year = 20 ovens/month * 10 months = 200 microwave ovens.\n\n3.  **Calculate the grand total sales for the entire period:**\n    *   Grand total sales = (Total sales last year) + (Total sales for the first 10 months this year)\n    *   Grand total sales = 504 + 200 = 704 microwave ovens.\n\n4.  **Calculate the total number of months in the period:**\n    *   Total months = 12 months (last year) + 10 months (this year) = 22 months.\n\n5.  **Calculate the overall average number of microwave ovens sold per month:**\n    *   Overall average = (Grand total sales) / (Total number of months)\n    *   Overall average = 704 / 22 = 32 microwave ovens per month.\n\nComparing this with the answer choices:\nA) 21\nB) 30\nC) 31\nD) 32\nE) None of the above\n\nThe calculated average is 32, which corresponds to option (D).\n\nThe final answer is $\\boxed{D}$",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers? Answer Choices: A)(zy \u2013 2x)/z B)(zy \u2013 2)/z C)(zx \u2013 y)/(z \u2013 2) D)(zy \u2013 2x)/(z -2) E)(zy \u2013 x)/(z + 2)",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let H be the highest score and L be the lowest score.\nThe average of the highest score and the lowest score is x.\nSo, (H + L) / 2 = x\nThis implies H + L = 2x.\n\nThe average score for the entire class is y, and there are z students in the class.\nThe sum of all scores in the class (S_total) is the average score multiplied by the number of students.\nS_total = y * z = zy.\n\nWe need to find the average score for the class excluding the highest and lowest scorers.\nFirst, let's find the sum of scores for the students excluding the highest and lowest scorers.\nSum of scores (excluding H and L) = S_total - (H + L)\nSum of scores (excluding H and L) = zy - 2x.\n\nNext, let's find the number of students excluding the highest and lowest scorers.\nNumber of students (excluding H and L) = z - 2.\n\nFinally, the average score for the class excluding the highest and lowest scorers is the sum of their scores divided by their number.\nAverage (excluding H and L) = (zy - 2x) / (z - 2).\n\nComparing this with the given answer choices, it matches option (D).\n\nThe final answer is $\\boxed{D}$",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "[5 + ? \u00d7 19 - 15 - 7]/[13 \u00d7 13 - 156] = 6 Answer Choices: A)4 B)4.5 C)5 D)5.5 E)6.5",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Let the unknown value be 'x'.\nThe given equation is:\n[5 + x \u00d7 19 - 15 - 7] / [13 \u00d7 13 - 156] = 6\n\nFirst, simplify the denominator:\n13 \u00d7 13 = 169\n169 - 156 = 13\n\nNow, substitute this back into the equation:\n[5 + 19x - 15 - 7] / 13 = 6\n\nMultiply both sides by 13:\n5 + 19x - 15 - 7 = 6 \u00d7 13\n5 + 19x - 15 - 7 = 78\n\nCombine the constant terms on the left side:\n5 - 15 - 7 = -10 - 7 = -17\n\nSo the equation becomes:\n19x - 17 = 78\n\nAdd 17 to both sides of the equation:\n19x = 78 + 17\n19x = 95\n\nDivide by 19 to solve for x:\nx = 95 / 19\nx = 5\n\nComparing this result with the given answer choices:\nA) 4\nB) 4.5\nC) 5\nD) 5.5\nE) 6.5\n\nThe calculated value x = 5 matches option (C).\n\nThe final answer is $\\boxed{C}$",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "A grocer makes a 25% profit on the selling price for each bag of flour it sells. If he sells each bag for $100 and makes $3,000 in profit, how many bags did he sell? Answer Choices: A)12 B)16 C)24 D)30 E)40",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Here's how to solve the problem:\n\n1.  **Calculate the profit per bag:**\n    The grocer makes a 25% profit on the selling price for each bag.\n    Selling price per bag = $100\n    Profit per bag = 25% of $100 = 0.25 * $100 = $25.\n\n2.  **Calculate the number of bags sold:**\n    The total profit made is $3,000.\n    Number of bags sold = Total Profit / Profit per bag\n    Number of bags sold = $3,000 / $25 = 120.\n\nHowever, 120 is not among the given answer choices (A) 12, (B) 16, (C) 24, (D) 30, (E) 40.\n\nIt is highly probable that there is a typo in the question, specifically in the total profit amount. If the total profit was intended to be $300 instead of $3,000, then the calculation would be:\nNumber of bags sold = $300 / $25 = 12.\n\nThis matches option (A). Assuming this common type of error in the question, we select (A).\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Alex and Jacob works at a toy shop that make toys. Alex takes 7 hours to make a toy, and Jacob takes 9 hours to make a toy. During a month, both of them makes 35 toys in total. If both of them have worked for almost similar number of hours how many toys have been prepared by Jacob? Answer Choices: A)15 B)16 C)17 D)18 E)19",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let A be the number of toys Alex made and J be the number of toys Jacob made.\nWe are given that they made 35 toys in total:\nA + J = 35  (Equation 1)\n\nAlex takes 7 hours to make a toy, so the total time Alex worked is 7A hours.\nJacob takes 9 hours to make a toy, so the total time Jacob worked is 9J hours.\n\nThe problem states that they worked for \"almost similar number of hours\". This means the time Alex worked should be approximately equal to the time Jacob worked:\n7A \u2248 9J  (Equation 2)\n\nFrom Equation 1, we can express A in terms of J:\nA = 35 - J\n\nSubstitute this expression for A into Equation 2:\n7(35 - J) \u2248 9J\n245 - 7J \u2248 9J\n245 \u2248 9J + 7J\n245 \u2248 16J\n\nNow, we can find an approximate value for J:\nJ \u2248 245 / 16\nJ \u2248 15.3125\n\nSince the number of toys must be an integer, J can be either 15 or 16. We need to choose the value that makes the working hours \"almost similar\", meaning the difference in hours is minimized.\n\nLet's test J = 15:\nIf J = 15, then A = 35 - 15 = 20.\nTime Alex worked = 7A = 7 * 20 = 140 hours.\nTime Jacob worked = 9J = 9 * 15 = 135 hours.\nThe difference in hours is |140 - 135| = 5 hours.\n\nLet's test J = 16:\nIf J = 16, then A = 35 - 16 = 19.\nTime Alex worked = 7A = 7 * 19 = 133 hours.\nTime Jacob worked = 9J = 9 * 16 = 144 hours.\nThe difference in hours is |133 - 144| = |-11| = 11 hours.\n\nComparing the two cases, a difference of 5 hours (when J=15) is smaller than a difference of 11 hours (when J=16). Therefore, J = 15 makes the number of hours worked \"almost similar\".\n\nSo, Jacob prepared 15 toys.\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "John likes to have lightly flavored tea every evening. In a 50% strong milk tea, he replaces 15% of it with milk twice. Then, he replaces 10 percent of the resultant solution with more milk.\nWhat is the final concentration of tea John drinks? Answer Choices: A)15.38% B)42% C)39.86% D)22.35% E)32.51%",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "Let C be the initial concentration of tea.\nInitial concentration of tea = 50% = 0.50\n\nStep 1: John replaces 15% of the solution with milk.\nWhen a fraction 'f' of a solution is replaced by a pure solvent (milk, which contains 0% tea), the new concentration of the solute (tea) is given by C * (1 - f).\nSo, after the first replacement of 15% with milk:\nC1 = C * (1 - 0.15) = 0.50 * 0.85 = 0.425\n\nStep 2: This replacement (15% with milk) happens twice.\nSo, after the second replacement of 15% with milk:\nC2 = C1 * (1 - 0.15) = 0.425 * 0.85 = 0.36125\n\nStep 3: Then, he replaces 10 percent of the resultant solution with more milk.\nThe resultant solution has a tea concentration of C2 = 0.36125.\nNow, 10% of this solution is replaced with milk.\nC3 = C2 * (1 - 0.10) = 0.36125 * 0.90\n\nCalculate C3:\nC3 = 0.36125 * 0.9 = 0.325125\n\nTo express this as a percentage, multiply by 100:\nFinal concentration of tea = 0.325125 * 100 = 32.5125%\n\nComparing this with the given answer choices:\nA) 15.38%\nB) 42%\nC) 39.86%\nD) 22.35%\nE) 32.51%\n\nThe calculated final concentration of 32.5125% is approximately 32.51%, which matches option (E).\n\nThe final answer is $\\boxed{E}$",
+        "parsed_answer": "E"
+      }
+    ]
+  },
+  {
+    "question": "In a class 1/16 of the students study math, 1/10 of the students study bio, 1/8 of the students study english. The total number of students is a 4 digit number. Find the diffrence between maximum number of students and minimum number of students. Answer Choices: A)8880 B)8870 C)8890 D)7890 E)6780",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let N be the total number of students in the class.\n\nAccording to the problem statement:\n1.  1/16 of the students study math. This means N must be divisible by 16.\n2.  1/10 of the students study bio. This means N must be divisible by 10.\n3.  1/8 of the students study English. This means N must be divisible by 8.\n\nFor N to be divisible by 16, 10, and 8, N must be a multiple of their Least Common Multiple (LCM).\n\nLet's find the LCM of 16, 10, and 8:\nPrime factorization of each number:\n16 = 2^4\n10 = 2 * 5\n8 = 2^3\n\nTo find the LCM, we take the highest power of each prime factor present in the numbers:\nLCM(16, 10, 8) = 2^4 * 5^1 = 16 * 5 = 80.\n\nSo, the total number of students N must be a multiple of 80. We can write N = 80k, where k is a positive integer.\n\nThe problem also states that the total number of students is a 4-digit number.\nThis means 1000 \u2264 N \u2264 9999.\n\nNow, we substitute N = 80k into the inequality:\n1000 \u2264 80k \u2264 9999\n\nTo find the range for k, divide all parts of the inequality by 80:\n1000 / 80 \u2264 k \u2264 9999 / 80\n12.5 \u2264 k \u2264 124.9875\n\nSince k must be an integer (because N is a number of students), the minimum integer value for k is 13, and the maximum integer value for k is 124.\n\nNow we can find the minimum and maximum possible number of students:\nMinimum number of students (N_min) = 80 * k_min = 80 * 13\nN_min = 1040\n\nMaximum number of students (N_max) = 80 * k_max = 80 * 124\nN_max = 9920\n\nFinally, we need to find the difference between the maximum number of students and the minimum number of students:\nDifference = N_max - N_min\nDifference = 9920 - 1040\nDifference = 8880\n\nComparing this result with the given answer choices:\nA) 8880\nB) 8870\nC) 8890\nD) 7890\nE) 6780\n\nThe calculated difference matches option (A).\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "On a normal day Bill usually averages about 15 mph when riding his bicycle. On a windy day, his speed is reduced by 4 mph. How far can Bill travel on a windy day in 21 minutes? Round to the nearest hundredth. Answer Choices: A)2 miles B)2.25 miles C)3.25 miles D)3.85 miles E)2.85 miles",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "On a normal day, Bill's speed is 15 mph.\nOn a windy day, his speed is reduced by 4 mph.\nSo, Bill's speed on a windy day = 15 mph - 4 mph = 11 mph.\n\nThe time Bill travels on a windy day is 21 minutes.\nTo use the speed in mph, we need to convert the time to hours:\nTime in hours = 21 minutes / 60 minutes/hour = 21/60 hours.\n\nNow, we can calculate the distance using the formula: Distance = Speed \u00d7 Time.\nDistance = 11 mph \u00d7 (21/60) hours\nDistance = (11 \u00d7 21) / 60 miles\nDistance = 231 / 60 miles\n\nTo simplify the fraction:\nDistance = 77 / 20 miles (dividing both numerator and denominator by 3)\nDistance = 3.85 miles\n\nComparing this with the given answer choices:\n(A) 2 miles\n(B) 2.25 miles\n(C) 3.25 miles\n(D) 3.85 miles\n(E) 2.85 miles\n\nThe calculated distance is 3.85 miles, which corresponds to option (D).\n\nThe final answer is $\\boxed{D}$",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A retailer sold an appliance for 40 percent above cost, which represented a gross profit of $20.00. For what price did the retailer sell the appliance? Answer Choices: A)$27.30 B)$51.00 C)$63.00 D)$70.00 E)$91.00",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let C be the cost price of the appliance.\nLet S be the selling price of the appliance.\nLet P be the gross profit.\n\nAccording to the problem statement:\n1. The retailer sold an appliance for 40 percent above cost. This means the selling price (S) is the cost price (C) plus 40% of the cost price.\n   S = C + 0.40 * C\n   S = 1.40 * C\n\n2. The gross profit (P) was $20.00.\n   The gross profit is the difference between the selling price and the cost price:\n   P = S - C\n\nFrom the first statement, we can also express the profit in terms of the cost price:\nSince S = C + 0.40 * C, then S - C = 0.40 * C.\nSo, P = 0.40 * C.\n\nWe are given that P = $20.00.\nTherefore, we can set up the equation:\n0.40 * C = $20.00\n\nNow, solve for C (the cost price):\nC = $20.00 / 0.40\nC = $200 / 4\nC = $50.00\n\nThe cost price of the appliance is $50.00.\n\nThe question asks for the price at which the retailer sold the appliance, which is the selling price (S).\nWe can find S using the relationship S = C + P:\nS = $50.00 + $20.00\nS = $70.00\n\nAlternatively, using S = 1.40 * C:\nS = 1.40 * $50.00\nS = $70.00\n\nBoth methods give the selling price as $70.00.\n\nComparing this with the given answer choices:\nA)$27.30\nB)$51.00\nC)$63.00\nD)$70.00\nE)$91.00\n\nThe calculated selling price matches option (D).\n\nThe final answer is $\\boxed{D}$",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "At 6% per annum simple interest, Rahul borrowed Rs. 500. What amount will he pay to clear the debt after 4 years Answer Choices: A)750 B)700 C)620 D)600 E)None of these",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The principal amount (P) is Rs. 500.\nThe rate of interest (R) is 6% per annum.\nThe time period (T) is 4 years.\n\nThe formula for simple interest (SI) is:\nSI = (P * R * T) / 100\n\nSubstitute the given values into the formula:\nSI = (500 * 6 * 4) / 100\nSI = (5 * 6 * 4)  (since 500 / 100 = 5)\nSI = 30 * 4\nSI = Rs. 120\n\nThe total amount (A) to be paid to clear the debt is the principal plus the simple interest:\nA = P + SI\nA = 500 + 120\nA = Rs. 620\n\nComparing this with the given answer choices:\nA) 750\nB) 700\nC) 620\nD) 600\nE) None of these\n\nThe calculated amount matches option (C).\n\nThe final answer is $\\boxed{C}$",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "A computer routine was developed to generate two numbers (x,y) the first being a random number between 0 and 100 inclusive, and the second being less than or equal to the square root of the first. Each of the following pair satisfies the routine except Answer Choices: A)(99,10) B)(85,9) C)(50,7) D)(1,1) E)(1,0)",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let's check each pair against the given conditions:\n1. x is a random number between 0 and 100 inclusive (0 <= x <= 100).\n2. y is less than or equal to the square root of x (y <= sqrt(x)).\n\nA) (99, 10)\n   1. 0 <= 99 <= 100. This condition is satisfied.\n   2. We need to check if 10 <= sqrt(99).\n      sqrt(99) is approximately 9.949.\n      Since 10 is not less than or equal to 9.949 (10 > 9.949), this condition is NOT satisfied.\n   Therefore, this pair does not satisfy the routine.\n\nLet's check the other options to confirm.\n\nB) (85, 9)\n   1. 0 <= 85 <= 100. This condition is satisfied.\n   2. We need to check if 9 <= sqrt(85).\n      sqrt(85) is approximately 9.219.\n      Since 9 <= 9.219, this condition is satisfied.\n   This pair satisfies the routine.\n\nC) (50, 7)\n   1. 0 <= 50 <= 100. This condition is satisfied.\n   2. We need to check if 7 <= sqrt(50).\n      sqrt(50) is approximately 7.071.\n      Since 7 <= 7.071, this condition is satisfied.\n   This pair satisfies the routine.\n\nD) (1, 1)\n   1. 0 <= 1 <= 100. This condition is satisfied.\n   2. We need to check if 1 <= sqrt(1).\n      sqrt(1) = 1.\n      Since 1 <= 1, this condition is satisfied.\n   This pair satisfies the routine.\n\nE) (1, 0)\n   1. 0 <= 1 <= 100. This condition is satisfied.\n   2. We need to check if 0 <= sqrt(1).\n      sqrt(1) = 1.\n      Since 0 <= 1, this condition is satisfied.\n   This pair satisfies the routine.\n\nThe only pair that does not satisfy the routine is (99, 10).\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "A jeep travels a certain distance taking 6 hours in the forward journey. During the return journey, it increased its speed by 12km/hr and took 4 hours. What is the distance travelled by the jeep? Answer Choices: A)126km B)144km C)127km D)228km E)128km",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let D be the distance traveled by the jeep.\nLet S be the speed of the jeep in the forward journey.\n\nIn the forward journey:\nTime taken = 6 hours\nSpeed = S km/hr\nDistance = Speed \u00d7 Time\nSo, D = S \u00d7 6  (Equation 1)\n\nIn the return journey:\nTime taken = 4 hours\nSpeed increased by 12 km/hr, so the new speed is (S + 12) km/hr.\nThe distance is the same, D km.\nSo, D = (S + 12) \u00d7 4  (Equation 2)\n\nNow we have two expressions for D. We can set them equal to each other to solve for S:\n6S = 4(S + 12)\n6S = 4S + 48\nSubtract 4S from both sides:\n6S - 4S = 48\n2S = 48\nDivide by 2:\nS = 48 / 2\nS = 24 km/hr\n\nNow that we have the speed S, we can find the distance D using either Equation 1 or Equation 2.\nUsing Equation 1:\nD = 6S\nD = 6 \u00d7 24\nD = 144 km\n\nLet's verify with Equation 2:\nD = 4(S + 12)\nD = 4(24 + 12)\nD = 4(36)\nD = 144 km\n\nBoth equations yield the same distance, 144 km.\n\nComparing this with the given answer choices:\nA) 126km\nB) 144km\nC) 127km\nD) 228km\nE) 128km\n\nThe calculated distance is 144 km, which corresponds to option (B).\n\nThe final answer is $\\boxed{B}$",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "When I was 2 years old, my brother was half my age. Now I am 60 years old, how old is my brother? Answer Choices: A)A)59 B)B)69 C)C)79 D)D)89 E)E)99",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "When I was 2 years old, my brother was half my age, which means he was 1 year old (2 / 2 = 1).\nThe age difference between us is 2 - 1 = 1 year.\nThis age difference remains constant throughout our lives.\nNow I am 60 years old. To find my brother's age, we subtract the age difference from my current age.\nMy brother's age = My current age - Age difference\nMy brother's age = 60 - 1 = 59 years old.\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "The original retail price of an appliance was 60 percent more than its wholesale cost. If the appliance was actually sold for 20 percent less than the original retail price, then it was sold for what percent more than its wholesale cost? Answer Choices: A)20% B)28% C)36% D)40% E)42%",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let W be the wholesale cost.\nLet R be the original retail price.\nLet S be the actual selling price.\n\n1.  \"The original retail price of an appliance was 60 percent more than its wholesale cost.\"\n    This can be written as:\n    R = W + 0.60W\n    R = 1.60W\n\n2.  \"If the appliance was actually sold for 20 percent less than the original retail price\"\n    This means the selling price S is 80% of the original retail price R:\n    S = R - 0.20R\n    S = 0.80R\n\n3.  Now, substitute the expression for R from step 1 into the equation from step 2:\n    S = 0.80 * (1.60W)\n    S = 1.28W\n\n4.  The question asks: \"then it was sold for what percent more than its wholesale cost?\"\n    We need to find the percentage difference between S and W, relative to W.\n    The amount more than the wholesale cost is S - W.\n    Percentage more = ((S - W) / W) * 100%\n    Percentage more = ((1.28W - W) / W) * 100%\n    Percentage more = (0.28W / W) * 100%\n    Percentage more = 0.28 * 100%\n    Percentage more = 28%\n\nThe final answer is $\\boxed{B}$",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "On a map, the length of the road from Town F to Town G is measured to be 20 inches. On this map, 1/4 inch represents an actual distance of 10 miles. What is the actual distance, in miles, from Town F to Town G along this road? Answer Choices: A)800 B)720 C)960 D)1140 E)1160",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "The map scale is 1/4 inch represents 10 miles.\nThe length of the road on the map is 20 inches.\n\nTo find the actual distance, we can set up a proportion:\n(1/4 inch) / (10 miles) = (20 inches) / (x miles)\n\nCross-multiply:\n(1/4) * x = 10 * 20\nx / 4 = 200\nx = 200 * 4\nx = 800\n\nSo, the actual distance from Town F to Town G is 800 miles.\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "When folded into two equal halves a rectangular sheet had a perimeter of 48cm for each part folded along one set of sides and the same is 66cm when folded along the other set of sides. Find the area of the sheet. Answer Choices: A)1584 B)1120 C)792 D)1320 E)1200",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let the original rectangular sheet have length L and width W.\nThe area of the sheet is A = L * W.\n\nThe problem describes two scenarios of folding the sheet into two equal halves.\n\nScenario 1: Folded along one set of sides.\nLet's assume the sheet is folded along its length (i.e., the fold line is parallel to the side of length L). This means the width W is halved.\nEach of the two resulting rectangular parts will have dimensions L and W/2.\nThe perimeter of each part is given as 48 cm.\nSo, 2 * (L + W/2) = 48\nThis simplifies to 2L + W = 48. (Equation 1)\n\nScenario 2: Fold",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Suppose you can travel from a place M to a place N by 3 buses, from place N to place O by 4 buses, from place O to place P by 1 buses and from place P to place Q by 3 buses. In how many ways can you travel from M to Q ? Answer Choices: A)24 B)36 C)72 D)84 E)None",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "To find the total number of ways to travel from M to Q, we multiply the number of options for each leg of the journey.\n\n*   From M to N: 3 buses\n*   From N to O: 4 buses\n*   From O to P: 1 bus\n*   From P to Q: 3 buses\n\nTotal number of ways = (Number of ways from M to N) \u00d7 (Number of ways from N to O) \u00d7 (Number of ways from O to P) \u00d7 (Number of ways from P to Q)\nTotal number of ways = 3 \u00d7 4 \u00d7 1 \u00d7 3\nTotal number of ways = 12 \u00d7 1 \u00d7 3\nTotal number of ways = 12 \u00d7 3\nTotal number of ways = 36\n\nThe answer is (B).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "A rectangular solid, 3 x 4 x 15, is inscribed in a sphere, so that all eight of its vertices are on the sphere. What is the diameter of the sphere? Answer Choices: A) 13.3542 B) 15.8113 C) 18.3451 D) 19.5667 E) 20.8888",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "The problem asks for the diameter of a sphere in which a rectangular solid (cuboid) with dimensions 3 x 4 x 15 is inscribed. This means that all eight vertices of the rectangular solid lie on the surface of the sphere.\n\nThe longest diagonal of a rectangular solid that connects opposite vertices is equal to the diameter of the sphere in which it is inscribed.\n\nLet the dimensions of the rectangular solid be length (L), width (W), and height (H).\nGiven: L = 15, W = 4, H = 3.\n\nThe formula for the length of the space diagonal (d) of a rectangular solid is:\nd = sqrt(L^2 + W^2 + H^2)\n\nIn this case, the space diagonal (d) is the diameter (D) of the sphere.\nSo, D = sqrt(15^2 + 4^2 + 3^2)\n\nFirst, calculate the squares of the dimensions:\n15^2 = 225\n4^2 = 16\n3^2 = 9\n\nNext, sum these values:\n225 + 16 + 9 = 250\n\nNow, calculate the square root of the sum to find the diameter:\nD = sqrt(250)\n\nTo find the numerical value:\nD = sqrt(250)\nD \u2248 15.811388...\n\nComparing this value with the given answer choices:\nA) 13.3542\nB) 15.8113\nC) 18.3451\nD) 19.5667\nE) 20.8888\n\nThe calculated diameter 15.811388... is closest to 15.8113.\n\nThe final answer is $\\boxed{B}$",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "A starts travel towards south 3km, then travel 5 km towards east, and again travels 3 km to north, and finally travels 2km towards west. In the end how far from is A from home? Answer Choices: A)3km B)2km C)4km D)5km E)6km",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let's track the person's movements:\n1.  **Starts travel towards south 3km:** The person is now 3km south of the starting point.\n2.  **Then travel 5 km towards east:** From the current position, the person moves 5km east.\n3.  **And again travels 3 km to north:** This movement cancels out the initial 3km south movement. The person is now at the same north-south level as the starting point, but 5km east.\n4.  **And finally travels 2km towards west:** From the current position (5km east of home), the person moves 2km west.\n\nLet's visualize the net displacement:\n*   Net movement in North-South direction: 3km South + 3km North = 0km (back to the original N-S line).\n*   Net movement in East-West direction: 5km East + 2km West = 3km East.\n\nSo, the person is 3km East of home.\nThe distance from home is 3km.\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "While selling a watch, a shopkeeper gives a discount of 5%. If he gives a discount of 7%, he earns Rs. 15 less as profit. The marked price of the watch is: Answer Choices: A)Rs. 697.50 B)Rs. 712.50 C)Rs. 787.50 D)Rs. 750 E)Rs. 780",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let MP be the Marked Price of the watch.\n\nWhen the shopkeeper gives a discount of 5%, the selling price (SP1) is:\nSP1 = MP - 5% of MP = MP - 0.05 * MP = 0.95 * MP\n\nWhen the shopkeeper gives a discount of 7%, the selling price (SP2) is:\nSP2 = MP - 7% of MP = MP - 0.07 * MP = 0.93 * MP\n\nWe are told that if he gives a discount of 7%, he earns Rs. 15 less as profit. This means the difference in profit between the two scenarios is Rs. 15.\nLet CP be the Cost Price of the watch.\nProfit 1 (P1) = SP1 - CP\nProfit 2 (P2) = SP2 - CP\n\nAccording to the problem:\nP1 - P2 = 15\n(SP1 - CP) - (SP2 - CP) = 15\nSP1 - CP - SP2 + CP = 15\nSP1 - SP2 = 15\n\nNow substitute the expressions for SP1 and SP2:\n0.95 * MP - 0.93 * MP = 15\n(0.95 - 0.93) * MP = 15\n0.02 * MP = 15\n\nTo find MP, divide 15 by 0.02:\nMP = 15 / 0.02\nMP = 15 / (2/100)\nMP = 15 * (100/2)\nMP = 15 * 50\nMP = 750\n\nSo, the marked price of the watch is Rs. 750.\n\nAlternatively, the difference in discount percentage is 7% - 5% = 2%.\nThis 2% difference in discount directly corresponds to the Rs. 15 less profit.\nTherefore, 2% of the Marked Price (MP) is Rs. 15.\n0.02 * MP = 15\nMP = 15 / 0.02\nMP = 750\n\nThe final answer is $\\boxed{\\text{D}}$.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A student instead of finding the value of 7/8 of a number, found the value of 7/18 of the number. If his answer differed from the actual one by 770, find the that number. Answer Choices: A)1584 B)2520 C)1728 D)1656 E)None",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the number be 'x'.\n\nThe actual value the student should have found is (7/8) of the number, which is (7/8)x.\nThe value the student actually found is (7/18) of the number, which is (7/18)x.\n\nThe problem states that his answer differed from the actual one by 770. This means the absolute difference between the actual value and the found value is 770.\nSince 7/8 is greater than 7/18 (because 1/8 > 1/18), the actual value is larger than the value found by the student.\n\nSo, we can set up the equation:\n(7/8)x - (7/18)x = 770\n\nTo solve for x, we need to find a common denominator for the fractions 7/8 and 7/18. The least common multiple (LCM) of 8 and 18 is 72.\n\nConvert the fractions to have a denominator of 72:\n(7/8)x = (7 * 9 / 8 * 9)x = (63/72)x\n(7/18)x = (7 * 4 / 18 * 4)x = (28/72)x\n\nSubstitute these back into the equation:\n(63/72)x - (28/72)x = 770\n\nCombine the terms on the left side:\n(63 - 28)/72 * x = 770\n(35/72)x = 770\n\nNow, isolate x by multiplying both sides by the reciprocal of 35/72:\nx = 770 * (72/35)\n\nWe can simplify the calculation by dividing 770 by 35:\n770 / 35 = 22\n\nNow, multiply 22 by 72:\nx = 22 * 72\nx = 1584\n\nThus, the number is 1584.\n\nComparing this with the given answer choices:\nA) 1584\nB) 2520\nC) 1728\nD) 1656\nE) None\n\nThe calculated value matches option A.\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "The monthly salary S of a shop assistant is the sum of a fixed salary of $500 plus 5% of all monthly sales. What should the monthly sales be so that her monthly salary reaches $1500? Answer Choices: A)$50000 B)$40000 C)$30000 D)$20000 E)None of these",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let S be the monthly salary and M be the monthly sales.\nThe problem states that the monthly salary S is the sum of a fixed salary of $500 plus 5% of all monthly sales.\nSo, we can write the equation:\nS = 500 + 0.05 * M\n\nWe want to find the monthly sales (M) such that her monthly salary (S) reaches $1500.\nSubstitute S = 1500 into the equation:\n1500 = 500 + 0.05 * M\n\nNow, we need to solve for M:\nSubtract 500 from both sides:\n1500 - 500 = 0.05 * M\n1000 = 0.05 * M\n\nDivide both sides by 0.05:\nM = 1000 / 0.05\nM = 1000 / (5/100)\nM = 1000 * (100/5)\nM = 1000 * 20\nM = 20000\n\nSo, the monthly sales should be $20,000.\n\nComparing this with the given answer choices:\nA)$50000\nB)$40000\nC)$30000\nD)$20000\nE)None of these\n\nThe calculated value matches option (D).\n\nThe final answer is $\\boxed{D}$",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "An aeroplane flies along the four sides of a square at the speeds of 200, 400, 600 and 800km/hr. Find the average speed of the plane around the field? Answer Choices: A)384 B)562 C)458 D)156 E)452",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the length of each side of the square be 'd' km.\nThe aeroplane flies along four sides, so the total distance covered is 4d km.\n\nThe speeds for each side are:\nv1 = 200 km/hr\nv2 = 400 km/hr\nv3 = 600 km/hr\nv4 = 800 km/hr\n\nThe time taken to cover each side is calculated as Time = Distance / Speed.\nt1 = d / 200 hours\nt2 = d / 400 hours\nt3 = d / 600 hours\nt4 = d / 800 hours\n\nThe total time taken for the entire journey is the sum of the times for each side:\nTotal Time = t1 + t2 + t3 + t4\nTotal Time = d/200 + d/400 + d/600 + d/800\n\nTo add these fractions, we find the least common multiple (LCM) of the denominators (200, 400, 600, 800).\nLCM(200, 400, 600, 800) = 2400\n\nNow, express each fraction with the common denominator:\nd/200 = (12d)/2400\nd/400 = (6d)/2400\nd/600 = (4d)/2400\nd/800 = (3d)/2400\n\nTotal Time = (12d + 6d + 4d + 3d) / 2400\nTotal Time = 25d / 2400 hours\n\nThe average speed is calculated as Total Distance / Total Time.\nAverage Speed = (4d) / (25d / 2400)\nAverage Speed = 4d * (2400 / 25d)\n\nThe 'd' in the numerator and denominator cancels out:\nAverage Speed = 4 * (2400 / 25)\n\nNow, calculate 2400 / 25:\n2400 / 25 = 96\n\nAverage Speed = 4 * 96\nAverage Speed = 384 km/hr\n\nComparing this with the given answer choices:\nA) 384\nB) 562\nC) 458\nD) 156\nE) 452\n\nThe calculated average speed is 384 km/hr, which matches option (A).\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Jack buys 18 sharpeners (white and brown) for rs. 100. If he pays 1 rupee more for each white than brown sharpeners. How many of white and how many brown sharpeners did he buy? Answer Choices: A)10,8 B)9,8 C)7,8 D)5,6 E)11,12",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let 'w' be the number of white sharpeners and 'b' be the number of brown sharpeners.\nLet 'Pw' be the price of one white sharpener and 'Pb' be the price of one brown sharpener.\n\nFrom the problem statement, we can form the following equations:\n1.  Total number of sharpeners: w + b = 18\n2.  Total cost: w * Pw + b * Pb = 100\n3.  Price difference: Pw = Pb + 1 (Each white sharpener costs 1 rupee more than each brown sharpener)\n\nSubstitute equation (3) into equation (2):\nw * (Pb + 1) + b * Pb = 100\nw * Pb + w + b * Pb = 100\nFactor out Pb:\nPb * (w + b) + w = 100\n\nNow, substitute equation (1) (w + b = 18) into this new equation:\nPb * (18) + w = 100\n18 * Pb + w = 100\n\nWe also know that w and b must be positive integers (number of sharpeners).\nFrom w + b = 18, we know that 0 < w < 18 and 0 < b < 18.\n\nFrom 18 * Pb + w = 100, we can express w as:\nw = 100 - 18 * Pb\n\nSince w > 0:\n100 - 18 * Pb > 0\n100 > 18 * Pb\nPb < 100 / 18\nPb < 50 / 9\nPb < 5.55...\n\nSince w < 18:\n100 - 18 * Pb < 18\n100 - 18 < 18 * Pb\n82 < 18 * Pb\nPb > 82 / 18\nPb > 41 / 9\nPb > 4.55...\n\nSo, the price of a brown sharpener (Pb) must be an integer between 4.55 and 5.55. The only integer value that satisfies this condition is Pb = 5.\n\nNow that we have Pb = 5, we can find Pw:\nPw = Pb + 1 = 5 + 1 = 6\n\nNext, find the number of white sharpeners (w) using 18 * Pb + w = 100:\n18 * 5 + w = 100\n90 + w = 100\nw = 100 - 90\nw = 10\n\nFinally, find the number of brown sharpeners (b) using w + b = 18:\n10 + b = 18\nb = 18 - 10\nb = 8\n\nSo, Jack bought 10 white sharpeners and 8 brown sharpeners.\n\nLet's verify the total cost:\nCost = (10 white sharpeners * 6 rupees/sharpener) + (8 brown sharpeners * 5 rupees/sharpener)\nCost = 60 + 40 = 100 rupees.\nThis matches the given information.\n\nThe number of white sharpeners is 10 and the number of brown sharpeners is 8.\nComparing this with the answer choices:\nA) 10, 8\nB) 9, 8\nC) 7, 8\nD) 5, 6\nE) 11, 12\n\nThe correct choice is (A).\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Hoses A and B spout water at different constant rates, and hose A can fill a certain pool in 8 hours. Hose A filled the pool alone for the first 2 hours and the two hoses, working together, then finished filling the pool in another 3 hours. How many hours would it have taken hose B, working alone, to fill the entire pool? Answer Choices: A)8 B)15 C)12 D)6 E)3",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let R_A be the rate of hose A and R_B be the rate of hose B.\nHose A can fill the pool in 8 hours, so its rate is R_A = 1/8 pool per hour.\n\nHose A filled the pool alone for the first 2 hours.\nWork done by A in the first 2 hours = R_A * 2 = (1/8) * 2 = 2/8 = 1/4 of the pool.\n\nThe remaining work to be done is 1 - 1/4 = 3/4 of the pool.\n\nThe two hoses, working together, then finished filling the pool in another 3 hours.\nTheir combined rate is R_A + R_B.\nWork done by A and B together = (R_A + R_B) * 3.\nWe know this work is 3/4 of the pool.\nSo, (1/8 + R_B) * 3 = 3/4.\n\nDivide both sides by 3:\n1/8 + R_B = (3/4) / 3\n1/8 + R_B = 1/4\n\nNow, solve for R_B:\nR_B = 1/4 - 1/8\nTo subtract, find a common denominator, which is 8:\nR_B = 2/8 - 1/8\nR_B = 1/8 pool per hour.\n\nThe rate of hose B is 1/8 pool per hour. This means hose B, working alone, would take 8 hours to fill the entire pool.\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "If 120 is reduced to 96, what is the reduction percent? Answer Choices: A)30% B)40% C)20% D)10% E)5%",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The reduction amount is 120 - 96 = 24.\nTo find the reduction percent, we divide the reduction amount by the original value and multiply by 100.\nReduction percent = (24 / 120) * 100%\nReduction percent = (1 / 5) * 100%\nReduction percent = 20%\n\nThe answer is (C).",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "I know a 5 digit number having a property that with a 1 after it, it is three times as large as it would be with a 1 before it.\nWhat is that number? Answer Choices: A)42857 B)32456 C)76523 D)24567 E)43566",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the 5-digit number be N.\n\nAccording to the problem statement:\n1. \"with a 1 after it\": This means the number becomes 10N + 1. For example, if N=12345, then 10N+1 = 123451.\n2. \"with a 1 before it\": This means the number becomes 100000 + N. For example, if N=12345, then 100000+N = 112345.\n\nThe problem states that the number with a 1 after it is three times as large as the number with a 1 before it.\nSo, we can set up the equation:\n10N + 1 = 3 * (100000 + N)\n\nNow, let's solve for N:\n10N + 1 = 300000 + 3N\nSubtract 3N from both sides:\n7N + 1 = 300000\nSubtract 1 from both sides:\n7N = 299999\nDivide by 7:\nN = 299999 / 7\nN = 42857\n\nLet's verify the number:\nIf N = 42857:\n- With a 1 after it: 428571\n- With a 1 before it: 142857\n- Is 428571 = 3 * 142857?\n  3 * 142857 = 428571.\nThe property holds true.\n\nThe 5-digit number is 42857.\nComparing this with the given answer choices:\n(A) 42857\n(B) 32456\n(C) 76523\n(D) 24567\n(E) 43566\n\nThe calculated number matches option (A).\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "At Daifu university, 24% of all students are members of both a chess club and a swim team. If 20% of members of the swim team are not members of the chess club, what percentage of all Daifu students are members of the swim team? Answer Choices: A)20% B)30% C)40% D)50% E)60%",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let N be the total number of students at Daifu university.\nLet S be the set of students who are members of the swim team.\nLet C be the set of students who are members of the chess club.\n\nWe are given two pieces of information:\n\n1.  24% of all students are members of both a chess club and a swim team.\n    This can be written as:\n    P(S \u2229 C) = 0.24\n    This means the number of students in both clubs is 0.24 * N.\n\n2.  20% of members of the swim team are not members of the chess club.\n    This means that among the students who are members of the swim team (S), 20% are not in the chess club (C').\n    So, P(C' | S) = 0.20.\n    This implies that the remaining 100% - 20% = 80% of the swim team members *are* members of the chess club.\n    So, P(C | S) = 0.80.\n\nWe want to find the percentage of all Daifu students who are members of the swim team, which is P(S).\n\nWe know the formula for conditional probability:\nP(S \u2229 C) = P(C | S) * P(S)\n\nWe have the values for P(S \u2229 C) and P(C | S):\n0.24 = 0.80 * P(S)\n\nNow, we can solve for P(S):\nP(S) = 0.24 / 0.80\nP(S) = 24 / 80\nP(S) = 3 / 10\nP(S) = 0.30\n\nSo, 30% of all Daifu students are members of the swim team.\n\nThe final answer is $\\boxed{B}$",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "If the population of a city increases by 5 % annually, what will be the population of the city in 2 years time if its current population is 78000? Answer Choices: A)81900 B)85995 C)85800 D)90000 E)None of these",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "The current population of the city is 78000.\nThe population increases by 5% annually. We need to find the population after 2 years.\n\nYear 1:\nIncrease in population = 5% of 78000 = 0.05 * 78000 = 3900\nPopulation after 1 year = 78000 + 3900 = 81900\n\nYear 2:\nThe increase is based on the population at the beginning of the year, which is 81900.\nIncrease in population = 5% of 81900 = 0.05 * 81900 = 4095\nPopulation after 2 years = 81900 + 4095 = 85995\n\nAlternatively, using the compound growth formula:\nP_final = P_initial * (1 + r)^n\nWhere P_initial = 78000, r = 0.05, n = 2\nP_final = 78000 * (1 + 0.05)^2\nP_final = 78000 * (1.05)^2\nP_final = 78000 * 1.1025\nP_final = 85995\n\nThe population of the city in 2 years will be 85995.\n\nComparing this with the given answer choices:\nA) 81900\nB) 85995\nC) 85800\nD) 90000\nE) None of these\n\nThe calculated value matches option (B).\n\nThe final answer is $\\boxed{B}$",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "Two cars start at the same time from opposite ends of a highway that is 50 miles long. One car is riding at 12 mph and the second car is riding at 13 mph. How long after they begin will they meet? Answer Choices: A) 1 B) 1.25 C) 1.50 D) 1.75 E) 2",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "The two cars are moving towards each other from opposite ends of a 50-mile highway.\nThe speed of the first car is 12 mph.\nThe speed of the second car is 13 mph.\n\nSince they are moving towards each other, their relative speed is the sum of their individual speeds.\nRelative speed = Speed of car 1 + Speed of car 2\nRelative speed = 12 mph + 13 mph = 25 mph.\n\nThe total distance they need to cover to meet is the length of the highway, which is 50 miles.\n\nTo find the time it takes for them to meet, we use the formula: Time = Distance / Speed.\nTime = 50 miles / 25 mph\nTime = 2 hours.\n\nComparing this with the given answer choices:\nA) 1\nB) 1.25\nC) 1.50\nD) 1.75\nE) 2\n\nThe calculated time is 2 hours, which corresponds to option (E).\n\nThe answer is (E).",
+        "parsed_answer": "E"
+      }
+    ]
+  },
+  {
+    "question": "A shopkeeper employed a servant at a monthly salary of 1500. In addition to it, he agreed to pay him a commission of 15% on the monthly sale. How much sale in Rupees should the servant do if he wants his monthly income as 6000? Answer Choices: A)30000 B)415000 C)31500 D)50000 E)None of these",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let S be the monthly salary, which is 1500 Rupees.\nLet C be the commission rate, which is 15% or 0.15.\nLet X be the total monthly sale in Rupees.\nLet I be the desired monthly income, which is 6000 Rupees.\n\nThe total monthly income is calculated as the sum of the fixed salary and the commission on sales.\nSo, I = S + C * X\n\nWe are given:\nI = 6000\nS = 1500\nC = 0.15\n\nSubstitute these values into the equation:\n6000 = 1500 + 0.15 * X\n\nFirst, subtract the fixed salary from the desired income to find out how much needs to be earned from commission:\n6000 - 1500 = 0.15 * X\n4500 = 0.15 * X\n\nNow, divide the required commission amount by the commission rate to find the total sales:\nX = 4500 / 0.15\nX = 4500 / (15/100)\nX = 4500 * (100/15)\nX = (4500 / 15) * 100\nX = 300 * 100\nX = 30000\n\nSo, the servant needs to make sales worth 30000 Rupees to achieve a monthly income of 6000 Rupees.\n\nComparing this with the given answer choices:\nA) 30000\nB) 415000\nC) 31500\nD) 50000\nE) None of these\n\nThe calculated value matches option (A).\n\nThe final answer is $\\boxed{A}$",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "A man borrows Rs.360 If he pays it back in 12 monthly installments of Rs.31.50, what is his interest rate? Answer Choices: A)1.5% B)4.5% C)10% D)5% E)12%",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Here's how to solve the problem:\n\n1.  **Calculate the total amount paid:**\n    The man pays 12 monthly installments of Rs. 31.50 each.\n    Total amount paid = 12 * 31.50 = Rs. 378\n\n2.  **Calculate the total interest paid:**\n    The man borrowed Rs. 360 and paid back Rs. 378.\n    Total interest paid = Total amount paid - Principal borrowed\n    Total interest paid = 378 - 360 = Rs. 18\n\n3.  **Calculate the interest rate:**\n    We assume this is a simple interest calculation on the principal amount for the duration of the loan.\n    Principal (P) = Rs. 360\n    Interest (I) = Rs. 18\n    Time (T) = 12 months = 1 year\n\n    Using the simple interest formula: I = P * R * T\n    Where R is the annual interest rate.\n    18 = 360 * R * 1\n    R = 18 / 360\n    R = 1 / 20\n    R = 0.05\n\n    To express this as a percentage, multiply by 100:\n    R = 0.05 * 100 = 5%\n\nThe interest rate is 5%.\n\nThe final answer is $\\boxed{D}$",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "The price of a product is reduced by 30% . By what percentage should it be increased to make it 100% Answer Choices: A)41.86% B)42.86% C)43.86% D)44.86% E)45.86%",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let the original price of the product be $P$.\nThe price is reduced by 30%.\nThe new price is $P - 0.30P = 0.70P$.\n\nWe want to find the percentage by which the new price (0.70P) should be increased to make it equal to the original price ($P$).\nLet the required percentage increase be $x\\%$.\nSo, $0.70P \\times (1 + \\frac{x}{100}) = P$.\n\nDivide both sides by $P$:\n$0.70 \\times (1 + \\frac{x}{100}) = 1$\n$1 + \\frac{x}{100} = \\frac{1}{0.70}$\n$1 + \\frac{x}{100} = \\frac{10}{7}$\n$\\frac{x}{100} = \\frac{10}{7} - 1$\n$\\frac{x}{100} = \\frac{10}{7} - \\frac{7}{7}$\n$\\frac{x}{100} = \\frac{3}{7}$\n$x = \\frac{3}{7} \\times 100$\n$x = \\frac{300}{7}$\n$x \\approx 42.857\\%$\n\nRounding to two decimal places, the percentage increase is 42.86%.\n\nComparing this with the given answer choices:\nA) 41.86%\nB) 42.86%\nC) 43.86%\nD) 44.86%\nE) 45.86%\n\nThe calculated value matches option (B).\n\nThe final answer is $\\boxed{B}$.",
+        "parsed_answer": "B"
+      }
+    ]
+  }
+]

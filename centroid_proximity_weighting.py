@@ -14,6 +14,8 @@ from scipy.spatial.distance import euclidean
 from transformers import AutoTokenizer, AutoModel
 from tqdm import tqdm
 
+from evaluation_utils import answers_match
+
 
 def load_embedder(model_name):
     """Load tokenizer and model for embedding."""
@@ -79,20 +81,18 @@ def evaluate(json_path, embedder_name, dataset_name):
 
     for item in tqdm(data, desc=f"CPW eval ({dataset_name})"):
         responses = item["responses"]
-        true_answer = str(item["true_answer"]).strip()
-
         texts = [r["response"] for r in responses]
         parsed = [r.get("parsed_answer") for r in responses]
 
         # Majority vote
         mv_answer = majority_vote(parsed)
-        if mv_answer is not None and str(mv_answer).strip().lower() == true_answer.lower():
+        if answers_match(mv_answer, item["true_answer"], dataset_name):
             correct_majority += 1
 
         # CPW
         embeddings = embed_texts(texts, tokenizer, model)
         cpw_answer = cpw_vote(embeddings, parsed)
-        if cpw_answer is not None and str(cpw_answer).strip().lower() == true_answer.lower():
+        if answers_match(cpw_answer, item["true_answer"], dataset_name):
             correct_cpw += 1
 
     maj_acc = correct_majority / total * 100

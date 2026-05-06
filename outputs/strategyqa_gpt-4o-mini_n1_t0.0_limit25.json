@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Yes, more people today are likely related to Genghis Khan than to Julius Caesar. Genghis Khan had many descendants due to his extensive conquests and the large number of children he fathered. Genetic studies suggest that a significant percentage of men in regions of Asia carry a Y-chromosome that can be traced back to him. In contrast, Julius Caesar had a much smaller number of direct descendants. Therefore, the answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Could the members of The Police perform lawful arrests?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The members of The Police, as a musical band, do not have the authority to perform lawful arrests. Lawful arrests are typically carried out by law enforcement officers who have the legal authority to do so. Therefore, the answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a Monoamine Oxidase candy bar cheer up a depressed friend?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Monoamine oxidase (MAO) is an enzyme that breaks down neurotransmitters in the brain, and while certain foods can influence mood, a candy bar specifically labeled as \"Monoamine Oxidase\" does not exist. However, a candy bar could provide a temporary boost in mood due to sugar and chocolate content, which can release endorphins. Ultimately, the effectiveness of a candy bar in cheering up a depressed friend would depend on the individual and their preferences. The answer is uncertain, but it could potentially help temporarily.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Would a dog respond to bell before Grey seal?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A dog can be trained to respond to a bell, especially if it is associated with a specific action or reward, such as feeding or going for a walk. Grey seals, on the other hand, do not have the same capacity for training or responding to human cues like a dog does. Therefore, a dog would likely respond to a bell before a Grey seal would. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is a pound sterling valuable?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Yes, a pound sterling is considered a valuable currency. It is one of the major currencies used in international trade and finance.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is shrimp scampi definitely free of plastic?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Shrimp scampi is a dish made primarily with shrimp, garlic, butter, and sometimes pasta or rice. While the ingredients themselves do not contain plastic, there is a possibility of contamination with microplastics in seafood due to environmental pollution. Therefore, it cannot be definitively stated that shrimp scampi is free of plastic. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Do the anchors on Rede Globo speak Chinese?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Rede Globo is a Brazilian television network, and its anchors primarily speak Portuguese. While some individuals may know multiple languages, it is not common for the anchors on Rede Globo to speak Chinese as part of their regular broadcasting. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The production budget for the 2017 film \"Wonder Woman\" was approximately $149 million, and it grossed over $821 million worldwide at the box office. A Boeing 737 typically costs between $90 million and $120 million, depending on the model and configuration. Since the box office receipts for \"Wonder Woman\" significantly exceeded the cost of a Boeing 737, the answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Can you buy Casio products at Petco?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Petco is a retailer that specializes in pet supplies and products, while Casio is known for electronics such as watches and calculators. Therefore, you cannot buy Casio products at Petco. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Did the Space Race use relay batons?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Space Race was a competition between the United States and the Soviet Union to achieve significant milestones in space exploration, and it did not involve relay batons as used in track and field events. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Are Christmas trees dissimilar to deciduous trees?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Christmas trees are typically coniferous trees, such as fir, spruce, or pine, while deciduous trees lose their leaves in the fall and have broad leaves. Therefore, they are dissimilar in terms of their leaf structure and seasonal behavior. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Does Biochemistry study gluons?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Biochemistry primarily focuses on the chemical processes and substances that occur within living organisms, including the study of biomolecules like proteins, nucleic acids, lipids, and carbohydrates. Gluons, on the other hand, are elementary particles in the field of particle physics that mediate the strong force between quarks. They are not a focus of biochemistry. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Did land owners elect their rulers in the Kingdom of Hungary?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Yes, in the Kingdom of Hungary, landowners had significant political power and were involved in the election of rulers, particularly during the medieval period. The nobility played a crucial role in governance, including the election of the king. Therefore, the answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would Nancy Pelosi publicly denounce abortion?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Nancy Pelosi has been a long-time advocate for reproductive rights and has publicly supported the right to choose. Therefore, it is unlikely that she would publicly denounce abortion. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does Dragon Ball shows and movies fall short of Friday 13th number of projects?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The \"Friday the 13th\" franchise includes numerous films, television series, and other media, totaling over 12 films and several spin-offs. The \"Dragon Ball\" franchise, including \"Dragon Ball,\" \"Dragon Ball Z,\" \"Dragon Ball Super,\" and various movies, also has a significant number of projects, totaling over 20 films and multiple series. Therefore, the answer is no; \"Dragon Ball\" shows and movies do not fall short of the number of \"Friday the 13th\" projects. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a student of the class of 2017 have amnesia about 9/11?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A student of the class of 2017 would have been born around 1999 or 2000. The events of 9/11 occurred in 2001. Given their age at that time, they would not have been able to comprehend or remember the events of 9/11. Therefore, it is likely that they would have no personal memory of it. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a psychic who admits to hot reading be trustworthy?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A psychic who admits to hot reading is essentially acknowledging that they use information obtained from observing or researching individuals to provide readings. This practice can undermine the trustworthiness of their claims, as it suggests they may not be genuinely providing psychic insights but rather manipulating information. Therefore, many people might find such a psychic less trustworthy. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is average number of peas in a pod enough commas for a billion?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The average number of peas in a pod is typically around 5 to 10. A billion is represented by the number 1,000,000,000, which has 9 commas. Therefore, the average number of peas in a pod is not enough to represent a billion in terms of commas. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does actress Leila George lack the height to be a model?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Leila George is approximately 5 feet 10 inches tall, which is generally considered a suitable height for modeling, as many models are typically between 5'8\" and 6'0\". Therefore, she does not lack the height to be a model. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is Dustin Hoffman one of the B'nei Yisrael?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Dustin Hoffman is not known to be one of the B'nei Yisrael, which refers to the Children of Israel or the Jewish people. While Hoffman is of Jewish descent, the term specifically refers to the collective group of Jewish people. Therefore, the answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "If you were on a diet, would you have to skip lunch at McDonald's?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "It depends on the specific diet you are following and the choices you make at McDonald's. Many diets allow for flexibility and moderation, so you might not have to skip lunch entirely. Instead, you could choose healthier options or smaller portions. The answer is not definitively yes or no; it varies based on individual dietary goals.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could the Powerpuff Girls hypothetically attend the Camden Military Academy?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Powerpuff Girls are fictional characters created for a cartoon, and they are depicted as young girls with superpowers. Camden Military Academy is a real military school for boys. While the Powerpuff Girls could not attend in reality due to their fictional nature, hypothetically, if they were to exist in a world where they could attend, they might be able to enroll. However, considering their age and the nature of the academy, it would be unlikely. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would an uninsured person be more likely than an insured person to decline a CT scan?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "An uninsured person may be more likely to decline a CT scan due to the potential high costs associated with the procedure, while an insured person may have coverage that reduces or eliminates their out-of-pocket expenses. Therefore, the answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Was the Donatello crucifix identified in 2020 life size?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Donatello crucifix identified in 2020 was indeed confirmed to be life-size. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is Disneyland Paris the largest Disney resort?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "No, Disneyland Paris is not the largest Disney resort. Walt Disney World in Florida is the largest Disney resort. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  }
+]

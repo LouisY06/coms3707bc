@@ -17,6 +17,8 @@ from sklearn.model_selection import ParameterGrid
 from transformers import AutoTokenizer, AutoModel
 from tqdm import tqdm
 
+from evaluation_utils import answers_match
+
 
 def load_embedder(model_name):
     """Load tokenizer and model for embedding."""
@@ -114,7 +116,6 @@ def evaluate_with_outlier_detection(data, tokenizer, model, method, params, data
 
     for item in data:
         responses = item["responses"]
-        true_answer = str(item["true_answer"]).strip()
         texts = [r["response"] for r in responses]
         parsed = [r.get("parsed_answer") for r in responses]
 
@@ -130,7 +131,7 @@ def evaluate_with_outlier_detection(data, tokenizer, model, method, params, data
         filtered_answers = [parsed[i] for i in range(len(parsed)) if labels[i] == 1]
 
         answer = majority_vote(filtered_answers) if filtered_answers else majority_vote(parsed)
-        if answer is not None and str(answer).strip().lower() == true_answer.lower():
+        if answers_match(answer, item["true_answer"], dataset_name):
             correct += 1
 
     return correct / total * 100
@@ -155,9 +156,8 @@ def run_gridsearch(json_path, embedder_name, dataset_name, method):
     correct_mv = 0
     for item in data:
         parsed = [r.get("parsed_answer") for r in item["responses"]]
-        true_answer = str(item["true_answer"]).strip()
         mv = majority_vote(parsed)
-        if mv is not None and str(mv).strip().lower() == true_answer.lower():
+        if answers_match(mv, item["true_answer"], dataset_name):
             correct_mv += 1
     mv_acc = correct_mv / len(data) * 100
 
@@ -175,8 +175,6 @@ def run_gridsearch(json_path, embedder_name, dataset_name, method):
         correct = 0
         for i, item in enumerate(data):
             parsed = [r.get("parsed_answer") for r in item["responses"]]
-            true_answer = str(item["true_answer"]).strip()
-
             try:
                 labels = detect_fn(all_embeddings[i], params)
             except Exception:
@@ -185,7 +183,7 @@ def run_gridsearch(json_path, embedder_name, dataset_name, method):
             filtered = [parsed[j] for j in range(len(parsed)) if labels[j] == 1]
             answer = majority_vote(filtered) if filtered else majority_vote(parsed)
 
-            if answer is not None and str(answer).strip().lower() == true_answer.lower():
+            if answers_match(answer, item["true_answer"], dataset_name):
                 correct += 1
 
         acc = correct / len(data) * 100

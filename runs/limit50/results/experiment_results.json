@@ -1,0 +1,74 @@
+{
+  "gpt-4o-mini/aqua": {
+    "model": "gpt-4o-mini",
+    "dataset": "aqua",
+    "greedy": 80.0,
+    "majority_vote": 86.0,
+    "cpw": 86.0,
+    "scw": 86.0
+  },
+  "gpt-4o-mini/svamp": {
+    "model": "gpt-4o-mini",
+    "dataset": "svamp",
+    "greedy": 86.0,
+    "majority_vote": 86.0,
+    "cpw": 86.0,
+    "scw": 86.0
+  },
+  "gpt-4o-mini/strategyqa": {
+    "model": "gpt-4o-mini",
+    "dataset": "strategyqa",
+    "greedy": 66.0,
+    "majority_vote": 70.0,
+    "cpw": 70.0,
+    "scw": 70.0
+  },
+  "gpt-3.5-turbo/aqua": {
+    "model": "gpt-3.5-turbo",
+    "dataset": "aqua",
+    "greedy": 66.0,
+    "majority_vote": 72.0,
+    "cpw": 74.0,
+    "scw": 74.0
+  },
+  "gpt-3.5-turbo/svamp": {
+    "model": "gpt-3.5-turbo",
+    "dataset": "svamp",
+    "greedy": 70.0,
+    "majority_vote": 76.0,
+    "cpw": 76.0,
+    "scw": 76.0
+  },
+  "gpt-3.5-turbo/strategyqa": {
+    "model": "gpt-3.5-turbo",
+    "dataset": "strategyqa",
+    "greedy": 62.0,
+    "majority_vote": 70.0,
+    "cpw": 70.0,
+    "scw": 70.0
+  },
+  "claude-haiku-4-5-20251001/aqua": {
+    "model": "claude-haiku-4-5-20251001",
+    "dataset": "aqua",
+    "greedy": 94.0,
+    "majority_vote": 94.0,
+    "cpw": 94.0,
+    "scw": 94.0
+  },
+  "claude-haiku-4-5-20251001/svamp": {
+    "model": "claude-haiku-4-5-20251001",
+    "dataset": "svamp",
+    "greedy": 92.0,
+    "majority_vote": 94.0,
+    "cpw": 94.0,
+    "scw": 94.0
+  },
+  "claude-haiku-4-5-20251001/strategyqa": {
+    "model": "claude-haiku-4-5-20251001",
+    "dataset": "strategyqa",
+    "greedy": 80.0,
+    "majority_vote": 78.0,
+    "cpw": 78.0,
+    "scw": 78.0
+  }
+}

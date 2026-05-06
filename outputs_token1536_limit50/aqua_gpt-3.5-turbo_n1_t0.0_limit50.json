@@ -1,0 +1,502 @@
+[
+  {
+    "question": "A car is being driven, in a straight line and at a uniform speed, towards the base of a vertical tower. The top of the tower is observed from the car and, in the process, it takes 10 minutes for the angle of elevation to change from 45\u00b0 to 60\u00b0. After how much more time will this car reach the base of the tower? Answer Choices: A)5(\u221a3 + 1) B)6(\u221a3 + \u221a2) C)7(\u221a3 \u2013 1) D)8(\u221a3 \u2013 2) E)None of these",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the height of the tower be h and the distance between the car and the base of the tower be x. \n\nFrom the given information, we can set up the following trigonometric equations:\nh/x = tan(45\u00b0) = 1\n(h + x)/x = tan(60\u00b0) = \u221a3\n\nSolving these equations, we get h = x and h + x = x\u221a3. \nSubstitute h = x into the second equation, we get x + x = x\u221a3, which simplifies to 2 = \u221a3. \nTherefore, x = 2/\u221a3 = 2\u221a3/3.\n\nThe car has already traveled x distance in 10 minutes. To reach the base of the tower, it needs to travel an additional x distance. \nSo, the total time taken to reach the base of the tower would be:\n10 + x/(speed of the car) = 10 + 2\u221a3/3 = 10 + 2(\u221a3)/3 = 6(\u221a3 + \u221a2)\n\nTherefore, the answer is (B) 6(\u221a3 + \u221a2).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "The original price of an item is discounted 22%. A customer buys the item at this discounted price using a $20-off coupon. There is no tax on the item, and this was the only item the customer bought. If the customer paid $1.90 more than half the original price of the item, what was the original price of the item? Answer Choices: A)$61 B)$65 C)$67.40 D)$70 E)$78.20",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "Let the original price of the item be x. After a 22% discount, the customer pays 0.78x. With the $20-off coupon, the customer pays 0.78x - 20.\n\nAccording to the given information, 0.78x - 20 = 0.5x + 1.90. Solving for x:\n\n0.78x - 20 = 0.5x + 1.90\n0.28x = 21.90\nx = 78.20\n\nTherefore, the original price of the item was $78.20. The answer is (E).",
+        "parsed_answer": "E"
+      }
+    ]
+  },
+  {
+    "question": "Find out which of the following values is the multiple of X, if it is divisible by 9 and 12? Answer Choices: A)36 B)15 C)17 D)5 E)7",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "To be divisible by both 9 and 12, the number must be divisible by the least common multiple of 9 and 12, which is 36. Therefore, the answer is (A) 36.",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? Answer Choices: A)0.22 B)0.26 C)0.37 D)0.46 E)0.63",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "The greatest value for the probability that neither of these two events will occur is when both events occur, which is 0.56 * 0.74 = 0.414. Therefore, the answer is (D) 0.46.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A trader sold an article at a profit of 20% for Rs.360. What is the cost price of the article? Answer Choices: A)270 B)300 C)280 D)320 E)315",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let the cost price of the article be x. Selling price = Cost price + Profit\n360 = x + 0.20x\n360 = 1.20x\nx = 360 / 1.20\nx = 300\nThe cost price of the article is Rs.300. The answer is (B).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? Answer Choices: A)40 B)200 C)380 D)400 E)3200",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "The percentage of black marbles pulled out the second time represents their percentage in the bag, so 1 black marble out of 20 marbles is 5%. This means that 5% of the total number of marbles in the bag is black. Since 5% of Q is 1, we can set up the equation 0.05Q = 1. Solving for Q, we get Q = 20/0.05 = 400. Therefore, the bag currently holds 400 marbles. The answer is (D).",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct? Answer Choices: A)74453 B)64543 C)74325 D)65000 E)97656",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "To find the total number of distinct bike numbers that can be formed using 2 letters followed by 2 numbers, we need to consider the number of possibilities for each position.\n\nFor the first letter, there are 26 choices (A-Z).\nFor the second letter, there are also 26 choices.\nFor the first number, there are 10 choices (0-9).\nFor the second number, there are also 10 choices.\n\nTherefore, the total number of distinct bike numbers that can be formed is 26 * 26 * 10 * 10 = 67600.\n\nThe answer is not listed in the answer choices provided.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A train running at a speed of 100 miles/hour, takes 10 hours to reach its destination. After covering quarter of the distance, it starts raining and the train has to be slowed to speed of 75 miles/hour. What is the total journey duration? Answer Choices: A)10 B)11.5 C)12.5 D)13.5 E)15",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The total distance is 100 miles/hour * 10 hours = 1000 miles. After covering a quarter of the distance (250 miles), the train has 750 miles left to travel. At 75 miles/hour, it will take 750 miles / 75 miles/hour = 10 hours to reach the destination. So the total journey duration is 10 hours + 10 hours = 20 hours. The answer is not listed in the answer choices provided.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Of the 200 students in a school, at least 45% attended the prom night and at least 35% took part in the debating session. What is the maximum number of students who could have neither attended the prom night nor the debating session? Answer Choices: A)27 B)81 C)90 D)99 E)110",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "To find the maximum number of students who could have neither attended the prom night nor the debating session, we need to find the minimum number of students who attended both events and subtract that from the total number of students.\n\nThe minimum number of students who attended both events is the sum of the minimum number of students who attended each event separately. This would be 45% of 200 for the prom night (90 students) and 35% of 200 for the debating session (70 students). The minimum number of students who attended both events is 70 (since it is the smaller of the two).\n\nTherefore, the maximum number of students who could have neither attended the prom night nor the debating session is 200 - 70 = 130. The answer is not listed in the answer choices provided.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000? Answer Choices: A)15 B)24 C)25 D)40 E)52",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let x be the number of sales the salesperson needs to make. Each sale is $250, so the total amount earned from x sales is 250x. The salesperson gets a 10% commission on each sale, so the total commission earned is 0.10 * 250x = 25x.\n\nThe total salary the salesperson needs to reach is $1000. Therefore, we have the equation 250x + 25x = 1000. Simplifying, we get 275x = 1000, so x = 1000 / 275 = 40.\n\nThe salesperson needs to make 40 sales of $250 each to reach a salary of at least $1000. The answer is (D).",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. What is the minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 ? Answer Choices: A)226 B)230 C)240 D)260 E)280",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "The yearly profit needed is $626,400. The yearly production cost is $110 * 420 * 12 = $554,400. To find the minimum selling price per component, we need to add the profit to the production cost and divide by the number of units produced in a year.\n\nMinimum selling price per component = ($626,400 + $554,400) / (420 * 12) = $230\n\nTherefore, the minimum selling price per component should be $230. The answer is (B).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day? Answer Choices: A)4,000 B)4,200 C)4,500 D)4,800 E)5,000",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the total number of staplers produced be x. \n\n10% of x were defective, so 0.10x were defective. \nTherefore, 0.90x were non-defective. \n\n2% of the non-defective staplers were rejected, so 0.02(0.90x) = 72. \n0.018x = 72\nx = 4000\n\nTherefore, the number of staplers produced that day was 4000. The answer is (A).",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Machine A puts out a yo-yo every 6 minutes. Machine B puts out a yo-yo every 9 minutes. After how many minutes will they have produced 10 yo-yos? Answer Choices: A)24 minutes B)32 minutes C)36 minutes D)64 minutes E)72 minutes",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Machine A produces a yo-yo every 6 minutes, so it produces 1/6 yo-yos per minute. Machine B produces a yo-yo every 9 minutes, so it produces 1/9 yo-yos per minute. Together, they produce 1/6 + 1/9 = 5/18 yo-yos per minute. To produce 10 yo-yos, it will take 10 / (5/18) = 36 minutes. The answer is (C).",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "Add: +45 and -30 Answer Choices: A)-30 B)+30 C)0 D)15 E)-15",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "The sum of +45 and -30 is 45 - 30 = 15. The answer is (D) 15.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "In how many ways can the letters of the word \"PROBLEC\" be rearranged to make 7 letter words such that none of the letters repeat? Answer Choices: A)2! B)3! C)7! D)8! E)9!",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The word \"PROBLEC\" has 7 letters, so the number of ways to rearrange them without repetition is 7!. The answer is (C) 7!.",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "Let A and B be independent events with P (A) = 0.2 and P(B) = 0.8. Find P(A/B)? Answer Choices: A)0.2 B)0.4 C)0.6 D)1.2 E)1.5",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Since A and B are independent events, P(A/B) = P(A) = 0.2. The answer is (A) 0.2.",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Consider there is an staircase elevator and you are coming down. If you walk 20 steps and stop, then you reach bottom in 10 minutes. If you walk 10 steps and stop, you reach to the ground in 20 minutes. What is the speed of the elevator? Answer Choices: A)1 step/minute B)2 step/minute C)3 step/minute D)4 step/minute E)None of the above",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the speed of the elevator be x steps/minute. \n\nFrom the first scenario, we have 20 steps + 10 minutes = 30 steps total. \nFrom the second scenario, we have 10 steps + 20 minutes = 30 steps total. \n\nSince the total number of steps is the same in both scenarios, we can set up the equation: \n20 + 10x = 10 + 30x \n10x = 10 \nx = 1 \n\nTherefore, the speed of the elevator is 1 step/minute. The answer is (A).",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Last year, a Home Appliance Store sold an average(arithmetic mean) of 42 microwave ovens per month. In the first 10 months of this year,the store has sold an average(arithmetic mean) of only 20 microwave ovens per month. What was the average number of microwave ovens sold per month during the entire 22 months period ? Answer Choices: A)21 B)30 C)31 D)32 E)None of the above",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "The total number of microwave ovens sold in the first 10 months of this year is 20 * 10 = 200. \nThe total number of microwave ovens sold last year is 42 * 12 = 504. \nSo, the total number of microwave ovens sold in the entire 22 months period is 200 + 504 = 704. \nThe average number of microwave ovens sold per month during the entire 22 months period is 704 / 22 = 32. \nTherefore, the answer is (D) 32.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers? Answer Choices: A)(zy \u2013 2x)/z B)(zy \u2013 2)/z C)(zx \u2013 y)/(z \u2013 2) D)(zy \u2013 2x)/(z -2) E)(zy \u2013 x)/(z + 2)",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let the highest score be H and the lowest score be L. \n\nGiven that the average of the highest and lowest scores is x, we have (H + L)/2 = x, which simplifies to H + L = 2x.\n\nThe average score for the entire class is y, so the total sum of all scores is y*z.\n\nExcluding the highest and lowest scorers, the total sum of scores would be y*z - H - L.\n\nTherefore, the average score for the class excluding the highest and lowest scorers is (y*z - H - L)/(z - 2).\n\nSubstitute H + L = 2x into the equation, we get (y*z - 2x)/(z - 2).\n\nSo, the answer is (D) (zy - 2x)/(z - 2).",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "[5 + ? \u00d7 19 - 15 - 7]/[13 \u00d7 13 - 156] = 6 Answer Choices: A)4 B)4.5 C)5 D)5.5 E)6.5",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "First, simplify the expression inside the brackets: 5 + ? \u00d7 19 - 15 - 7 = ? \u00d7 19 - 17. \n\nThen, simplify the denominator: 13 \u00d7 13 - 156 = 169 - 156 = 13. \n\nNow, substitute these values back into the equation: (? \u00d7 19 - 17) / 13 = 6. \n\nSolve for ?: ? \u00d7 19 - 17 = 6 * 13. \n? \u00d7 19 - 17 = 78. \n? \u00d7 19 = 95. \n? = 95 / 19 = 5. \n\nTherefore, the answer is (C) 5.",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "A grocer makes a 25% profit on the selling price for each bag of flour it sells. If he sells each bag for $100 and makes $3,000 in profit, how many bags did he sell? Answer Choices: A)12 B)16 C)24 D)30 E)40",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Let the cost price of each bag of flour be x. The selling price would be x + 0.25x = 1.25x. Given that he sells each bag for $100, we have 1.25x = 100. Solving for x, we get x = 80.\n\nThe profit made on each bag is $100 - $80 = $20. Since the total profit made is $3,000, the number of bags sold would be $3,000 / $20 = 150 bags. The answer is not in the answer choices provided.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Alex and Jacob works at a toy shop that make toys. Alex takes 7 hours to make a toy, and Jacob takes 9 hours to make a toy. During a month, both of them makes 35 toys in total. If both of them have worked for almost similar number of hours how many toys have been prepared by Jacob? Answer Choices: A)15 B)16 C)17 D)18 E)19",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let x be the number of toys made by Alex and y be the number of toys made by Jacob. We can set up the following system of equations:\n\nx + y = 35\n7x + 9y = total hours worked by both\n\nSince both of them have worked for almost similar number of hours, we can assume that x = y. Substituting this into the first equation, we get:\n\n2x = 35\nx = 17.5\n\nSince x and y represent the number of toys made, Jacob must have made 17 toys. The answer is (C) 17.",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "John likes to have lightly flavored tea every evening. In a 50% strong milk tea, he replaces 15% of it with milk twice. Then, he replaces 10 percent of the resultant solution with more milk.\nWhat is the final concentration of tea John drinks? Answer Choices: A)15.38% B)42% C)39.86% D)22.35% E)32.51%",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "Let's assume John starts with 100 ml of 50% strong milk tea. \n\nFirst replacement: 15% of 100 ml is 15 ml, so he replaces 15 ml of tea with milk, resulting in 85 ml of 50% strong milk tea.\n\nSecond replacement: 15% of 85 ml is 12.75 ml, so he replaces 12.75 ml of tea with milk, resulting in 72.25 ml of 50% strong milk tea.\n\nThird replacement: 10% of 72.25 ml is 7.225 ml, so he replaces 7.225 ml of tea with milk, resulting in 65.025 ml of final solution.\n\nThe final concentration of tea in the solution is (65.025 ml / 100 ml) * 100% = 65.025%. \n\nTherefore, the final concentration of tea John drinks is 65.025%, which is closest to 65%. The answer is (C) 39.86%.",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "In a class 1/16 of the students study math, 1/10 of the students study bio, 1/8 of the students study english. The total number of students is a 4 digit number. Find the diffrence between maximum number of students and minimum number of students. Answer Choices: A)8880 B)8870 C)8890 D)7890 E)6780",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "To find the minimum number of students, we need to find the least common multiple of 16, 10, and 8, which is 80. So the minimum number of students is 80.\n\nTo find the maximum number of students, we need to find the greatest common factor of 16, 10, and 8, which is 2. So the maximum number of students is 2.\n\nThe difference between the maximum and minimum number of students is 80 - 2 = 78. The answer is (D) 7890.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "On a normal day Bill usually averages about 15 mph when riding his bicycle. On a windy day, his speed is reduced by 4 mph. How far can Bill travel on a windy day in 21 minutes? Round to the nearest hundredth. Answer Choices: A)2 miles B)2.25 miles C)3.25 miles D)3.85 miles E)2.85 miles",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "On a windy day, Bill's speed is 15 mph - 4 mph = 11 mph. In 21 minutes, he can travel 11 mph * (21/60) hr = 3.85 miles. The answer is (D) 3.85 miles.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A retailer sold an appliance for 40 percent above cost, which represented a gross profit of $20.00. For what price did the retailer sell the appliance? Answer Choices: A)$27.30 B)$51.00 C)$63.00 D)$70.00 E)$91.00",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let the cost price of the appliance be x. Selling it for 40% above cost means selling it for 1.4x. The gross profit is the selling price minus the cost price, so 1.4x - x = $20. Solving for x, we get x = $50. \n\nTherefore, the retailer sold the appliance for 1.4 * $50 = $70. The answer is (D).",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "At 6% per annum simple interest, Rahul borrowed Rs. 500. What amount will he pay to clear the debt after 4 years Answer Choices: A)750 B)700 C)620 D)600 E)None of these",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The simple interest formula is: I = P * R * T, where I is the interest, P is the principal amount, R is the rate of interest, and T is the time period.\n\nIn this case, I = 500 * 0.06 * 4 = 120. So, Rahul will have to pay back the principal amount plus the interest, which is 500 + 120 = 620. The answer is (C).",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "A computer routine was developed to generate two numbers (x,y) the first being a random number between 0 and 100 inclusive, and the second being less than or equal to the square root of the first. Each of the following pair satisfies the routine except Answer Choices: A)(99,10) B)(85,9) C)(50,7) D)(1,1) E)(1,0)",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "For the pair (1,0), the second number is not less than or equal to the square root of the first number. Therefore, the pair (1,0) does not satisfy the routine. The answer is (E).",
+        "parsed_answer": "E"
+      }
+    ]
+  },
+  {
+    "question": "A jeep travels a certain distance taking 6 hours in the forward journey. During the return journey, it increased its speed by 12km/hr and took 4 hours. What is the distance travelled by the jeep? Answer Choices: A)126km B)144km C)127km D)228km E)128km",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let the speed of the jeep be x km/hr. \nDuring the forward journey, the distance traveled is 6x km. \nDuring the return journey, the speed is (x+12) km/hr and the distance traveled is 4(x+12) km. \nSince distance is the same in both directions, we have:\n6x = 4(x+12)\n6x = 4x + 48\n2x = 48\nx = 24\nTherefore, the distance traveled by the jeep is 6x = 6(24) = 144 km. \nThe answer is (B).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "When I was 2 years old, my brother was half my age. Now I am 60 years old, how old is my brother? Answer Choices: A)A)59 B)B)69 C)C)79 D)D)89 E)E)99",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "When you were 2 years old, your brother was half your age, so he was 1 year old. The age difference between you and your brother is 1 year. Now that you are 60 years old, your brother would be 60 - 1 = 59 years old. The answer is (A) 59.",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "The original retail price of an appliance was 60 percent more than its wholesale cost. If the appliance was actually sold for 20 percent less than the original retail price, then it was sold for what percent more than its wholesale cost? Answer Choices: A)20% B)28% C)36% D)40% E)42%",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let the wholesale cost be x. The original retail price is 60% more than the wholesale cost, so it is 1.6x. The appliance was sold for 20% less than the original retail price, so it was sold for 0.8(1.6x) = 1.28x.\n\nThe difference between the selling price and the wholesale cost is 1.28x - x = 0.28x. To find the percentage increase, we divide this difference by the wholesale cost x and multiply by 100:\n\n(0.28x / x) * 100 = 28%\n\nTherefore, the appliance was sold for 28% more than its wholesale cost. The answer is (B).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "On a map, the length of the road from Town F to Town G is measured to be 20 inches. On this map, 1/4 inch represents an actual distance of 10 miles. What is the actual distance, in miles, from Town F to Town G along this road? Answer Choices: A)800 B)720 C)960 D)1140 E)1160",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "To find the actual distance in miles, we first need to find how many miles 1 inch represents on the map. Since 1/4 inch represents 10 miles, 1 inch represents 4 times that, which is 40 miles.\n\nTherefore, the actual distance from Town F to Town G is 20 inches * 40 miles/inch = 800 miles. The answer is (A).",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "When folded into two equal halves a rectangular sheet had a perimeter of 48cm for each part folded along one set of sides and the same is 66cm when folded along the other set of sides. Find the area of the sheet. Answer Choices: A)1584 B)1120 C)792 D)1320 E)1200",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let the length of the rectangle be L and the width be W. When folded along the length, the perimeter of each part is 48cm, so the length of each part is 24cm. This means 2W + L = 48. When folded along the width, the perimeter of each part is 66cm, so the width of each part is 33cm. This means 2L + W = 66.\n\nSolving these two equations simultaneously, we get L = 20 and W = 8. Therefore, the area of the sheet is L * W = 20 * 8 = 160 square cm. The answer is not listed in the answer choices provided.",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Suppose you can travel from a place M to a place N by 3 buses, from place N to place O by 4 buses, from place O to place P by 1 buses and from place P to place Q by 3 buses. In how many ways can you travel from M to Q ? Answer Choices: A)24 B)36 C)72 D)84 E)None",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "To find the total number of ways to travel from M to Q, you multiply the number of ways for each leg of the journey. So, 3 * 4 * 1 * 3 = 36. The answer is (B).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "A rectangular solid, 3 x 4 x 15, is inscribed in a sphere, so that all eight of its vertices are on the sphere. What is the diameter of the sphere? Answer Choices: A) 13.3542 B) 15.8113 C) 18.3451 D) 19.5667 E) 20.8888",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "The diameter of the sphere is equal to the diagonal of the rectangular solid. Using the Pythagorean theorem, the diagonal is \u221a(3^2 + 4^2 + 15^2) = \u221a(9 + 16 + 225) = \u221a250 = 15.8113. The answer is (B).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "A starts travel towards south 3km, then travel 5 km towards east, and again travels 3 km to north, and finally travels 2km towards west. In the end how far from is A from home? Answer Choices: A)3km B)2km C)4km D)5km E)6km",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "A starts 3km south, then 5km east, then 3km north, and finally 2km west. This forms a right-angled triangle with sides of 3km and 5km. Using the Pythagorean theorem, the distance from A to home is \u221a(3^2 + 5^2) = \u221a(9 + 25) = \u221a34, which is approximately 5.83km. So, A is approximately 5km from home. The answer is (D).",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "While selling a watch, a shopkeeper gives a discount of 5%. If he gives a discount of 7%, he earns Rs. 15 less as profit. The marked price of the watch is: Answer Choices: A)Rs. 697.50 B)Rs. 712.50 C)Rs. 787.50 D)Rs. 750 E)Rs. 780",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let the marked price of the watch be Rs. x. \n\nWith a 5% discount, the selling price is 0.95x. \nWith a 7% discount, the selling price is 0.93x. \n\nGiven that the difference in profit is Rs. 15, we can set up the equation: \n0.95x - 0.93x = 15 \n0.02x = 15 \nx = 750 \n\nTherefore, the marked price of the watch is Rs. 750. The answer is (D).",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A student instead of finding the value of 7/8 of a number, found the value of 7/18 of the number. If his answer differed from the actual one by 770, find the that number. Answer Choices: A)1584 B)2520 C)1728 D)1656 E)None",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the number be x. The student found the value of 7/18 of the number instead of 7/8. So, the difference in the fractions is 7/8 - 7/18 = 35/72.\n\nGiven that this difference is equal to 770, we can set up the equation:\n\n(35/72)x = 770\nx = 770 * (72/35)\nx = 1584\n\nTherefore, the number is 1584. The answer is (A).",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "The monthly salary S of a shop assistant is the sum of a fixed salary of $500 plus 5% of all monthly sales. What should the monthly sales be so that her monthly salary reaches $1500? Answer Choices: A)$50000 B)$40000 C)$30000 D)$20000 E)None of these",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Let x be the monthly sales. The equation would be 500 + 0.05x = 1500. Solving for x, we get x = 20000. So the monthly sales should be $20000 for her monthly salary to reach $1500. The answer is (D).",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "An aeroplane flies along the four sides of a square at the speeds of 200, 400, 600 and 800km/hr. Find the average speed of the plane around the field? Answer Choices: A)384 B)562 C)458 D)156 E)452",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "To find the average speed, we need to find the total distance traveled and divide it by the total time taken. The total distance traveled around the square is the perimeter of the square, which is 4 times the length of one side of the square.\n\nLet's assume the length of one side of the square is x km. Then the total distance traveled is 4x km.\n\nThe time taken to travel each side of the square is the distance divided by the speed. So the time taken to travel each side is x/200, x/400, x/600, and x/800 hours.\n\nThe total time taken to travel around the square is the sum of these times: x/200 + x/400 + x/600 + x/800 hours.\n\nThe average speed is total distance divided by total time: 4x / (x/200 + x/400 + x/600 + x/800).\n\nSimplifying this expression gives us the average speed as 562 km/hr. The answer is (B).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "Jack buys 18 sharpeners (white and brown) for rs. 100. If he pays 1 rupee more for each white than brown sharpeners. How many of white and how many brown sharpeners did he buy? Answer Choices: A)10,8 B)9,8 C)7,8 D)5,6 E)11,12",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the number of white sharpeners be x and the number of brown sharpeners be y. \nGiven that x + y = 18 and x = y + 1. \nSubstitute x = y + 1 into the first equation: \ny + 1 + y = 18 \n2y + 1 = 18 \n2y = 17 \ny = 8.5 \nSince the number of sharpeners must be a whole number, y = 8. \nTherefore, x = 8 + 1 = 9. \nJack bought 9 white sharpeners and 8 brown sharpeners. \nThe answer is (B) 9, 8.",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "Hoses A and B spout water at different constant rates, and hose A can fill a certain pool in 8 hours. Hose A filled the pool alone for the first 2 hours and the two hoses, working together, then finished filling the pool in another 3 hours. How many hours would it have taken hose B, working alone, to fill the entire pool? Answer Choices: A)8 B)15 C)12 D)6 E)3",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the rate of hose A be a and the rate of hose B be b. \n\nSince hose A can fill the pool in 8 hours, its rate is 1/8 of the pool per hour. \n\nIn the first 2 hours, hose A fills 2 * (1/8) = 1/4 of the pool. This means that 3/4 of the pool is left to be filled. \n\nIn the next 3 hours, both hoses together fill 3 * (a + b) = 3/4 of the pool. \n\nSince we know that hose A's rate is 1/8, we can substitute that in to get 3 * (1/8 + b) = 3/4. \n\nSolving for b, we get b = 1/12. \n\nTherefore, hose B can fill the pool alone in 12 hours. The answer is (C).",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "If 120 is reduced to 96, what is the reduction percent? Answer Choices: A)30% B)40% C)20% D)10% E)5%",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "The reduction is 120 - 96 = 24. To find the reduction percent, we divide the reduction by the original number and multiply by 100: (24/120) * 100 = 20%. The answer is (C).",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "I know a 5 digit number having a property that with a 1 after it, it is three times as large as it would be with a 1 before it.\nWhat is that number? Answer Choices: A)42857 B)32456 C)76523 D)24567 E)43566",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the number be ABCDE. According to the given property, 10000A + 1000B + 100C + 10D + E = 10000 + 1000A + 100B + 10C + D. Simplifying this equation, we get 9999A + 999B + 90C = 9999. The only possible solution for this equation is A = 4, B = 2, C = 8, D = 5, and E = 7. Therefore, the number is 42857. The answer is (A).",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "At Daifu university, 24% of all students are members of both a chess club and a swim team. If 20% of members of the swim team are not members of the chess club, what percentage of all Daifu students are members of the swim team? Answer Choices: A)20% B)30% C)40% D)50% E)60%",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let x be the total number of students at Daifu University. \n\nSince 24% of all students are members of both a chess club and a swim team, 0.24x students are members of both. \n\nIf 20% of members of the swim team are not members of the chess club, then 80% of members of the swim team are members of the chess club. \n\nLet y be the number of students in the swim team. 0.80y = 0.24x. \n\nSolving for y, we get y = 0.30x. \n\nTherefore, 30% of all Daifu students are members of the swim team. The answer is (B).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "If the population of a city increases by 5 % annually, what will be the population of the city in 2 years time if its current population is 78000? Answer Choices: A)81900 B)85995 C)85800 D)90000 E)None of these",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "To find the population of the city in 2 years time, we need to calculate the population after each year. \n\nAfter 1 year: 78000 * 1.05 = 81900\nAfter 2 years: 81900 * 1.05 = 85995\n\nSo, the population of the city in 2 years time will be 85995. The answer is (B).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "Two cars start at the same time from opposite ends of a highway that is 50 miles long. One car is riding at 12 mph and the second car is riding at 13 mph. How long after they begin will they meet? Answer Choices: A) 1 B) 1.25 C) 1.50 D) 1.75 E) 2",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "The cars are moving towards each other at a combined speed of 12 mph + 13 mph = 25 mph. The time it takes for them to meet is distance/speed = 50 miles / 25 mph = 2 hours. The answer is (E).",
+        "parsed_answer": "E"
+      }
+    ]
+  },
+  {
+    "question": "A shopkeeper employed a servant at a monthly salary of 1500. In addition to it, he agreed to pay him a commission of 15% on the monthly sale. How much sale in Rupees should the servant do if he wants his monthly income as 6000? Answer Choices: A)30000 B)415000 C)31500 D)50000 E)None of these",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let the monthly sale be x. The servant's income would be 1500 (monthly salary) + 0.15x (commission). We want this total income to be 6000. So, 1500 + 0.15x = 6000. Solving for x, we get x = 30000. Therefore, the servant should do a monthly sale of 30000 Rupees. The answer is (A).",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "A man borrows Rs.360 If he pays it back in 12 monthly installments of Rs.31.50, what is his interest rate? Answer Choices: A)1.5% B)4.5% C)10% D)5% E)12%",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "The total amount paid back in 12 monthly installments is 12 * 31.50 = Rs. 378. The interest paid is 378 - 360 = Rs. 18. \n\nTo find the interest rate, we use the formula: \nInterest Rate = (Interest / Principal) * 100\nInterest Rate = (18 / 360) * 100\nInterest Rate = 5%\n\nTherefore, the interest rate is 5%. The answer is (D).",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "The price of a product is reduced by 30% . By what percentage should it be increased to make it 100% Answer Choices: A)41.86% B)42.86% C)43.86% D)44.86% E)45.86%",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let the original price of the product be x. After a 30% reduction, the price becomes 0.7x. To increase it back to 100%, we need to increase it by (100 - 70)% = 30%. \n\nTo find the percentage increase needed, we use the formula: (Increase in price / Original price) * 100%\n= (0.3x / 0.7x) * 100%\n= 0.4286 * 100%\n= 42.86%\n\nTherefore, the percentage increase needed to make the price 100% is 42.86%. The answer is (B).",
+        "parsed_answer": "B"
+      }
+    ]
+  }
+]

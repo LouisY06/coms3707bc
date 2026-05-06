@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Genghis Khan had many children and his descendants continued to have many children, spreading his genetic lineage widely across Asia and Europe. Julius Caesar had only one known biological child, who died young, and his adopted son Octavian (Augustus) was not biologically related to him. Therefore, it is highly probable that more people today are related to Genghis Khan than Julius Caesar. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Could the members of The Police perform lawful arrests?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The members of the band The Police are musicians, not law enforcement officers. Thus, they could not perform lawful arrests. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a Monoamine Oxidase candy bar cheer up a depressed friend?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Monoamine Oxidase is an enzyme that breaks down neurotransmitters. A Monoamine Oxidase candy bar would not be a real thing, and even if it were, it would not cheer up a depressed friend. Depression is a complex medical condition that requires professional treatment. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a dog respond to bell before Grey seal?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A: Dogs can hear sounds up to 60,000 Hz. Grey seals can hear sounds up to 180,000 Hz. Thus, a Grey seal can hear a wider range of sounds than a dog. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is a pound sterling valuable?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A pound sterling is a unit of currency. Currency is valuable because it can be exchanged for goods and services. Thus, a pound sterling is valuable. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is shrimp scampi definitely free of plastic?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Shrimp scampi is a dish, not a natural product. While it's highly unlikely to contain plastic as an ingredient, there's always a minuscule chance of accidental contamination during preparation or packaging, as with any processed food. Therefore, it's not *definitely* free of plastic. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Do the anchors on Rede Globo speak Chinese?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Rede Globo is a Brazilian television network. Brazil's official language is Portuguese. Thus, the anchors on Rede Globo speak Portuguese, not Chinese. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The Boeing 737 costs between $90 million and $120 million. The Wonder Woman (2017 film) box office receipts were $821.8 million. Thus, the Boeing 737 cost is covered by the Wonder Woman (2017 film) box office receipts. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Can you buy Casio products at Petco?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Casio products include watches and calculators. Petco is a pet supply store. Thus, you cannot buy Casio products at Petco. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Did the Space Race use relay batons?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Space Race was a competition between the United States and the Soviet Union to achieve superiority in spaceflight. Relay batons are used in track and field races. Thus, the Space Race did not use relay batons. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Are Christmas trees dissimilar to deciduous trees?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Christmas trees are conifers, which are evergreen. Deciduous trees lose their leaves in the fall. Thus, Christmas trees are dissimilar to deciduous trees. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Does Biochemistry study gluons?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Gluons are subatomic particles that mediate the strong nuclear force. Biochemistry is the study of chemical processes within living organisms. Thus, biochemistry does not study gluons. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Did land owners elect their rulers in the Kingdom of Hungary?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Kingdom of Hungary was a monarchy. In a monarchy, rulers typically inherit their position or are chosen through a system that does not involve elections by landowners. Thus, landowners did not elect their rulers. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would Nancy Pelosi publicly denounce abortion?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Nancy Pelosi is a Democrat and a Catholic. The Democratic Party platform supports abortion rights, while the Catholic Church opposes abortion. However, Nancy Pelosi has consistently voted in favor of abortion rights and has publicly stated her support for a woman's right to choose. Therefore, it is highly unlikely she would publicly denounce abortion. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does Dragon Ball shows and movies fall short of Friday 13th number of projects?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Dragon Ball has 20 movies and 20 TV shows, for a total of 40 projects. Friday the 13th has 12 movies. Thus, Dragon Ball has more projects than Friday the 13th. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a student of the class of 2017 have amnesia about 9/11?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A student of the class of 2017 would have graduated high school in 2017. This means they would have been born around 1999. On September 11, 2001, they would have been about 2 years old. Most people do not have clear memories from when they were 2 years old. Thus, a student of the class of 2017 would likely have amnesia about 9/11. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a psychic who admits to hot reading be trustworthy?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: Hot reading is when a psychic uses information they already know about a person, rather than relying on psychic abilities. If a psychic admits to hot reading, they are admitting to deception. Thus, a psychic who admits to hot reading would not be trustworthy. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is average number of peas in a pod enough commas for a billion?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The average number of peas in a pod is 8. A billion is 1,000,000,000. This number has 3 commas. 8 is not enough commas for a billion. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does actress Leila George lack the height to be a model?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Leila George is 5'8\" (1.73m) tall. The average height for a female model is between 5'8\" and 5'11\". Thus, Leila George is tall enough to be a model. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is Dustin Hoffman one of the B'nei Yisrael?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Dustin Hoffman is Jewish. B'nei Yisrael is a Hebrew term for the Jewish people. Thus, Dustin Hoffman is one of the B'nei Yisrael. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "If you were on a diet, would you have to skip lunch at McDonald's?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "McDonald's has salads and other healthy options. Thus, you would not have to skip lunch at McDonald's. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could the Powerpuff Girls hypothetically attend the Camden Military Academy?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Powerpuff Girls are girls. The Camden Military Academy is an all-boys school. Thus, the Powerpuff Girls could not attend the Camden Military Academy. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would an uninsured person be more likely than an insured person to decline a CT scan?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "An uninsured person would have to pay for a CT scan out of pocket, which can be very expensive. An insured person would likely have most of the cost covered by their insurance. Thus, an uninsured person would be more likely to decline a CT scan due to cost. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Was the Donatello crucifix identified in 2020 life size?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Donatello crucifix was identified in 2020. It is 166 cm tall, which is about 5 feet 5 inches. This is considered life-size. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is Disneyland Paris the largest Disney resort?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Disneyland Paris is 4,800 acres. Walt Disney World is 25,000 acres. Thus, Disneyland Paris is not the largest Disney resort. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could someone with fine motor control issues benefit from an altered keyboard layout?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Someone with fine motor control issues might struggle with the precise movements required for a standard keyboard layout. An altered keyboard layout, such as one with larger keys, more widely spaced keys, or a different arrangement of keys, could potentially reduce the need for such precise movements, making typing easier and more accessible. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would Adam Sandler get a reference to Cole Spouse and a scuba man doll?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Adam Sandler is 57 years old. Cole Sprouse is 31 years old. Adam Sandler is a comedian and actor, and Cole Sprouse is an actor. Adam Sandler is old enough to not know who Cole Sprouse is. A scuba man doll is a toy, and Adam Sandler is an adult. Thus, Adam Sandler would not get a reference to Cole Sprouse and a scuba man doll. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is there a warthog on Broadway?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Warthogs are not typically found on Broadway. Broadway is a street in New York City known for its theaters and entertainment, not for housing wild animals. Thus, there is not a warthog on Broadway. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does Disney have an ice princess?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Elsa is an ice princess. Elsa is a Disney character. Thus, Disney has an ice princess. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a geographer use biochemistry in their work?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A geographer studies the Earth's physical features and human activity. Biochemistry is the study of chemical processes within living organisms. While some areas of geography, like biogeography, might touch upon biological processes, the core work of a geographer does not typically involve the direct application of biochemistry. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could George Washington's own speeches have been recorded live to a compact disc?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "George Washington died in 1799. Compact discs were invented in 1982. Thus, George Washington's speeches could not have been recorded live to a compact disc. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would food made with black salt smell of sulfur?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Black salt is a type of rock salt that contains sulfur compounds. These sulfur compounds give black salt a distinctive sulfuric smell and taste. Thus, food made with black salt would smell of sulfur. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a broadcast from Spirit make the news in 2020?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Spirit was a Mars rover that was active from 2004 to 2010. It is no longer active. Thus, a broadcast from Spirit would not make the news in 2020. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could Robert Wadlow hypothetically see Frankenstein's monster's bald spot from above?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Robert Wadlow was 8'11\". Frankenstein's monster was 8' tall. Robert Wadlow was taller than Frankenstein's monster. Thus, Robert Wadlow could see Frankenstein's monster's bald spot from above. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is the tibia necessary to win the Stanley Cup?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The tibia is a bone in the leg. To win the Stanley Cup, a person needs to be a hockey player. Hockey players need their legs to play. Thus, the tibia is necessary to win the Stanley Cup. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would an ethics professor teach a class on Cezanne?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Cezanne was a painter. An ethics professor teaches ethics. Thus, an ethics professor would not teach a class on Cezanne. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "If you add water to rice pudding is it horchata?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Horchata is a drink made from ground nuts, seeds, or rice, water, and sugar. Rice pudding is a dessert made from rice, milk, and sugar. Adding water to rice pudding would make it a watery rice pudding, not horchata. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "If your skin was turning the color of a zombie, could it be because of nickel?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Nickel poisoning can cause skin to turn green, which is a color associated with zombies. Thus, it could be because of nickel. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a Dolce & Gabbana suit wearer be shunned by their Amish cousins?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Amish people live a simple life and reject modern conveniences and fashion. Dolce & Gabbana suits are expensive, fashionable, and represent a modern, worldly lifestyle. Thus, an Amish person would likely disapprove of a Dolce & Gabbana suit. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is the Illuminati card game still popular?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Illuminati card game was released in 1982. While it has a cult following and is still played by some, it is not considered a mainstream or widely popular game in the same way as many modern card games. Thus, it is not still popular. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Can a strawberry get worms similar to dogs?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A: Strawberries can get worms, and dogs can get worms. However, the worms that infect strawberries are different from the worms that infect dogs. Thus, a strawberry cannot get worms similar to dogs. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is Menthol associated with Thanksgiving?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Menthol is a chemical compound that is often found in mint plants. Thanksgiving is a holiday that is celebrated in the fall. There is no direct association between menthol and Thanksgiving. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would someone in Mumbai refer to Solanum melongena as an eggplant?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Solanum melongena is the scientific name for eggplant. In India, eggplant is commonly referred to as \"brinjal.\" While some people in Mumbai might understand \"eggplant,\" the more common term they would use is \"brinjal.\" Therefore, it is unlikely that someone in Mumbai would refer to Solanum melongena as an eggplant. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is it okay to lie after taking an oath in a court of law?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Lying after taking an oath in a court of law is called perjury. Perjury is a crime and is not okay. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is art prioritized in the US education system?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Art is not a core subject in the US education system, unlike subjects like math, science, and English. Funding for art programs is often cut before other subjects. Thus, art is not prioritized in the US education system. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "While on a liquid diet, are there some types of soup you cannot eat?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "While on a liquid diet, you can only eat liquids. Some soups contain solid ingredients, such as chunks of vegetables or meat. Thus, there are some types of soup you cannot eat on a liquid diet. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would it be impossible to use an Iwato scale for a twelve-tone technique composition?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The Iwato scale has 5 notes. A twelve-tone technique composition uses all 12 notes of the chromatic scale. It would be impossible to use only 5 notes for a composition that requires 12. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would the Titanic be well preserved at the bottom of the Gulf of Finland?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The Titanic is at the bottom of the Atlantic Ocean. The Gulf of Finland is a gulf in the Baltic Sea. Thus, the Titanic is not at the bottom of the Gulf of Finland. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could a dandelion suffer from hepatitis?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Hepatitis is a disease that affects the liver. Dandelions are plants and do not have a liver. Thus, a dandelion could not suffer from hepatitis. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a week be enough time to watch every episode of Ugly Betty?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Ugly Betty has 85 episodes. Each episode is about 43 minutes long. 85 episodes * 43 minutes/episode = 3655 minutes. 3655 minutes / 60 minutes/hour = 60.9 hours. A week has 7 days * 24 hours/day = 168 hours. Since 60.9 hours is less than 168 hours, a week would be enough time to watch every episode of Ugly Betty. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  }
+]

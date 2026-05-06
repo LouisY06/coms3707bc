@@ -7,6 +7,7 @@ import os
 import re
 import json
 import argparse
+import time
 from tqdm import tqdm
 from openai import OpenAI
 
@@ -20,7 +21,9 @@ if load_dotenv is not None:
 
 OPENAI_MODELS = ["gpt-3.5-turbo", "gpt-4o-mini"]
 ANTHROPIC_MODELS = ["claude-haiku-4-5-20251001", "claude-haiku-4-5"]
-SUPPORTED_MODELS = OPENAI_MODELS + ANTHROPIC_MODELS
+GEMINI_MODELS = ["gemini-2.0-flash", "gemini-2.5-flash", "gemini-1.5-flash"]
+SUPPORTED_MODELS = OPENAI_MODELS + ANTHROPIC_MODELS + GEMINI_MODELS
+MAX_OUTPUT_TOKENS = 4096
 
 # ── Few-shot CoT prompts (Wei et al. 2023 / Wang et al. 2023) ──────────────
 
@@ -153,17 +156,100 @@ DATASET_LOADERS = {
 
 # ── Answer extraction ───────────────────────────────────────────────────────
 
-def extract_answer(response_text, dataset_name):
+def parse_aqua_choices(question):
+    """Return AQuA answer choices as a mapping from letter to choice text."""
+    if not question or "Answer Choices:" not in question:
+        return {}
+    choices_text = question.split("Answer Choices:", 1)[1]
+    return {
+        letter.upper(): choice.strip()
+        for letter, choice in re.findall(r'([A-E])\)\s*(.*?)(?=\s+[A-E]\)|$)', choices_text)
+    }
+
+
+def normalize_aqua_value(value):
+    """Normalize a choice or final answer enough to compare common AQuA formats."""
+    text = value.strip().lower()
+    text = text.replace("\\text", "").replace("\\boxed", "")
+    text = text.replace("\\sqrt", "sqrt").replace("√", "sqrt")
+    text = re.sub(r'[\$₹rs\.,\s{}\\]', '', text)
+    text = re.sub(r'^\(|\)$', '', text)
+    return text
+
+
+def map_aqua_value_to_choice(value, question):
+    choices = parse_aqua_choices(question)
+    if not choices:
+        return None
+
+    normalized_value = normalize_aqua_value(value)
+    if not normalized_value:
+        return None
+
+    for letter, choice in choices.items():
+        if normalize_aqua_value(choice) == normalized_value:
+            return letter
+
+    try:
+        numeric_value = float(normalized_value.rstrip("%"))
+    except ValueError:
+        return None
+
+    for letter, choice in choices.items():
+        normalized_choice = normalize_aqua_value(choice).rstrip("%")
+        try:
+            if abs(float(normalized_choice) - numeric_value) < 1e-6:
+                return letter
+        except ValueError:
+            continue
+    return None
+
+
+def extract_answer(response_text, dataset_name, question=None):
     """Parse the final answer from a CoT response."""
     text = response_text.strip().lower()
 
     if dataset_name == "aqua":
-        # Look for "the answer is (X)" pattern
-        match = re.search(r'the answer is\s*\(?([a-e])\)?', text)
+        # Look for common final-answer patterns: "(A)", "A)", "Answer: A".
+        match = re.search(r'(?:the answer is|answer:|answer is|final answer is|thus,?\s*the answer is)\s*(?:[*_`\\({\[]|\s)*(?:text\s*)?([a-e])\s*[\).:}]?', text)
         if match:
             return match.group(1).upper()
-        # Fallback: last occurrence of a letter choice in parentheses
-        matches = re.findall(r'\(([a-e])\)', text)
+
+        match = re.search(r'\\text\{([a-e])\s*\)', text)
+        if match:
+            return match.group(1).upper()
+
+        match = re.search(r'\\boxed\{\\text\{([a-e])\}\}', text)
+        if match:
+            return match.group(1).upper()
+
+        match = re.search(r'\\boxed\{([a-e])\}', text)
+        if match:
+            return match.group(1).upper()
+
+        if question:
+            value_patterns = [
+                r'\\boxed\{(?:\\text\{)?([^{}]+)(?:\})?\}',
+                r'(?:the answer is|answer:|answer is|final answer is)\s*(?:approximately\s*)?([^.\n]+)',
+                r'thus,?\s+.*?\s+is\s+([^.\n]+)',
+            ]
+            for pattern in value_patterns:
+                for value in reversed(re.findall(pattern, response_text, flags=re.IGNORECASE)):
+                    mapped = map_aqua_value_to_choice(value, question)
+                    if mapped:
+                        return mapped
+
+        match = re.search(r'\boption\s+([a-e])\b', text[-500:])
+        if match:
+            return match.group(1).upper()
+
+        # Fallback: last explicit standalone choice marker near the end. Avoid
+        # reading mathematical notation like P(A) as answer choice A.
+        tail = text[-500:]
+        matches = re.findall(r'(?<![a-z])\(([a-e])\)', tail)
+        if matches:
+            return matches[-1].upper()
+        matches = re.findall(r'(?:^|[\s*_`])([a-e])\s*\)', tail)
         return matches[-1].upper() if matches else None
 
     elif dataset_name == "svamp":
@@ -202,6 +288,8 @@ def get_provider(model_name):
         return "openai"
     if model_name in ANTHROPIC_MODELS or model_name.startswith("claude-"):
         return "anthropic"
+    if model_name in GEMINI_MODELS or model_name.startswith("gemini-"):
+        return "gemini"
     raise ValueError(f"Unsupported model: {model_name}")
 
 
@@ -229,6 +317,20 @@ def get_anthropic_client(anthropic_client=None):
     return anthropic.Anthropic(api_key=api_key)
 
 
+def get_gemini_client(gemini_client=None):
+    """Build a Gemini client only when it is actually needed."""
+    if gemini_client is not None:
+        return gemini_client
+    api_key = os.environ.get("GOOGLE_API_KEY") or os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        raise RuntimeError("GOOGLE_API_KEY or GEMINI_API_KEY is required for Gemini models")
+    try:
+        from google import genai
+    except ImportError as exc:
+        raise RuntimeError("Install the google-genai package to use Gemini models") from exc
+    return genai.Client(api_key=api_key)
+
+
 def extract_anthropic_text(message):
     """Flatten Anthropic message content blocks into plain text."""
     parts = []
@@ -242,36 +344,93 @@ def extract_anthropic_text(message):
     return "".join(parts)
 
 
+def extract_gemini_text(response):
+    """Extract text from a Gemini generate_content response."""
+    text = getattr(response, "text", None)
+    if text:
+        return text
+    candidates = getattr(response, "candidates", None) or []
+    parts = []
+    for candidate in candidates:
+        content = getattr(candidate, "content", None)
+        for part in getattr(content, "parts", []) or []:
+            part_text = getattr(part, "text", None)
+            if part_text:
+                parts.append(part_text)
+    return "".join(parts)
+
+
+def is_retryable_api_error(exc):
+    """Return True for temporary provider errors worth retrying."""
+    status_code = getattr(exc, "status_code", None)
+    if status_code in {500, 502, 503, 504}:
+        return True
+    error_name = exc.__class__.__name__.lower()
+    message = str(exc).lower()
+    return "servererror" in error_name or "unavailable" in message or "high demand" in message
+
+
+def run_with_retries(call, max_attempts=6, initial_delay=10):
+    """Run an API call with simple exponential backoff for transient failures."""
+    for attempt in range(max_attempts):
+        try:
+            return call()
+        except Exception as exc:
+            if not is_retryable_api_error(exc) or attempt == max_attempts - 1:
+                raise
+            delay = initial_delay * (2 ** attempt)
+            print(f"Temporary API error ({exc}); retrying in {delay}s...")
+            time.sleep(delay)
+
+
 def generate_responses(model_name, prompt_with_question, n, temperature, top_p,
-                       openai_client=None, anthropic_client=None):
+                       openai_client=None, anthropic_client=None, gemini_client=None):
     """Generate n CoT responses from a given model."""
     provider = get_provider(model_name)
     responses = []
     for _ in range(n):
         if provider == "openai":
             client = get_openai_client(openai_client)
-            completion = client.chat.completions.create(
-                model=model_name,
-                messages=[
-                    {"role": "user", "content": prompt_with_question}
-                ],
-                temperature=temperature,
-                top_p=top_p,
-                max_tokens=512,
+            completion = run_with_retries(
+                lambda: client.chat.completions.create(
+                    model=model_name,
+                    messages=[
+                        {"role": "user", "content": prompt_with_question}
+                    ],
+                    temperature=temperature,
+                    top_p=top_p,
+                    max_tokens=MAX_OUTPUT_TOKENS,
+                )
             )
             responses.append(completion.choices[0].message.content)
-        else:
+        elif provider == "anthropic":
             client = get_anthropic_client(anthropic_client)
-            message = client.messages.create(
-                model=model_name,
-                messages=[
-                    {"role": "user", "content": prompt_with_question}
-                ],
-                temperature=temperature,
-                top_p=top_p,
-                max_tokens=512,
+            message = run_with_retries(
+                lambda: client.messages.create(
+                    model=model_name,
+                    messages=[
+                        {"role": "user", "content": prompt_with_question}
+                    ],
+                    temperature=temperature,
+                    max_tokens=MAX_OUTPUT_TOKENS,
+                )
             )
             responses.append(extract_anthropic_text(message))
+        else:
+            client = get_gemini_client(gemini_client)
+            response = run_with_retries(
+                lambda: client.models.generate_content(
+                    model=model_name,
+                    contents=prompt_with_question,
+                    config={
+                        "temperature": temperature,
+                        "top_p": top_p,
+                        "max_output_tokens": MAX_OUTPUT_TOKENS,
+                        "thinking_config": {"thinking_budget": 0},
+                    },
+                )
+            )
+            responses.append(extract_gemini_text(response))
     return responses
 
 
@@ -306,12 +465,15 @@ def run_generation(model_name, dataset_name, n=10, temperature=0.8, top_p=1.0,
             continue
 
         question = item["question"]
-        input_prompt = f"{prompt}\n\nQ: {question}\nA:"
+        answer_format = ""
+        if dataset_name == "aqua":
+            answer_format = "\nReturn the final answer as one of A, B, C, D, or E in the form: The answer is (X)."
+        input_prompt = f"{prompt}\n\nQ: {question}{answer_format}\nA:"
         raw_responses = generate_responses(model_name, input_prompt, n, temperature, top_p)
 
         parsed = []
         for resp in raw_responses:
-            answer = extract_answer(resp, dataset_name)
+            answer = extract_answer(resp, dataset_name, question)
             parsed.append({"response": resp, "parsed_answer": answer})
 
         result = {
@@ -321,10 +483,9 @@ def run_generation(model_name, dataset_name, n=10, temperature=0.8, top_p=1.0,
         }
         results.append(result)
 
-        # Save after each question (for resume support)
-        if (i + 1) % 10 == 0:
-            with open(output_path, "w") as f:
-                json.dump(results, f, indent=2)
+        # Save after each question for cheap and reliable resume support.
+        with open(output_path, "w") as f:
+            json.dump(results, f, indent=2)
 
     with open(output_path, "w") as f:
         json.dump(results, f, indent=2)

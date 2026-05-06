@@ -1,0 +1,49 @@
+model,dataset,strategy,accuracy,improvement_over_greedy
+gpt-4o-mini,aqua,Greedy,84.0,0.0
+gpt-4o-mini,aqua,Majority Vote,92.0,8.0
+gpt-4o-mini,aqua,CPW,92.0,8.0
+gpt-4o-mini,aqua,SCW,92.0,8.0
+gpt-4o-mini,svamp,Greedy,86.0,0.0
+gpt-4o-mini,svamp,Majority Vote,84.0,-2.0
+gpt-4o-mini,svamp,CPW,84.0,-2.0
+gpt-4o-mini,svamp,SCW,84.0,-2.0
+gpt-4o-mini,strategyqa,Greedy,72.0,0.0
+gpt-4o-mini,strategyqa,Majority Vote,72.0,0.0
+gpt-4o-mini,strategyqa,CPW,70.0,-2.0
+gpt-4o-mini,strategyqa,SCW,70.0,-2.0
+gpt-3.5-turbo,aqua,Greedy,70.0,0.0
+gpt-3.5-turbo,aqua,Majority Vote,80.0,10.0
+gpt-3.5-turbo,aqua,CPW,80.0,10.0
+gpt-3.5-turbo,aqua,SCW,80.0,10.0
+gpt-3.5-turbo,svamp,Greedy,72.0,0.0
+gpt-3.5-turbo,svamp,Majority Vote,72.0,0.0
+gpt-3.5-turbo,svamp,CPW,74.0,2.0
+gpt-3.5-turbo,svamp,SCW,74.0,2.0
+gpt-3.5-turbo,strategyqa,Greedy,62.0,0.0
+gpt-3.5-turbo,strategyqa,Majority Vote,72.0,10.0
+gpt-3.5-turbo,strategyqa,CPW,74.0,12.0
+gpt-3.5-turbo,strategyqa,SCW,72.0,10.0
+claude-haiku-4-5-20251001,aqua,Greedy,92.0,0.0
+claude-haiku-4-5-20251001,aqua,Majority Vote,94.0,2.0
+claude-haiku-4-5-20251001,aqua,CPW,94.0,2.0
+claude-haiku-4-5-20251001,aqua,SCW,94.0,2.0
+claude-haiku-4-5-20251001,svamp,Greedy,92.0,0.0
+claude-haiku-4-5-20251001,svamp,Majority Vote,94.0,2.0
+claude-haiku-4-5-20251001,svamp,CPW,94.0,2.0
+claude-haiku-4-5-20251001,svamp,SCW,94.0,2.0
+claude-haiku-4-5-20251001,strategyqa,Greedy,80.0,0.0
+claude-haiku-4-5-20251001,strategyqa,Majority Vote,82.0,2.0
+claude-haiku-4-5-20251001,strategyqa,CPW,82.0,2.0
+claude-haiku-4-5-20251001,strategyqa,SCW,82.0,2.0
+gemini-2.5-flash,aqua,Greedy,92.0,0.0
+gemini-2.5-flash,aqua,Majority Vote,94.0,2.0
+gemini-2.5-flash,aqua,CPW,94.0,2.0
+gemini-2.5-flash,aqua,SCW,94.0,2.0
+gemini-2.5-flash,svamp,Greedy,88.0,0.0
+gemini-2.5-flash,svamp,Majority Vote,92.0,4.0
+gemini-2.5-flash,svamp,CPW,92.0,4.0
+gemini-2.5-flash,svamp,SCW,92.0,4.0
+gemini-2.5-flash,strategyqa,Greedy,82.0,0.0
+gemini-2.5-flash,strategyqa,Majority Vote,84.0,2.0
+gemini-2.5-flash,strategyqa,CPW,84.0,2.0
+gemini-2.5-flash,strategyqa,SCW,84.0,2.0

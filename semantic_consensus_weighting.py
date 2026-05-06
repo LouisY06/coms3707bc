@@ -13,6 +13,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 from transformers import AutoTokenizer, AutoModel
 from tqdm import tqdm
 
+from evaluation_utils import answers_match
+
 
 def load_embedder(model_name):
     """Load tokenizer and model for embedding."""
@@ -82,20 +84,18 @@ def evaluate(json_path, embedder_name, dataset_name):
 
     for item in tqdm(data, desc=f"SCW eval ({dataset_name})"):
         responses = item["responses"]
-        true_answer = str(item["true_answer"]).strip()
-
         texts = [r["response"] for r in responses]
         parsed = [r.get("parsed_answer") for r in responses]
 
         # Majority vote
         mv_answer = majority_vote(parsed)
-        if mv_answer is not None and str(mv_answer).strip().lower() == true_answer.lower():
+        if answers_match(mv_answer, item["true_answer"], dataset_name):
             correct_majority += 1
 
         # SCW
         embeddings = embed_texts(texts, tokenizer, model)
         scw_answer = scw_vote(embeddings, parsed)
-        if scw_answer is not None and str(scw_answer).strip().lower() == true_answer.lower():
+        if answers_match(scw_answer, item["true_answer"], dataset_name):
             correct_scw += 1
 
     maj_acc = correct_majority / total * 100

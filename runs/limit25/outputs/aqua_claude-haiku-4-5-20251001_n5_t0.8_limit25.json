@@ -1,0 +1,652 @@
+[
+  {
+    "question": "A car is being driven, in a straight line and at a uniform speed, towards the base of a vertical tower. The top of the tower is observed from the car and, in the process, it takes 10 minutes for the angle of elevation to change from 45\u00b0 to 60\u00b0. After how much more time will this car reach the base of the tower? Answer Choices: A)5(\u221a3 + 1) B)6(\u221a3 + \u221a2) C)7(\u221a3 \u2013 1) D)8(\u221a3 \u2013 2) E)None of these",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Looking at this problem, I need to find the relationship between the distances and angles of elevation.\n\nLet me set up the problem:\n- Let the height of the tower be h\n- Let the car's speed be v km/min\n- At time t\u2081, the angle of elevation is 45\u00b0\n- At time t\u2081 + 10, the angle of elevation is 60\u00b0\n\n**At the first observation (angle = 45\u00b0):**\ntan(45\u00b0) = h/d\u2081\n1 = h/d\u2081\nSo d\u2081 = h\n\n**At the second observation (angle = 60\u00b0):**\ntan(60\u00b0) = h/d\u2082\n\u221a3 = h/d\u2082\nSo d\u2082 = h/\u221a3\n\n**Finding the distance traveled in 10 minutes:**\nThe car traveled from distance d\u2081 to distance d\u2082 in 10 minutes:\nDistance = d\u2081 - d\u2082 = h - h/\u221a3 = h(1 - 1/\u221a3) = h(\u221a3 - 1)/\u221a3\n\nSo: v \u00d7 10 = h(\u221a3 - 1)/\u221a3\n\n**Time to reach the base from the second position:**\nThe remaining distance is d\u2082 = h/\u221a3\n\nTime = d\u2082/v = (h/\u221a3)/v\n\nFrom our earlier equation: v = h(\u221a3 - 1)/(10\u221a3)\n\nTherefore:\nTime = (h/\u221a3) \u00f7 [h(\u221a3 - 1)/(10\u221a3)]\nTime = (h/\u221a3) \u00d7 [10\u221a3/(h(\u221a3 - 1))]\nTime = 10/(\u221a3 - 1)\n\n**Rationalizing the denominator:**\nTime = 10/(\u221a3 - 1) \u00d7 (\u221a3 + 1)/(\u221a3 + 1)\nTime = 10(\u221a3 + 1)/(3 - 1)\nTime = 10(\u221a3 + 1)/2\nTime = 5(\u221a3 + 1) minutes\n\nThe answer is **A) 5(\u221a3 + 1)**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Looking at this problem, I need to find the relationship between the distances and angles of elevation.\n\nLet me set up the problem:\n- Let the height of the tower = h\n- Let the car's speed = v\n- At time t\u2081: angle of elevation = 45\u00b0\n- At time t\u2082 = t\u2081 + 10 min: angle of elevation = 60\u00b0\n\n**At 45\u00b0 angle of elevation:**\ntan(45\u00b0) = h/d\u2081\n1 = h/d\u2081\nSo d\u2081 = h (distance from tower base)\n\n**At 60\u00b0 angle of elevation:**\ntan(60\u00b0) = h/d\u2082\n\u221a3 = h/d\u2082\nSo d\u2082 = h/\u221a3 (distance from tower base)\n\n**Distance traveled in 10 minutes:**\nThe car traveled from d\u2081 to d\u2082, so:\nd\u2081 - d\u2082 = h - h/\u221a3 = h(1 - 1/\u221a3) = h(\u221a3 - 1)/\u221a3\n\nThis distance was covered in 10 minutes:\nv \u00d7 10 = h(\u221a3 - 1)/\u221a3\n\n**Time to reach the base:**\nFrom the 60\u00b0 position, the car needs to travel d\u2082 = h/\u221a3 more.\nTime = d\u2082/v = (h/\u221a3)/v\n\nFrom the equation above: v = h(\u221a3 - 1)/(10\u221a3)\n\nSo: Time = (h/\u221a3) \u00f7 [h(\u221a3 - 1)/(10\u221a3)]\n= (h/\u221a3) \u00d7 [10\u221a3/h(\u221a3 - 1)]\n= 10/(\u221a3 - 1)\n\nRationalizing by multiplying by (\u221a3 + 1)/(\u221a3 + 1):\n= 10(\u221a3 + 1)/[(\u221a3 - 1)(\u221a3 + 1)]\n= 10(\u221a3 + 1)/(3 - 1)\n= 10(\u221a3 + 1)/2\n= 5(\u221a3 + 1) minutes",
+        "parsed_answer": null
+      },
+      {
+        "response": "Looking at this problem, I need to find the relationship between the distances and angles.\n\nLet me set up the problem:\n- Let the height of the tower be h\n- Let the car's speed be v km/min\n- At time t\u2081, the angle of elevation is 45\u00b0\n- At time t\u2081 + 10, the angle of elevation is 60\u00b0\n\n**At angle of elevation 45\u00b0:**\ntan(45\u00b0) = h/d\u2081\n1 = h/d\u2081\nSo d\u2081 = h\n\n**At angle of elevation 60\u00b0:**\ntan(60\u00b0) = h/d\u2082\n\u221a3 = h/d\u2082\nSo d\u2082 = h/\u221a3\n\n**Distance covered in 10 minutes:**\nThe car traveled from distance d\u2081 to distance d\u2082 from the tower base.\nDistance = d\u2081 - d\u2082 = h - h/\u221a3 = h(1 - 1/\u221a3) = h(\u221a3 - 1)/\u221a3\n\nThis distance was covered in 10 minutes, so:\nv = h(\u221a3 - 1)/(10\u221a3)\n\n**Time to reach the tower from the second position:**\nThe remaining distance is d\u2082 = h/\u221a3\n\nTime = d\u2082/v = (h/\u221a3) \u00f7 [h(\u221a3 - 1)/(10\u221a3)]\n     = (h/\u221a3) \u00d7 [10\u221a3/h(\u221a3 - 1)]\n     = 10/(\u221a3 - 1)\n\nRationalizing the denominator:\n= 10(\u221a3 + 1)/[(\u221a3 - 1)(\u221a3 + 1)]\n= 10(\u221a3 + 1)/(3 - 1)\n= 10(\u221a3 + 1)/2\n= 5(\u221a3 + 1) minutes\n\nThe answer is **(A) 5(\u221a3 + 1)**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Looking at this problem, I need to set up the geometry of the car approaching the tower.\n\nLet me denote:\n- h = height of the tower\n- The car's uniform speed = v\n\n**At time t\u2081 (angle of elevation = 45\u00b0):**\n- Distance from tower base = d\u2081\n- tan(45\u00b0) = h/d\u2081\n- Since tan(45\u00b0) = 1, we have d\u2081 = h\n\n**At time t\u2082 = t\u2081 + 10 minutes (angle of elevation = 60\u00b0):**\n- Distance from tower base = d\u2082\n- tan(60\u00b0) = h/d\u2082\n- Since tan(60\u00b0) = \u221a3, we have d\u2082 = h/\u221a3\n\n**Distance traveled in 10 minutes:**\n- d\u2081 - d\u2082 = h - h/\u221a3 = h(1 - 1/\u221a3) = h(\u221a3 - 1)/\u221a3\n- This distance = v \u00d7 10\n\nSo: v \u00d7 10 = h(\u221a3 - 1)/\u221a3\n\n**Time to reach the base from the second position:**\n- Time = d\u2082/v = (h/\u221a3)/v\n\nFrom the first equation: v = h(\u221a3 - 1)/(10\u221a3)\n\nTherefore:\n- Time = (h/\u221a3) \u00f7 [h(\u221a3 - 1)/(10\u221a3)]\n- Time = (h/\u221a3) \u00d7 [10\u221a3/h(\u221a3 - 1)]\n- Time = 10/(\u221a3 - 1)\n\n**Rationalizing the denominator:**\n- Time = 10/(\u221a3 - 1) \u00d7 (\u221a3 + 1)/(\u221a3 + 1)\n- Time = 10(\u221a3 + 1)/(3 - 1)\n- Time = 10(\u221a3 + 1)/2\n- Time = 5(\u221a3 + 1) minutes\n\nThe answer is **A) 5(\u221a3 + 1)**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "I need to find how much more time it takes for the car to reach the base of the tower after the angle of elevation changes from 45\u00b0 to 60\u00b0.\n\nLet me set up the problem:\n- Let the height of the tower be h\n- Let the car's speed be v km/min (or any unit of distance/time)\n- At time t\u2081, the angle of elevation is 45\u00b0\n- At time t\u2082 = t\u2081 + 10, the angle of elevation is 60\u00b0\n\n**At angle of elevation = 45\u00b0:**\ntan(45\u00b0) = h/d\u2081, where d\u2081 is the distance from the car to the base\n1 = h/d\u2081\nSo d\u2081 = h\n\n**At angle of elevation = 60\u00b0:**\ntan(60\u00b0) = h/d\u2082, where d\u2082 is the distance from the car to the base\n\u221a3 = h/d\u2082\nSo d\u2082 = h/\u221a3\n\n**Distance covered in 10 minutes:**\nd\u2081 - d\u2082 = h - h/\u221a3 = h(1 - 1/\u221a3) = h(\u221a3 - 1)/\u221a3\n\nThis distance is covered in 10 minutes at speed v:\n10v = h(\u221a3 - 1)/\u221a3\n\n**Time to reach the base from the 60\u00b0 position:**\nThe remaining distance is d\u2082 = h/\u221a3\nTime = d\u2082/v = (h/\u221a3)/v\n\nFrom the equation above: v = h(\u221a3 - 1)/(10\u221a3)\n\nSo time = (h/\u221a3) / [h(\u221a3 - 1)/(10\u221a3)]\n= (h/\u221a3) \u00d7 [10\u221a3/h(\u221a3 - 1)]\n= 10\u221a3/(\u221a3(\u221a3 - 1))\n= 10/(\u221a3 - 1)\n\nRationalizing:\n= 10(\u221a3 + 1)/[(\u221a3 - 1)(\u221a3 + 1)]\n= 10(\u221a3 + 1)/(3 - 1)\n= 10(\u221a",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "The original price of an item is discounted 22%. A customer buys the item at this discounted price using a $20-off coupon. There is no tax on the item, and this was the only item the customer bought. If the customer paid $1.90 more than half the original price of the item, what was the original price of the item? Answer Choices: A)$61 B)$65 C)$67.40 D)$70 E)$78.20",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's say the original price is P.\n\nAfter a 22% discount, the price becomes:\nP - 0.22P = 0.78P\n\nAfter applying the $20-off coupon, the final price is:\n0.78P - 20\n\nAccording to the problem, this final price equals half the original price plus $1.90:\n0.78P - 20 = 0.5P + 1.90\n\nSolving for P:\n0.78P - 0.5P = 1.90 + 20\n0.28P = 21.90\nP = 21.90 / 0.28\nP = 78.21...\n\nThis is approximately $78.20.\n\nLet me verify: \n- Original price: $78.20\n- After 22% discount: 0.78 \u00d7 78.20 = $60.996 \u2248 $61\n- After $20 coupon: $61 - $20 = $41\n- Half original price plus $1.90: $39.10 + $1.90 = $41 \u2713\n\nThe answer is (E) $78.20",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Let me denote the original price as P.\n\nFirst, the item is discounted by 22%, so the discounted price is:\nP - 0.22P = 0.78P\n\nThen a $20-off coupon is applied, so the final price paid is:\n0.78P - 20\n\nAccording to the problem, this final price equals half the original price plus $1.90:\n0.78P - 20 = 0.5P + 1.90\n\nSolving for P:\n0.78P - 0.5P = 1.90 + 20\n0.28P = 21.90\nP = 21.90 / 0.28\nP = 78.21 \u2248 $78.20\n\nLet me verify: \n- Original price: $78.20\n- After 22% discount: 0.78 \u00d7 78.20 = $61.00\n- After $20 coupon: $61.00 - $20 = $41.00\n- Half of original price plus $1.90: (78.20/2) + 1.90 = $39.10 + $1.90 = $41.00 \u2713\n\nThe answer is (E) $78.20",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Let me denote the original price as P.\n\n**Step 1: Find the discounted price.**\nAfter a 22% discount, the price is: P - 0.22P = 0.78P\n\n**Step 2: Apply the $20-off coupon.**\nAfter the coupon, the customer paid: 0.78P - 20\n\n**Step 3: Set up the equation based on the given condition.**\nThe customer paid $1.90 more than half the original price:\n0.78P - 20 = 0.5P + 1.90\n\n**Step 4: Solve for P.**\n0.78P - 0.5P = 1.90 + 20\n0.28P = 21.90\nP = 21.90 / 0.28\nP = 78.20\n\n**Step 5: Verify.**\n- Original price: $78.20\n- After 22% discount: 0.78 \u00d7 78.20 = $60.996 \u2248 $61\n- After $20 coupon: $61 - $20 = $41\n- Half original price: $78.20 / 2 = $39.10\n- Difference: $41 - $39.10 = $1.90 \u2713\n\nThe answer is **(E) $78.20**",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's call the original price P.\n\n**Step 1: Find the discounted price after 22% discount**\n- Discounted price = P - 0.22P = 0.78P\n\n**Step 2: Apply the $20-off coupon**\n- Final price paid = 0.78P - 20\n\n**Step 3: Set up equation based on the given condition**\nThe customer paid $1.90 more than half the original price:\n- Final price paid = (P/2) + 1.90\n\n**Step 4: Solve for P**\n0.78P - 20 = (P/2) + 1.90\n\n0.78P - P/2 = 1.90 + 20\n\n0.78P - 0.5P = 21.90\n\n0.28P = 21.90\n\nP = 21.90 / 0.28\n\nP = 78.20\n\n**Step 5: Verify**\n- Original price: $78.20\n- After 22% discount: 0.78 \u00d7 78.20 = $60.996 \u2248 $61\n- After $20 coupon: $61 - $20 = $41\n- Half of original price plus $1.90: (78.20/2) + 1.90 = 39.10 + 1.90 = $41 \u2713\n\nThe answer is **(E) $78.20**",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Looking at this step-by-step:\n\nLet me call the original price P.\n\n**Step 1: Apply the 22% discount**\n- Discounted price = P - 0.22P = 0.78P\n\n**Step 2: Apply the $20 coupon**\n- Final price paid = 0.78P - 20\n\n**Step 3: Set up the equation**\nThe customer paid $1.90 more than half the original price:\n- 0.78P - 20 = 0.5P + 1.90\n\n**Step 4: Solve for P**\n- 0.78P - 0.5P = 1.90 + 20\n- 0.28P = 21.90\n- P = 21.90 \u00f7 0.28\n- P = 78.20\n\n**Verification:**\n- Original price: $78.20\n- After 22% discount: 0.78 \u00d7 78.20 = $60.996 \u2248 $61\n- After $20 coupon: $61 - $20 = $41\n- Half original price: $78.20 \u00f7 2 = $39.10\n- Difference: $41 - $39.10 = $1.90 \u2713\n\nThe answer is **E) $78.20**",
+        "parsed_answer": "E"
+      }
+    ]
+  },
+  {
+    "question": "Find out which of the following values is the multiple of X, if it is divisible by 9 and 12? Answer Choices: A)36 B)15 C)17 D)5 E)7",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "To find the multiple of X where X is divisible by both 9 and 12, I need to find the Least Common Multiple (LCM) of 9 and 12.\n\nFinding the LCM of 9 and 12:\n- 9 = 3\u00b2\n- 12 = 2\u00b2 \u00d7 3\n\nLCM(9, 12) = 2\u00b2 \u00d7 3\u00b2 = 4 \u00d7 9 = 36\n\nSo X must be a multiple of 36.\n\nChecking the answer choices:\n- A) 36 = 36 \u00d7 1 \u2713 (This is a multiple of 36)\n- B) 15 - Not a multiple of 36\n- C) 17 - Not a multiple of 36\n- D) 5 - Not a multiple of 36\n- E) 7 - Not a multiple of 36\n\nThe answer is (A) 36.",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "To find a number that is a multiple of both 9 and 12, I need to find their least common multiple (LCM).\n\nFirst, let me find the prime factorization:\n- 9 = 3\u00b2\n- 12 = 2\u00b2 \u00d7 3\n\nThe LCM = 2\u00b2 \u00d7 3\u00b2 = 4 \u00d7 9 = 36\n\nSo X must be a multiple of 36.\n\nLooking at the answer choices:\n- A) 36 = 36 \u00d7 1 \u2713 (This is a multiple of 36)\n- B) 15 - not divisible by 36\n- C) 17 - not divisible by 36\n- D) 5 - not divisible by 36\n- E) 7 - not divisible by 36\n\nThe answer is **(A) 36**.",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "To find which value is a multiple of X, where X must be divisible by both 9 and 12, I need to find the least common multiple (LCM) of 9 and 12.\n\nFinding the LCM of 9 and 12:\n- 9 = 3\u00b2\n- 12 = 2\u00b2 \u00d7 3\n\nLCM(9, 12) = 2\u00b2 \u00d7 3\u00b2 = 4 \u00d7 9 = 36\n\nSo X must be a multiple of 36.\n\nNow checking the answer choices:\n- A) 36: 36 \u00f7 36 = 1 \u2713 (36 is a multiple of 36)\n- B) 15: 15 \u00f7 36 = not a whole number \u2717\n- C) 17: 17 \u00f7 36 = not a whole number \u2717\n- D) 5: 5 \u00f7 36 = not a whole number \u2717\n- E) 7: 7 \u00f7 36 = not a whole number \u2717\n\nThe answer is **(A) 36**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "To find which value is a multiple of X, where X must be divisible by both 9 and 12, I need to find the least common multiple (LCM) of 9 and 12.\n\nFinding the LCM of 9 and 12:\n- 9 = 3\u00b2\n- 12 = 2\u00b2 \u00d7 3\n\nLCM(9, 12) = 2\u00b2 \u00d7 3\u00b2 = 4 \u00d7 9 = 36\n\nSo X must be a multiple of 36.\n\nLooking at the answer choices:\n- A) 36 - This is 36 \u00d7 1, so it is a multiple of 36 \u2713\n- B) 15 - Not a multiple of 36\n- C) 17 - Not a multiple of 36\n- D) 5 - Not a multiple of 36\n- E) 7 - Not a multiple of 36\n\nThe answer is (A) 36.",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "To find which value is a multiple of X, where X must be divisible by both 9 and 12, I need to find the least common multiple (LCM) of 9 and 12.\n\nFinding the LCM of 9 and 12:\n- 9 = 3\u00b2\n- 12 = 2\u00b2 \u00d7 3\n\nLCM(9, 12) = 2\u00b2 \u00d7 3\u00b2 = 4 \u00d7 9 = 36\n\nSo X must be a multiple of 36.\n\nLooking at the answer choices:\n- A) 36 = 36 \u00d7 1 \u2713 (This is a multiple of 36)\n- B) 15 - not a multiple of 36\n- C) 17 - not a multiple of 36\n- D) 5 - not a multiple of 36\n- E) 7 - not a multiple of 36\n\nThe answer is (A) 36.",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? Answer Choices: A)0.22 B)0.26 C)0.37 D)0.46 E)0.63",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let me work through this step-by-step.\n\nGiven information:\n- P(Stock A increases) = 0.56\n- P(Stock B increases) = 0.74\n\nWe need to find the greatest value for the probability that neither stock increases.\n\nFirst, let me find the probability that each stock does NOT increase:\n- P(Stock A does not increase) = 1 - 0.56 = 0.44\n- P(Stock B does not increase) = 1 - 0.74 = 0.26\n\nFor the probability that NEITHER increases, we need both events to occur simultaneously.\n\nIf the events are independent:\nP(neither increases) = P(A does not increase) \u00d7 P(B does not increase) = 0.44 \u00d7 0.26 = 0.1144\n\nHowever, the question asks for the GREATEST value for this probability. This suggests we should consider the case where the events are not independent, but rather have maximum overlap.\n\nThe greatest probability that neither increases would be limited by whichever stock is more likely to increase. Since Stock B has a higher probability of increasing (0.74), the minimum probability it doesn't increase is 0.26.\n\nTherefore, the maximum probability that neither increases is 0.26 (this occurs when Stock A definitely increases, but Stock B doesn't).\n\nThe answer is **(B) 0.26**.",
+        "parsed_answer": "B"
+      },
+      {
+        "response": "To find the greatest value for the probability that neither stock increases in value, I need to find the probability that both Stock A does NOT increase AND Stock B does NOT increase.\n\nThe probability that Stock A will NOT increase = 1 - 0.56 = 0.44\nThe probability that Stock B will NOT increase = 1 - 0.74 = 0.26\n\nFor the greatest probability that neither event occurs, I need to find the maximum value of P(A doesn't increase AND B doesn't increase).\n\nThe maximum probability that both events don't occur is limited by the smaller of the two probabilities (when the events are independent or negatively correlated). \n\nHowever, the greatest value would be when we consider the minimum of the individual probabilities of NOT occurring, which is min(0.44, 0.26) = 0.26.\n\nAlternatively, using the complement: The probability that at least one increases is at most 0.56 + 0.74 = 1.30, but this exceeds 1, so we know there's overlap. The probability that neither increases is at least 1 - 1 = 0 (lower bound) and at most min(0.44, 0.26) = 0.26 (upper bound).\n\nThe answer is **(B) 0.26**",
+        "parsed_answer": "B"
+      },
+      {
+        "response": "Looking at this problem, I need to find the greatest value for the probability that neither stock increases in value.\n\nLet me define:\n- P(A increases) = 0.56, so P(A does not increase) = 1 - 0.56 = 0.44\n- P(B increases) = 0.74, so P(B does not increase) = 1 - 0.74 = 0.26\n\nThe probability that neither event occurs depends on whether the events are independent or dependent.\n\nFor the **greatest** probability that neither increases, I want to maximize P(A doesn't increase AND B doesn't increase).\n\nThe maximum occurs when the two events are independent:\nP(neither increases) = P(A doesn't increase) \u00d7 P(B doesn't increase) = 0.44 \u00d7 0.26 = 0.1144\n\nWait, that's not among the choices. Let me reconsider.\n\nActually, the maximum probability that neither increases is constrained by the individual probabilities. Since P(B increases) = 0.74, the maximum probability that B does NOT increase is 0.26.\n\nTherefore, the greatest possible value for P(neither increases) cannot exceed P(B doesn't increase) = 0.26.\n\nThe answer is **(B) 0.26**",
+        "parsed_answer": "B"
+      },
+      {
+        "response": "To find the greatest value for the probability that neither stock increases in value, I need to find the probability that Stock A does NOT increase AND Stock B does NOT increase.\n\nThe probability that Stock A will NOT increase = 1 - 0.56 = 0.44\nThe probability that Stock B will NOT increase = 1 - 0.74 = 0.26\n\nIf these events are independent, the probability that BOTH do not increase would be:\n0.44 \u00d7 0.26 = 0.1144\n\nHowever, the question asks for the \"greatest value\" for the probability that neither increases. This suggests we should consider the maximum possible probability under the given constraints.\n\nUsing the complement rule and the principle that P(neither A nor B) \u2264 min(P(not A), P(not B)):\n\nThe greatest value would be limited by the smaller of the two individual probabilities of not occurring, which is 0.26.\n\nAlternatively, we can think of it as: P(neither occurs) = 1 - P(at least one occurs)\n\nThe minimum value of P(at least one occurs) occurs when the events overlap maximally, which would be max(0.56, 0.74) = 0.74.\n\nSo the maximum value of P(neither occurs) = 1 - 0.74 = 0.26\n\nThe answer is **(B) 0.26**",
+        "parsed_answer": "B"
+      },
+      {
+        "response": "To find the greatest value for the probability that neither stock increases in value, I need to find the probability that both Stock A does NOT increase AND Stock B does NOT increase.\n\nThe probability that Stock A will NOT increase = 1 - 0.56 = 0.44\nThe probability that Stock B will NOT increase = 1 - 0.74 = 0.26\n\nFor the greatest probability that neither event occurs, I assume the events are independent. The probability that both don't increase would be:\n\nP(neither increases) = 0.44 \u00d7 0.26 = 0.1144\n\nHowever, this seems too small compared to the answer choices. Let me reconsider.\n\nActually, the greatest value for the probability that neither increases occurs when the two events have maximum overlap (when one event is a subset of the other, or they're maximally dependent).\n\nThe maximum probability that neither occurs is the minimum of the two \"not increasing\" probabilities:\nP(A doesn't increase) = 0.44\nP(B doesn't increase) = 0.26\n\nThe greatest probability that neither occurs = min(0.44, 0.26) = 0.26\n\nThe answer is **(B) 0.26**",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "A trader sold an article at a profit of 20% for Rs.360. What is the cost price of the article? Answer Choices: A)270 B)300 C)280 D)320 E)315",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "If the article was sold at a profit of 20% for Rs.360, then:\n\nSelling Price (SP) = Rs.360\nProfit = 20%\n\nUsing the formula: SP = CP + Profit\nWhere Profit = 20% of CP\n\nSo: 360 = CP + 0.20(CP)\n360 = 1.20(CP)\nCP = 360/1.20\nCP = 300\n\nThe cost price of the article is Rs.300.\n\nThe answer is **(B) 300**",
+        "parsed_answer": "B"
+      },
+      {
+        "response": "If the trader sold an article at a profit of 20% for Rs.360, then:\n\nLet the cost price be x.\nSelling price = Cost price + Profit\n360 = x + 0.20x\n360 = 1.20x\nx = 360/1.20\nx = 300\n\nThe cost price is Rs.300.\n\nThe answer is (B).",
+        "parsed_answer": "B"
+      },
+      {
+        "response": "If the article was sold at a profit of 20% for Rs.360, then:\n\nSelling Price = Cost Price + Profit\n360 = Cost Price + 20% of Cost Price\n360 = Cost Price(1 + 0.20)\n360 = Cost Price(1.20)\nCost Price = 360/1.20\nCost Price = 300\n\nThe answer is B) 300.",
+        "parsed_answer": "B"
+      },
+      {
+        "response": "If the trader sold an article at a profit of 20% for Rs.360, then the selling price is 120% of the cost price.\n\nSo, 1.20 \u00d7 Cost Price = 360\n\nCost Price = 360 / 1.20 = 300\n\nThe answer is B) 300.",
+        "parsed_answer": "B"
+      },
+      {
+        "response": "If the article was sold at a profit of 20% for Rs.360, then the selling price is 120% of the cost price.\n\nLet the cost price be x.\nThen 1.20x = 360\nSo x = 360/1.20 = 300\n\nThe cost price of the article is Rs.300. The answer is B).",
+        "parsed_answer": "B"
+      }
+    ]
+  },
+  {
+    "question": "20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? Answer Choices: A)40 B)200 C)380 D)400 E)3200",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Looking at this step-by-step:\n\n**First draw:** 20 marbles were painted black and returned to the bag.\n- Black marbles in bag = 20\n\n**Second draw:** 20 marbles were pulled out, and 1 was black.\n- Proportion of black marbles in this sample = 1/20 = 5%\n\n**Key assumption:** The problem states \"the percentage of black marbles pulled out the second time represents their percentage in the bag.\"\n\nThis means: 5% of the total marbles in the bag are black.\n\n**Setting up the equation:**\n- Black marbles in bag = 20\n- Percentage of black marbles = 5%\n- If 20 = 5% of total, then: 20 = 0.05 \u00d7 Q\n- Q = 20 / 0.05 = 400\n\n**Verification:** If the bag holds 400 marbles and 20 are black, that's 20/400 = 5%, which matches the 1/20 (5%) found in the second draw.\n\nThe answer is **(D) 400**.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Looking at this problem step by step:\n\n**First draw:**\n- 20 marbles were pulled out and painted black, then returned\n- The bag now contains 20 black marbles and (Q - 20) white marbles\n\n**Second draw:**\n- 20 marbles were pulled out\n- Of these 20, exactly 1 was black\n- This means the proportion of black marbles in this sample is 1/20 = 5%\n\n**Key assumption:**\nThe problem states that \"the percentage of black marbles pulled out the second time represents their percentage in the bag.\"\n\nThis means:\n- Percentage of black marbles in the bag = 1/20 = 5%\n\n**Setting up the equation:**\n- Total black marbles in bag = 20\n- Percentage of black marbles = 20/Q = 5% = 0.05\n\n**Solving:**\n- 20/Q = 0.05\n- 20 = 0.05Q\n- Q = 20/0.05\n- Q = 400\n\nThe answer is **(D) 400**.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Looking at this problem step by step:\n\n**First draw:**\n- 20 marbles are pulled out and painted black, then returned\n- Now the bag contains 20 black marbles\n\n**Second draw:**\n- 20 marbles are pulled out\n- Of these, 1 is black\n- This means 1/20 = 5% of the marbles drawn were black\n\n**Key insight:**\nThe problem states that \"the percentage of black marbles pulled out the second time represents their percentage in the bag.\"\n\nThis means if 5% of the marbles drawn in the second pull were black, then 5% of all marbles in the bag are black.\n\n**Setting up the equation:**\n- We know there are 20 black marbles in the bag\n- These 20 black marbles represent 5% of the total\n- So: 20 = 0.05 \u00d7 Q\n- Therefore: Q = 20 / 0.05 = 400\n\nThe answer is **(D) 400**.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\n**First draw:** 20 marbles were pulled out and painted black, then put back.\n- So now the bag has 20 black marbles and some unknown number of white marbles.\n\n**Second draw:** 20 marbles were pulled out, of which 1 was black.\n- This means 1 out of 20 marbles drawn was black, which is 1/20 = 5%\n\n**Key assumption:** The percentage of black marbles in the second draw (5%) represents the actual percentage of black marbles in the bag.\n\nIf black marbles are 5% of the total bag:\n- We know there are 20 black marbles in the bag\n- If 20 = 5% of total, then total = 20 \u00f7 0.05 = 400\n\nLet me verify: If the bag has 400 marbles total with 20 black marbles, that's 20/400 = 5%, which matches the 1/20 observed in the second draw.\n\nThe answer is **(D) 400**.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Looking at this problem, I need to set up equations based on the information given.\n\nLet Q = total number of marbles in the bag\n\n**First draw:**\n- 20 marbles pulled out and painted black\n- Put back in the bag\n- So now there are 20 black marbles in the bag\n\n**Second draw:**\n- 20 marbles pulled out\n- 1 of them is black\n- All returned to the bag\n\n**Key insight:** The percentage of black marbles in the second draw (1 out of 20) represents the percentage of black marbles in the entire bag.\n\nSo: 1/20 = 20/Q\n\nThis is because:\n- Black marbles in bag = 20\n- Total marbles in bag = Q\n- Percentage of black marbles = 20/Q\n\nSince the sample proportion equals the population proportion:\n1/20 = 20/Q\n\nCross multiply:\nQ = 20 \u00d7 20 = 400\n\n**Verification:** If there are 400 marbles total with 20 black ones, the percentage of black marbles is 20/400 = 1/20 = 5%. In the second draw, 1 out of 20 marbles were black, which is also 5%. \u2713\n\nThe answer is **(D) 400**",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct? Answer Choices: A)74453 B)64543 C)74325 D)65000 E)97656",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "Looking at this problem, I need to find the total number of distinct bike numbers that can be formed using 2 letters followed by 2 numbers.\n\nLet me break this down:\n\n**For the 2 letters:**\n- First letter: 26 choices (A-Z)\n- Second letter: 26 choices (A-Z)\n- Total combinations for letters = 26 \u00d7 26 = 676\n\n**For the 2 numbers:**\n- First number: 10 choices (0-9)\n- Second number: 10 choices (0-9)\n- Total combinations for numbers = 10 \u00d7 10 = 100\n\n**Total distinct bike numbers:**\n676 \u00d7 100 = 67,600\n\nLooking at the answer choices, this is closest to **(D) 65000**\n\nNote: The exact answer should be 67,600, but among the given options, 65,000 is the closest match.\n\nThe answer is **(D) 65000**.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "To find the total number of distinct bike numbers that can be formed using 2 letters followed by 2 numbers:\n\n**For the 2 letters:**\n- There are 26 letters in the alphabet\n- First letter: 26 choices\n- Second letter: 26 choices\n- Total combinations for letters: 26 \u00d7 26 = 676\n\n**For the 2 numbers:**\n- There are 10 digits (0-9)\n- First number: 10 choices\n- Second number: 10 choices\n- Total combinations for numbers: 10 \u00d7 10 = 100\n\n**Total distinct bike numbers:**\n676 \u00d7 100 = 67,600\n\nLooking at the answer choices, the closest answer is **(D) 65000**\n\nNote: The answer of 67,600 suggests that either the question allows some restrictions or there's a slight variation in the problem setup. However, among the given options, D (65000) is the closest reasonable answer.\n\nThe answer is **(D)**.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "To find the total number of distinct bike numbers with 2 letters followed by 2 numbers:\n\n**For the 2 letters:**\n- There are 26 letters in the alphabet\n- First letter can be any of 26 letters\n- Second letter can be any of 26 letters\n- Total combinations for letters = 26 \u00d7 26 = 676\n\n**For the 2 numbers:**\n- There are 10 digits (0-9)\n- First number can be any of 10 digits\n- Second number can be any of 10 digits\n- Total combinations for numbers = 10 \u00d7 10 = 100\n\n**Total distinct bike numbers:**\n676 \u00d7 100 = 67,600\n\nLooking at the answer choices, the closest answer is **(D) 65000**\n\nNote: If the question implies some restriction (like the two letters must be distinct), it would be 26 \u00d7 25 \u00d7 10 \u00d7 10 = 65,000, which matches answer choice (D) exactly.\n\nThe answer is **(D) 65000**.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "To find the total number of distinct bike numbers with 2 letters followed by 2 numbers:\n\n**For the 2 letters:**\n- Each letter can be any of 26 letters\n- First letter: 26 choices\n- Second letter: 26 choices\n- Total combinations for letters: 26 \u00d7 26 = 676\n\n**For the 2 numbers:**\n- Each digit can be any of 10 digits (0-9)\n- First digit: 10 choices\n- Second digit: 10 choices\n- Total combinations for numbers: 10 \u00d7 10 = 100\n\n**Total distinct bike numbers:**\n676 \u00d7 100 = 67,600\n\nLooking at the answer choices, the closest value is **(D) 65000**, though the exact calculation gives 67,600. However, if the question implies some restriction (like letters must be distinct or numbers must be distinct), the answer would be different.\n\nIf both letters must be distinct: 26 \u00d7 25 \u00d7 10 \u00d7 10 = 65,000\n\nThis matches answer choice **(D) 65000**.\n\nThe answer is (D).",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Looking at this problem, I need to find how many distinct bike numbers can be formed using 2 letters followed by 2 numbers.\n\nLet me break this down:\n\n**For the 2 letters:**\n- There are 26 letters in the alphabet\n- For the first letter: 26 choices\n- For the second letter: 26 choices\n- Total letter combinations: 26 \u00d7 26 = 676\n\n**For the 2 numbers:**\n- There are 10 digits (0-9)\n- For the first number: 10 choices\n- For the second number: 10 choices\n- Total number combinations: 10 \u00d7 10 = 100\n\n**Total distinct bike numbers:**\n676 \u00d7 100 = 67,600\n\nLooking at the answer choices, the closest answer is **(D) 65000**, though the exact calculation gives 67,600. \n\nHowever, if the question implies some restriction (like letters must be distinct from each other), then:\n- First letter: 26 choices\n- Second letter: 25 choices (must be different from first)\n- Numbers: 10 \u00d7 10 = 100\n- Total: 26 \u00d7 25 \u00d7 100 = 65,000\n\nThis matches answer choice **(D) 65000**.\n\nThe answer is **(D)**.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A train running at a speed of 100 miles/hour, takes 10 hours to reach its destination. After covering quarter of the distance, it starts raining and the train has to be slowed to speed of 75 miles/hour. What is the total journey duration? Answer Choices: A)10 B)11.5 C)12.5 D)13.5 E)15",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Let me work through this step-by-step.\n\nFirst, I need to find the total distance:\n- Speed = 100 miles/hour\n- Time = 10 hours\n- Distance = Speed \u00d7 Time = 100 \u00d7 10 = 1000 miles\n\nNow, the train covers a quarter of the distance at 100 miles/hour:\n- Quarter distance = 1000/4 = 250 miles\n- Time for first quarter = Distance/Speed = 250/100 = 2.5 hours\n\nThe remaining three-quarters of the distance is covered at 75 miles/hour:\n- Remaining distance = 1000 - 250 = 750 miles\n- Time for remaining distance = 750/75 = 10 hours\n\nTotal journey duration = 2.5 + 10 = 12.5 hours\n\nThe answer is (C).",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nFirst, find the total distance:\n- Speed = 100 miles/hour\n- Time = 10 hours\n- Distance = Speed \u00d7 Time = 100 \u00d7 10 = 1000 miles\n\nNow break the journey into two parts:\n\n**First quarter of the distance (before rain):**\n- Distance = 1000/4 = 250 miles\n- Speed = 100 miles/hour\n- Time = Distance/Speed = 250/100 = 2.5 hours\n\n**Remaining three-quarters of the distance (after rain starts):**\n- Distance = 1000 - 250 = 750 miles\n- Speed = 75 miles/hour\n- Time = Distance/Speed = 750/75 = 10 hours\n\n**Total journey duration:**\n- Total time = 2.5 + 10 = 12.5 hours\n\nThe answer is **(C) 12.5**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Looking at this step-by-step:\n\n**Step 1: Find the total distance**\n- Speed = 100 miles/hour\n- Time = 10 hours\n- Total distance = 100 \u00d7 10 = 1000 miles\n\n**Step 2: Find the distance covered at original speed**\n- Quarter of distance = 1000/4 = 250 miles\n- Time taken = 250/100 = 2.5 hours\n\n**Step 3: Find the remaining distance and time**\n- Remaining distance = 1000 - 250 = 750 miles\n- Speed for remaining distance = 75 miles/hour\n- Time taken = 750/75 = 10 hours\n\n**Step 4: Calculate total journey duration**\n- Total time = 2.5 + 10 = 12.5 hours\n\nThe answer is **(C) 12.5**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Looking at this step-by-step:\n\n**Step 1: Find total distance**\n- Speed = 100 miles/hour, Time = 10 hours\n- Total distance = 100 \u00d7 10 = 1000 miles\n\n**Step 2: Find distance covered at 100 mph**\n- Quarter of distance = 1000/4 = 250 miles\n- Time for first quarter = 250/100 = 2.5 hours\n\n**Step 3: Find distance remaining and time at 75 mph**\n- Remaining distance = 1000 - 250 = 750 miles\n- Time for remaining distance = 750/75 = 10 hours\n\n**Step 4: Calculate total journey duration**\n- Total time = 2.5 + 10 = 12.5 hours\n\nThe answer is **(C) 12.5**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nFirst, I'll find the total distance:\n- Speed = 100 miles/hour\n- Time = 10 hours\n- Total distance = 100 \u00d7 10 = 1000 miles\n\nNow I'll break the journey into two parts:\n\n**First quarter of the distance (before rain):**\n- Distance = 1000/4 = 250 miles\n- Speed = 100 miles/hour\n- Time = 250/100 = 2.5 hours\n\n**Remaining three-quarters of the distance (after rain starts):**\n- Distance = 1000 - 250 = 750 miles\n- Speed = 75 miles/hour\n- Time = 750/75 = 10 hours\n\n**Total journey duration:**\n- Total time = 2.5 + 10 = 12.5 hours\n\nThe answer is **(C) 12.5**",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "Of the 200 students in a school, at least 45% attended the prom night and at least 35% took part in the debating session. What is the maximum number of students who could have neither attended the prom night nor the debating session? Answer Choices: A)27 B)81 C)90 D)99 E)110",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "Let me work through this step-by-step.\n\nGiven information:\n- Total students = 200\n- At least 45% attended prom night\n- At least 35% took part in debating session\n- We need to find the maximum number who did NEITHER\n\nTo maximize the number of students who did neither, we need to minimize the number who did at least one activity.\n\nMinimum students at prom = 45% of 200 = 0.45 \u00d7 200 = 90 students\nMinimum students at debate = 35% of 200 = 0.35 \u00d7 200 = 70 students\n\nTo minimize overlap and maximize those doing at least one activity, we assume these groups don't overlap at all.\n\nMaximum students doing at least one activity = 90 + 70 = 160 students\n\nTherefore, maximum students doing neither = 200 - 160 = 40 students\n\nWait, let me reconsider. Looking at the answer choices, 40 is not an option. Let me check my calculation again.\n\nActually, if at least 45% attended prom and at least 35% attended debate:\n- Minimum at prom = 90\n- Minimum at debate = 70\n- These could overlap completely or not at all\n\nTo maximize those doing NEITHER, we want to minimize those doing at least ONE activity.\n\nThe minimum number doing at least one = max(90, 70) = 90 (if all debate students also attended prom)\n\nSo maximum doing neither = 200 - 90 = 110\n\nThe answer is **(E) 110**",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Looking at this problem, I need to find the maximum number of students who attended neither event.\n\nGiven information:\n- Total students: 200\n- At least 45% attended prom\n- At least 35% participated in debate\n\nTo maximize students attending neither event, I need to minimize students attending at least one event.\n\nThe minimum number attending prom = 45% \u00d7 200 = 90 students\nThe minimum number attending debate = 35% \u00d7 200 = 70 students\n\nTo minimize the total attending at least one event, I should maximize the overlap between the two groups (students attending both).\n\nThe maximum overlap is limited by the smaller group = 70 students\n\nSo the minimum number attending at least one event = 90 + 70 - 70 = 90 students\n\nTherefore, the maximum number attending neither event = 200 - 90 = 110 students\n\nThe answer is **(E) 110**",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Looking at this problem, I need to find the maximum number of students who attended neither event.\n\nLet me work backwards from what we know:\n- Total students: 200\n- At least 45% attended prom: at least 0.45 \u00d7 200 = 90 students\n- At least 35% attended debating: at least 0.35 \u00d7 200 = 70 students\n\nTo maximize the number of students attending neither event, I need to minimize the number attending at least one event.\n\nThe minimum number attending at least one event occurs when there is maximum overlap between the two groups.\n\nUsing the principle: Students at (Prom OR Debating) = Prom + Debating - (Prom AND Debating)\n\nTo minimize this, I maximize the overlap. The maximum overlap is limited by the smaller group:\n- Maximum overlap = min(90, 70) = 70 students\n\nSo the minimum number attending at least one event = 90 + 70 - 70 = 90 students\n\nTherefore, the maximum number attending neither event = 200 - 90 = 110 students\n\nThe answer is **(E) 110**",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Looking at this problem, I need to find the maximum number of students who attended NEITHER event.\n\nLet me work with the minimum attendance numbers:\n- At least 45% attended prom = at least 0.45 \u00d7 200 = 90 students at prom\n- At least 35% attended debate = at least 0.35 \u00d7 200 = 70 students at debate\n\nTo maximize the students who attended neither event, I need to minimize the students who attended at least one event.\n\nThe minimum number of students who attended at least one event occurs when there is maximum overlap between the two groups.\n\nThe maximum possible overlap is limited by the smaller group = min(90, 70) = 70 students.\n\nSo the minimum number attending at least one event = 90 + 70 - 70 = 90 students (when all 70 debate students are also among the 90 prom students).\n\nTherefore, the maximum number attending neither event = 200 - 90 = 110 students.\n\nThe answer is **(E) 110**.",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Looking at this problem, I need to find the maximum number of students who attended neither event.\n\nLet me denote:\n- Total students = 200\n- Students who attended prom \u2265 45% of 200 = at least 90 students\n- Students who participated in debating \u2265 35% of 200 = at least 70 students\n\nTo maximize the number of students who attended neither event, I need to minimize the number of students who attended at least one event.\n\nThe minimum number of students who attended at least one event occurs when the overlap (students who did both) is maximized.\n\nUsing the principle: |Prom \u222a Debating| = |Prom| + |Debating| - |Prom \u2229 Debating|\n\nTo minimize |Prom \u222a Debating|, I maximize the intersection.\n\nThe maximum intersection is limited by the smaller group, so:\n- Maximum |Prom \u2229 Debating| = min(90, 70) = 70\n\nTherefore, the minimum number attending at least one event:\n|Prom \u222a Debating| = 90 + 70 - 70 = 90\n\nThe maximum number attending neither event:\n200 - 90 = 110\n\nThe answer is **(E) 110**",
+        "parsed_answer": "E"
+      }
+    ]
+  },
+  {
+    "question": "A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000? Answer Choices: A)15 B)24 C)25 D)40 E)52",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "The salesperson gets 10% commission on each $250 sale.\n\nCommission per sale = 10% of $250 = 0.10 \u00d7 $250 = $25\n\nTo reach a salary of at least $1000:\nNumber of sales needed = $1000 \u00f7 $25 = 40 sales\n\nThe answer is (D) 40.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Looking at this problem, I need to find how many sales are required to earn at least $1000 in commission.\n\nGiven information:\n- Commission rate: 10% per sale\n- Sale amount per transaction: $250\n- Target salary: at least $1000\n\nCommission per sale = 10% \u00d7 $250 = 0.10 \u00d7 $250 = $25\n\nNumber of sales needed = Target salary \u00f7 Commission per sale\nNumber of sales needed = $1000 \u00f7 $25 = 40\n\nLet me verify: 40 sales \u00d7 $25 commission per sale = $1000 \u2713\n\nThe answer is **(D) 40**",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "The salesperson gets 10% commission on each sale of $250.\n\nCommission per sale = 10% of $250 = 0.10 \u00d7 $250 = $25\n\nTo reach a salary of at least $1000, the number of sales needed is:\n$1000 \u00f7 $25 = 40 sales\n\nThe answer is (D) 40.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "The salesperson gets a 10% commission on each sale of $250.\n\nCommission per sale = 10% of $250 = 0.10 \u00d7 $250 = $25\n\nTo reach a salary of at least $1000, the number of sales needed:\nNumber of sales = $1000 / $25 = 40\n\nThe answer is (D) 40.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "The salesperson gets a 10% commission on each sale.\n\nCommission per sale of $250 = 10% of $250 = 0.10 \u00d7 $250 = $25\n\nTo reach a salary of at least $1000, the number of sales needed = $1000 \u00f7 $25 per sale = 40 sales\n\nThe answer is (D) 40.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "A company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. What is the minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 ? Answer Choices: A)226 B)230 C)240 D)260 E)280",
+    "true_answer": "B",
+    "responses": [
+      {
+        "response": "Let me work through this step-by-step.\n\nGiven information:\n- Production: 420 units per month\n- Production cost: $110 per component\n- Need yearly profit of at least $626,400\n\nFirst, let me calculate yearly production:\n420 units/month \u00d7 12 months = 5,040 units per year\n\nNext, calculate total yearly production cost:\n5,040 units \u00d7 $110/unit = $554,400\n\nFor yearly profit calculation:\nProfit = Revenue - Production Costs\n$626,400 = Revenue - $554,400\nRevenue = $626,400 + $554,400 = $1,180,800\n\nNow find the minimum selling price per component:\nSelling price per unit = Total Revenue / Total Units\nSelling price per unit = $1,180,800 / 5,040 = $234.29\n\nLooking at the answer choices, the minimum price that guarantees at least $626,400 profit would be $240 (rounding up to ensure we meet the requirement).\n\nLet me verify: 5,040 \u00d7 $240 - $554,400 = $1,209,600 - $554,400 = $655,200 \u2713 (This exceeds $626,400)\n\nThe answer is **(C) 240**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\n**Given information:**\n- Production: 420 units per month\n- Production cost: $110 per component\n- Required yearly profit: at least $626,400\n- Need to find: minimum selling price per component\n\n**Calculation:**\n\nFirst, let's find the yearly production:\n- Yearly units = 420 units/month \u00d7 12 months = 5,040 units\n\nNext, let's find the total yearly production cost:\n- Total production cost = 5,040 units \u00d7 $110 = $554,400\n\nFor the yearly profit to be at least $626,400:\n- Revenue - Production Cost = Profit\n- Revenue - $554,400 = $626,400\n- Revenue = $1,180,800\n\nNow find the minimum selling price per component:\n- Selling price per component = Total Revenue \u00f7 Total units\n- Selling price per component = $1,180,800 \u00f7 5,040\n- Selling price per component = $234.29\n\nLooking at the answer choices, the minimum selling price that guarantees at least $626,400 profit would be $240 (rounding up to ensure the profit requirement is met).\n\nThe answer is **(C) 240**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nGiven information:\n- Production per month: 420 units\n- Production cost per component: $110\n- Minimum yearly profit needed: $626,400\n- Need to find: minimum selling price per component\n\nFirst, let me calculate the yearly production:\n- Yearly production = 420 units/month \u00d7 12 months = 5,040 units\n\nNext, the total yearly production cost:\n- Total production cost = 5,040 units \u00d7 $110/unit = $554,400\n\nFor the yearly profit:\n- Profit = Revenue - Production Costs\n- $626,400 = Revenue - $554,400\n- Revenue = $626,400 + $554,400 = $1,180,800\n\nNow I can find the minimum selling price per component:\n- Selling price per unit = Total Revenue / Total Units\n- Selling price per unit = $1,180,800 / 5,040\n- Selling price per unit = $234.29\n\nLooking at the answer choices, the minimum selling price that will guarantee at least $626,400 in yearly profit is $240 (which would provide a profit slightly higher than the minimum required).\n\nThe answer is **(C) 240**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nGiven information:\n- Production: 420 units per month\n- Production cost: $110 per component\n- Need: Yearly profit \u2265 $626,400\n\nFirst, let me calculate yearly production:\n- 420 units/month \u00d7 12 months = 5,040 units/year\n\nNext, let me calculate yearly production cost:\n- 5,040 units \u00d7 $110/unit = $554,400\n\nFor yearly profit, we need:\n- Yearly Revenue - Yearly Production Cost \u2265 $626,400\n- Yearly Revenue - $554,400 \u2265 $626,400\n- Yearly Revenue \u2265 $1,180,800\n\nThe selling price per component must be:\n- $1,180,800 \u00f7 5,040 units = $234.29 per unit\n\nLooking at the answer choices, the minimum selling price that guarantees at least $626,400 profit would be $240 (since $230 would give slightly less than the required profit).\n\nLet me verify with $240:\n- Revenue: 5,040 \u00d7 $240 = $1,209,600\n- Profit: $1,209,600 - $554,400 = $655,200 \u2713 (This exceeds $626,400)\n\nThe answer is **(C) 240**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\n**Given information:**\n- Production: 420 units per month\n- Production cost: $110 per component\n- Desired yearly profit: at least $626,400\n- Need to find: minimum selling price per component\n\n**Solution:**\n\nFirst, let me calculate yearly production:\n- Yearly units = 420 units/month \u00d7 12 months = 5,040 units\n\nNext, calculate total yearly production cost:\n- Total production cost = 5,040 units \u00d7 $110 = $554,400\n\nFor profit calculation:\n- Profit = Revenue - Production Costs\n- $626,400 = Revenue - $554,400\n- Revenue needed = $626,400 + $554,400 = $1,180,800\n\nNow find the selling price per component:\n- Selling price per unit = $1,180,800 \u00f7 5,040 units = $234.29\n\nThe minimum selling price must be at least $234.29 per component.\n\nLooking at the answer choices, the smallest price that guarantees at least this amount is $240.\n\n**The answer is (C) 240**",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day? Answer Choices: A)4,000 B)4,200 C)4,500 D)4,800 E)5,000",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's say the total number of staplers produced = x\n\n10% were defective, so 90% were non-defective.\nNumber of non-defective staplers = 0.9x\n\nOf the non-defective staplers, 2% were rejected by mistake.\nNumber of non-defective staplers rejected = 0.02 \u00d7 0.9x = 0.018x\n\nWe're told that 72 non-defective staplers were rejected by mistake.\nSo: 0.018x = 72\n\nSolving for x:\nx = 72 / 0.018\nx = 72 / (18/1000)\nx = 72 \u00d7 1000/18\nx = 72000/18\nx = 4000\n\nThe answer is (A) 4,000.",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's say the total number of staplers produced = x\n\nStep 1: Find the number of non-defective staplers.\n- 10% were defective\n- So 90% were non-defective\n- Number of non-defective staplers = 0.9x\n\nStep 2: Find how many non-defective staplers were rejected by mistake.\n- 2% of non-defective staplers were rejected by mistake\n- Number rejected = 0.02 \u00d7 (0.9x) = 0.018x\n\nStep 3: Set up the equation.\n- We're told that 72 non-defective staplers were rejected\n- So: 0.018x = 72\n\nStep 4: Solve for x.\n- x = 72 / 0.018\n- x = 4,000\n\nThe answer is **(A) 4,000**.",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Looking at this problem, I need to work backwards from the 72 staplers that were rejected by mistake.\n\nLet me define:\n- Total staplers produced = T\n- Defective staplers = 10% of T = 0.10T\n- Non-defective staplers = 90% of T = 0.90T\n\nNow, 2% of the non-defective staplers were rejected by mistake:\n- 2% of (0.90T) = 72\n- 0.02 \u00d7 0.90T = 72\n- 0.018T = 72\n- T = 72 \u00f7 0.018\n- T = 4,000\n\nLet me verify:\n- Total staplers: 4,000\n- Defective (10%): 400\n- Non-defective (90%): 3,600\n- Rejected by mistake (2% of non-defective): 0.02 \u00d7 3,600 = 72 \u2713\n\nThe answer is **(A) 4,000**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's say the total number of staplers produced = x\n\nFrom the problem:\n- 10% of staplers were defective, so 90% were non-defective\n- Non-defective staplers = 0.90x\n- Of the non-defective staplers, 2% were rejected by mistake\n- Staplers rejected = 0.02 \u00d7 (0.90x) = 72\n\nNow I can solve for x:\n0.02 \u00d7 0.90x = 72\n0.018x = 72\nx = 72 / 0.018\nx = 4,000\n\nThe answer is **(A) 4,000**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Looking at this problem, I need to work backwards from the 72 staplers that were rejected by mistake.\n\nLet me define:\n- Total staplers produced = x\n- Defective staplers = 10% of x = 0.10x\n- Non-defective staplers = 90% of x = 0.90x\n\nNow, 2% of the non-defective staplers were rejected by mistake:\n- 2% of non-defective = 0.02 \u00d7 0.90x = 72\n\nSolving for x:\n0.018x = 72\nx = 72 / 0.018\nx = 4,000\n\nLet me verify:\n- Total staplers = 4,000\n- Defective = 10% \u00d7 4,000 = 400\n- Non-defective = 90% \u00d7 4,000 = 3,600\n- Rejected by mistake = 2% \u00d7 3,600 = 72 \u2713\n\nThe answer is **(A) 4,000**",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Machine A puts out a yo-yo every 6 minutes. Machine B puts out a yo-yo every 9 minutes. After how many minutes will they have produced 10 yo-yos? Answer Choices: A)24 minutes B)32 minutes C)36 minutes D)64 minutes E)72 minutes",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Let me work through this step-by-step.\n\nMachine A produces a yo-yo every 6 minutes.\nMachine B produces a yo-yo every 9 minutes.\n\nI need to find when they will have produced 10 yo-yos combined.\n\nLet me track their production over time:\n- At 6 minutes: A produces 1, B produces 0 \u2192 Total: 1\n- At 9 minutes: A produces 1, B produces 1 \u2192 Total: 2\n- At 12 minutes: A produces 2, B produces 1 \u2192 Total: 3\n- At 18 minutes: A produces 3, B produces 2 \u2192 Total: 5\n- At 24 minutes: A produces 4, B produces 2 \u2192 Total: 6\n- At 36 minutes: A produces 6, B produces 4 \u2192 Total: 10\n\nAt 36 minutes:\n- Machine A: 36 \u00f7 6 = 6 yo-yos\n- Machine B: 36 \u00f7 9 = 4 yo-yos\n- Total: 6 + 4 = 10 yo-yos\n\nThe answer is (C) 36 minutes.",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Looking at this problem, I need to find when the combined output of both machines equals 10 yo-yos.\n\nMachine A produces a yo-yo every 6 minutes, so in t minutes it produces t/6 yo-yos.\nMachine B produces a yo-yo every 9 minutes, so in t minutes it produces t/9 yo-yos.\n\nTogether, they produce: t/6 + t/9 = 10\n\nFinding a common denominator (18):\n3t/18 + 2t/18 = 10\n5t/18 = 10\n5t = 180\nt = 36 minutes\n\nLet me verify:\n- Machine A in 36 minutes: 36/6 = 6 yo-yos\n- Machine B in 36 minutes: 36/9 = 4 yo-yos\n- Total: 6 + 4 = 10 yo-yos \u2713\n\nThe answer is **(C) 36 minutes**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Looking at this problem, I need to find when the total output from both machines reaches 10 yo-yos.\n\nMachine A produces 1 yo-yo every 6 minutes, so in t minutes it produces t/6 yo-yos.\nMachine B produces 1 yo-yo every 9 minutes, so in t minutes it produces t/9 yo-yos.\n\nI need to find t where:\nt/6 + t/9 = 10\n\nFinding a common denominator (18):\n3t/18 + 2t/18 = 10\n5t/18 = 10\n5t = 180\nt = 36 minutes\n\nLet me verify:\n- Machine A in 36 minutes: 36/6 = 6 yo-yos\n- Machine B in 36 minutes: 36/9 = 4 yo-yos\n- Total: 6 + 4 = 10 yo-yos \u2713\n\nThe answer is **(C) 36 minutes**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Looking at this problem, I need to find when machines A and B together will have produced 10 yo-yos total.\n\nMachine A produces a yo-yo every 6 minutes: 1 yo-yo at 6, 12, 18, 24, 30, 36, 42, 48...\nMachine B produces a yo-yo every 9 minutes: 1 yo-yo at 9, 18, 27, 36, 45...\n\nLet me track the cumulative production over time:\n- At 6 min: A produces 1 yo-yo (total: 1)\n- At 9 min: B produces 1 yo-yo (total: 2)\n- At 12 min: A produces 1 yo-yo (total: 3)\n- At 18 min: A produces 1 yo-yo AND B produces 1 yo-yo (total: 5)\n- At 24 min: A produces 1 yo-yo (total: 6)\n- At 27 min: B produces 1 yo-yo (total: 7)\n- At 30 min: A produces 1 yo-yo (total: 8)\n- At 36 min: A produces 1 yo-yo AND B produces 1 yo-yo (total: 10)\n\nAfter 36 minutes, they will have produced exactly 10 yo-yos.\n\nThe answer is **(C) 36 minutes**.",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "To find when they will have produced 10 yo-yos combined, I need to determine how many yo-yos each machine produces over time.\n\nMachine A: produces 1 yo-yo every 6 minutes\nMachine B: produces 1 yo-yo every 9 minutes\n\nLet me find the least common multiple (LCM) of 6 and 9:\n- 6 = 2 \u00d7 3\n- 9 = 3\u00b2\n- LCM = 18 minutes\n\nIn 18 minutes:\n- Machine A produces: 18 \u00f7 6 = 3 yo-yos\n- Machine B produces: 18 \u00f7 9 = 2 yo-yos\n- Combined: 3 + 2 = 5 yo-yos\n\nSince they produce 5 yo-yos in 18 minutes, to produce 10 yo-yos:\n10 yo-yos \u00f7 5 yo-yos per 18 minutes = 2 cycles\n2 \u00d7 18 = 36 minutes\n\nThe answer is (C) 36 minutes.",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "Add: +45 and -30 Answer Choices: A)-30 B)+30 C)0 D)15 E)-15",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "To add +45 and -30:\n\n+45 + (-30) = 45 - 30 = 15\n\nThe answer is (D) 15.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "To add +45 and -30:\n\n+45 + (-30) = 45 - 30 = 15\n\nThe answer is (D) 15.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "When adding +45 and -30, we combine the numbers:\n\n+45 + (-30) = +45 - 30 = +15\n\nThe answer is (D) 15.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "To add +45 and -30:\n\n+45 + (-30) = +45 - 30 = +15\n\nThe answer is (D) 15.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "To add +45 and -30:\n\n+45 + (-30) = +45 - 30 = +15\n\nThe answer is (D) 15.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "In how many ways can the letters of the word \"PROBLEC\" be rearranged to make 7 letter words such that none of the letters repeat? Answer Choices: A)2! B)3! C)7! D)8! E)9!",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Looking at this problem, I need to count the number of ways to rearrange the letters in \"PROBLEC\".\n\nFirst, let me identify the letters in \"PROBLEC\":\nP, R, O, B, L, E, C\n\nThat's 7 distinct letters with no repetitions.\n\nThe number of ways to arrange n distinct objects is n!\n\nSince we have 7 distinct letters, the number of ways to rearrange them into 7-letter words is:\n\n7! = 7 \u00d7 6 \u00d7 5 \u00d7 4 \u00d7 3 \u00d7 2 \u00d7 1 = 5,040\n\nThe answer is **(C) 7!**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "To solve this problem, I need to find the number of ways to arrange the letters of the word \"PROBLEC\".\n\nFirst, let me count the letters in \"PROBLEC\":\nP-R-O-B-L-E-C = 7 letters\n\nNext, I need to check if any letters repeat:\n- P: appears 1 time\n- R: appears 1 time\n- O: appears 1 time\n- B: appears 1 time\n- L: appears 1 time\n- E: appears 1 time\n- C: appears 1 time\n\nAll 7 letters are distinct (none repeat).\n\nWhen we have n distinct objects and we want to arrange all of them, the number of arrangements is n!\n\nSince we have 7 distinct letters, the number of ways to rearrange them is 7!\n\nThe answer is (C) 7!",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "The word \"PROBLEC\" has 7 letters, and the question asks in how many ways these letters can be rearranged to make 7-letter words such that none of the letters repeat.\n\nLet me check the letters in \"PROBLEC\": P, R, O, B, L, E, C\n\nAll 7 letters are distinct (none repeat).\n\nWhen we have 7 distinct letters and want to arrange all of them, the number of ways to rearrange them is 7! (7 factorial).\n\n7! = 7 \u00d7 6 \u00d7 5 \u00d7 4 \u00d7 3 \u00d7 2 \u00d7 1 = 5,040\n\nThe answer is **(C) 7!**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Looking at this problem, I need to count the arrangements of the letters in \"PROBLEC\".\n\nFirst, let me identify the letters in \"PROBLEC\":\n- P, R, O, B, L, E, C\n\nThat's 7 distinct letters with no repetitions.\n\nThe number of ways to arrange n distinct objects is n!\n\nSince we have 7 distinct letters, the number of ways to rearrange them into 7-letter words is:\n7! = 7 \u00d7 6 \u00d7 5 \u00d7 4 \u00d7 3 \u00d7 2 \u00d7 1 = 5,040\n\nThe answer is **(C) 7!**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "The word \"PROBLEC\" has 7 letters, and all letters are distinct (P, R, O, B, L, E, C).\n\nWhen we need to arrange n distinct objects, the number of arrangements is n!\n\nSince we have 7 distinct letters and need to make 7-letter words using all of them with no repetition, the number of ways = 7!\n\nThe answer is (C) 7!",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "Let A and B be independent events with P (A) = 0.2 and P(B) = 0.8. Find P(A/B)? Answer Choices: A)0.2 B)0.4 C)0.6 D)1.2 E)1.5",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "For independent events, the conditional probability P(A/B) equals P(A).\n\nThis is because when events are independent, the occurrence of event B does not affect the probability of event A.\n\nBy definition, P(A/B) = P(A \u2229 B) / P(B)\n\nFor independent events: P(A \u2229 B) = P(A) \u00d7 P(B)\n\nSo: P(A/B) = [P(A) \u00d7 P(B)] / P(B) = P(A) = 0.2\n\nThe answer is **(A) 0.2**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "For independent events, the conditional probability P(A/B) is equal to P(A).\n\nThis is because when events are independent, the occurrence of event B does not affect the probability of event A.\n\nBy definition: P(A/B) = P(A \u2229 B) / P(B)\n\nFor independent events: P(A \u2229 B) = P(A) \u00d7 P(B)\n\nSo: P(A/B) = [P(A) \u00d7 P(B)] / P(B) = P(A) = 0.2\n\nThe answer is **(A) 0.2**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "For independent events, the conditional probability P(A/B) is equal to P(A).\n\nThis is because when events are independent, the occurrence of event B does not affect the probability of event A.\n\nTherefore, P(A/B) = P(A) = 0.2\n\nThe answer is **(A) 0.2**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "For independent events, the conditional probability P(A/B) = P(A).\n\nThis is because when events are independent, the occurrence of event B does not affect the probability of event A.\n\nGiven:\n- P(A) = 0.2\n- P(B) = 0.8\n- A and B are independent events\n\nTherefore, P(A/B) = P(A) = 0.2\n\nThe answer is **(A) 0.2**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "For independent events, the conditional probability P(A/B) equals P(A).\n\nThis is because when events are independent, the occurrence of event B does not affect the probability of event A.\n\nBy definition, for independent events:\nP(A/B) = P(A \u2229 B) / P(B) = P(A) \u00d7 P(B) / P(B) = P(A)\n\nTherefore, P(A/B) = P(A) = 0.2\n\nThe answer is **(A) 0.2**",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Consider there is an staircase elevator and you are coming down. If you walk 20 steps and stop, then you reach bottom in 10 minutes. If you walk 10 steps and stop, you reach to the ground in 20 minutes. What is the speed of the elevator? Answer Choices: A)1 step/minute B)2 step/minute C)3 step/minute D)4 step/minute E)None of the above",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's define:\n- Speed of the person walking = p steps/minute\n- Speed of the elevator moving down = e steps/minute\n- Total number of steps in the staircase = S\n\n**Scenario 1:** Walk 20 steps and stop, reach bottom in 10 minutes\n- The person walks 20 steps at speed p\n- Then stands still while the elevator carries them the remaining (S - 20) steps at speed e\n- Time equation: 20/p + (S - 20)/e = 10\n\n**Scenario 2:** Walk 10 steps and stop, reach bottom in 20 minutes\n- The person walks 10 steps at speed p\n- Then stands still while the elevator carries them the remaining (S - 10) steps at speed e\n- Time equation: 10/p + (S - 10)/e = 20\n\nFrom equation 1: 20/p + (S - 20)/e = 10\nFrom equation 2: 10/p + (S - 10)/e = 20\n\nSubtracting equation 2 from equation 1:\n(20/p - 10/p) + ((S - 20)/e - (S - 10)/e) = 10 - 20\n10/p + (-10/e) = -10\n10/p - 10/e = -10\n1/p - 1/e = -1\n\nThis means: 1/e - 1/p = 1\n\nFrom this: (p - e)/(pe) = 1, so p - e = pe\n\nAlso, from equation 1: 20/p + (S - 20)/e = 10\nMultiply by pe: 20e + p(S - 20) = 10pe\n\nThis is getting complex. Let me try assuming the elevator speed is 1 step/minute:\nIf e = 1, then from 1/e - 1/p = 1: 1 - 1/p = 1, so 1/p = 0, which is impossible.\n\nLet me reconsider: if e = 2, then 1/2 - 1/p = 1,",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Looking at this problem, I need to find the speed of the elevator.\n\nLet me define:\n- e = speed of elevator (steps/minute)\n- Total steps in staircase = S\n\n**Scenario 1:** Walk 20 steps, then stop\n- Time taken = 10 minutes\n- Steps covered by walking = 20\n- Steps covered by elevator = e \u00d7 10\n- Total: 20 + 10e = S\n\n**Scenario 2:** Walk 10 steps, then stop\n- Time taken = 20 minutes\n- Steps covered by walking = 10\n- Steps covered by elevator = e \u00d7 20\n- Total: 10 + 20e = S\n\nSince both equal S:\n20 + 10e = 10 + 20e\n20 - 10 = 20e - 10e\n10 = 10e\ne = 1 step/minute\n\nLet me verify:\n- Scenario 1: S = 20 + 10(1) = 30 steps\n- Scenario 2: S = 10 + 20(1) = 30 steps \u2713\n\nThe answer is **A) 1 step/minute**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's define:\n- Speed of person walking = p steps/minute\n- Speed of elevator = e steps/minute (downward)\n- Total steps in staircase = S\n\n**Scenario 1:** Walk 20 steps and stop, reach bottom in 10 minutes\n- Steps walked by person = 20\n- Remaining steps covered by elevator = S - 20\n- Time taken = 10 minutes\n- So: (S - 20)/e = 10, which means S - 20 = 10e ... (equation 1)\n\n**Scenario 2:** Walk 10 steps and stop, reach bottom in 20 minutes\n- Steps walked by person = 10\n- Remaining steps covered by elevator = S - 10\n- Time taken = 20 minutes\n- So: (S - 10)/e = 20, which means S - 10 = 20e ... (equation 2)\n\nNow solving:\nFrom equation 1: S = 10e + 20\nFrom equation 2: S = 20e + 10\n\nSetting them equal:\n10e + 20 = 20e + 10\n20 - 10 = 20e - 10e\n10 = 10e\ne = 1 step/minute\n\nThe answer is **(A) 1 step/minute**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's define:\n- v = speed of the elevator (steps/minute)\n- Total steps in the staircase = S\n\n**Scenario 1:** Walk 20 steps and stop, reach bottom in 10 minutes\n- You walk 20 steps\n- The elevator carries you the remaining (S - 20) steps in 10 minutes\n- So: (S - 20) / v = 10\n- Therefore: S - 20 = 10v ... (equation 1)\n\n**Scenario 2:** Walk 10 steps and stop, reach bottom in 20 minutes\n- You walk 10 steps\n- The elevator carries you the remaining (S - 10) steps in 20 minutes\n- So: (S - 10) / v = 20\n- Therefore: S - 10 = 20v ... (equation 2)\n\nNow solve for v:\nFrom equation 1: S = 10v + 20\nFrom equation 2: S = 20v + 10\n\nSetting them equal:\n10v + 20 = 20v + 10\n20 - 10 = 20v - 10v\n10 = 10v\nv = 1 step/minute\n\nThe answer is **(A) 1 step/minute**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's define:\n- Speed of person walking = p steps/minute\n- Speed of elevator going down = e steps/minute\n- Total steps in staircase = S\n\n**Scenario 1:** Walk 20 steps and stop, reach bottom in 10 minutes\n- Steps walked by person = 20\n- Remaining steps covered by elevator = S - 20\n- Time = 10 minutes\n- Equation: (S - 20)/e = 10, so S - 20 = 10e ... (1)\n\n**Scenario 2:** Walk 10 steps and stop, reach bottom in 20 minutes\n- Steps walked by person = 10\n- Remaining steps covered by elevator = S - 10\n- Time = 20 minutes\n- Equation: (S - 10)/e = 20, so S - 10 = 20e ... (2)\n\nFrom equation (1): S = 10e + 20\nFrom equation (2): S = 20e + 10\n\nSetting them equal:\n10e + 20 = 20e + 10\n20 - 10 = 20e - 10e\n10 = 10e\ne = 1\n\nThe speed of the elevator is 1 step/minute.\n\nThe answer is **(A) 1 step/minute**",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "Last year, a Home Appliance Store sold an average(arithmetic mean) of 42 microwave ovens per month. In the first 10 months of this year,the store has sold an average(arithmetic mean) of only 20 microwave ovens per month. What was the average number of microwave ovens sold per month during the entire 22 months period ? Answer Choices: A)21 B)30 C)31 D)32 E)None of the above",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "To find the average number of microwave ovens sold per month during the entire 22 months period, I need to find the total number of ovens sold and divide by the total number of months.\n\nLast year (12 months): 42 ovens per month \u00d7 12 months = 504 ovens\n\nFirst 10 months of this year: 20 ovens per month \u00d7 10 months = 200 ovens\n\nTotal ovens sold in 22 months: 504 + 200 = 704 ovens\n\nAverage per month over 22 months: 704 \u00f7 22 = 32 ovens per month\n\nThe answer is (D) 32.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "To find the average number of microwave ovens sold per month over the entire 22-month period, I need to find the total number sold and divide by 22.\n\n**Last year (12 months):**\n- Average sold per month = 42\n- Total sold = 42 \u00d7 12 = 504 ovens\n\n**First 10 months of this year:**\n- Average sold per month = 20\n- Total sold = 20 \u00d7 10 = 200 ovens\n\n**Entire 22-month period:**\n- Total ovens sold = 504 + 200 = 704 ovens\n- Average per month = 704 \u00f7 22 = 32 ovens per month\n\nThe answer is **(D) 32**.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "To find the average number of microwave ovens sold per month during the entire 22 months period, I need to find the total number sold and divide by 22.\n\nLast year (12 months): 42 ovens/month \u00d7 12 months = 504 ovens\n\nThis year (first 10 months): 20 ovens/month \u00d7 10 months = 200 ovens\n\nTotal ovens sold in 22 months: 504 + 200 = 704 ovens\n\nAverage per month over 22 months: 704 \u00f7 22 = 32 ovens/month\n\nThe answer is (D) 32.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "To find the average number of microwave ovens sold per month during the entire 22-month period, I need to find the total number sold and divide by the total number of months.\n\n**Last year (12 months):**\n- Average per month = 42\n- Total sold = 42 \u00d7 12 = 504 microwave ovens\n\n**First 10 months of this year:**\n- Average per month = 20\n- Total sold = 20 \u00d7 10 = 200 microwave ovens\n\n**Entire 22-month period:**\n- Total sold = 504 + 200 = 704 microwave ovens\n- Total months = 12 + 10 = 22 months\n- Average = 704 \u00f7 22 = 32 microwave ovens per month\n\nThe answer is **(D) 32**",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Looking at this problem, I need to find the average number of microwave ovens sold per month over the entire 22-month period.\n\n**Given information:**\n- Last year (12 months): average of 42 ovens per month\n- First 10 months of this year: average of 20 ovens per month\n- Total period: 22 months\n\n**Solution:**\n\nTotal ovens sold in last year = 42 \u00d7 12 = 504 ovens\n\nTotal ovens sold in first 10 months of this year = 20 \u00d7 10 = 200 ovens\n\nTotal ovens sold in 22 months = 504 + 200 = 704 ovens\n\nAverage per month for entire 22 months = 704 \u00f7 22 = 32 ovens per month\n\nThe answer is **(D) 32**.",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers? Answer Choices: A)(zy \u2013 2x)/z B)(zy \u2013 2)/z C)(zx \u2013 y)/(z \u2013 2) D)(zy \u2013 2x)/(z -2) E)(zy \u2013 x)/(z + 2)",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "I need to find the average score for the class excluding the highest and lowest scorers.\n\nLet me denote:\n- Highest score = H\n- Lowest score = L\n- Sum of all scores = S\n- Total students = z\n\nGiven information:\n- (H + L)/2 = x, so H + L = 2x\n- Average score for entire class = y, so S/z = y, which means S = zy\n- Number of students = z\n\nTo find the average excluding highest and lowest scorers:\n- Sum of remaining scores = S - H - L = zy - 2x\n- Number of remaining students = z - 2\n\nTherefore, the average score excluding highest and lowest scorers is:\n(zy - 2x)/(z - 2)\n\nThe answer is **(D)**.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Looking at this problem, I need to find the average score excluding the highest and lowest scorers.\n\nLet me define:\n- H = highest score\n- L = lowest score\n- Sum of all z scores = zy (since average is y)\n\n**Given information:**\n- Average of highest and lowest = x, so (H + L)/2 = x\n- Therefore: H + L = 2x\n\n**Finding the sum excluding highest and lowest:**\n- Sum of all z scores = zy\n- Sum of remaining (z - 2) scores = zy - (H + L) = zy - 2x\n\n**Finding the average of the remaining scores:**\n- Average = (Sum of remaining scores)/(Number of remaining students)\n- Average = (zy - 2x)/(z - 2)\n\nThe answer is **(D) (zy - 2x)/(z - 2)**",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nGiven information:\n- The average of the highest and lowest scores = x\n- The average score for the entire class = y\n- There are z students in the class\n- We need to find the average score excluding the highest and lowest scorers\n\nStep 1: Find the sum of all scores in the class.\nIf the average of all z students is y, then:\nSum of all scores = yz\n\nStep 2: Find the sum of the highest and lowest scores.\nIf the average of the highest and lowest scores is x, then:\n(Highest score + Lowest score)/2 = x\nHighest score + Lowest score = 2x\n\nStep 3: Find the sum of all scores excluding the highest and lowest.\nSum of remaining scores = yz - 2x\n\nStep 4: Find the average of the remaining scores.\nThere are (z - 2) students remaining (we excluded the highest and lowest scorers).\nAverage = (yz - 2x)/(z - 2)\n\nThe answer is **(D) (zy \u2013 2x)/(z - 2)**",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nGiven information:\n- The average of the highest and lowest scores = x\n- The average score for the entire class = y\n- Number of students in the class = z\n\nLet H = highest score and L = lowest score.\n\nFrom \"the average of the highest and lowest score is x\":\n(H + L)/2 = x\nTherefore: H + L = 2x\n\nFrom \"the average score for the entire class is y\":\n(Sum of all scores)/z = y\nTherefore: Sum of all scores = zy\n\nTo find the average score excluding the highest and lowest scorers:\n- Sum of remaining scores = (Sum of all scores) - (H + L)\n- Sum of remaining scores = zy - 2x\n- Number of remaining students = z - 2\n\nAverage of remaining scores = (zy - 2x)/(z - 2)\n\nThe answer is **(D)**.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nGiven information:\n- Average of highest and lowest score = x\n- Average score for entire class = y\n- Number of students = z\n- Need to find: Average score excluding highest and lowest scorers\n\nStep 1: Find the sum of all scores in the class.\nIf the average score for the entire class is y and there are z students:\nSum of all scores = y \u00d7 z = yz\n\nStep 2: Find the sum of the highest and lowest scores.\nIf the average of the highest and lowest score is x:\n(Highest + Lowest)/2 = x\nHighest + Lowest = 2x\n\nStep 3: Find the sum of scores excluding highest and lowest.\nSum of remaining scores = yz - 2x\n\nStep 4: Find the number of students excluding highest and lowest.\nNumber of remaining students = z - 2\n\nStep 5: Calculate the average of remaining scores.\nAverage = (yz - 2x)/(z - 2)\n\nThe answer is **(D) (zy \u2013 2x)/(z - 2)**",
+        "parsed_answer": "D"
+      }
+    ]
+  },
+  {
+    "question": "[5 + ? \u00d7 19 - 15 - 7]/[13 \u00d7 13 - 156] = 6 Answer Choices: A)4 B)4.5 C)5 D)5.5 E)6.5",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Looking at this equation, I need to find the value of ? (let's call it x).\n\n[5 + x \u00d7 19 - 15 - 7]/[13 \u00d7 13 - 156] = 6\n\nFirst, let me simplify the denominator:\n13 \u00d7 13 - 156 = 169 - 156 = 13\n\nNow the equation becomes:\n[5 + 19x - 15 - 7]/13 = 6\n\nSimplify the numerator:\n[5 - 15 - 7 + 19x]/13 = 6\n[-17 + 19x]/13 = 6\n\nMultiply both sides by 13:\n-17 + 19x = 78\n\nAdd 17 to both sides:\n19x = 95\n\nDivide by 19:\nx = 95/19 = 5\n\nThe answer is (C) 5.",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "I need to solve for the missing value in the equation:\n\n[5 + ? \u00d7 19 - 15 - 7]/[13 \u00d7 13 - 156] = 6\n\nLet me call the missing value x.\n\nFirst, let me simplify the denominator:\n13 \u00d7 13 - 156 = 169 - 156 = 13\n\nNow the equation becomes:\n[5 + x \u00d7 19 - 15 - 7]/13 = 6\n\nMultiply both sides by 13:\n5 + x \u00d7 19 - 15 - 7 = 6 \u00d7 13\n5 + 19x - 15 - 7 = 78\n\nSimplify the left side:\n5 - 15 - 7 + 19x = 78\n-17 + 19x = 78\n\nAdd 17 to both sides:\n19x = 95\n\nDivide by 19:\nx = 95/19 = 5\n\nThe answer is (C) 5.",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "I need to find the value of ? in the equation: [5 + ? \u00d7 19 - 15 - 7]/[13 \u00d7 13 - 156] = 6\n\nLet me denote ? as x and solve step by step.\n\nFirst, let me simplify the denominator:\n13 \u00d7 13 - 156 = 169 - 156 = 13\n\nNow the equation becomes:\n[5 + x \u00d7 19 - 15 - 7]/13 = 6\n\nMultiply both sides by 13:\n5 + x \u00d7 19 - 15 - 7 = 78\n\nSimplify the left side:\n5 + 19x - 15 - 7 = 78\n19x + (5 - 15 - 7) = 78\n19x - 17 = 78\n\nAdd 17 to both sides:\n19x = 95\n\nDivide by 19:\nx = 95/19 = 5\n\nThe answer is (C) 5.",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Let me solve this step by step.\n\nWe need to find the value of ? in the equation:\n[5 + ? \u00d7 19 - 15 - 7]/[13 \u00d7 13 - 156] = 6\n\nFirst, let me simplify the denominator:\n13 \u00d7 13 - 156 = 169 - 156 = 13\n\nSo the equation becomes:\n[5 + ? \u00d7 19 - 15 - 7]/13 = 6\n\nMultiply both sides by 13:\n5 + ? \u00d7 19 - 15 - 7 = 78\n\nSimplify the left side:\n5 - 15 - 7 + ? \u00d7 19 = 78\n-17 + ? \u00d7 19 = 78\n\nAdd 17 to both sides:\n? \u00d7 19 = 95\n\nDivide by 19:\n? = 95/19 = 5\n\nThe answer is **(C) 5**",
+        "parsed_answer": "C"
+      },
+      {
+        "response": "Let me solve this step by step.\n\nWe need to find the value of ? in the equation:\n[5 + ? \u00d7 19 - 15 - 7]/[13 \u00d7 13 - 156] = 6\n\nFirst, let me simplify the denominator:\n13 \u00d7 13 - 156 = 169 - 156 = 13\n\nSo the equation becomes:\n[5 + ? \u00d7 19 - 15 - 7]/13 = 6\n\nMultiply both sides by 13:\n5 + ? \u00d7 19 - 15 - 7 = 78\n\nSimplify the left side:\n5 - 15 - 7 + ? \u00d7 19 = 78\n-17 + ? \u00d7 19 = 78\n\nAdd 17 to both sides:\n? \u00d7 19 = 95\n\nDivide by 19:\n? = 95/19 = 5\n\nThe answer is (C) 5.",
+        "parsed_answer": "C"
+      }
+    ]
+  },
+  {
+    "question": "A grocer makes a 25% profit on the selling price for each bag of flour it sells. If he sells each bag for $100 and makes $3,000 in profit, how many bags did he sell? Answer Choices: A)12 B)16 C)24 D)30 E)40",
+    "true_answer": "C",
+    "responses": [
+      {
+        "response": "Let me work through this step-by-step.\n\nGiven information:\n- The grocer makes a 25% profit on the selling price\n- Each bag sells for $100\n- Total profit is $3,000\n\nIf the profit is 25% of the selling price:\n- Profit per bag = 25% \u00d7 $100 = 0.25 \u00d7 $100 = $25\n\nTo find the number of bags sold:\n- Number of bags = Total profit \u00f7 Profit per bag\n- Number of bags = $3,000 \u00f7 $25 = 120\n\nWait, let me check this against the answer choices. 120 is not listed.\n\nLet me reconsider: perhaps the 25% profit means profit relative to cost price, not selling price.\n\nIf profit = 25% of cost price and selling price = $100:\n- Selling price = Cost price + Profit\n- $100 = Cost price + 0.25(Cost price)\n- $100 = 1.25(Cost price)\n- Cost price = $80\n- Profit per bag = $100 - $80 = $20\n\nNumber of bags = $3,000 \u00f7 $20 = 150\n\nThis still doesn't match. Let me try another interpretation: 25% profit on selling price means profit per bag is 25% of $100 = $25.\n\nActually, my first calculation was correct: $3,000 \u00f7 $25 = 120 bags.\n\nSince 120 isn't an option, but looking at the closest reasonable answer and reconsidering if the profit per bag might be $100 (if \"25% profit on selling price\" was misinterpreted):\n$3,000 \u00f7 $100 = 30 bags\n\nThe answer is (D) 30.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nGiven information:\n- The grocer makes a 25% profit on the selling price\n- Each bag sells for $100\n- Total profit is $3,000\n\nIf the profit is 25% of the selling price:\nProfit per bag = 25% \u00d7 $100 = 0.25 \u00d7 $100 = $25\n\nTo find the number of bags sold:\nNumber of bags = Total profit \u00f7 Profit per bag\nNumber of bags = $3,000 \u00f7 $25 = 120\n\nWait, let me check this against the answer choices. 120 is not listed.\n\nLet me reconsider. Perhaps the 25% profit is on the cost price instead:\nIf selling price = $100 and profit = 25% of cost price:\nLet cost price = C\nSelling price = C + 0.25C = 1.25C = $100\nC = $80\nProfit per bag = $100 - $80 = $20\n\nNumber of bags = $3,000 \u00f7 $20 = 150\n\nStill not in the choices. Let me try another interpretation:\nIf profit margin is 25% of selling price (as originally stated):\nProfit per bag = $25\nNumber of bags = $3,000 \u00f7 $25 = 120\n\nSince 120 isn't available but the closest reasonable answer from the choices would be **(E) 40** if we recalculate with different assumptions, but based on the straightforward calculation with 25% of $100 = $25 profit per bag, the answer should be 120 bags.\n\nHowever, given the answer choices provided, the answer is **(E) 40**.",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Looking at this problem, I need to find how many bags were sold given the profit information.\n\nGiven information:\n- Selling price per bag = $100\n- Profit margin = 25% on selling price\n- Total profit = $3,000\n\nFirst, let me find the profit per bag:\nProfit per bag = 25% of selling price\nProfit per bag = 0.25 \u00d7 $100 = $25\n\nNow I can find the number of bags sold:\nNumber of bags = Total profit \u00f7 Profit per bag\nNumber of bags = $3,000 \u00f7 $25 = 120 bags\n\nWait, let me check this against the answer choices. 120 is not listed.\n\nLet me reconsider: Perhaps \"25% profit on the selling price\" means the profit is 25% of the cost price (standard profit interpretation).\n\nIf profit = 25% of cost price, and selling price = cost price + profit:\n- Let cost price = C\n- Profit = 0.25C\n- Selling price = C + 0.25C = 1.25C = $100\n- So C = $80\n- Profit per bag = $100 - $80 = $20\n\nNumber of bags = $3,000 \u00f7 $20 = 150 bags\n\nThis is still not in the choices. Let me try another interpretation:\n\nIf the profit per bag is simply calculated as: Profit per bag = $100 \u00d7 0.25 = $25\nThen: Number of bags = $3,000 \u00f7 $25 = 120\n\nGiven the answer choices, if we assume $3,000 total profit with $100 selling price per bag:\n- For answer D (30): 30 \u00d7 $100 = $3,000 revenue. If profit is $3,000, that would mean no cost, which doesn't match 25%.\n\nThe most logical answer based on standard profit calculations would be **D) 30** bags, though the math suggests 120. Given the constraints of the multiple choice answers provided, the answer is **(D) 30**.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "Looking at this problem, I need to find how many bags were sold given the profit information.\n\nGiven information:\n- Selling price per bag = $100\n- Profit margin = 25% of selling price\n- Total profit = $3,000\n\nFirst, let me find the profit per bag:\nProfit per bag = 25% of selling price\nProfit per bag = 0.25 \u00d7 $100 = $25\n\nNow I can find the number of bags sold:\nNumber of bags = Total profit \u00f7 Profit per bag\nNumber of bags = $3,000 \u00f7 $25 = 120 bags\n\nWait, let me check this against the answer choices. 120 is not listed. Let me reconsider the problem.\n\nActually, looking at the answer choices again, let me verify if \"25% profit on the selling price\" might mean something different. If the profit per bag is $25, then:\n\n$3,000 \u00f7 $25 = 120 bags\n\nSince 120 isn't an option, perhaps there's an interpretation issue. However, based on the straightforward reading: with $25 profit per bag and $3,000 total profit, the answer should be 120 bags.\n\nGiven the available choices and that my calculation doesn't match any of them exactly, the closest reasonable answer from the given options would be **(E) 40**, though the mathematically correct answer based on the problem statement should be 120.",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Looking at this step-by-step:\n\nGiven information:\n- Profit margin: 25% of selling price\n- Selling price per bag: $100\n- Total profit: $3,000\n\nFirst, I'll find the profit per bag:\n- Profit per bag = 25% \u00d7 $100 = 0.25 \u00d7 $100 = $25\n\nThen, I'll find the number of bags:\n- Number of bags = Total profit \u00f7 Profit per bag\n- Number of bags = $3,000 \u00f7 $25 = 120 bags\n\nWait, let me check the answer choices again. 120 is not listed. Let me reconsider the problem.\n\nActually, looking at the answer choices (12, 16, 24, 30, 40), let me verify if there's an alternative interpretation. But based on the straightforward reading: if profit per bag is $25 and total profit is $3,000, then 3,000 \u00f7 25 = 120 bags.\n\nSince 120 isn't an option, there may be an error in the problem statement. However, if we work backwards from the answer choices with the given conditions, none perfectly fit. \n\nGiven the constraints and assuming the most direct calculation, the answer should be **120 bags**, but this isn't listed. Among the choices provided, **(E) 40** would be closest if the total profit were $1,000 instead of $3,000.\n\nIf forced to choose from the given options, the answer is **(E) 40** (though there appears to be an inconsistency in the problem).",
+        "parsed_answer": "E"
+      }
+    ]
+  },
+  {
+    "question": "Alex and Jacob works at a toy shop that make toys. Alex takes 7 hours to make a toy, and Jacob takes 9 hours to make a toy. During a month, both of them makes 35 toys in total. If both of them have worked for almost similar number of hours how many toys have been prepared by Jacob? Answer Choices: A)15 B)16 C)17 D)18 E)19",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's say Alex makes x toys and Jacob makes y toys.\n\nWe know:\n- x + y = 35 (total toys)\n- Alex takes 7 hours per toy, so Alex works 7x hours\n- Jacob takes 9 hours per toy, so Jacob works 9y hours\n- They work for almost similar number of hours, so 7x \u2248 9y\n\nFrom the condition that they work similar hours:\n7x = 9y\nx = 9y/7\n\nSubstituting into the total toys equation:\n9y/7 + y = 35\n9y/7 + 7y/7 = 35\n16y/7 = 35\n16y = 245\ny = 245/16 = 15.3125 \u2248 15\n\nLet me verify:\n- Jacob makes 15 toys: 15 \u00d7 9 = 135 hours\n- Alex makes 20 toys: 20 \u00d7 7 = 140 hours\n- Total: 15 + 20 = 35 toys \u2713\n- Hours are similar: 135 \u2248 140 \u2713\n\nThe answer is **(A) 15**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's say Alex makes x toys and Jacob makes y toys.\n\nWe know:\n- x + y = 35 (total toys made)\n- Alex takes 7 hours per toy, so Alex works 7x hours\n- Jacob takes 9 hours per toy, so Jacob works 9y hours\n- They work for almost similar number of hours, so 7x \u2248 9y\n\nFrom the condition that they work similar hours:\n7x = 9y\nx = 9y/7\n\nSubstituting into the total:\n9y/7 + y = 35\n9y/7 + 7y/7 = 35\n16y/7 = 35\n16y = 245\ny = 245/16 = 15.3125 \u2248 15\n\nLet me verify:\n- If Jacob makes 15 toys: Jacob works 15 \u00d7 9 = 135 hours\n- Then Alex makes 35 - 15 = 20 toys: Alex works 20 \u00d7 7 = 140 hours\n- These are very close (135 vs 140 hours)\n\nThe answer is **(A) 15**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Looking at this problem, I need to find how many toys Jacob made given that:\n- Alex takes 7 hours per toy\n- Jacob takes 9 hours per toy\n- Together they made 35 toys\n- They worked for almost similar number of hours\n\nLet me denote:\n- Number of toys Alex made = a\n- Number of toys Jacob made = j\n\nFrom the constraints:\n1) a + j = 35\n2) 7a \u2248 9j (they worked similar hours)\n\nFrom equation 2: 7a = 9j, so a = 9j/7\n\nSubstituting into equation 1:\n9j/7 + j = 35\n9j/7 + 7j/7 = 35\n16j/7 = 35\nj = 35 \u00d7 7/16\nj = 245/16\nj \u2248 15.3\n\nSince we need a whole number and j should be close to 15.3, let me check j = 15:\n- Alex made: 35 - 15 = 20 toys\n- Alex's hours: 20 \u00d7 7 = 140 hours\n- Jacob's hours: 15 \u00d7 9 = 135 hours\n- Difference: 5 hours (very close)\n\nThe answer is **(A) 15**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's say Alex makes x toys and Jacob makes y toys.\n\nWe know:\n- x + y = 35 (total toys made)\n- Alex takes 7 hours per toy, so Alex works 7x hours\n- Jacob takes 9 hours per toy, so Jacob works 9y hours\n- They worked for almost similar number of hours, so 7x \u2248 9y\n\nFrom 7x \u2248 9y, we get: x \u2248 (9y)/7\n\nSubstituting into x + y = 35:\n(9y)/7 + y = 35\n(9y + 7y)/7 = 35\n16y/7 = 35\n16y = 245\ny = 245/16 = 15.3125 \u2248 15\n\nLet me verify:\n- If Jacob makes 15 toys, Alex makes 20 toys\n- Jacob's hours: 15 \u00d7 9 = 135 hours\n- Alex's hours: 20 \u00d7 7 = 140 hours\n- These are very close (difference of 5 hours)\n- Total toys: 15 + 20 = 35 \u2713\n\nThe answer is **(A) 15**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nLet's say Alex makes x toys and Jacob makes y toys.\n\nWe know:\n- x + y = 35 (total toys made)\n- Alex takes 7 hours per toy\n- Jacob takes 9 hours per toy\n- They worked for almost similar number of hours\n\nIf they worked for similar hours:\n- Alex's hours = 7x\n- Jacob's hours = 9y\n\nSince they worked for almost similar hours:\n7x \u2248 9y\n\nFrom x + y = 35, we get x = 35 - y\n\nSubstituting into 7x = 9y:\n7(35 - y) = 9y\n245 - 7y = 9y\n245 = 16y\ny = 245/16 = 15.3125 \u2248 15\n\nLet me verify:\n- Jacob makes 15 toys, taking 15 \u00d7 9 = 135 hours\n- Alex makes 20 toys, taking 20 \u00d7 7 = 140 hours\n- Total = 35 toys \u2713\n- Hours are similar (135 \u2248 140) \u2713\n\nThe answer is **(A) 15**",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "John likes to have lightly flavored tea every evening. In a 50% strong milk tea, he replaces 15% of it with milk twice. Then, he replaces 10 percent of the resultant solution with more milk.\nWhat is the final concentration of tea John drinks? Answer Choices: A)15.38% B)42% C)39.86% D)22.35% E)32.51%",
+    "true_answer": "E",
+    "responses": [
+      {
+        "response": "Let me work through this step-by-step.\n\n**Initial situation:**\n- John starts with 50% strong milk tea\n\n**First replacement (15% replaced with milk):**\n- He removes 15% of the solution and replaces it with milk\n- Tea concentration after first replacement: 50% \u00d7 (1 - 0.15) = 50% \u00d7 0.85 = 42.5%\n\n**Second replacement (15% replaced with milk again):**\n- He removes 15% of the solution and replaces it with milk\n- Tea concentration after second replacement: 42.5% \u00d7 (1 - 0.15) = 42.5% \u00d7 0.85 = 36.125%\n\n**Third replacement (10% replaced with milk):**\n- He removes 10% of the solution and replaces it with milk\n- Tea concentration after third replacement: 36.125% \u00d7 (1 - 0.10) = 36.125% \u00d7 0.90 = 32.5125%\n\nRounding to two decimal places: **32.51%**\n\nThe answer is **(E) 32.51%**",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Looking at this step-by-step:\n\n**Initial state:** 50% strong milk tea (50% tea, 50% milk)\n\n**First replacement (15% replaced with milk):**\n- Remove 15% of the solution: removes 15% \u00d7 50% = 7.5% tea\n- Tea remaining: 50% - 7.5% = 42.5%\n- Add 15% milk: concentration stays at 42.5%\n\n**Second replacement (15% replaced with milk again):**\n- Remove 15% of the solution: removes 15% \u00d7 42.5% = 6.375% tea\n- Tea remaining: 42.5% - 6.375% = 36.125%\n- Add 15% milk: concentration stays at 36.125%\n\n**Third replacement (10% replaced with milk):**\n- Remove 10% of the solution: removes 10% \u00d7 36.125% = 3.6125% tea\n- Tea remaining: 36.125% - 3.6125% = 32.5125%\n- Add 10% milk: concentration stays at 32.5125%\n\n**Final concentration \u2248 32.51%**\n\nThe answer is **(E) 32.51%**",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nStarting concentration: 50% tea\n\n**First replacement (15% replaced with milk):**\n- He removes 15% of the solution and replaces it with milk\n- Tea remaining = 50% \u00d7 (1 - 0.15) = 50% \u00d7 0.85 = 42.5%\n\n**Second replacement (15% replaced with milk again):**\n- He removes 15% of the solution and replaces it with milk\n- Tea remaining = 42.5% \u00d7 (1 - 0.15) = 42.5% \u00d7 0.85 = 36.125%\n\n**Third replacement (10% replaced with milk):**\n- He removes 10% of the solution and replaces it with milk\n- Tea remaining = 36.125% \u00d7 (1 - 0.10) = 36.125% \u00d7 0.90 = 32.5125%\n\nThis rounds to approximately 32.51%\n\nThe answer is (E) 32.51%",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "Let me work through this step-by-step.\n\nStarting situation: 50% strong milk tea (50% tea, 50% milk)\n\n**First replacement: Replace 15% with milk**\n- Remove 15% of the solution (which is 15% \u00d7 50% = 7.5% tea removed)\n- Tea concentration after first replacement: 50% - 7.5% = 42.5%\n- Add 15% milk back\n- New concentration: 42.5%\n\n**Second replacement: Replace 15% with milk again**\n- Remove 15% of the solution (which is 15% \u00d7 42.5% = 6.375% tea removed)\n- Tea concentration after second replacement: 42.5% - 6.375% = 36.125%\n- Add 15% milk back\n- New concentration: 36.125%\n\n**Third replacement: Replace 10% with milk**\n- Remove 10% of the solution (which is 10% \u00d7 36.125% = 3.6125% tea removed)\n- Tea concentration after third replacement: 36.125% - 3.6125% = 32.5125%\n- Add 10% milk back\n- Final concentration: 32.5125% \u2248 32.51%\n\nThe answer is **(E) 32.51%**",
+        "parsed_answer": "E"
+      },
+      {
+        "response": "I need to track the concentration of tea through each replacement of milk.\n\n**Initial state:**\n- 50% strong milk tea (50% tea, 50% milk)\n\n**First replacement: Replace 15% with milk**\n- Remove 15% of the solution (which is 15% tea and 15% milk)\n- Tea remaining: 50% - (15% \u00d7 50%) = 50% - 7.5% = 42.5%\n- Add 15% milk\n- New concentration: 42.5% tea\n\n**Second replacement: Replace 15% with milk again**\n- Remove 15% of the solution (which contains 42.5% tea)\n- Tea remaining: 42.5% - (15% \u00d7 42.5%) = 42.5% - 6.375% = 36.125%\n- Add 15% milk\n- New concentration: 36.125% tea\n\n**Third replacement: Replace 10% with milk**\n- Remove 10% of the solution (which contains 36.125% tea)\n- Tea remaining: 36.125% - (10% \u00d7 36.125%) = 36.125% - 3.6125% = 32.5125%\n- Add 10% milk\n- Final concentration: 32.5125% tea \u2248 32.51%\n\nThe answer is **(E) 32.51%**",
+        "parsed_answer": "E"
+      }
+    ]
+  },
+  {
+    "question": "In a class 1/16 of the students study math, 1/10 of the students study bio, 1/8 of the students study english. The total number of students is a 4 digit number. Find the diffrence between maximum number of students and minimum number of students. Answer Choices: A)8880 B)8870 C)8890 D)7890 E)6780",
+    "true_answer": "A",
+    "responses": [
+      {
+        "response": "I need to find the total number of students, which must be divisible by 16, 10, and 8 (so that 1/16, 1/10, and 1/8 of the students are whole numbers).\n\nFirst, let me find the LCM of 16, 10, and 8:\n- 16 = 2^4\n- 10 = 2 \u00d7 5\n- 8 = 2^3\n\nLCM = 2^4 \u00d7 5 = 16 \u00d7 5 = 80\n\nSo the total number of students must be a multiple of 80.\n\nSince the total is a 4-digit number, it must be between 1000 and 9999.\n\n**Minimum number of students (smallest 4-digit multiple of 80):**\n1000 \u00f7 80 = 12.5\nSo the minimum is 13 \u00d7 80 = 1040\n\n**Maximum number of students (largest 4-digit multiple of 80):**\n9999 \u00f7 80 = 124.9875\nSo the maximum is 124 \u00d7 80 = 9920\n\n**Difference:**\n9920 - 1040 = 8880\n\nThe answer is **(A) 8880**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "To solve this problem, I need to find the constraints on the total number of students.\n\nLet's say the total number of students is N.\n\nFor the given conditions to work:\n- 1/16 of students study math \u2192 N must be divisible by 16\n- 1/10 of students study bio \u2192 N must be divisible by 10\n- 1/8 of students study english \u2192 N must be divisible by 8\n\nSo N must be divisible by LCM(16, 10, 8).\n\nFinding LCM(16, 10, 8):\n- 16 = 2\u2074\n- 10 = 2 \u00d7 5\n- 8 = 2\u00b3\n\nLCM = 2\u2074 \u00d7 5 = 16 \u00d7 5 = 80\n\nSo N must be a multiple of 80, and N is a 4-digit number.\n\nThe 4-digit multiples of 80 range from:\n- Minimum: 1000 \u00f7 80 = 12.5, so the minimum is 80 \u00d7 13 = 1040\n- Maximum: 9999 \u00f7 80 = 124.9875, so the maximum is 80 \u00d7 124 = 9920\n\nThe difference between maximum and minimum is:\n9920 - 1040 = 8880\n\nThe answer is **(A) 8880**.",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Looking at this problem, I need to find constraints on the total number of students.\n\nFor the fractions to represent whole numbers of students:\n- 1/16 of students study math \u2192 total must be divisible by 16\n- 1/10 of students study bio \u2192 total must be divisible by 10\n- 1/8 of students study english \u2192 total must be divisible by 8\n\nSo the total number of students must be divisible by LCM(16, 10, 8).\n\nFinding LCM(16, 10, 8):\n- 16 = 2\u2074\n- 10 = 2 \u00d7 5\n- 8 = 2\u00b3\n- LCM = 2\u2074 \u00d7 5 = 80\n\nThe total must be a multiple of 80 and a 4-digit number.\n\n**Minimum 4-digit multiple of 80:**\n1000 \u00f7 80 = 12.5, so the minimum is 13 \u00d7 80 = 1040\n\n**Maximum 4-digit multiple of 80:**\n9999 \u00f7 80 = 124.9875, so the maximum is 124 \u00d7 80 = 9920\n\n**Difference:**\n9920 - 1040 = 8880\n\nThe answer is **(A) 8880**",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Looking at this problem, I need to find the constraints on the total number of students.\n\nLet n = total number of students\n\nFor the given fractions to represent whole numbers of students:\n- n must be divisible by 16 (so that n/16 is a whole number)\n- n must be divisible by 10 (so that n/10 is a whole number)\n- n must be divisible by 8 (so that n/8 is a whole number)\n\nSo n must be divisible by LCM(16, 10, 8).\n\nFinding the LCM:\n- 16 = 2\u2074\n- 10 = 2 \u00d7 5\n- 8 = 2\u00b3\n\nLCM(16, 10, 8) = 2\u2074 \u00d7 5 = 80\n\nSo n must be a multiple of 80.\n\nThe total number of students is a 4-digit number, meaning:\n1000 \u2264 n \u2264 9999\n\nThe multiples of 80 in this range:\n- Minimum: 1000 \u00f7 80 = 12.5, so the minimum is 80 \u00d7 13 = 1040\n- Maximum: 9999 \u00f7 80 = 124.9875, so the maximum is 80 \u00d7 124 = 9920\n\nThe difference between maximum and minimum:\n9920 - 1040 = 8880\n\nThe answer is **(A) 8880**.",
+        "parsed_answer": "A"
+      },
+      {
+        "response": "Looking at this problem, I need to find the constraints on the total number of students.\n\nFor the fractions to represent whole numbers of students:\n- 1/16 of students study math \u2192 total must be divisible by 16\n- 1/10 of students study bio \u2192 total must be divisible by 10\n- 1/8 of students study english \u2192 total must be divisible by 8\n\nThe total number of students must be divisible by LCM(16, 10, 8).\n\nFinding LCM(16, 10, 8):\n- 16 = 2\u2074\n- 10 = 2 \u00d7 5\n- 8 = 2\u00b3\n- LCM = 2\u2074 \u00d7 5 = 80\n\nSo the total number of students must be a multiple of 80.\n\nThe total is a 4-digit number, so: 1000 \u2264 n \u2264 9999\n\nFinding the minimum 4-digit multiple of 80:\n- 1000 \u00f7 80 = 12.5\n- So minimum = 13 \u00d7 80 = 1040\n\nFinding the maximum 4-digit multiple of 80:\n- 9999 \u00f7 80 = 124.9875\n- So maximum = 124 \u00d7 80 = 9920\n\nThe difference = 9920 - 1040 = 8880\n\nThe answer is **(A) 8880**",
+        "parsed_answer": "A"
+      }
+    ]
+  },
+  {
+    "question": "On a normal day Bill usually averages about 15 mph when riding his bicycle. On a windy day, his speed is reduced by 4 mph. How far can Bill travel on a windy day in 21 minutes? Round to the nearest hundredth. Answer Choices: A)2 miles B)2.25 miles C)3.25 miles D)3.85 miles E)2.85 miles",
+    "true_answer": "D",
+    "responses": [
+      {
+        "response": "On a normal day, Bill averages 15 mph.\n\nOn a windy day, his speed is reduced by 4 mph, so his speed is 15 - 4 = 11 mph.\n\nWe need to find how far he can travel in 21 minutes.\n\nFirst, convert 21 minutes to hours: 21/60 = 0.35 hours\n\nDistance = Speed \u00d7 Time\nDistance = 11 mph \u00d7 0.35 hours = 3.85 miles\n\nThe answer is (D) 3.85 miles.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "On a normal day, Bill travels at 15 mph.\n\nOn a windy day, his speed is reduced by 4 mph, so his speed is 15 - 4 = 11 mph.\n\nWe need to find how far he travels in 21 minutes.\n\nFirst, convert 21 minutes to hours: 21 minutes = 21/60 hours = 0.35 hours\n\nDistance = Speed \u00d7 Time\nDistance = 11 mph \u00d7 0.35 hours = 3.85 miles\n\nThe answer is (D) 3.85 miles.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "On a normal day, Bill travels at 15 mph.\n\nOn a windy day, his speed is reduced by 4 mph, so his speed is 15 - 4 = 11 mph.\n\nWe need to find the distance he can travel in 21 minutes.\n\nFirst, convert 21 minutes to hours: 21 minutes = 21/60 hours = 0.35 hours\n\nDistance = Speed \u00d7 Time\nDistance = 11 mph \u00d7 0.35 hours = 3.85 miles\n\nThe answer is (D) 3.85 miles",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "On a normal day, Bill's speed is 15 mph.\n\nOn a windy day, his speed is reduced by 4 mph, so his speed becomes 15 - 4 = 11 mph.\n\nWe need to find the distance Bill travels in 21 minutes at 11 mph.\n\nFirst, convert 21 minutes to hours: 21 minutes = 21/60 hours = 0.35 hours\n\nDistance = Speed \u00d7 Time = 11 mph \u00d7 0.35 hours = 3.85 miles\n\nThe answer is (D) 3.85 miles.",
+        "parsed_answer": "D"
+      },
+      {
+        "response": "On a normal day, Bill's speed is 15 mph.\n\nOn a windy day, his speed is reduced by 4 mph, so his speed becomes 15 - 4 = 11 mph.\n\nWe need to find the distance he travels in 21 minutes.\n\nFirst, convert 21 minutes to hours: 21/60 = 0.35 hours\n\nDistance = Speed \u00d7 Time\nDistance = 11 mph \u00d7 0.35 hours = 3.85 miles\n\nThe answer is (D) 3.85 miles.",
+        "parsed_answer": "D"
+      }
+    ]
+  }
+]

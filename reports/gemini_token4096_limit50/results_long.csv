@@ -1,0 +1,13 @@
+model,dataset,strategy,accuracy,improvement_over_greedy
+gemini-2.5-flash,aqua,Greedy,94.0,0.0
+gemini-2.5-flash,aqua,Majority Vote,94.0,0.0
+gemini-2.5-flash,aqua,CPW,94.0,0.0
+gemini-2.5-flash,aqua,SCW,94.0,0.0
+gemini-2.5-flash,svamp,Greedy,96.0,0.0
+gemini-2.5-flash,svamp,Majority Vote,94.0,-2.0
+gemini-2.5-flash,svamp,CPW,94.0,-2.0
+gemini-2.5-flash,svamp,SCW,94.0,-2.0
+gemini-2.5-flash,strategyqa,Greedy,80.0,0.0
+gemini-2.5-flash,strategyqa,Majority Vote,86.0,6.0
+gemini-2.5-flash,strategyqa,CPW,88.0,8.0
+gemini-2.5-flash,strategyqa,SCW,88.0,8.0

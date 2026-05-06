@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A: Genghis Khan had a vast empire and many descendants who spread across a huge geographical area. Genetic studies suggest that millions of people today are related to him. Julius Caesar had a much smaller direct lineage, and his descendants did not spread as widely. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Could the members of The Police perform lawful arrests?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "\"The Police\" is a musical band. The members of a musical band do not have the authority to perform lawful arrests. Lawful arrests are performed by trained and authorized law enforcement officers. Thus, the members of The Police (the band) could not perform lawful arrests. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a Monoamine Oxidase candy bar cheer up a depressed friend?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A \"Monoamine Oxidase candy bar\" is not a real or recognized product for treating depression. Monoamine Oxidase is an enzyme that breaks down neurotransmitters, and if a candy bar contained this enzyme, it would likely reduce levels of mood-elevating neurotransmitters, potentially worsening depression. If it were an MAOI (Monoamine Oxidase Inhibitor), that is a powerful prescription drug with serious side effects and interactions, not something to be casually consumed as a candy bar. Depression is a serious medical condition requiring professional treatment. Thus, a \"Monoamine Oxidase candy bar\" would not cheer up a depressed friend. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a dog respond to bell before Grey seal?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Yes. Dogs are highly domesticated and often trained to respond to various auditory cues, including bells, in their human environments. Their attentiveness to human-made sounds and their capacity for conditioned responses make them very likely to react quickly to a bell. While Grey seals are intelligent and can be trained, a bell",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is a pound sterling valuable?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A pound sterling is one of the world's major reserve currencies and is widely traded. It generally has significant purchasing power. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is shrimp scampi definitely free of plastic?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Microplastics are widespread in the ocean and can be ingested by marine animals like shrimp. Thus, shrimp scampi is not definitely free of plastic. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Do the anchors on Rede Globo speak Chinese?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Rede Globo is a Brazilian television network. The official language of Brazil is Portuguese. Thus, the anchors on Rede Globo speak Portuguese, not Chinese. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Wonder Woman (2017 film) grossed approximately $821.8 million worldwide. A Boeing 737 costs around $100-120 million. Since $821.8 million is significantly more than $120 million, the film's box office receipts could cover the cost of a Boeing 737. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Can you buy Casio products at Petco?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Petco sells pet supplies. Casio makes electronics like watches and calculators. These are not pet supplies. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Did the Space Race use relay batons?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: The Space Race was a competition between the United States and the Soviet Union to achieve superiority in space exploration. Relay batons are used in track and field events. There is no connection between the Space Race and relay batons. Thus, the Space Race did not use relay batons. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Are Christmas trees dissimilar to deciduous trees?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Christmas trees are typically evergreen conifers, meaning they retain their needles year-round. Deciduous trees, by definition, shed their leaves seasonally. This fundamental difference in leaf retention makes them dissimilar. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Does Biochemistry study gluons?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: Biochemistry studies chemical processes within living organisms. Gluons are elementary particles that mediate the strong force, studied in particle physics. Thus, Biochemistry does not study gluons. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Did land owners elect their rulers in the Kingdom of Hungary?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: The Kingdom of Hungary was a monarchy for most of its history, where rulers typically inherited their position. While the Hungarian Diet (parliament) did have a role in some royal elections, especially during interregnums or dynastic changes, the electorate was limited to high-ranking nobles and later representatives of free royal cities, not all landowners. Thus, landowners did not generally elect their rulers. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would Nancy Pelosi publicly denounce abortion?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: Nancy Pelosi is a prominent Democratic leader who has consistently supported abortion rights throughout her career, aligning with the Democratic Party's platform. Publicly denouncing abortion would be a complete reversal of her long-held political position and would contradict her public statements and voting record. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Does Dragon Ball shows and movies fall short of Friday 13th number of projects?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Dragon Ball has 5 TV series (Dragon Ball, Dragon Ball Z, Dragon Ball GT, Dragon Ball Super, Dragon Ball Daima) and 21 theatrical movies, plus several TV specials/OVAs (around 6). This totals approximately 32 projects.\nThe Friday the 13th franchise has 12 movies and 1 TV series (Friday the 13th: The Series). This totals 13 projects.\n32 (Dragon Ball) is greater than 13 (Friday the 13th). Thus, Dragon Ball does not fall short of Friday the 13th'",
+        "parsed_answer": null
+      }
+    ]
+  },
+  {
+    "question": "Would a student of the class of 2017 have amnesia about 9/11?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A student of the class of 2017 would have been born around 1998 or 1999. On September 11, 2001, they would have been approximately 2 or 3 years old. Most people do not form lasting, conscious memories of events that occurred at such a young age. Thus, a student of the class of 2017 would likely have amnesia about 9/11. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a psychic who admits to hot reading be trustworthy?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: Hot reading is a deceptive practice where a psychic uses prior knowledge about a client to feign supernatural insight. Admitting to using deceptive practices means they are not honest about their abilities. Thus, a psychic who admits to hot reading would not be trustworthy. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is average number of peas in a pod enough commas for a billion?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The average number of peas in a pod is about 6. A billion (1,000,000,000) requires 3 commas. Since 6 is greater than 3, the average number of peas in a pod is enough commas for a billion. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Does actress Leila George lack the height to be a model?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: Leila George is approximately 5'2\" (157 cm) tall. Typical height requirements for female fashion models are generally 5'8\" (173 cm) and above. Her height is significantly below this standard, though she could potentially be a petite model. Thus, she lacks the height for most traditional modeling roles. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is Dustin Hoffman one of the B'nei Yisrael?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A: Dustin Hoffman was born to Jewish parents and identifies as Jewish. \"B'nei Yisrael\" is a Hebrew term meaning \"Children of Israel,\" which refers to the Jewish people. Thus, Dustin Hoffman is one of the B'nei Yisrael. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "If you were on a diet, would you have to skip lunch at McDonald's?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: A diet involves making conscious food choices, often to reduce calorie intake. While many McDonald's items are high in calories, fat, and sugar, they also offer some lower-calorie options like salads, grilled chicken, or smaller burgers. Thus, it is possible to eat at McDonald's while on a diet by making careful selections. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could the Powerpuff Girls hypothetically attend the Camden Military Academy?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Camden Military Academy is an all-boys boarding school for grades 7-12. The Powerpuff Girls are young girls, typically depicted as being in kindergarten. Thus, they would not be eligible to attend Camden Military Academy. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would an uninsured person be more likely than an insured person to decline a CT scan?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "An uninsured person would be responsible for the full cost of a CT scan, which can be very expensive. An insured person would have their insurance cover a significant portion of the cost. Thus, an uninsured person would be more likely to decline a CT scan due to financial reasons. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Was the Donatello crucifix identified in 2020 life size?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Donatello crucifix identified in 2020 (the Santa Croce Crucifix) measures approximately 168 cm in height. This height is considered life-size for a human figure. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is Disneyland Paris the largest Disney resort?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: Disneyland Paris covers about 4,800 acres. Walt Disney World Resort in Florida covers about 25,000 acres, making it the largest Disney resort. Thus, Disneyland Paris is not the largest Disney resort. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could someone with fine motor control issues benefit from an altered keyboard layout?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "An altered keyboard layout could be designed to reduce the precision, speed, or range of motion required for typing, such as larger keys, wider spacing, or a more ergonomic arrangement. These modifications could directly alleviate difficulties for someone with fine motor control issues. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would Adam Sandler get a reference to Cole Spouse and a scuba man doll?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Adam Sandler starred in the movie \"Big Daddy\" with Cole Sprouse. In that movie, Cole Sprouse's character had a \"Scuba Sam\" doll, which was a significant plot point. Thus, Adam Sandler would definitely get the reference. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is there a warthog on Broadway?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A: The character Pumbaa, who is a warthog, is a prominent character in \"The Lion King\" musical, which is a long-running show on Broadway. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Does Disney have an ice princess?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Elsa from *Frozen* is a Disney character with ice powers. She is a princess who becomes a queen. Thus, Disney does have an ice princess. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a geographer use biochemistry in their work?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: Geographers study the Earth's physical features, atmosphere, and human activity. Some geographers specialize in biogeography or environmental geography, which involves studying ecosystems, soil composition, water quality, and the distribution of life. These areas often require an understanding of chemical processes within living organisms and the environment, which falls under biochemistry. Thus, a geographer could use biochemistry in their work. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Could George Washington's own speeches have been recorded live to a compact disc?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "George Washington died in 1799. Compact discs were invented in the late 1970s, nearly 200 years after his death. Thus, his speeches could not have been recorded live to a compact disc. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would food made with black salt smell of sulfur?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Black salt (Kala Namak) contains sulfur compounds, such as hydrogen sulfide. These compounds are responsible for its distinctive pungent, sulfuric smell and taste. Thus, food made with black salt would smell of sulfur. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would a broadcast from Spirit make the news in 2020?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "The Spirit rover ceased communications in 2010 and was declared lost in 2011. If a rover that has been defunct for nearly a decade were to suddenly broadcast in 2020, it would be an unprecedented and highly newsworthy event. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Could Robert Wadlow hypothetically see Frankenstein's monster's bald spot from above?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Robert Wadlow was 8 ft 11.1 in tall. Frankenstein's monster is typically depicted as around 8 ft tall. Since Robert Wadlow was taller than Frankenstein's monster, he could hypothetically look down and see the top of its head, including a bald spot. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is the tibia necessary to win the Stanley Cup?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A: The Stanley Cup is won by playing ice hockey. Playing ice hockey requires the use of legs for skating, balance, and shooting. The tibia is a major bone in the lower leg, essential for these movements. Without a functional tibia, a person cannot play ice hockey at the level required to win the Stanley Cup. Thus, the tibia is necessary to win the Stanley Cup. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would an ethics professor teach a class on Cezanne?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: An ethics professor specializes in the field of ethics, which is a branch of philosophy. Cezanne was a painter, and classes on his work typically fall under art history or art appreciation. These are distinct academic disciplines. Thus, an ethics professor would not typically teach a class on Cezanne. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "If you add water to rice pudding is it horchata?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: Rice pudding is a dessert made from cooked rice, milk, and sugar. Horchata is a drink made by blending rice (or other ingredients like tiger nuts or almonds) with water, sugar, and cinnamon, then straining it. Adding water to rice pudding would just make it a thinner, watery rice pudding; it would not transform it into horchata, which is a distinct beverage with a different preparation method and ingredients. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "If your skin was turning the color of a zombie, could it be because of nickel?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "No. Nickel exposure typically causes allergic contact dermatitis, which manifests as a red, itchy rash, sometimes with blisters. It does not cause the skin to turn a \"zombie color\" (pale, greyish, greenish, or bluish) due to systemic effects. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a Dolce & Gabbana suit wearer be shunned by their Amish cousins?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Amish culture emphasizes plainness, humility, and separation from worldly fashion and luxury. Dolce & Gabbana suits represent high fashion, expense, and worldliness, which are directly contrary to Amish values. Wearing such a suit would be seen as a clear rejection of Amish principles regarding dress, modesty, and the avoidance of pride and vanity. While formal shunning (Meidung) is typically reserved for more severe transgressions, such an act would certainly lead to strong disapproval, judgment, and significant social distance from their Amish cousins. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Is the Illuminati card game still popular?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "The Illuminati card game, first released in 1982, is a classic game with a dedicated cult following. It is still in print and sold, and has a niche but active community of players. Thus, it is still popular among its fans. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Can a strawberry get worms similar to dogs?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Yes or no: Can a strawberry get worms similar to dogs?\nA: Dogs can get various types of parasitic worms (e.g., roundworms, tapeworms). Strawberries can be infested by insect larvae (e.g., fruit fly larvae, weevil larvae), which are commonly referred to as",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is Menthol associated with Thanksgiving?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: Menthol is a compound found in mint, often associated with a cooling sensation or products like cough drops or toothpaste. Thanksgiving is a holiday associated with specific foods (turkey, pumpkin pie, etc.) and themes. There is no traditional or common link between menthol and Thanksgiving. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would someone in Mumbai refer to Solanum melongena as an eggplant?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Solanum melongena is commonly known as brinjal in India, including Mumbai. While the term \"eggplant\" might be understood, \"brinjal\" is the more prevalent and common term used to refer to this vegetable. Thus, someone in Mumbai would more commonly refer to it as brinjal. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is it okay to lie after taking an oath in a court of law?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "No. Taking an oath in a court of law means swearing to tell the truth. Lying after taking an oath is called perjury, which is a serious crime. Thus, it is not okay to lie. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Is art prioritized in the US education system?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "Art is often considered an elective or \"special\" subject in the US education system, and its funding and time allocation are frequently reduced in favor of core subjects like math, science, and English, especially with an emphasis on standardized testing. Thus, art is generally not prioritized in the US education system. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "While on a liquid diet, are there some types of soup you cannot eat?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "Yes or no: While on a liquid diet, are there some types of soup you cannot eat?\nA: A liquid diet restricts solid foods. Many types of soup contain solid ingredients like vegetables, meat, or noodles. Thus, there are some types of soup you cannot eat on a liquid diet. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would it be impossible to use an Iwato scale for a twelve-tone technique composition?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "An Iwato scale is a pentatonic scale, meaning it uses only 5 distinct notes. The twelve-tone technique, also known as dodecaphony, requires the systematic use of all 12 notes of the chromatic scale in a specific order (a tone row) before any note is repeated. Since an Iwato scale only contains 5 notes, it cannot fulfill the fundamental requirement of using all 12 notes for a twelve-tone composition. Thus, it would be impossible to use an Iwato scale for a twelve-tone technique composition. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Would the Titanic be well preserved at the bottom of the Gulf of Finland?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A: The Titanic sank in the North Atlantic Ocean, not the Gulf of Finland. Thus, the Titanic would not be well preserved at the bottom of the Gulf of Finland. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Could a dandelion suffer from hepatitis?",
+    "true_answer": "no",
+    "responses": [
+      {
+        "response": "A: Hepatitis is an inflammation of the liver. Dandelions are plants and do not have livers. Thus, a dandelion cannot suffer from hepatitis. The answer is no.",
+        "parsed_answer": "no"
+      }
+    ]
+  },
+  {
+    "question": "Would a week be enough time to watch every episode of Ugly Betty?",
+    "true_answer": "yes",
+    "responses": [
+      {
+        "response": "A week is 168 hours. There are 85 episodes of Ugly Betty, and each episode is approximately 43 minutes long. The total watch time would be 85 episodes * 43 minutes/episode = 3655 minutes, which is about 60.9 hours. Since 60.9 hours is less than 168 hours, a week would be enough time. The answer is yes.",
+        "parsed_answer": "yes"
+      }
+    ]
+  }
+]
